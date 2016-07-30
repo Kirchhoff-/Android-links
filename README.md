@@ -7,6 +7,7 @@ Links about android development
  	- [Fragment](#fragment)
  	- [Design patterns] (#patterns)
  	- [Views] (#views)
+ 	- [Other] (#other)
 - [Videos](#videos)
 - [Libraries](#libraries)
   - [DI] (#di)
@@ -20,6 +21,10 @@ Links about android development
 
 ## Views
 [Say goodbye to findViewById. Say hello to Data Binding Library.] (https://inthecheesefactory.com/blog/say-goodbye-to-findviewbyid-with-data-binding-library/en)
+
+## Other
+[Things You Should Never Do, Part I]
+(http://www.joelonsoftware.com/articles/fog0000000069.html)
 
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
