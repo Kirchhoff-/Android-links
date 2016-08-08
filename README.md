@@ -28,6 +28,9 @@ Links about android development
 
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
+[Android Software Architecture by Example](https://www.youtube.com/watch?v=7t7MN8e1W7s)
+[DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+[The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
 
 # Libraries
 ## DI
