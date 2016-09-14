@@ -40,6 +40,8 @@ Links about android development
 
 [The Future of Dependency Injection with Dagger 2] (https://www.youtube.com/watch?v=plK0zyRLIP8)
 
+[Half Way to clean architecture] (https://www.youtube.com/watch?v=R89ufpJI3SY)
+
 
 # Libraries
 ## DI
