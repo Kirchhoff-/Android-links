@@ -44,6 +44,8 @@ Links about android development
 
 [View only Android apps at scale] (https://www.youtube.com/watch?v=kAAnIN-IqWw&list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn)
 
+[Understanding and Experimenting with MultiDex] (https://www.youtube.com/watch?v=skmOBriQ28E)
+
 
 # Libraries
 ## DI
