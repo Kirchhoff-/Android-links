@@ -42,6 +42,8 @@ Links about android development
 
 [Half Way to clean architecture] (https://www.youtube.com/watch?v=R89ufpJI3SY)
 
+[View only Android apps at scale] (https://www.youtube.com/watch?v=kAAnIN-IqWw&list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn)
+
 
 # Libraries
 ## DI
