@@ -46,6 +46,8 @@ Links about android development
 
 [Understanding and Experimenting with MultiDex] (https://www.youtube.com/watch?v=skmOBriQ28E)
 
+[Application Architecture: Designing Offline Application Case Studies] (https://www.youtube.com/watch?v=n8nG5K_3BJM)
+
 
 # Libraries
 ## DI
