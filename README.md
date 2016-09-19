@@ -50,6 +50,8 @@ Links about android development
 
 [Timing is Everything: How to use Timer, Handler, and AlarmManager] (https://www.youtube.com/watch?v=CzNFjCQhCV0)
 
+[Linty Fresh] (https://www.youtube.com/watch?v=YseGWp7iouM)
+
 
 # Libraries
 ## DI
