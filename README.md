@@ -48,6 +48,8 @@ Links about android development
 
 [Application Architecture: Designing Offline Application Case Studies] (https://www.youtube.com/watch?v=n8nG5K_3BJM)
 
+[Timing is Everything: How to use Timer, Handler, and AlarmManager] (https://www.youtube.com/watch?v=CzNFjCQhCV0)
+
 
 # Libraries
 ## DI
