@@ -16,6 +16,7 @@ Links about android development
 # Articles
 ## Fragment
 [Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)
+[Fragment Transactions & Activity State Loss] (http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
 
 ## Patterns
 [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction] (http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
