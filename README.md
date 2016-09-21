@@ -28,6 +28,8 @@ Links about android development
 [Fast and reliable UI tests on Android]
 (https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
 
+[Different ways of testing exceptions in Java and JUnit] (https://blog.goyello.com/2015/10/01/different-ways-of-testing-exceptions-in-java-and-junit/)
+
 ## Other
 [Things You Should Never Do, Part I]
 (http://www.joelonsoftware.com/articles/fog0000000069.html)
