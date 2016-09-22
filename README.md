@@ -21,6 +21,8 @@ Links about android development
 ## Patterns
 [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction] (http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
 
+[Common Design Patterns for Android] (https://www.raywenderlich.com/109843/common-design-patterns-for-android)
+
 ## Views
 [Say goodbye to findViewById. Say hello to Data Binding Library.] (https://inthecheesefactory.com/blog/say-goodbye-to-findviewbyid-with-data-binding-library/en)
 
