@@ -36,6 +36,8 @@ Links about android development
 [Things You Should Never Do, Part I]
 (http://www.joelonsoftware.com/articles/fog0000000069.html)
 
+[Streamlining eero’s Android build process] (https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
+
 # Videos
 [Life Without Fragments] (https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
