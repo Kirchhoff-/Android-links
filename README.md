@@ -38,6 +38,8 @@ Links about android development
 
 [Streamlining eero’s Android build process] (https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
 
+[10 Tips to Improve Your Gradle Build Time] (http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
+
 # Videos
 [Life Without Fragments] (https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
