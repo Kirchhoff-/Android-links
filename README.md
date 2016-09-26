@@ -61,6 +61,7 @@ Links about android development
 
 [Linty Fresh] (https://www.youtube.com/watch?v=YseGWp7iouM)
 
+[AutoValue Extensions] (https://www.youtube.com/watch?v=FfBBTHkRC-o)
 
 # Libraries
 ## DI
