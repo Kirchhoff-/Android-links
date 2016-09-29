@@ -27,6 +27,8 @@ Links about android development
 ## Views
 [Say goodbye to findViewById. Say hello to Data Binding Library.] (https://inthecheesefactory.com/blog/say-goodbye-to-findviewbyid-with-data-binding-library/en)
 
+[Greyscale Views on Android] (http://blog.bradcampbell.nz/greyscale-views-on-android/)
+
 ## Tests
 [Fast and reliable UI tests on Android]
 (https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
