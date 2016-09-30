@@ -43,6 +43,8 @@ Links about android development
 
 [10 Tips to Improve Your Gradle Build Time] (http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
 
+[Great Adpater Hell Escape] (http://hannesdorfmann.com/android/adapter-delegates)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time] (http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
