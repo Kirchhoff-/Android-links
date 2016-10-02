@@ -36,6 +36,8 @@ Links about android development
 
 [Different ways of testing exceptions in Java and JUnit] (https://blog.goyello.com/2015/10/01/different-ways-of-testing-exceptions-in-java-and-junit/)
 
+[Espresso Test for Intent] (http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
+
 ## Other
 [Things You Should Never Do, Part I]
 (http://www.joelonsoftware.com/articles/fog0000000069.html)
