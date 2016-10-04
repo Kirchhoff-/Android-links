@@ -74,6 +74,8 @@ Links about android development
 
 [AutoValue Extensions] (https://www.youtube.com/watch?v=FfBBTHkRC-o)
 
+[Mastering RecyclerView Layouts] (https://www.youtube.com/watch?v=gs_C1E8HwvE)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
