@@ -76,6 +76,8 @@ Links about android development
 
 [Mastering RecyclerView Layouts] (https://www.youtube.com/watch?v=gs_C1E8HwvE)
 
+[Jack and Jill Build System] (https://www.youtube.com/watch?v=IwklNEYYs2I)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
