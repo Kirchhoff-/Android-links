@@ -78,6 +78,8 @@ Links about android development
 
 [Jack and Jill Build System] (https://www.youtube.com/watch?v=IwklNEYYs2I)
 
+[Requesting Permissions at Run Time] (https://www.youtube.com/watch?v=WGz-alwVh8A)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
