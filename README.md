@@ -48,6 +48,8 @@ Links about android development
 
 [Great Adpater Hell Escape] (http://hannesdorfmann.com/android/adapter-delegates)
 
+[How to style AlertDialogs like a pro] (http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time] (http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
