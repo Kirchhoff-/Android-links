@@ -82,6 +82,8 @@ Links about android development
 
 [Requesting Permissions at Run Time] (https://www.youtube.com/watch?v=WGz-alwVh8A)
 
+[How the Main Thread works] (https://www.youtube.com/watch?v=eAtMon8ndfk)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
