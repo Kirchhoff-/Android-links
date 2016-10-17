@@ -84,6 +84,8 @@ Links about android development
 
 [How the Main Thread works] (https://www.youtube.com/watch?v=eAtMon8ndfk)
 
+[Gradle: From User to Addict] (https://www.youtube.com/watch?v=-C7TtnPJ7ms)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
