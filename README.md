@@ -86,6 +86,8 @@ Links about android development
 
 [Gradle: From User to Addict] (https://www.youtube.com/watch?v=-C7TtnPJ7ms)
 
+[Using Styles and Themes Without Going Crazy] (https://www.youtube.com/watch?v=Jr8hJdVGHAk)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
