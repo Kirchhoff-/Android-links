@@ -30,6 +30,8 @@ Links about android development
 
 [Greyscale Views on Android] (http://blog.bradcampbell.nz/greyscale-views-on-android/)
 
+[Animating Android Activities and Views with Left and Right Slide Animations] (https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view)
+
 ## Tests
 [Fast and reliable UI tests on Android]
 (https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
