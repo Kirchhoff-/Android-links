@@ -90,6 +90,8 @@ Links about android development
 
 [Using Styles and Themes Without Going Crazy] (https://www.youtube.com/watch?v=Jr8hJdVGHAk)
 
+[Bulletproof Android] (https://www.youtube.com/watch?v=1yF5sqGJo90)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
