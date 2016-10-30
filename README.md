@@ -92,6 +92,8 @@ Links about android development
 
 [Bulletproof Android] (https://www.youtube.com/watch?v=1yF5sqGJo90)
 
+[Exploring Custom Activity Transitions] (https://www.youtube.com/watch?v=HLhA0I00TnI)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
