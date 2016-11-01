@@ -32,6 +32,8 @@ Links about android development
 
 [Animating Android Activities and Views with Left and Right Slide Animations] (https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view)
 
+[How to filter a RecyclerView with a SearchView] (https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
+
 ## Tests
 [Fast and reliable UI tests on Android]
 (https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
