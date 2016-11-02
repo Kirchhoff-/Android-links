@@ -96,6 +96,8 @@ Links about android development
 
 [Exploring Custom Activity Transitions] (https://www.youtube.com/watch?v=HLhA0I00TnI)
 
+[Tools of the Trade] (https://www.youtube.com/watch?v=AeoeD7K8vKI)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
