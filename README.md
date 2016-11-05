@@ -98,6 +98,8 @@ Links about android development
 
 [Tools of the Trade] (https://www.youtube.com/watch?v=AeoeD7K8vKI)
 
+[Introduction to Functional Reactive Programming] (https://www.youtube.com/watch?v=_XKX6UQfNGY)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
