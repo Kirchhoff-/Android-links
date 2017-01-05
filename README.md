@@ -100,6 +100,8 @@ Links about android development
 
 [Introduction to Functional Reactive Programming] (https://www.youtube.com/watch?v=_XKX6UQfNGY)
 
+[Exploring the Activity Lifecycle] (https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
