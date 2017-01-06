@@ -102,6 +102,8 @@ Links about android development
 
 [Exploring the Activity Lifecycle] (https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
 
+[Loving Lean Layouts] (https://www.youtube.com/watch?v=-xAdDqwaWJk)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
