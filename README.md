@@ -10,6 +10,7 @@ Links about android development
  	- [Tests] (#tests)
  	- [Other] (#other)
   - [Architecture] (#architecture)
+  - [Rx] (#rx)
 - [Videos](#videos)
 - [Libraries](#libraries)
   - [DI] (#di)
@@ -56,6 +57,9 @@ Links about android development
 
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time] (http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
+
+## Rx
+[Unit Testing with RxJava] (http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
 
 # Videos
 [Life Without Fragments] (https://www.youtube.com/watch?v=jl1HRiCaAP4)
