@@ -55,6 +55,8 @@ Links about android development
 
 [How to style AlertDialogs like a pro] (http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
 
+[Rich text battle: TextView vs WebView] (http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time] (http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
