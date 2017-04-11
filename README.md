@@ -57,6 +57,8 @@ Links about android development
 
 [Rich text battle: TextView vs WebView] (http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
 
+[Introduction to SpringAnimation with examples] (https://www.thedroidsonroids.com/blog/android/springanimation-examples/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time] (http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
