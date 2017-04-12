@@ -112,6 +112,10 @@ Links about android development
 
 [Loving Lean Layouts] (https://www.youtube.com/watch?v=-xAdDqwaWJk)
 
+[Advancing Android Development with Kotlin] (https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
+
+[Kotlin in Production] (https://www.youtube.com/watch?v=mDpnc45WwlI)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
