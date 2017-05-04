@@ -59,6 +59,8 @@ Links about android development
 
 [Introduction to SpringAnimation with examples] (https://www.thedroidsonroids.com/blog/android/springanimation-examples/)
 
+[A strategy to secure your API keys using Gradle] (https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time] (http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
