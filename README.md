@@ -26,6 +26,8 @@ Links about android development
 
 [Common Design Patterns for Android] (https://www.raywenderlich.com/109843/common-design-patterns-for-android)
 
+[Designing something solid] (https://www.novoda.com/blog/designing-something-solid/)
+
 ## Views
 [Say goodbye to findViewById. Say hello to Data Binding Library.] (https://inthecheesefactory.com/blog/say-goodbye-to-findviewbyid-with-data-binding-library/en)
 
