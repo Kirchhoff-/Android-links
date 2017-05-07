@@ -63,6 +63,10 @@ Links about android development
 
 [A strategy to secure your API keys using Gradle] (https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
 
+[40 Hours is enough] (https://hackernoon.com/40-hours-is-enough-86d7166911ea)
+
+[Programmer 60-80 hour weeks] (http://brianknapp.me/programmer-60-80-hour-weeks/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time] (http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
