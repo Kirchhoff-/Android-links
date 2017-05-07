@@ -11,6 +11,7 @@ Links about android development
  	- [Other] (#other)
   - [Architecture] (#architecture)
   - [Rx] (#rx)
+  - [Kotlin] (#kotlin)
 - [Videos](#videos)
 - [Libraries](#libraries)
   - [DI] (#di)
@@ -74,6 +75,9 @@ Links about android development
 
 ## Rx
 [Unit Testing with RxJava] (http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
+
+## Kotlin
+[How kotlin became our primary language for android] (https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
 # Videos
 [Life Without Fragments] (https://www.youtube.com/watch?v=jl1HRiCaAP4)
