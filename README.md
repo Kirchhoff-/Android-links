@@ -43,6 +43,8 @@ Links about android development
 
 [Espresso Test for Intent] (http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
 
+[How to be a mock star](https://medium.com/fueled-android/how-to-be-a-mock-star-fc00714d8c2f)
+
 ## Other
 [Things You Should Never Do, Part I]
 (http://www.joelonsoftware.com/articles/fog0000000069.html)
