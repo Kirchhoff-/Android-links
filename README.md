@@ -70,6 +70,12 @@ Links about android development
 
 [Programmer 60-80 hour weeks] (http://brianknapp.me/programmer-60-80-hour-weeks/)
 
+[The Trouble with Checked Exceptions(part 1)] (http://www.mindview.net/Etc/Discussions/CheckedExceptions)
+
+[The Trouble with Checked Exceptions(part 2)] (http://www.artima.com/intv/handcuffs.html)
+
+[The Trouble with Checked Exceptions(part 3)] (http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time] (http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
