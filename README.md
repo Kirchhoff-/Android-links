@@ -85,6 +85,8 @@ Links about android development
 ## Kotlin
 [How kotlin became our primary language for android] (https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
+[Starting Activities with Kotlin] (https://medium.com/@passsy/starting-activities-with-kotlin-my-journey-8b7307f1e460)
+
 # Videos
 [Life Without Fragments] (https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
