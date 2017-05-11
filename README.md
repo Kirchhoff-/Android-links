@@ -48,6 +48,14 @@ Links about android development
 
 [How to be a mock star](https://medium.com/fueled-android/how-to-be-a-mock-star-fc00714d8c2f)
 
+[Android testing: Unit testing (Part 1)](http://alexzh.com/tutorials/android-testing-unit-testing/)
+
+[Android testing: Mockito and Robolectric (Part 2)](http://alexzh.com/tutorials/android-testing-mockito-robolectric/)
+
+[Android testing: Espresso (Part 3)](http://alexzh.com/tutorials/android-testing-espresso-part-3/)
+
+[Android testing: UI Automator (Part 4)](http://alexzh.com/tutorials/android-testing-ui-automator-part-4/)
+
 ## Other
 [Things You Should Never Do, Part I]
 (http://www.joelonsoftware.com/articles/fog0000000069.html)
