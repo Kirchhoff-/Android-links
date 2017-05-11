@@ -146,6 +146,8 @@ Links about android development
 
 [Kotlin in Production] (https://www.youtube.com/watch?v=mDpnc45WwlI)
 
+[Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
+
 # Libraries
 ## DI
 [Roboguice] (https://github.com/roboguice/roboguice)
