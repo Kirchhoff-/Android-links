@@ -85,6 +85,8 @@ Links about android development
 
 [Identifying an Android Device](http://handstandsam.com/2017/05/04/identifying-an-android-device/)
 
+[Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
