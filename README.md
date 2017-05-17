@@ -83,6 +83,8 @@ Links about android development
 
 [The Trouble with Checked Exceptions(part 3)](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html)
 
+[Identifying an Android Device](http://handstandsam.com/2017/05/04/identifying-an-android-device/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
