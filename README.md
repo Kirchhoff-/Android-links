@@ -90,6 +90,8 @@ Links about android development
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
+[Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
+
 ## Rx
 [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
 
