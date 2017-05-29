@@ -87,6 +87,8 @@ Links about android development
 
 [Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
 
+[Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
