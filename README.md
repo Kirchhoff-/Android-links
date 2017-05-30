@@ -89,6 +89,8 @@ Links about android development
 
 [Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
 
+[Android Styles & Themes for developers](http://blog.octo.com/en/android-styles-themes-for-developers/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
