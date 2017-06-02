@@ -30,6 +30,8 @@ Links about android development
 
 [Designing something solid](https://www.novoda.com/blog/designing-something-solid/)
 
+[Don’t use DAO, use Repository](https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/)
+
 ## Views
 [Say goodbye to findViewById. Say hello to Data Binding Library.](https://inthecheesefactory.com/blog/say-goodbye-to-findviewbyid-with-data-binding-library/en)
 
