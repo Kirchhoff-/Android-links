@@ -93,6 +93,8 @@ Links about android development
 
 [Android Styles & Themes for developers](http://blog.octo.com/en/android-styles-themes-for-developers/)
 
+[Understanding how references work in android and java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
