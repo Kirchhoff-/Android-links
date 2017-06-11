@@ -99,6 +99,8 @@ Links about android development
 
 [Live Template for RecyclerView Adapter in Android Studio](https://tech.fleka.me/live-template-for-recyclerview-adapter-in-android-studio-5a4e7342bffc)
 
+[Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
