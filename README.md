@@ -103,6 +103,8 @@ Links about android development
 
 [How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
 
+[Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
