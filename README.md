@@ -105,6 +105,8 @@ Links about android development
 
 [Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
 
+[On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
