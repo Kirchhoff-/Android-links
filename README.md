@@ -43,6 +43,8 @@ Links about android development
 
 [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
 
+[RecyclerView animations done right](http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/)
+
 ## Tests
 [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
 
