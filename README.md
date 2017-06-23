@@ -125,6 +125,8 @@ Links about android development
 
 [Rx java backpressure](https://stackoverflow.com/documentation/rx-java/2341/backpressure/10629/creating-backpressured-data-sources#t=201607290718331225652)
 
+[Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
