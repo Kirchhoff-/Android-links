@@ -141,6 +141,8 @@ Links about android development
 
 [Retrofit 2 and Rx Java call adapter error handling](http://bytes.babbel.com/en/articles/2016-03-16-retrofit2-rxjava-error-handling.html)
 
+[Combination of RxJava and DiffUtil](https://hellsoft.se/a-nice-combination-of-rxjava-and-diffutil-fe3807186012)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
