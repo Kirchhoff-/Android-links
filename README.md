@@ -64,6 +64,8 @@ Links about android development
 
 [Dont Use Espresso Idling Resources like Google does](https://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-like-this/)
 
+[How "Android Test Recorder" generate delays between actions](http://droidtestlab.com/delay.html)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
