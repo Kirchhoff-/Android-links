@@ -123,6 +123,8 @@ Links about android development
 
 [Context, What Context?](https://possiblemobile.com/2013/06/context/)
 
+[Which Context should I use in Android?](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
