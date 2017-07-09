@@ -66,6 +66,8 @@ Links about android development
 
 [How "Android Test Recorder" generate delays between actions](http://droidtestlab.com/delay.html)
 
+[Should we use mocking libraries for go testing?](https://www.philosophicalhacker.com/2016/01/13/should-we-use-mocking-libraries-for-go-testing/)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
