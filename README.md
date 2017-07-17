@@ -68,6 +68,8 @@ Links about android development
 
 [Should we use mocking libraries for go testing?](https://www.philosophicalhacker.com/2016/01/13/should-we-use-mocking-libraries-for-go-testing/)
 
+[Simple way to test asynchronous actions in Android](https://medium.com/@v.danylo/simple-way-to-test-asynchronous-actions-in-android-service-asynctask-thread-rxjava-etc-d43b0402e005)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
