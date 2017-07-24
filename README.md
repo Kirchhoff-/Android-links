@@ -215,6 +215,8 @@ Links about android development
 
 [Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
 
+[Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
+
 # Libraries
 ## DI
 [Roboguice](https://github.com/roboguice/roboguice)
