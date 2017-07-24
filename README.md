@@ -217,6 +217,8 @@ Links about android development
 
 [Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
 
+[Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
+
 # Libraries
 ## DI
 [Roboguice](https://github.com/roboguice/roboguice)
