@@ -70,6 +70,8 @@ Links about android development
 
 [Simple way to test asynchronous actions in Android](https://medium.com/@v.danylo/simple-way-to-test-asynchronous-actions-in-android-service-asynctask-thread-rxjava-etc-d43b0402e005)
 
+[Dagger 2 Testing](http://endlesswhileloop.com/blog/2016/06/23/dagger-2-testing/)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
