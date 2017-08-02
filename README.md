@@ -164,6 +164,8 @@ Links about android development
 
 [Creating multiple constructors for Data classes in Kotlin](https://medium.com/proandroiddev/creating-multiple-constructors-for-data-classes-in-kotlin-32ad27e58cac)
 
+[Gang of Four Patterns in Kotlin](https://dev.to/lovis/gang-of-four-patterns-in-kotlin)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
