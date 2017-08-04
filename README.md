@@ -140,6 +140,8 @@ Links about android development
 
 [Architectures of Android applications](https://medium.com/@bvmaks/architectures-of-android-applications-244a083bf132)
 
+[Cargo Cult MVVM => The death knell of WPF](http://cargocultsoftwaredevelopment.blogspot.com/2010/10/cargo-cult-mvvm-death-knell-of-wpf.html)
+
 ## Rx
 [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
 
