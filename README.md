@@ -170,6 +170,8 @@ Links about android development
 
 [Gang of Four Patterns in Kotlin](https://dev.to/lovis/gang-of-four-patterns-in-kotlin)
 
+[Anko for developer](https://www.kotlindevelopment.com/why-should-use-anko/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
