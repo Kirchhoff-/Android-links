@@ -146,6 +146,8 @@ Links about android development
 
 [Cargo Cult MVVM => The death knell of WPF](http://cargocultsoftwaredevelopment.blogspot.com/2010/10/cargo-cult-mvvm-death-knell-of-wpf.html)
 
+[Android Architecture Components](https://proandroiddev.com/android-architecture-components-cb1ea88d3835)
+
 ## Rx
 [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
 
