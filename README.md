@@ -45,6 +45,8 @@ Links about android development
 
 [RecyclerView animations done right](http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/)
 
+[Writing Better Adapters](https://proandroiddev.com/writing-better-adapters-1b09758407d2)
+
 ## Tests
 [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
 
