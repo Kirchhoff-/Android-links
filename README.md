@@ -137,6 +137,8 @@ Links about android development
 
 [I am the reason for Hungarian notation in Android](http://beust.com/weblog/2017/07/17/i-am-the-reason-for-hungarian-notation-in-android/)
 
+[Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
