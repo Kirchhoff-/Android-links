@@ -47,6 +47,8 @@ Links about android development
 
 [Writing Better Adapters](https://proandroiddev.com/writing-better-adapters-1b09758407d2)
 
+[Using Custom Views As Menu Items](http://blog.stablekernel.com/using-custom-views-as-menu-items)
+
 ## Tests
 [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
 
