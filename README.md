@@ -143,6 +143,8 @@ Links about android development
 
 [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
 
+[Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
