@@ -155,6 +155,8 @@ Links about android development
 
 [Espresso Test Addiction: An Anti-pattern](https://www.philosophicalhacker.com/post/espresso-test-addiction/)
 
+[Code Reviews Q&A](https://blog.babylonhealth.com/code-reviews-q-a-f33c72d3b2c3)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
