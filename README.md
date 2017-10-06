@@ -157,6 +157,8 @@ Links about android development
 
 [Code Reviews Q&A](https://blog.babylonhealth.com/code-reviews-q-a-f33c72d3b2c3)
 
+[Perfect code is an illusion](https://8thlight.com/blog/daniel-irvine/2016/11/11/perfect-code-is-an-illusion.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
