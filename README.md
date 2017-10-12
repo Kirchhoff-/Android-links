@@ -159,6 +159,8 @@ Links about android development
 
 [Perfect code is an illusion](https://8thlight.com/blog/daniel-irvine/2016/11/11/perfect-code-is-an-illusion.html)
 
+[The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
