@@ -206,6 +206,8 @@ Links about android development
 
 [Anko for developer](https://www.kotlindevelopment.com/why-should-use-anko/)
 
+[Kotlin tips: Singleton, Utility Functions, group Object Initialization](https://medium.com/default-to-open/kotlin-tips-singleton-utility-functions-group-object-initialization-and-more-27cdd6f63a41)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
