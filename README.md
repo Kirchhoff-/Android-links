@@ -208,6 +208,8 @@ Links about android development
 
 [Kotlin tips: Singleton, Utility Functions, group Object Initialization](https://medium.com/default-to-open/kotlin-tips-singleton-utility-functions-group-object-initialization-and-more-27cdd6f63a41)
 
+[Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
