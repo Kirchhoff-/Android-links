@@ -23,6 +23,8 @@ Links about android development
 
 [Fragment Transactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
 
+[The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
+
 ## Patterns
 [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction](http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
 
