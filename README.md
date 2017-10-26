@@ -167,6 +167,8 @@ Links about android development
 
 [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
 
+[Myths about Unit Tests](https://8thlight.com/blog/fabien-townsend/2017/09/19/myths-about-unit-tests.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
