@@ -51,6 +51,8 @@ Links about android development
 
 [Using Custom Views As Menu Items](http://blog.stablekernel.com/using-custom-views-as-menu-items)
 
+[Your ViewHolders are Dumb. Make ’em Not Dumb](https://jonfhancock.com/your-viewholders-are-dumb-make-em-not-dumb-82e6f73f630c)
+
 ## Tests
 [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
 
