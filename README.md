@@ -222,6 +222,8 @@ Links about android development
 
 [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
 
+[Kotlin Type Hierarchy](http://natpryce.com/articles/000818.html)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
