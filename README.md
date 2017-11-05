@@ -226,6 +226,8 @@ Links about android development
 
 [Kotlin Type Hierarchy](http://natpryce.com/articles/000818.html)
 
+[Nothing (else) matters in Kotlin](https://proandroiddev.com/nothing-else-matters-in-kotlin-994a9ef106fc)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
