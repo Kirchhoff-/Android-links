@@ -230,6 +230,8 @@ Links about android development
 
 [Nothing (else) matters in Kotlin](https://proandroiddev.com/nothing-else-matters-in-kotlin-994a9ef106fc)
 
+[Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
