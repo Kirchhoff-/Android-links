@@ -188,6 +188,8 @@ Links about android development
 
 [Android Architecture Components](https://proandroiddev.com/android-architecture-components-cb1ea88d3835)
 
+[Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749?_ga=2.12071028.1998131091.1501205919-2091102857.1500428525)
+
 [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
 
 ## Rx
