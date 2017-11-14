@@ -293,6 +293,8 @@ Links about android development
 
 [Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
 
+[Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
+
 # Libraries
 ## DI
 [Roboguice](https://github.com/roboguice/roboguice)
