@@ -240,6 +240,8 @@ Links about android development
 
 [Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)
 
+[Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
