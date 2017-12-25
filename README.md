@@ -242,6 +242,8 @@ Links about android development
 
 [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
 
+[Learning Kotlin by Mistake](https://engineering.udacity.com/learning-kotlin-by-mistake-b99304b7d724)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
