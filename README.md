@@ -55,6 +55,8 @@ Links about android development
 
 [ConstraintLayout - Guidelines, Barriers, Chains and Groups](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
 
+[ItemDecoration in Android](https://medium.com/proandroiddev/itemdecoration-in-android-e18a0692d848)
+
 ## Tests
 [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
 
