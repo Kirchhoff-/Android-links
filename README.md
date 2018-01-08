@@ -183,6 +183,8 @@ Links about android development
 
 [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5)
 
+[Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
