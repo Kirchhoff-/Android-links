@@ -221,6 +221,8 @@ Links about android development
 
 [MVVM + RxJava: Common Mistakes](http://upday.github.io/blog/mvvm_rx_common_mistakes/)
 
+[RxJava2: Dispose an Observable chain](https://android.jlelse.eu/rxjava2-dispose-an-observable-chain-684e6ca2790)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
