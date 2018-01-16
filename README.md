@@ -223,6 +223,8 @@ Links about android development
 
 [RxJava2: Dispose an Observable chain](https://android.jlelse.eu/rxjava2-dispose-an-observable-chain-684e6ca2790)
 
+[The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
