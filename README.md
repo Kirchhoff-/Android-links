@@ -258,6 +258,8 @@ Links about android development
 
 [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
 
+[Kotlin’s ‘Nothing’ Type](https://proandroiddev.com/kotlins-nothing-type-946de7d464fb)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
