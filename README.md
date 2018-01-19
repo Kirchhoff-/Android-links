@@ -86,6 +86,8 @@ Links about android development
 
 [Why I Don't use Robolectric](https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/)
 
+[Junit testing and Android dependencies](https://android.jlelse.eu/junit-testing-and-android-dependencies-e65e66afce61)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
