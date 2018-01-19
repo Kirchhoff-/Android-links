@@ -262,6 +262,8 @@ Links about android development
 
 [Kotlin’s ‘Nothing’ Type](https://proandroiddev.com/kotlins-nothing-type-946de7d464fb)
 
+[Simplified code with kotlin](https://android.jlelse.eu/simplified-code-with-kotlin-cda9915c9fb9)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
