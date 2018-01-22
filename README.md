@@ -88,6 +88,8 @@ Links about android development
 
 [Junit testing and Android dependencies](https://android.jlelse.eu/junit-testing-and-android-dependencies-e65e66afce61)
 
+[Clean tests: Naming](https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
