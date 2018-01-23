@@ -90,6 +90,8 @@ Links about android development
 
 [Clean tests: Naming](https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522)
 
+[Clean tests: Comments](https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
