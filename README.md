@@ -92,6 +92,8 @@ Links about android development
 
 [Clean tests: Comments](https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186)
 
+[Unit testing protected lifecycle methods](https://medium.com/google-developer-experts/unit-testing-activity-lifecycle-4e740f71e68a)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
