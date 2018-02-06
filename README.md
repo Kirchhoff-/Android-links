@@ -94,6 +94,8 @@ Links about android development
 
 [Unit testing protected lifecycle methods](https://medium.com/google-developer-experts/unit-testing-activity-lifecycle-4e740f71e68a)
 
+[Unit Testable RecyclerViews](https://www.philosophicalhacker.com/post/unit-testable-recycler-views/)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
