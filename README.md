@@ -96,6 +96,8 @@ Links about android development
 
 [Unit Testable RecyclerViews](https://www.philosophicalhacker.com/post/unit-testable-recycler-views/)
 
+[The 3 tiers of the Android test pyramid](https://medium.com/android-testing-daily/the-3-tiers-of-the-android-test-pyramid-c1211b359acd)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
