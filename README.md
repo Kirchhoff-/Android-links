@@ -284,6 +284,8 @@ Links about android development
 
 [Preconditions.kt: Validate Your Kotlin](https://blog.egorand.me/preconditions-kt-validate-your-kotlin/)
 
+[Getting rid of boilerplate with Kotlin Android Extensions](https://www.kotlindevelopment.com/kotlin_android_extensions_eliminate_findviewbyid/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
