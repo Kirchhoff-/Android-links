@@ -199,6 +199,8 @@ Links about android development
 
 [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
 
+[A Curious Case of Multiple Locales](https://blog.egorand.me/a-curious-case-of-multiple-locales/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
