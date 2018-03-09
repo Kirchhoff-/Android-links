@@ -201,6 +201,8 @@ Links about android development
 
 [A Curious Case of Multiple Locales](https://blog.egorand.me/a-curious-case-of-multiple-locales/)
 
+[What you need to know about Android app memory leaks](https://techbeacon.com/what-you-need-know-about-android-app-memory-leaks)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
