@@ -224,6 +224,8 @@ Links about android development
 
 [Presenters don't need lifecycle events](http://hannesdorfmann.com/android/presenters-dont-need-lifecycle)
 
+[Architecture Components - I'm not a purist but](http://hannesdorfmann.com/android/arch-components-purist)
+
 ## Rx
 [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
 
