@@ -205,6 +205,8 @@ Links about android development
 
 [No Cause for Concern — RxJava and Retrofit Throwing a Tantrum](https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c)
 
+[How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
