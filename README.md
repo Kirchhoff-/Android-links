@@ -207,6 +207,8 @@ Links about android development
 
 [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
 
+[Android leak pattern: subscriptions in views](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
