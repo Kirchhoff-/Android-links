@@ -213,6 +213,8 @@ Links about android development
 
 [Task Stack](https://blog.stylingandroid.com/task-stack/)
 
+[Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
