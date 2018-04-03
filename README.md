@@ -215,6 +215,8 @@ Links about android development
 
 [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
 
+[Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
