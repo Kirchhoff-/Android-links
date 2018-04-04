@@ -314,6 +314,8 @@ Links about android development
 
 [Safe, concise text parsing with regex destructuring in Kotlin](https://medium.com/@garnop/safe-concise-text-parsing-with-regex-destructuring-in-kotlin-b8f77ef1e30c)
 
+[A life without ifs](https://medium.com/a-problem-like-maria/a-life-without-ifs-e44967e5c77b)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
