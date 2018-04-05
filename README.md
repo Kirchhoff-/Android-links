@@ -217,6 +217,8 @@ Links about android development
 
 [Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
 
+[Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
