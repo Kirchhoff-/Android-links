@@ -318,6 +318,8 @@ Links about android development
 
 [A life without ifs](https://medium.com/a-problem-like-maria/a-life-without-ifs-e44967e5c77b)
 
+[Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
