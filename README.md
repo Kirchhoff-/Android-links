@@ -269,6 +269,8 @@ Links about android development
 
 [RxJava - Schedulers - What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
 
+[Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
