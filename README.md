@@ -59,6 +59,8 @@ Links about android development
 
 [Playing with elevation in Android](https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596)
 
+[An Android Toolbar and Action Bar Color Guide](https://www.codeandkits.com/Blog/2018/03/26/an-android-toolbar-and-action-bar-color-guide/)
+
 ## Tests
 [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
 
