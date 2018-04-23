@@ -277,6 +277,8 @@ Links about android development
 
 [Rx if the operators could speak](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
 
+[Writing Custom Rx Operators Easily with Kotlin](https://upcurve.engineering/custom-rx-operators-kotlin/)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
