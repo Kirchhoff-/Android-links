@@ -225,6 +225,8 @@ Links about android development
 
 [Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
 
+[Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
