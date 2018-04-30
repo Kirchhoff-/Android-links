@@ -102,6 +102,8 @@ Links about android development
 
 [The 3 tiers of the Android test pyramid](https://medium.com/android-testing-daily/the-3-tiers-of-the-android-test-pyramid-c1211b359acd)
 
+[Testing state vs. testing interaction](https://medium.com/android-testing-daily/testing-state-vs-testing-interaction-c5d7fe0bf247)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
