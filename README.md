@@ -399,6 +399,8 @@ Links about android development
 
 [Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
 
+[Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
+
 # Libraries
 ## DI
 [Roboguice](https://github.com/roboguice/roboguice)
