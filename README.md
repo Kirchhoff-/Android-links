@@ -229,6 +229,8 @@ Links about android development
 
 [Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
 
+[The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
