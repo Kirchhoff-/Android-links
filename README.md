@@ -231,6 +231,8 @@ Links about android development
 
 [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
 
+[Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
