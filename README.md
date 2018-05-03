@@ -233,6 +233,8 @@ Links about android development
 
 [Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
 
+[Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
