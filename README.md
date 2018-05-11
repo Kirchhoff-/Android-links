@@ -293,6 +293,8 @@ Links about android development
 
 [Writing Custom Rx Operators Easily with Kotlin](https://upcurve.engineering/custom-rx-operators-kotlin/)
 
+[RxJava as event bus, the right way](https://lorentzos.com/rxjava-as-event-bus-the-right-way-10a36bdd49ba)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
