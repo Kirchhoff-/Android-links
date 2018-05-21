@@ -235,7 +235,9 @@ Links about android development
 
 [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
 
-[Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation/)
+[Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation()
+
+[Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
 
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
