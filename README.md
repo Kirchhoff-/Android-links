@@ -104,6 +104,8 @@ Links about android development
 
 [Testing state vs. testing interaction](https://medium.com/android-testing-daily/testing-state-vs-testing-interaction-c5d7fe0bf247)
 
+[Test doubles](https://medium.com/android-testing-daily/test-doubles-9a63dfaeb28b)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
