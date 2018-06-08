@@ -374,6 +374,8 @@ Links about android development
 
 [An Illustrated Guide to Covariance and Contravariance in Kotlin](https://typealias.com/guides/illustrated-guide-covariance-contravariance/)
 
+[Comping with kotlin's scope functions](https://kotlinexpertise.com/coping-with-kotlins-scope-functions/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
