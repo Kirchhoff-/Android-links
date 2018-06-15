@@ -276,6 +276,8 @@ Links about android development
 
 [Architecture Components - I'm not a purist but](http://hannesdorfmann.com/android/arch-components-purist)
 
+[Presenters are not for persisting](https://hackernoon.com/presenters-are-not-for-persisting-f537a2cc7962)
+
 ## Rx
 [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
 
