@@ -278,6 +278,8 @@ Links about android development
 
 [Presenters are not for persisting](https://hackernoon.com/presenters-are-not-for-persisting-f537a2cc7962)
 
+[Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
+
 ## Rx
 [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
 
