@@ -386,6 +386,8 @@ Links about android development
 
 [Comping with kotlin's scope functions](https://kotlinexpertise.com/coping-with-kotlins-scope-functions/)
 
+[Simplify your Android code by delegating to sealed classes](https://medium.com/halcyon-mobile/simplify-your-android-code-by-delegating-to-sealed-classes-99304c509321)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
