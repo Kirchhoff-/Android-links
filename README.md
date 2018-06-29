@@ -282,6 +282,8 @@ Links about android development
 
 [MVP to MVVM transformation](https://proandroiddev.com/mvp-to-mvvm-transformation-611959d5e0ca)
 
+[Background and Foreground events with Android Architecture Components](https://medium.com/@arturogdg/background-and-foreground-events-with-android-architecture-components-233fdd9fa855)
+
 ## Rx
 [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
 
