@@ -114,6 +114,8 @@ Links about android development
 
 [Test doubles](https://medium.com/android-testing-daily/test-doubles-9a63dfaeb28b)
 
+[Testing Views in Isolation at RoMOBOS](https://proandroiddev.com/testing-views-in-isolation-at-romobos-d288e76fe10e)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
