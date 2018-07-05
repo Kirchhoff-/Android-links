@@ -327,6 +327,8 @@ Links about android development
 
 [Building an AutoCompleting EditText using RxJava](https://proandroiddev.com/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40)
 
+[Error handling in RxJava/RxKotlin](https://android.jlelse.eu/error-handling-in-rxjava-rxkotlin-e960300990e0)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
