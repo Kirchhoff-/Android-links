@@ -257,6 +257,8 @@ Links about android development
 
 [-nodpi, -anydpi, and WTF?](https://commonsware.com/blog/2015/12/21/nodpi-anydpi-wtf.html)
 
+[Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
