@@ -259,6 +259,8 @@ Links about android development
 
 [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
 
+[Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
