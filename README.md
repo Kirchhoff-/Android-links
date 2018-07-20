@@ -267,6 +267,8 @@ Links about android development
 
 [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
 
+[Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
