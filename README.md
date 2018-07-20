@@ -265,6 +265,8 @@ Links about android development
 
 [Composite Views in Android: Composition over Inheritance](https://medium.com/@manuelvicnt/composite-views-in-android-composition-over-inheritance-4a7114609560)
 
+[In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
