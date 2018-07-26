@@ -412,6 +412,8 @@ Links about android development
 
 [Simplify your Android code by delegating to sealed classes](https://medium.com/halcyon-mobile/simplify-your-android-code-by-delegating-to-sealed-classes-99304c509321)
 
+[Kotlin + Dagger 2 Gotchas](https://medium.com/@vlazzle/kotlin-dagger-2-gotchas-ebb6bb2ac506)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
