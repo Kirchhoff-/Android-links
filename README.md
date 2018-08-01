@@ -345,6 +345,8 @@ Links about android development
 
 [RxJava Backpressure and why should you care?](https://proandroiddev.com/rxjava-backpressure-and-why-you-should-care-369c5242c9e6)
 
+[LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
