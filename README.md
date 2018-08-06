@@ -422,6 +422,8 @@ Links about android development
 
 [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
 
+[DI for lazy kotliniers](https://jankotlin.wordpress.com/2017/09/18/di-for-lazy-kotliniers/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
