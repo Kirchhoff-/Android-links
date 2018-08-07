@@ -271,6 +271,8 @@ Links about android development
 
 [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
 
+[https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean?utm_source=androiddevdigest&__s=7obepfpkzmezdyhskkzf](https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean?utm_source=androiddevdigest&__s=7obepfpkzmezdyhskkzf)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
