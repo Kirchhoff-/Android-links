@@ -249,7 +249,7 @@ Links about android development
 
 [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
 
-[Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation()
+[Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
 
 [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
 
@@ -271,7 +271,7 @@ Links about android development
 
 [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
 
-[https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean?utm_source=androiddevdigest&__s=7obepfpkzmezdyhskkzf](https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean?utm_source=androiddevdigest&__s=7obepfpkzmezdyhskkzf)
+[Professional Developer: What Does It Mean?](https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean)
 
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
