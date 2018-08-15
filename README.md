@@ -275,6 +275,8 @@ Links about android development
 
 [Professional Developer: What Does It Mean?](https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean)
 
+[I Don’t Have Time is a Myth](http://www.donnfelker.com/i-dont-have-time-is-a-myth/?utm_source=androiddevdigest)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
