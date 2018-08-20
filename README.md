@@ -438,6 +438,8 @@ Links about android development
 
 [Kotlin Functional Programming: Does it make sense?](https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf)
 
+[Kotlin — Faster Lazy for Android](https://proandroiddev.com/kotlin-faster-lazy-for-android-7328ec8d8d57)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
