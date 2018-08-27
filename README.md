@@ -279,6 +279,8 @@ Links about android development
 
 [Making the Android Studio Layout Editor Better With Kotlin](https://blog.shazam.com/making-the-android-studio-layout-editor-better-with-kotlin-997ca0653923)
 
+[Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
