@@ -281,6 +281,8 @@ Links about android development
 
 [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
 
+[Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c?__s=7obepfpkzmezdyhskkzf)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
