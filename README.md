@@ -283,6 +283,8 @@ Links about android development
 
 [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c?__s=7obepfpkzmezdyhskkzf)
 
+[Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
