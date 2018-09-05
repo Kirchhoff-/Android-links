@@ -462,6 +462,8 @@ Links about android development
 
 [Default implementations for interfaces](https://medium.com/a-problem-like-maria/default-implementations-for-interfaces-afd0b9316a8a)
 
+[You don't need a variable for this](https://forcelain.github.io/2017/08/04/you-don-t-need-a-variable-for-this.html)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
