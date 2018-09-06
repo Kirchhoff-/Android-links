@@ -464,6 +464,8 @@ Links about android development
 
 [You don't need a variable for this](https://forcelain.github.io/2017/08/04/you-don-t-need-a-variable-for-this.html)
 
+[Kotlin + buildSrc for Better Gradle Dependency Management](https://handstandsam.com/2018/02/11/kotlin-buildsrc-for-better-gradle-dependency-management/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
