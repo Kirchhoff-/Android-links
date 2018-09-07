@@ -289,6 +289,8 @@ Links about android development
 
 [Add Logs Without Using Code](https://android.jlelse.eu/add-logs-without-using-code-bd49fe9202ca?__s=7obepfpkzmezdyhskkzf)
 
+[Comparing APK sizes](https://android.jlelse.eu/comparing-apk-sizes-a0eb37bb36f?__s=7obepfpkzmezdyhskkzf)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
