@@ -470,6 +470,8 @@ Links about android development
 
 [A practical explanation for initialization modifiers in Kotlin](https://medium.com/google-developer-experts/a-practical-explanation-for-initialization-modifiers-in-kotlin-9f52096ff1ca)
 
+[Kotlin variable, to be Lazy, or to be Late?](https://medium.com/@elye.project/kotlin-variable-to-be-lazy-or-to-be-late-ab865c682d61)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
