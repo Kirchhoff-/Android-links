@@ -291,6 +291,8 @@ Links about android development
 
 [Comparing APK sizes](https://android.jlelse.eu/comparing-apk-sizes-a0eb37bb36f?__s=7obepfpkzmezdyhskkzf)
 
+[TransitionDrawable — Small Gems of the Android Framework](https://proandroiddev.com/transitiondrawable-small-gems-of-the-android-framework-4dcdd3c83319)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
