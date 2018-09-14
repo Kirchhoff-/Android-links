@@ -293,6 +293,8 @@ Links about android development
 
 [TransitionDrawable — Small Gems of the Android Framework](https://proandroiddev.com/transitiondrawable-small-gems-of-the-android-framework-4dcdd3c83319)
 
+[Selectively Locking An Android UI](https://mpope9.github.io/2018/09/06/LockingAndroidUI.html?__s=7obepfpkzmezdyhskkzf)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
