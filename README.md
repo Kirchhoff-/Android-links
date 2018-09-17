@@ -478,6 +478,8 @@ Links about android development
 
 [Kotlin — Mastering generics nullability](https://medium.com/@igorwojda/kotlin-deep-dive-into-generics-nullability-9853d9a9f50d)
 
+[Kotlin: should I define Function or Property?](https://blog.kotlin-academy.com/kotlin-should-i-define-function-or-property-6786951da909)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
