@@ -482,6 +482,8 @@ Links about android development
 
 [The danger of assumptions: Kotlin with Android custom views](https://blog.q42.nl/the-danger-of-assumptions-kotlin-with-android-custom-views-adb79bf2da45)
 
+[Lambda Expressions in Kotlin](http://www.baeldung.com/kotlin-lambda-expressions)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
