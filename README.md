@@ -484,6 +484,8 @@ Links about android development
 
 [Lambda Expressions in Kotlin](http://www.baeldung.com/kotlin-lambda-expressions)
 
+[All About Type Aliases in Kotlin](https://typealias.com/guides/all-about-type-aliases/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
