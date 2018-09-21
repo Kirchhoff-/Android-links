@@ -295,6 +295,8 @@ Links about android development
 
 [Selectively Locking An Android UI](https://mpope9.github.io/2018/09/06/LockingAndroidUI.html?__s=7obepfpkzmezdyhskkzf)
 
+[https://proandroiddev.com/default-methods-lambdas-less-code-aa0e63d6c5d9](https://proandroiddev.com/default-methods-lambdas-less-code-aa0e63d6c5d9)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
