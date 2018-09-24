@@ -488,6 +488,8 @@ Links about android development
 
 [All About Type Aliases in Kotlin](https://typealias.com/guides/all-about-type-aliases/)
 
+[Handaling optionals errors using kotlin sealed classes](https://articles.caster.io/android/handling-optional-errors-using-kotlin-sealed-classes/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
