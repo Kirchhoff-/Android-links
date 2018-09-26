@@ -297,6 +297,8 @@ Links about android development
 
 [https://proandroiddev.com/default-methods-lambdas-less-code-aa0e63d6c5d9](https://proandroiddev.com/default-methods-lambdas-less-code-aa0e63d6c5d9)
 
+[I "Love" Anti-patterns](https://dev.to/levimoreira/i-love-anti-patterns-1bj1)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
