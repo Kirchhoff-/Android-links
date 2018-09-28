@@ -496,6 +496,8 @@ Links about android development
 
 [Kotlin and Android #2 — Treacherous properties](https://tips.seebrock3r.me/kotlin-and-android-2-treacherous-properties-562966242c2d)
 
+[The magic in Kotlin: Delegates](https://proandroiddev.com/the-magic-in-kotlin-delegates-377d27a7b531)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
