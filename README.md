@@ -559,6 +559,8 @@ Links about android development
 
 [Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
 
+[Kotlin delegates in Android development ](https://proandroiddev.com/kotlin-delegates-in-android-development-part-2-2c15c11ff438)
+
 # Libraries
 ## DI
 [Roboguice](https://github.com/roboguice/roboguice)
