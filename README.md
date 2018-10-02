@@ -498,6 +498,8 @@ Links about android development
 
 [The magic in Kotlin: Delegates](https://proandroiddev.com/the-magic-in-kotlin-delegates-377d27a7b531)
 
+[Kotlin Sealed Classes — enums with swag](https://proandroiddev.com/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
