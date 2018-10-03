@@ -299,6 +299,8 @@ Links about android development
 
 [I "Love" Anti-patterns](https://dev.to/levimoreira/i-love-anti-patterns-1bj1)
 
+[API Design — Handling exceptions](https://medium.com/@ZakTaccardi/api-design-handling-exceptions-84a143e32232)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
