@@ -297,7 +297,7 @@ Links about android development
 
 [Selectively Locking An Android UI](https://mpope9.github.io/2018/09/06/LockingAndroidUI.html?__s=7obepfpkzmezdyhskkzf)
 
-[https://proandroiddev.com/default-methods-lambdas-less-code-aa0e63d6c5d9](https://proandroiddev.com/default-methods-lambdas-less-code-aa0e63d6c5d9)
+[default methods + lambdas = less code](https://proandroiddev.com/default-methods-lambdas-less-code-aa0e63d6c5d9)
 
 [I "Love" Anti-patterns](https://dev.to/levimoreira/i-love-anti-patterns-1bj1)
 
@@ -503,6 +503,8 @@ Links about android development
 [The magic in Kotlin: Delegates](https://proandroiddev.com/the-magic-in-kotlin-delegates-377d27a7b531)
 
 [Kotlin Sealed Classes — enums with swag](https://proandroiddev.com/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4)
+
+[Improving findViewById with Kotlin](https://medium.com/@quiro91/improving-findviewbyid-with-kotlin-4cf2f8f779bb)
 
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
