@@ -508,6 +508,8 @@ Links about android development
 
 [Improving findViewById with Kotlin](https://medium.com/@quiro91/improving-findviewbyid-with-kotlin-4cf2f8f779bb)
 
+[10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
