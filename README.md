@@ -27,6 +27,8 @@ Links about android development
 
 [Android Fragment Lifecycle for Professional Developers](https://www.techyourchance.com/android-fragment-lifecycle-for-professional-developers/)
 
+[Lifecycle & Fragments backstack](https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5)
+
 ## Patterns
 [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction](http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
 
