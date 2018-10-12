@@ -307,6 +307,8 @@ Links about android development
 
 [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
 
+[Soft Skills Demystified](https://www.yegor256.com/2018/08/29/soft-skills.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
