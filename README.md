@@ -309,6 +309,8 @@ Links about android development
 
 [Soft Skills Demystified](https://www.yegor256.com/2018/08/29/soft-skills.html)
 
+[Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
