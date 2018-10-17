@@ -124,6 +124,8 @@ Links about android development
 
 [One weird trick to name your tests](https://medium.com/@anupcowkur/one-weird-trick-to-name-your-tests-28ca1f8131c2)
 
+[An Introduction to Testing Custom Views on Android](https://proandroiddev.com/an-introduction-to-testing-custom-views-on-android-10a6152f379?__s=7obepfpkzmezdyhskkzf)
+
 ## Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
