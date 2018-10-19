@@ -405,6 +405,8 @@ Links about android development
 
 [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
 
+[Rxify: error handling with subjects, relays](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
