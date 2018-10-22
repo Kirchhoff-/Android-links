@@ -317,6 +317,8 @@ Links about android development
 
 [OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
 
+[Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
