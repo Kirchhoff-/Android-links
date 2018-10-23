@@ -319,6 +319,8 @@ Links about android development
 
 [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
 
+[Why null is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
