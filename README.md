@@ -593,6 +593,8 @@ Links about android development
 
 [Kotlin delegates in Android development ](https://proandroiddev.com/kotlin-delegates-in-android-development-part-2-2c15c11ff438)
 
+[Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
+
 # Libraries
 ## DI
 [Roboguice](https://github.com/roboguice/roboguice)
