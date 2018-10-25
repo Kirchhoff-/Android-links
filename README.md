@@ -321,6 +321,8 @@ Links about android development
 
 [Why null is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
 
+[Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
