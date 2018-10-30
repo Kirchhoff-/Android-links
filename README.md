@@ -325,6 +325,8 @@ Links about android development
 
 [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
 
+[Solid Is OOP for Dummies](https://www.yegor256.com/2017/03/28/solid.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
