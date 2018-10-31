@@ -327,6 +327,8 @@ Links about android development
 
 [Solid Is OOP for Dummies](https://www.yegor256.com/2017/03/28/solid.html)
 
+[A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
