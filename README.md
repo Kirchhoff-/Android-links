@@ -329,6 +329,8 @@ Links about android development
 
 [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
 
+[Flexibility Equates to Lower Quality](https://www.yegor256.com/2017/04/11/flexibility-equates-lower-quality.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
