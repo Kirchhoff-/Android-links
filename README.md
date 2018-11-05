@@ -333,6 +333,8 @@ Links about android development
 
 [How to Correctly Store App-Specific Files in Android](https://www.grokkingandroid.com/how-to-correctly-store-app-specific-files-in-android/)
 
+[Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
