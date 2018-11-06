@@ -335,6 +335,8 @@ Links about android development
 
 [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
 
+[Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
