@@ -429,6 +429,8 @@ Links about android development
 
 [RxJava on the Sign In Screen](https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572)
 
+[When you dont need map](https://blog.danlew.net/2018/02/20/when-you-dont-need-a-map)
+
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
