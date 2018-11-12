@@ -554,6 +554,8 @@ Links about android development
 
 [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
 
+[Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
