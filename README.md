@@ -341,6 +341,8 @@ Links about android development
 
 [How to Be a Good Office Slave](https://www.yegor256.com/2015/10/06/how-to-be-good-office-slave.html)
 
+[Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
