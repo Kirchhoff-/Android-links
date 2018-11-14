@@ -343,6 +343,8 @@ Links about android development
 
 [Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
 
+[Seven Virtues of a Good Object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
