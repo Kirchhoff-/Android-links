@@ -382,6 +382,8 @@ Links about android development
 
 [Android ViewModel should be called scopedComponent](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
 
+[How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
+
 ## Rx
 [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
 
