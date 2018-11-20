@@ -347,6 +347,10 @@ Links about android development
 
 [Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
 
+[How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
+
+[How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
@@ -383,8 +387,6 @@ Links about android development
 [Restoring State in Android MVP Architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
 
 [Android ViewModel should be called scopedComponent](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
-
-[How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
 
 ## Rx
 [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
