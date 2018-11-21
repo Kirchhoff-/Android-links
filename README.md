@@ -351,6 +351,8 @@ Links about android development
 
 [How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
 
+[Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
