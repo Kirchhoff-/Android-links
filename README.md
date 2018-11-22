@@ -353,6 +353,8 @@ Links about android development
 
 [Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
 
+[Defensive Programming via Validating Decorators](https://www.yegor256.com/2016/01/26/defensive-programming.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
