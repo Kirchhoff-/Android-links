@@ -572,6 +572,8 @@ Links about android development
 
 [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
 
+[Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
