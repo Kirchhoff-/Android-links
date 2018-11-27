@@ -576,6 +576,8 @@ Links about android development
 
 [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)
 
+[Annotations for your Java-friendly Kotlin code](https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbedec14)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
