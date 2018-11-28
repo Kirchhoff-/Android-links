@@ -357,6 +357,8 @@ Links about android development
 
 [Static methods violate Dependency Inversion principle](https://www.vzurauskas.com/2018/09/09/static-methods-violate-dependency-inversion-principle/)
 
+[Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
