@@ -646,18 +646,3 @@ Links about android development
 [Kotlin delegates in Android development ](https://proandroiddev.com/kotlin-delegates-in-android-development-part-2-2c15c11ff438)
 
 [Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
-
-# Libraries
-## DI
-[Roboguice](https://github.com/roboguice/roboguice)
-
-[Dagger 2](https://github.com/google/dagger)
-
-[Toothpick](https://github.com/stephanenicolas/toothpick)
-
-## Image Loader
-[Glide](https://github.com/bumptech/glide)
-
-[Picasso](https://github.com/square/picasso)
-
-[Universal ImageLoader](https://github.com/nostra13/Android-Universal-Image-Loader)
