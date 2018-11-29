@@ -13,9 +13,6 @@ Links about android development
   - [Rx](#rx)
   - [Kotlin](#kotlin)
 - [Videos](#videos)
-- [Libraries](#libraries)
-  - [DI](#di)
-  - [Image Loader](#il)
 
 # Articles
 ## Fragment
