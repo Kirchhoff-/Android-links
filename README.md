@@ -358,6 +358,8 @@ Links about android development
 
 [How Does Inversion of Control Really Work?](https://www.yegor256.com/2017/05/10/inversion-of-control.html)
 
+[Object Behavior Must Not Be Configurable](https://www.yegor256.com/2016/04/19/object-must-not-be-configurable.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
