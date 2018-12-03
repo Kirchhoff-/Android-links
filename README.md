@@ -581,6 +581,8 @@ Links about android development
 
 [Annotations for your Java-friendly Kotlin code](https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbedec14)
 
+[Looping in Kotlin](https://medium.com/@elye.project/looping-in-kotlin-65b54d05ad21)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
