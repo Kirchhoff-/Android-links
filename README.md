@@ -26,6 +26,8 @@ Links about android development
 
 [Lifecycle & Fragments backstack](https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5)
 
+[[Youtube] Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
+
 ## Patterns
 [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction](http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
 
@@ -71,6 +73,8 @@ Links about android development
 [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
 
 [Customizing Switch using XML](https://medium.com/@elye.project/customizing-switch-using-xml-ca0d37204a86)
+
+[[Youtube] View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw&list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn)
 
 ## Tests
 [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
@@ -604,13 +608,9 @@ Links about android development
 [[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
 
 # Videos
-[Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
-
 [DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 
 [The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
-
-[View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw&list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn)
 
 [Understanding and Experimenting with MultiDex](https://www.youtube.com/watch?v=skmOBriQ28E)
 
