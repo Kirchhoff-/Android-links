@@ -585,6 +585,8 @@ Links about android development
 
 [Kotlin delegates in Android development](https://proandroiddev.com/kotlin-delegates-in-android-development-part-2-2c15c11ff438)
 
+[[Youtube] Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
@@ -645,5 +647,3 @@ Links about android development
 [Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
 
 [Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
-
-[Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
