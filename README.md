@@ -364,6 +364,36 @@ Links about android development
 
 [Object Behavior Must Not Be Configurable](https://www.yegor256.com/2016/04/19/object-must-not-be-configurable.html)
 
+[[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+
+[[Yotube] The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
+
+[[Yotube] Understanding and Experimenting with MultiDex](https://www.youtube.com/watch?v=skmOBriQ28E)
+
+[[Yotube] Timing is Everything: How to use Timer, Handler, and AlarmManager](https://www.youtube.com/watch?v=CzNFjCQhCV0)
+
+[[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
+
+[[Yotube] Mastering RecyclerView Layouts](https://www.youtube.com/watch?v=gs_C1E8HwvE)
+
+[[Yotube] Requesting Permissions at Run Time](https://www.youtube.com/watch?v=WGz-alwVh8A)
+
+[[Yotube] How the Main Thread works](https://www.youtube.com/watch?v=eAtMon8ndfk)
+
+[[Yotube] Gradle: From User to Addict](https://www.youtube.com/watch?v=-C7TtnPJ7ms)
+
+[[Yotube] Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
+
+[[Yotube] Bulletproof Android](https://www.youtube.com/watch?v=1yF5sqGJo90)
+
+[[Yotube] Exploring Custom Activity Transitions](https://www.youtube.com/watch?v=HLhA0I00TnI)
+
+[[Yotube] Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
+
+[[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
+
+[[Yotube] Loving Lean Layouts](https://www.youtube.com/watch?v=-xAdDqwaWJk)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
@@ -608,38 +638,8 @@ Links about android development
 [[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
 
 # Videos
-[DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
-
-[The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
-
-[Understanding and Experimenting with MultiDex](https://www.youtube.com/watch?v=skmOBriQ28E)
-
-[Timing is Everything: How to use Timer, Handler, and AlarmManager](https://www.youtube.com/watch?v=CzNFjCQhCV0)
-
-[Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
-
-[Mastering RecyclerView Layouts](https://www.youtube.com/watch?v=gs_C1E8HwvE)
-
-[Requesting Permissions at Run Time](https://www.youtube.com/watch?v=WGz-alwVh8A)
-
-[How the Main Thread works](https://www.youtube.com/watch?v=eAtMon8ndfk)
-
-[Gradle: From User to Addict](https://www.youtube.com/watch?v=-C7TtnPJ7ms)
-
-[Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
-
-[Bulletproof Android](https://www.youtube.com/watch?v=1yF5sqGJo90)
-
-[Exploring Custom Activity Transitions](https://www.youtube.com/watch?v=HLhA0I00TnI)
-
-[Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
-
 [Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
 
-[Loving Lean Layouts](https://www.youtube.com/watch?v=-xAdDqwaWJk)
-
 [Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
-
-[Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
 
 [Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
