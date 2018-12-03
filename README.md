@@ -398,6 +398,10 @@ Links about android development
 [Android ViewModel should be called scopedComponent](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
 
 ## Rx
+[[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
+
+[[Youtube] Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
+
 [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
 
 [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
@@ -455,6 +459,10 @@ Links about android development
 [RxJava on the Sign In Screen](https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572)
 
 [When you dont need map](https://blog.danlew.net/2018/02/20/when-you-dont-need-a-map)
+
+[[Youtube] Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
+
+[[Youtube] Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
 
 ## Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
@@ -630,19 +638,11 @@ Links about android development
 
 [Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
 
-[Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
-
 [Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
 
 [Loving Lean Layouts](https://www.youtube.com/watch?v=-xAdDqwaWJk)
 
 [Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
-
-[Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
-
-[Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
-
-[Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
 
 [Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
 
