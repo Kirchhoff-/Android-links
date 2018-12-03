@@ -587,6 +587,8 @@ Links about android development
 
 [[Youtube] Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
 
+[[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
+
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
@@ -635,8 +637,6 @@ Links about android development
 [Loving Lean Layouts](https://www.youtube.com/watch?v=-xAdDqwaWJk)
 
 [Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
-
-[Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
 
 [Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
 
