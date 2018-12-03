@@ -618,11 +618,7 @@ Links about android development
 
 [Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
 
-[AutoValue Extensions](https://www.youtube.com/watch?v=FfBBTHkRC-o)
-
 [Mastering RecyclerView Layouts](https://www.youtube.com/watch?v=gs_C1E8HwvE)
-
-[Jack and Jill Build System](https://www.youtube.com/watch?v=IwklNEYYs2I)
 
 [Requesting Permissions at Run Time](https://www.youtube.com/watch?v=WGz-alwVh8A)
 
