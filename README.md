@@ -12,7 +12,6 @@ Links about android development
   - [Architecture](#architecture)
   - [Rx](#rx)
   - [Kotlin](#kotlin)
-- [Videos](#videos)
 
 # Articles
 ## Fragment
@@ -394,6 +393,8 @@ Links about android development
 
 [[Yotube] Loving Lean Layouts](https://www.youtube.com/watch?v=-xAdDqwaWJk)
 
+[[Video] Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
@@ -436,6 +437,8 @@ Links about android development
 [[Youtube] Half Way to clean architecture](https://www.youtube.com/watch?v=R89ufpJI3SY)
 
 [[Youtube] Application Architecture: Designing Offline Application Case Studies](https://www.youtube.com/watch?v=n8nG5K_3BJM)
+
+[[Video] Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
 
 ## Rx
 [[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
@@ -637,9 +640,4 @@ Links about android development
 
 [[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
 
-# Videos
-[Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
-
-[Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
-
-[Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
+[[Video] Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
