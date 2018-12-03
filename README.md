@@ -397,6 +397,12 @@ Links about android development
 
 [Android ViewModel should be called scopedComponent](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
 
+[[Youtube] Android Software Architecture by Example](https://www.youtube.com/watch?v=7t7MN8e1W7s)
+
+[[Youtube] Half Way to clean architecture](https://www.youtube.com/watch?v=R89ufpJI3SY)
+
+[[Youtube] Application Architecture: Designing Offline Application Case Studies](https://www.youtube.com/watch?v=n8nG5K_3BJM)
+
 ## Rx
 [[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
 
@@ -600,19 +606,13 @@ Links about android development
 # Videos
 [Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
-[Android Software Architecture by Example](https://www.youtube.com/watch?v=7t7MN8e1W7s)
-
 [DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 
 [The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
 
-[Half Way to clean architecture](https://www.youtube.com/watch?v=R89ufpJI3SY)
-
 [View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw&list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn)
 
 [Understanding and Experimenting with MultiDex](https://www.youtube.com/watch?v=skmOBriQ28E)
-
-[Application Architecture: Designing Offline Application Case Studies](https://www.youtube.com/watch?v=n8nG5K_3BJM)
 
 [Timing is Everything: How to use Timer, Handler, and AlarmManager](https://www.youtube.com/watch?v=CzNFjCQhCV0)
 
