@@ -395,6 +395,8 @@ Links about android development
 
 [[Video] Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
 
+[Building vertical decorators right](https://www.vzurauskas.com/2018/10/28/building-vertical-decorators-right/)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
