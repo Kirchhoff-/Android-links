@@ -9,6 +9,7 @@ Links about android development
  	- [Views](#views)
  	- [Tests](#tests)
  	- [Other](#other)
+  - [Gradle](#gradle)
   - [Architecture](#architecture)
   - [Rx](#rx)
   - [Kotlin](#kotlin)
@@ -131,8 +132,6 @@ Links about android development
 
 [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
 
-[10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
-
 [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
 
 [How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
@@ -140,8 +139,6 @@ Links about android development
 [Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
 
 [Introduction to SpringAnimation with examples](https://www.thedroidsonroids.com/blog/android/springanimation-examples/)
-
-[A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
 
 [40 Hours is enough](https://hackernoon.com/40-hours-is-enough-86d7166911ea)
 
@@ -168,8 +165,6 @@ Links about android development
 [Live Template for RecyclerView Adapter in Android Studio](https://tech.fleka.me/live-template-for-recyclerview-adapter-in-android-studio-5a4e7342bffc)
 
 [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
-
-[How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
 
 [Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
 
@@ -241,8 +236,6 @@ Links about android development
 
 [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
 
-[Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
-
 [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
 
 [Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d)
@@ -288,8 +281,6 @@ Links about android development
 [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
 
 [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c?__s=7obepfpkzmezdyhskkzf)
-
-[Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
 
 [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
 
@@ -379,8 +370,6 @@ Links about android development
 
 [[Yotube] How the Main Thread works](https://www.youtube.com/watch?v=eAtMon8ndfk)
 
-[[Yotube] Gradle: From User to Addict](https://www.youtube.com/watch?v=-C7TtnPJ7ms)
-
 [[Yotube] Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
 
 [[Yotube] Bulletproof Android](https://www.youtube.com/watch?v=1yF5sqGJo90)
@@ -389,8 +378,6 @@ Links about android development
 
 [[Yotube] Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
 
-[[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
-
 [[Yotube] Loving Lean Layouts](https://www.youtube.com/watch?v=-xAdDqwaWJk)
 
 [[Video] Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
@@ -398,6 +385,22 @@ Links about android development
 [Building vertical decorators right](https://www.vzurauskas.com/2018/10/28/building-vertical-decorators-right/)
 
 [Preferred way to set clickable image icon](https://medium.com/@elye.project/preferred-way-to-set-clickable-image-icon-95b0c88f3cd9)
+
+## Gradle
+[10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
+
+[A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
+
+[[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
+
+[How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
+
+[Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
+
+[[Yotube] Gradle: From User to Addict](https://www.youtube.com/watch?v=-C7TtnPJ7ms)
+
+[Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
+
 
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
