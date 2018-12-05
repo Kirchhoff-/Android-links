@@ -12,7 +12,7 @@ Links about android development
   - [Gradle](#gradle)
   - [Programmer Life](#life)
   - [Git](#git)
-  - Context(#context)
+  - [Context](#context)
   - [Architecture](#architecture)
   - [Rx](#rx)
   - [Kotlin](#kotlin)
@@ -266,8 +266,6 @@ Links about android development
 [Selectively Locking An Android UI](https://mpope9.github.io/2018/09/06/LockingAndroidUI.html?__s=7obepfpkzmezdyhskkzf)
 
 [default methods + lambdas = less code](https://proandroiddev.com/default-methods-lambdas-less-code-aa0e63d6c5d9)
-
-[I "Love" Anti-patterns](https://dev.to/levimoreira/i-love-anti-patterns-1bj1)
 
 [API Design — Handling exceptions](https://medium.com/@ZakTaccardi/api-design-handling-exceptions-84a143e32232)
 
