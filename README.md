@@ -12,6 +12,7 @@ Links about android development
   - [Gradle](#gradle)
   - [Programmer Life](#life)
   - [Git](#git)
+  - Context(#context)
   - [Architecture](#architecture)
   - [Rx](#rx)
   - [Kotlin](#kotlin)
@@ -174,10 +175,6 @@ Links about android development
 
 [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
 
-[Context, What Context?](https://possiblemobile.com/2013/06/context/)
-
-[Which Context should I use in Android?](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
-
 [65K methods](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71)
 
 [I am the reason for Hungarian notation in Android](http://beust.com/weblog/2017/07/17/i-am-the-reason-for-hungarian-notation-in-android/)
@@ -187,8 +184,6 @@ Links about android development
 [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
 
 [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
-
-[Why Having Global Static References to Application Contexts is Probably not the Best Idea](https://www.philosophicalhacker.com/2015/07/14/why-static-references-to-application-contexts-are-probably-not-the-best-idea/)
 
 [How to make complex requests simple with RxJava in Kotlin](https://blog.mindorks.com/how-to-make-complex-requests-simple-with-rxjava-in-kotlin-ccec004c5d10)
 
@@ -238,15 +233,11 @@ Links about android development
 
 [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
 
-[Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
-
 [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
 
 [Use the Android apk analyzer to reduce your apk size](https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/)
 
 [-nodpi, -anydpi, and WTF?](https://commonsware.com/blog/2015/12/21/nodpi-anydpi-wtf.html)
-
-[Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
 
 [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
 
@@ -406,6 +397,17 @@ Links about android development
 [Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
 
 [Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
+
+## Context
+[Context, What Context?](https://possiblemobile.com/2013/06/context/)
+
+[Which Context should I use in Android?](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
+
+[Why Having Global Static References to Application Contexts is Probably not the Best Idea](https://www.philosophicalhacker.com/2015/07/14/why-static-references-to-application-contexts-are-probably-not-the-best-idea/)
+
+[Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
+
+[Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
 
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
