@@ -14,6 +14,7 @@ Links about android development
   - [Git](#git)
   - [Context](#context)
   - [Themes](#themes)
+  - [OOP](#oop)
   - [Architecture](#architecture)
   - [Rx](#rx)
   - [Kotlin](#kotlin)
@@ -262,19 +263,9 @@ Links about android development
 
 [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
-[Typical Mistakes in Java Code](https://www.yegor256.com/2014/04/27/typical-mistakes-in-java-code.html)
-
-[OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
-
 [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
 
-[Why null is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
-
-[Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
-
 [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
-
-[Solid Is OOP for Dummies](https://www.yegor256.com/2017/03/28/solid.html)
 
 [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
 
@@ -284,17 +275,11 @@ Links about android development
 
 [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
 
-[Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
-
 [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
 
 [Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
 
-[Seven Virtues of a Good Object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
-
 [Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
-
-[How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
 
 [Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
 
@@ -303,10 +288,6 @@ Links about android development
 [Static methods violate Dependency Inversion principle](https://www.vzurauskas.com/2018/09/09/static-methods-violate-dependency-inversion-principle/)
 
 [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
-
-[How Does Inversion of Control Really Work?](https://www.yegor256.com/2017/05/10/inversion-of-control.html)
-
-[Object Behavior Must Not Be Configurable](https://www.yegor256.com/2016/04/19/object-must-not-be-configurable.html)
 
 [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 
@@ -407,6 +388,26 @@ Links about android development
 
 [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
 
+## OOP
+[Typical Mistakes in Java Code](https://www.yegor256.com/2014/04/27/typical-mistakes-in-java-code.html)
+
+[OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
+
+[Why null is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
+
+[Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
+
+[Solid Is OOP for Dummies](https://www.yegor256.com/2017/03/28/solid.html)
+
+[Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
+
+[Seven Virtues of a Good Object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
+
+[How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
+
+[How Does Inversion of Control Really Work?](https://www.yegor256.com/2017/05/10/inversion-of-control.html)
+
+[Object Behavior Must Not Be Configurable](https://www.yegor256.com/2016/04/19/object-must-not-be-configurable.html)
 
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
