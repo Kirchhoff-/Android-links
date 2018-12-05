@@ -13,6 +13,7 @@ Links about android development
   - [Programmer Life](#life)
   - [Git](#git)
   - [Context](#context)
+  - [Themes](#themes)
   - [Architecture](#architecture)
   - [Rx](#rx)
   - [Kotlin](#kotlin)
@@ -143,8 +144,6 @@ Links about android development
 
 [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
 
-[How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
-
 [Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
 
 [Introduction to SpringAnimation with examples](https://www.thedroidsonroids.com/blog/android/springanimation-examples/)
@@ -159,10 +158,6 @@ Links about android development
 
 [Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
 
-[Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
-
-[Android Styles & Themes for developers](http://blog.octo.com/en/android-styles-themes-for-developers/)
-
 [Understanding how references work in android and java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
 
 [An introduction to Android Instant Apps](https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps)
@@ -170,8 +165,6 @@ Links about android development
 [Live Template for RecyclerView Adapter in Android Studio](https://tech.fleka.me/live-template-for-recyclerview-adapter-in-android-studio-5a4e7342bffc)
 
 [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
-
-[Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
 
 [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
 
@@ -233,15 +226,11 @@ Links about android development
 
 [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
 
-[Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
-
 [Use the Android apk analyzer to reduce your apk size](https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/)
 
 [-nodpi, -anydpi, and WTF?](https://commonsware.com/blog/2015/12/21/nodpi-anydpi-wtf.html)
 
 [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
-
-[Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
 
 [Composite Views in Android: Composition over Inheritance](https://medium.com/@manuelvicnt/composite-views-in-android-composition-over-inheritance-4a7114609560)
 
@@ -406,6 +395,18 @@ Links about android development
 [Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
 
 [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
+
+## Themes
+[How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
+
+[Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
+
+[Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
+
+[Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
+
+[Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
+
 
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
