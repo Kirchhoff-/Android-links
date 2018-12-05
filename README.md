@@ -11,6 +11,7 @@ Links about android development
  	- [Other](#other)
   - [Gradle](#gradle)
   - [Programmer Life](#life)
+  - [Git](#git)
   - [Architecture](#architecture)
   - [Rx](#rx)
   - [Kotlin](#kotlin)
@@ -231,10 +232,6 @@ Links about android development
 
 [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
 
-[Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
-
-[Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
-
 [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
 
 [Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
@@ -258,8 +255,6 @@ Links about android development
 [Composite Views in Android: Composition over Inheritance](https://medium.com/@manuelvicnt/composite-views-in-android-composition-over-inheritance-4a7114609560)
 
 [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
-
-[Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
 
 [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
 
@@ -404,6 +399,13 @@ Links about android development
 [Soft Skills Demystified](https://www.yegor256.com/2018/08/29/soft-skills.html)
 
 [How to Be a Good Office Slave](https://www.yegor256.com/2015/10/06/how-to-be-good-office-slave.html)
+
+## Git
+[Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
+
+[Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
+
+[Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
 
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
