@@ -10,6 +10,7 @@ Links about android development
  	- [Tests](#tests)
  	- [Other](#other)
   - [Gradle](#gradle)
+  - [Programmer Life](#life)
   - [Architecture](#architecture)
   - [Rx](#rx)
   - [Kotlin](#kotlin)
@@ -140,10 +141,6 @@ Links about android development
 
 [Introduction to SpringAnimation with examples](https://www.thedroidsonroids.com/blog/android/springanimation-examples/)
 
-[40 Hours is enough](https://hackernoon.com/40-hours-is-enough-86d7166911ea)
-
-[Programmer 60-80 hour weeks](http://brianknapp.me/programmer-60-80-hour-weeks/)
-
 [The Trouble with Checked Exceptions(part 1)](http://www.mindview.net/Etc/Discussions/CheckedExceptions)
 
 [The Trouble with Checked Exceptions(part 2)](http://www.artima.com/intv/handcuffs.html)
@@ -202,8 +199,6 @@ Links about android development
 
 [Perfect code is an illusion](https://8thlight.com/blog/daniel-irvine/2016/11/11/perfect-code-is-an-illusion.html)
 
-[The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html)
-
 [The problematic pull request](https://8thlight.com/blog/daniel-irvine/2016/11/18/the-problematic-pull-request.html)
 
 [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
@@ -215,8 +210,6 @@ Links about android development
 [Mixing JUnit, Hamcrest and Mockito: Explaining java.lang.NoSuchMethodError](https://tedvinke.wordpress.com/2013/12/17/mixing-junit-hamcrest-and-mockito-explaining-nosuchmethoderror/)
 
 [Optimizing the Performance of Vector Drawables](https://medium.com/upday-devs/optimizing-the-performance-of-vector-drawables-680a4c456286)
-
-[“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5)
 
 [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
 
@@ -237,8 +230,6 @@ Links about android development
 [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
 
 [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
-
-[Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d)
 
 [Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
 
@@ -272,10 +263,6 @@ Links about android development
 
 [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
 
-[Professional Developer: What Does It Mean?](https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean)
-
-[I Don’t Have Time is a Myth](http://www.donnfelker.com/i-dont-have-time-is-a-myth/?utm_source=androiddevdigest)
-
 [Making the Android Studio Layout Editor Better With Kotlin](https://blog.shazam.com/making-the-android-studio-layout-editor-better-with-kotlin-997ca0653923)
 
 [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
@@ -299,8 +286,6 @@ Links about android development
 [API Design — Handling exceptions](https://medium.com/@ZakTaccardi/api-design-handling-exceptions-84a143e32232)
 
 [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
-
-[Soft Skills Demystified](https://www.yegor256.com/2018/08/29/soft-skills.html)
 
 [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 
@@ -329,8 +314,6 @@ Links about android development
 [Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
 
 [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
-
-[How to Be a Good Office Slave](https://www.yegor256.com/2015/10/06/how-to-be-good-office-slave.html)
 
 [Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
 
@@ -401,6 +384,26 @@ Links about android development
 
 [Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
 
+## Life
+[40 Hours is enough](https://hackernoon.com/40-hours-is-enough-86d7166911ea)
+
+[Programmer 60-80 hour weeks](http://brianknapp.me/programmer-60-80-hour-weeks/)
+
+[The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html)
+
+[“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5)
+
+[Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d)
+
+[Professional Developer: What Does It Mean?](https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean)
+
+[I Don’t Have Time is a Myth](http://www.donnfelker.com/i-dont-have-time-is-a-myth/?utm_source=androiddevdigest)
+
+[I "Love" Anti-patterns](https://dev.to/levimoreira/i-love-anti-patterns-1bj1)
+
+[Soft Skills Demystified](https://www.yegor256.com/2018/08/29/soft-skills.html)
+
+[How to Be a Good Office Slave](https://www.yegor256.com/2015/10/06/how-to-be-good-office-slave.html)
 
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
