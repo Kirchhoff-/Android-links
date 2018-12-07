@@ -411,6 +411,8 @@ Links about android development
 
 [Why Many Return Statements Are a Bad Idea in OOP](https://www.yegor256.com/2015/08/18/multiple-return-statements-in-oop.html)
 
+[There Can Be Only One Primary Constructor](https://www.yegor256.com/2015/05/28/one-primary-constructor.html)
+
 ## Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
