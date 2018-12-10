@@ -321,6 +321,8 @@ Links about android development
 
 [Preferred way to set clickable image icon](https://medium.com/@elye.project/preferred-way-to-set-clickable-image-icon-95b0c88f3cd9)
 
+[Managing Keyboard on Webview](https://medium.com/@elye.project/managing-keyboard-on-webview-d2e89109d106)
+
 ## Gradle
 [10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
 
