@@ -44,6 +44,12 @@ Links about android development
 
 [Design Patterns in Android – Observer](https://www.thedroidsonroids.com/blog/design-patterns-android-observer-2)
 
+[Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
+
+[Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
+
+[Defensive Programming via Validating Decorators](https://www.yegor256.com/2016/01/26/defensive-programming.html)
+
 ## Views
 [Say goodbye to findViewById. Say hello to Data Binding Library.](https://inthecheesefactory.com/blog/say-goodbye-to-findviewbyid-with-data-binding-library/en)
 
@@ -274,12 +280,6 @@ Links about android development
 [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
 
 [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
-
-[Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
-
-[Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
-
-[Defensive Programming via Validating Decorators](https://www.yegor256.com/2016/01/26/defensive-programming.html)
 
 [Static methods violate Dependency Inversion principle](https://www.vzurauskas.com/2018/09/09/static-methods-violate-dependency-inversion-principle/)
 
