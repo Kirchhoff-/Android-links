@@ -3,24 +3,22 @@
 Links about android development
 
 ## Links
-- [Articles](#articles)
- 	- [Fragment](#fragment)
- 	- [Design patterns](#patterns)
- 	- [Views](#views)
- 	- [Tests](#tests)
- 	- [Other](#other)
-  - [Gradle](#gradle)
-  - [Programmer Life](#life)
-  - [Git](#git)
-  - [Context](#context)
-  - [Themes](#themes)
-  - [OOP](#oop)
-  - [Architecture](#architecture)
-  - [Rx](#rx)
-  - [Kotlin](#kotlin)
+- [Fragment](#fragment)
+- [Design patterns](#patterns)
+- [Views](#views)
+- [Tests](#tests)
+- [Other](#other)
+- [Gradle](#gradle)
+- [Programmer Life](#life)
+- [Git](#git)
+- [Context](#context)
+- [Themes](#themes)
+- [OOP](#oop)
+- [Architecture](#architecture)
+- [Rx](#rx)
+- [Kotlin](#kotlin)
 
-# Articles
-## Fragment
+# Fragment
 [Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)
 
 [Fragment Transactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
@@ -33,7 +31,7 @@ Links about android development
 
 [[Youtube] Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
-## Patterns
+# Patterns
 [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction](http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
 
 [Common Design Patterns for Android](https://www.raywenderlich.com/109843/common-design-patterns-for-android)
@@ -50,7 +48,7 @@ Links about android development
 
 [Defensive Programming via Validating Decorators](https://www.yegor256.com/2016/01/26/defensive-programming.html)
 
-## Views
+# Views
 [Say goodbye to findViewById. Say hello to Data Binding Library.](https://inthecheesefactory.com/blog/say-goodbye-to-findviewbyid-with-data-binding-library/en)
 
 [Greyscale Views on Android](http://blog.bradcampbell.nz/greyscale-views-on-android/)
@@ -95,7 +93,7 @@ Links about android development
 
 [Managing Keyboard on Webview](https://medium.com/@elye.project/managing-keyboard-on-webview-d2e89109d106)
 
-## Tests
+# Tests
 [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
 
 [Different ways of testing exceptions in Java and JUnit](https://blog.goyello.com/2015/10/01/different-ways-of-testing-exceptions-in-java-and-junit/)
@@ -152,7 +150,7 @@ Links about android development
 
 [Mixing JUnit, Hamcrest and Mockito: Explaining java.lang.NoSuchMethodError](https://tedvinke.wordpress.com/2013/12/17/mixing-junit-hamcrest-and-mockito-explaining-nosuchmethoderror/)
 
-## Other
+# Other
 [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
 [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
@@ -317,7 +315,7 @@ Links about android development
 
 [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
 
-## Gradle
+# Gradle
 [10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
 
 [A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
@@ -332,7 +330,7 @@ Links about android development
 
 [Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
 
-## Life
+# Life
 [40 Hours is enough](https://hackernoon.com/40-hours-is-enough-86d7166911ea)
 
 [Programmer 60-80 hour weeks](http://brianknapp.me/programmer-60-80-hour-weeks/)
@@ -355,14 +353,14 @@ Links about android development
 
 [How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
 
-## Git
+# Git
 [Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
 
 [Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
 
 [Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
 
-## Context
+# Context
 [Context, What Context?](https://possiblemobile.com/2013/06/context/)
 
 [Which Context should I use in Android?](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
@@ -373,7 +371,7 @@ Links about android development
 
 [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
 
-## Themes
+# Themes
 [How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
 
 [Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
@@ -384,7 +382,7 @@ Links about android development
 
 [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
 
-## OOP
+# OOP
 [Typical Mistakes in Java Code](https://www.yegor256.com/2014/04/27/typical-mistakes-in-java-code.html)
 
 [Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
@@ -417,7 +415,7 @@ Links about android development
 
 [Immutable Objects Are Not Dumb](https://www.yegor256.com/2014/12/22/immutable-objects-not-dumb.html)
 
-## Architecture
+# Architecture
 [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
 
 [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
@@ -462,7 +460,7 @@ Links about android development
 
 [[Video] Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
 
-## Rx
+# Rx
 [[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
 
 [[Youtube] Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
@@ -529,7 +527,7 @@ Links about android development
 
 [[Youtube] Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
 
-## Kotlin
+# Kotlin
 [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)
 
 [Starting Activities with Kotlin](https://medium.com/@passsy/starting-activities-with-kotlin-my-journey-8b7307f1e460)
