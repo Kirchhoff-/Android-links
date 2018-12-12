@@ -273,8 +273,6 @@ Links about android development
 
 [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
 
-[Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
-
 [Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
 
 [Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
@@ -394,6 +392,8 @@ Links about android development
 [Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
 
 [OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
+
+[Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
 
 [Why null is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
 
