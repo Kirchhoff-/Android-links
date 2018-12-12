@@ -223,8 +223,6 @@ Links about android development
 
 [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
 
-[Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
-
 [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
 
 [Use the Android apk analyzer to reduce your apk size](https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/)
@@ -394,6 +392,8 @@ Links about android development
 
 ## OOP
 [Typical Mistakes in Java Code](https://www.yegor256.com/2014/04/27/typical-mistakes-in-java-code.html)
+
+[Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
 
 [OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
 
