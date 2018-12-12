@@ -281,8 +281,6 @@ Links about android development
 
 [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
 
-[Static methods violate Dependency Inversion principle](https://www.vzurauskas.com/2018/09/09/static-methods-violate-dependency-inversion-principle/)
-
 [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
 
 [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
@@ -396,6 +394,8 @@ Links about android development
 [Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
 
 [Why null is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
+
+[Static methods violate Dependency Inversion principle](https://www.vzurauskas.com/2018/09/09/static-methods-violate-dependency-inversion-principle/)
 
 [Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
 
