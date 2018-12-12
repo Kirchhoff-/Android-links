@@ -81,6 +81,14 @@ Links about android development
 
 [[Youtube] View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw&list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn)
 
+[Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
+
+[Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
+
+[Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
+
+[Managing Keyboard on Webview](https://medium.com/@elye.project/managing-keyboard-on-webview-d2e89109d106)
+
 ## Tests
 [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
 
@@ -144,8 +152,6 @@ Links about android development
 [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
 
 [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
-
-[Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
 
 [Introduction to SpringAnimation with examples](https://www.thedroidsonroids.com/blog/android/springanimation-examples/)
 
@@ -217,8 +223,6 @@ Links about android development
 
 [Task Stack](https://blog.stylingandroid.com/task-stack/)
 
-[Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
-
 [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
 
 [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
@@ -258,8 +262,6 @@ Links about android development
 [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
 
 [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
-
-[Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
 
 [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
 
@@ -314,8 +316,6 @@ Links about android development
 [Building vertical decorators right](https://www.vzurauskas.com/2018/10/28/building-vertical-decorators-right/)
 
 [Preferred way to set clickable image icon](https://medium.com/@elye.project/preferred-way-to-set-clickable-image-icon-95b0c88f3cd9)
-
-[Managing Keyboard on Webview](https://medium.com/@elye.project/managing-keyboard-on-webview-d2e89109d106)
 
 [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
 
