@@ -50,6 +50,7 @@ Links about android development
 
 * [Defensive Programming via Validating Decorators](https://www.yegor256.com/2016/01/26/defensive-programming.html)
 
+* [Vertical and Horizontal Decorating](https://www.yegor256.com/2015/10/01/vertical-horizontal-decorating.html)
 ---
 
 ### Views
