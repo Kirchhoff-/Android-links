@@ -30,22 +30,15 @@ Links about android development
 
 ### Patterns
 * [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction](http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
-
 * [Common Design Patterns for Android](https://www.raywenderlich.com/109843/common-design-patterns-for-android)
-
 * [Designing something solid](https://www.novoda.com/blog/designing-something-solid/)
-
 * [Don’t use DAO, use Repository](https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/)
-
 * [Design Patterns in Android – Observer](https://www.thedroidsonroids.com/blog/design-patterns-android-observer-2)
-
 * [Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
-
 * [Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
-
 * [Defensive Programming via Validating Decorators](https://www.yegor256.com/2016/01/26/defensive-programming.html)
-
 * [Vertical and Horizontal Decorating](https://www.yegor256.com/2015/10/01/vertical-horizontal-decorating.html)
+
 ---
 
 ### Views
