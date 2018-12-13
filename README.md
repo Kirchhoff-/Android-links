@@ -20,15 +20,10 @@ Links about android development
 
 ### Fragment
 * [Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)
-
 * [Fragment Transactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
-
 * [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
-
 * [Android Fragment Lifecycle for Professional Developers](https://www.techyourchance.com/android-fragment-lifecycle-for-professional-developers/)
-
 * [Lifecycle & Fragments backstack](https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5)
-
 * [[Youtube] Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
 ---
