@@ -42,48 +42,26 @@ Links about android development
 ---
 
 ### Views
-* [Say goodbye to findViewById. Say hello to Data Binding Library.](https://inthecheesefactory.com/blog/say-goodbye-to-findviewbyid-with-data-binding-library/en)
-
 * [Greyscale Views on Android](http://blog.bradcampbell.nz/greyscale-views-on-android/)
-
 * [Animating Android Activities and Views with Left and Right Slide Animations](https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view)
-
 * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
-
 * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
-
 * [RecyclerView animations done right](http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/)
-
 * [Writing Better Adapters](https://proandroiddev.com/writing-better-adapters-1b09758407d2)
-
 * [Using Custom Views As Menu Items](http://blog.stablekernel.com/using-custom-views-as-menu-items)
-
 * [Your ViewHolders are Dumb. Make ’em Not Dumb](https://jonfhancock.com/your-viewholders-are-dumb-make-em-not-dumb-82e6f73f630c)
-
 * [ConstraintLayout - Guidelines, Barriers, Chains and Groups](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
-
 * [ItemDecoration in Android](https://medium.com/proandroiddev/itemdecoration-in-android-e18a0692d848)
-
 * [Playing with elevation in Android](https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596)
-
 * [An Android Toolbar and Action Bar Color Guide](https://www.codeandkits.com/Blog/2018/03/26/an-android-toolbar-and-action-bar-color-guide/)
-
 * [Drawing multiline text to Canvas](https://medium.com/over-engineering/drawing-multiline-text-to-canvas-on-android-9b98f0bfa16a)
-
 * [Spantastic text styling with Spans](https://medium.com/google-developers/spantastic-text-styling-with-spans-17b0c16b4568)
-
 * [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
-
 * [Customizing Switch using XML](https://medium.com/@elye.project/customizing-switch-using-xml-ca0d37204a86)
-
-* [[Youtube] View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw&list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn)
-
+* [[Youtube] View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw)
 * [Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
-
 * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
-
 * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
-
 * [Managing Keyboard on Webview](https://medium.com/@elye.project/managing-keyboard-on-webview-d2e89109d106)
 
 ---
