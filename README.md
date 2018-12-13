@@ -32,6 +32,7 @@ Links about android development
 * [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction](http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
 * [Common Design Patterns for Android](https://www.raywenderlich.com/109843/common-design-patterns-for-android)
 * [Designing something solid](https://www.novoda.com/blog/designing-something-solid/)
+* [Writing Better Adapters](https://proandroiddev.com/writing-better-adapters-1b09758407d2)
 * [Don’t use DAO, use Repository](https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/)
 * [Design Patterns in Android – Observer](https://www.thedroidsonroids.com/blog/design-patterns-android-observer-2)
 * [Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
@@ -42,27 +43,29 @@ Links about android development
 ---
 
 ### Views
-* [Greyscale Views on Android](http://blog.bradcampbell.nz/greyscale-views-on-android/)
-* [Animating Android Activities and Views with Left and Right Slide Animations](https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view)
-* [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
-* [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
-* [RecyclerView animations done right](http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/)
-* [Writing Better Adapters](https://proandroiddev.com/writing-better-adapters-1b09758407d2)
-* [Using Custom Views As Menu Items](http://blog.stablekernel.com/using-custom-views-as-menu-items)
-* [Your ViewHolders are Dumb. Make ’em Not Dumb](https://jonfhancock.com/your-viewholders-are-dumb-make-em-not-dumb-82e6f73f630c)
-* [ConstraintLayout - Guidelines, Barriers, Chains and Groups](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
-* [ItemDecoration in Android](https://medium.com/proandroiddev/itemdecoration-in-android-e18a0692d848)
-* [Playing with elevation in Android](https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596)
-* [An Android Toolbar and Action Bar Color Guide](https://www.codeandkits.com/Blog/2018/03/26/an-android-toolbar-and-action-bar-color-guide/)
-* [Drawing multiline text to Canvas](https://medium.com/over-engineering/drawing-multiline-text-to-canvas-on-android-9b98f0bfa16a)
-* [Spantastic text styling with Spans](https://medium.com/google-developers/spantastic-text-styling-with-spans-17b0c16b4568)
-* [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
-* [Customizing Switch using XML](https://medium.com/@elye.project/customizing-switch-using-xml-ca0d37204a86)
-* [[Youtube] View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw)
-* [Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
-* [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
-* [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
-* [Managing Keyboard on Webview](https://medium.com/@elye.project/managing-keyboard-on-webview-d2e89109d106)
+* Main
+    * [Greyscale Views on Android](http://blog.bradcampbell.nz/greyscale-views-on-android/)
+    * [Animating Android Activities and Views with Left and Right Slide Animations](https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view)
+    * [Using Custom Views As Menu Items](http://blog.stablekernel.com/using-custom-views-as-menu-items)
+    * [ConstraintLayout - Guidelines, Barriers, Chains and Groups](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
+    * [Playing with elevation in Android](https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596)
+    * [An Android Toolbar and Action Bar Color Guide](https://www.codeandkits.com/Blog/2018/03/26/an-android-toolbar-and-action-bar-color-guide/)
+    * [Drawing multiline text to Canvas](https://medium.com/over-engineering/drawing-multiline-text-to-canvas-on-android-9b98f0bfa16a)
+    * [Spantastic text styling with Spans](https://medium.com/google-developers/spantastic-text-styling-with-spans-17b0c16b4568)
+    * [Customizing Switch using XML](https://medium.com/@elye.project/customizing-switch-using-xml-ca0d37204a86)
+    * [[Youtube] View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw)
+    * [Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
+* RecyclerView
+    * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
+    * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
+    * [RecyclerView animations done right](http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/)
+    * [Your ViewHolders are Dumb. Make ’em Not Dumb](https://jonfhancock.com/your-viewholders-are-dumb-make-em-not-dumb-82e6f73f630c)
+    * [ItemDecoration in Android](https://medium.com/proandroiddev/itemdecoration-in-android-e18a0692d848)
+    * [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
+* WebView
+    * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
+    * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
+    * [Managing Keyboard on Webview](https://medium.com/@elye.project/managing-keyboard-on-webview-d2e89109d106)    
 
 ---
 
