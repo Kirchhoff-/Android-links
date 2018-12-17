@@ -526,7 +526,7 @@ Links about android development
 ---
 
 ### Kotlin
-* Data classes
+* Data Classes
     * [Creating multiple constructors for Data classes in Kotlin](https://medium.com/proandroiddev/creating-multiple-constructors-for-data-classes-in-kotlin-32ad27e58cac)
     * [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
     * [Data Classes are The Best Kotlin Feature](https://www.techyourchance.com/data-classes-best-kotlin-feature/)
@@ -549,12 +549,12 @@ Links about android development
     * [Kotlin — Mastering generics nullability](https://medium.com/@igorwojda/kotlin-deep-dive-into-generics-nullability-9853d9a9f50d)   
     * [All About Type Aliases in Kotlin](https://typealias.com/guides/all-about-type-aliases/)
     * [An Illustrated Guide to Covariance and Contravariance in Kotlin](https://typealias.com/guides/illustrated-guide-covariance-contravariance/)
- * Properties
+* Properties
     * [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
     * [Safely accessing lateinit properties in Kotlin](https://upcurve.engineering/accessing-lateinit-kotlin/)
     * [Kotlin and Android #2 — Treacherous properties](https://tips.seebrock3r.me/kotlin-and-android-2-treacherous-properties-562966242c2d)
     * [Kotlin: should I define Function or Property?](https://blog.kotlin-academy.com/kotlin-should-i-define-function-or-property-6786951da909)
-  * Android
+* Android
     * [How kotlin became our primary language for android](https://medium.com/uptech-team/how-kotlin-became-our-primary-language-for-android-3af7fd6a994c#.hj4k8m25l)  
     * [Starting Activities with Kotlin](https://medium.com/@passsy/starting-activities-with-kotlin-my-journey-8b7307f1e460)
     * [Kotlin + buildSrc for Better Gradle Dependency Management](https://handstandsam.com/2018/02/11/kotlin-buildsrc-for-better-gradle-dependency-management/)
@@ -564,42 +564,44 @@ Links about android development
     * [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)   
     * [[Video] Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
     * [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
-  * Coroutines
+* Coroutines
     * [[Youtube] Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
     * [Diving deep into Kotlin Coroutines](https://www.kotlindevelopment.com/deep-dive-coroutines/)
     * [Simple asynchronous loading with Kotlin Coroutines](https://hellsoft.se/simple-asynchronous-loading-with-kotlin-coroutines-f26408f97f46)
-  * Functional Programming    
+* Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
     * [Comping with kotlin's scope functions](https://kotlinexpertise.com/coping-with-kotlins-scope-functions/)
     * [the tldr; on Kotlin’s let, apply, also, with and run functions](https://proandroiddev.com/the-tldr-on-kotlins-let-apply-also-with-and-run-functions-6253f06d152b)
     * [Kotlin Functional Programming: Does it make sense?](https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf)
     * [Lambda Expressions in Kotlin](http://www.baeldung.com/kotlin-lambda-expressions)
-  * Extension Functions  
+* Extension Functions
     * [How to Abuse Kotlin Extension Functions](https://www.philosophicalhacker.com/post/how-to-abuse-kotlin-extension-functions/)
     * [Getting rid of boilerplate with Kotlin Android Extensions](https://www.kotlindevelopment.com/kotlin_android_extensions_eliminate_findviewbyid/)    
-
-* [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
-* [Gang of Four Patterns in Kotlin](https://dev.to/lovis/gang-of-four-patterns-in-kotlin)
-* [Anko for developer](https://www.kotlindevelopment.com/why-should-use-anko/)
-* [Kotlin tips: Singleton, Utility Functions, group Object Initialization](https://medium.com/default-to-open/kotlin-tips-singleton-utility-functions-group-object-initialization-and-more-27cdd6f63a41)
-* [Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)
-* [Learning Kotlin by Mistake](https://engineering.udacity.com/learning-kotlin-by-mistake-b99304b7d724)
-* [Simplified code with kotlin](https://android.jlelse.eu/simplified-code-with-kotlin-cda9915c9fb9)
-* [Preconditions.kt: Validate Your Kotlin](https://blog.egorand.me/preconditions-kt-validate-your-kotlin/)
-* [How “Effective Java” may have influenced the design of Kotlin](http://www.lukle.at/blog/2017/08/how-effective-java-may-have-influenced-the-design-of-kotlin%E2%80%8A-%E2%80%8Apart-3/)
-* [Safe, concise text parsing with regex destructuring in Kotlin](https://medium.com/@garnop/safe-concise-text-parsing-with-regex-destructuring-in-kotlin-b8f77ef1e30c)
-* [A life without ifs](https://medium.com/a-problem-like-maria/a-life-without-ifs-e44967e5c77b)
-* [Kotlin + Dagger 2 Gotchas](https://medium.com/@vlazzle/kotlin-dagger-2-gotchas-ebb6bb2ac506)
-* [DI for lazy kotliniers](https://jankotlin.wordpress.com/2017/09/18/di-for-lazy-kotliniers/)
-* [A few facts about Companion objects](https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725)
-* [Effective Kotlin: Use Sequence for bigger collections with more than one processing step](https://blog.kotlin-academy.com/effective-kotlin-use-sequence-for-bigger-collections-with-more-than-one-processing-step-649a15bb4bf)
-* [Default implementations for interfaces](https://medium.com/a-problem-like-maria/default-implementations-for-interfaces-afd0b9316a8a)
-* [You don't need a variable for this](https://forcelain.github.io/2017/08/04/you-don-t-need-a-variable-for-this.html)
-* [A practical explanation for initialization modifiers in Kotlin](https://medium.com/google-developer-experts/a-practical-explanation-for-initialization-modifiers-in-kotlin-9f52096ff1ca)
-* [Kotlin variable, to be Lazy, or to be Late?](https://medium.com/@elye.project/kotlin-variable-to-be-lazy-or-to-be-late-ab865c682d61)
-* [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
-* [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
-* [Annotations for your Java-friendly Kotlin code](https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbedec14)
-* [Looping in Kotlin](https://medium.com/@elye.project/looping-in-kotlin-65b54d05ad21)
-* [[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
+* Patterns
+    * [Gang of Four Patterns in Kotlin](https://dev.to/lovis/gang-of-four-patterns-in-kotlin)
+    * [Kotlin tips: Singleton, Utility Functions, group Object Initialization](https://medium.com/default-to-open/kotlin-tips-singleton-utility-functions-group-object-initialization-and-more-27cdd6f63a41)   
+    * [How “Effective Java” may have influenced the design of Kotlin](http://www.lukle.at/blog/2017/08/how-effective-java-may-have-influenced-the-design-of-kotlin%E2%80%8A-%E2%80%8Apart-3/)
+    * [DI for lazy kotliniers](https://jankotlin.wordpress.com/2017/09/18/di-for-lazy-kotliniers/)
+    * [Effective Kotlin: Use Sequence for bigger collections with more than one processing step](https://blog.kotlin-academy.com/effective-kotlin-use-sequence-for-bigger-collections-with-more-than-one-processing-step-649a15bb4bf)
+    * [Default implementations for interfaces](https://medium.com/a-problem-like-maria/default-implementations-for-interfaces-afd0b9316a8a)    
+* Variable
+    * [Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)  
+    * [A few facts about Companion objects](https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725)
+    * [You don't need a variable for this](https://forcelain.github.io/2017/08/04/you-don-t-need-a-variable-for-this.html)
+    * [A practical explanation for initialization modifiers in Kotlin](https://medium.com/google-developer-experts/a-practical-explanation-for-initialization-modifiers-in-kotlin-9f52096ff1ca)
+    * [Kotlin variable, to be Lazy, or to be Late?](https://medium.com/@elye.project/kotlin-variable-to-be-lazy-or-to-be-late-ab865c682d61) 
+* Other
+    * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
+    * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
+    * [Anko for developer](https://www.kotlindevelopment.com/why-should-use-anko/)
+    * [Learning Kotlin by Mistake](https://engineering.udacity.com/learning-kotlin-by-mistake-b99304b7d724)
+    * [Simplified code with kotlin](https://android.jlelse.eu/simplified-code-with-kotlin-cda9915c9fb9)
+    * [Preconditions.kt: Validate Your Kotlin](https://blog.egorand.me/preconditions-kt-validate-your-kotlin/)
+    * [Safe, concise text parsing with regex destructuring in Kotlin](https://medium.com/@garnop/safe-concise-text-parsing-with-regex-destructuring-in-kotlin-b8f77ef1e30c)
+    * [A life without ifs](https://medium.com/a-problem-like-maria/a-life-without-ifs-e44967e5c77b)
+    * [Kotlin + Dagger 2 Gotchas](https://medium.com/@vlazzle/kotlin-dagger-2-gotchas-ebb6bb2ac506)
+    * [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
+    * [Annotations for your Java-friendly Kotlin code](https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbedec14)
+    * [Looping in Kotlin](https://medium.com/@elye.project/looping-in-kotlin-65b54d05ad21)
+    * [[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
