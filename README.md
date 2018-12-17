@@ -336,6 +336,7 @@ Links about android development
 
 * [How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
 
+* [Can’t crack that programming problem? Go to sleep](https://m.signalvnoise.com/cant-crack-that-programming-problem-go-to-sleep-or-take-a-walk-930c767e1119)
 ---
 
 ### Git
