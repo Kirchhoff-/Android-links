@@ -71,61 +71,35 @@ Links about android development
 ---
 
 ### Tests
-* [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
-
-* [Different ways of testing exceptions in Java and JUnit](https://blog.goyello.com/2015/10/01/different-ways-of-testing-exceptions-in-java-and-junit/)
-
-* [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
-
-* [How to be a mock star](https://medium.com/fueled-android/how-to-be-a-mock-star-fc00714d8c2f)
-
-* [Android testing: Unit testing (Part 1)](http://alexzh.com/tutorials/android-testing-unit-testing/)
-
-* [Android testing: Mockito and Robolectric (Part 2)](http://alexzh.com/tutorials/android-testing-mockito-robolectric/)
-
-* [Android testing: Espresso (Part 3)](http://alexzh.com/tutorials/android-testing-espresso-part-3/)
-
-* [Android testing: UI Automator (Part 4)](http://alexzh.com/tutorials/android-testing-ui-automator-part-4/)
-
-* [Dont Use Espresso Idling Resources like Google does](https://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-like-this/)
-
-* [How "Android Test Recorder" generate delays between actions](http://droidtestlab.com/delay.html)
-
-* [Should we use mocking libraries for go testing?](https://www.philosophicalhacker.com/2016/01/13/should-we-use-mocking-libraries-for-go-testing/)
-
-* [Simple way to test asynchronous actions in Android](https://medium.com/@v.danylo/simple-way-to-test-asynchronous-actions-in-android-service-asynctask-thread-rxjava-etc-d43b0402e005)
-
-* [Dagger 2 Testing](http://endlesswhileloop.com/blog/2016/06/23/dagger-2-testing/)
-
-* [Why I Don't use Robolectric](https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/)
-
-* [Junit testing and Android dependencies](https://android.jlelse.eu/junit-testing-and-android-dependencies-e65e66afce61)
-
-* [Clean tests: Naming](https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522)
-
-* [Clean tests: Comments](https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186)
-
-* [Unit testing protected lifecycle methods](https://medium.com/google-developer-experts/unit-testing-activity-lifecycle-4e740f71e68a)
-
-* [Unit Testable RecyclerViews](https://www.philosophicalhacker.com/post/unit-testable-recycler-views/)
-
-* [The 3 tiers of the Android test pyramid](https://medium.com/android-testing-daily/the-3-tiers-of-the-android-test-pyramid-c1211b359acd)
-
-* [Testing state vs. testing interaction](https://medium.com/android-testing-daily/testing-state-vs-testing-interaction-c5d7fe0bf247)
-
-* [Test doubles](https://medium.com/android-testing-daily/test-doubles-9a63dfaeb28b)
-
-* [Testing Views in Isolation at RoMOBOS](https://proandroiddev.com/testing-views-in-isolation-at-romobos-d288e76fe10e)
-
-* [One weird trick to name your tests](https://medium.com/@anupcowkur/one-weird-trick-to-name-your-tests-28ca1f8131c2)
-
-* [An Introduction to Testing Custom Views on Android](https://proandroiddev.com/an-introduction-to-testing-custom-views-on-android-10a6152f379?__s=7obepfpkzmezdyhskkzf)
-
-* [Espresso Test Addiction: An Anti-pattern](https://www.philosophicalhacker.com/post/espresso-test-addiction/)
-
-* [Myths about Unit Tests](https://8thlight.com/blog/fabien-townsend/2017/09/19/myths-about-unit-tests.html)
-
-* [Mixing JUnit, Hamcrest and Mockito: Explaining java.lang.NoSuchMethodError](https://tedvinke.wordpress.com/2013/12/17/mixing-junit-hamcrest-and-mockito-explaining-nosuchmethoderror/)
+* Main
+    * [Different ways of testing exceptions in Java and JUnit](https://blog.goyello.com/2015/10/01/different-ways-of-testing-exceptions-in-java-and-junit/)
+    * [Should we use mocking libraries for go testing?](https://www.philosophicalhacker.com/2016/01/13/should-we-use-mocking-libraries-for-go-testing/)
+    * [Clean tests: Naming](https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522)
+    * [Clean tests: Comments](https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186)
+    * [Testing state vs. testing interaction](https://medium.com/android-testing-daily/testing-state-vs-testing-interaction-c5d7fe0bf247)
+    * [Test doubles](https://medium.com/android-testing-daily/test-doubles-9a63dfaeb28b)
+    * [One weird trick to name your tests](https://medium.com/@anupcowkur/one-weird-trick-to-name-your-tests-28ca1f8131c2)
+    * [An Introduction to Testing Custom Views on Android](https://proandroiddev.com/an-introduction-to-testing-custom-views-on-android-10a6152f379?__s=7obepfpkzmezdyhskkzf)
+    * [Myths about Unit Tests](https://8thlight.com/blog/fabien-townsend/2017/09/19/myths-about-unit-tests.html)
+* Android
+    * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
+    * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
+    * [How to be a mock star](https://medium.com/fueled-android/how-to-be-a-mock-star-fc00714d8c2f)
+    * [Android testing: Unit testing (Part 1)](http://alexzh.com/tutorials/android-testing-unit-testing/)
+    * [Android testing: Mockito and Robolectric (Part 2)](http://alexzh.com/tutorials/android-testing-mockito-robolectric/)
+    * [Android testing: Espresso (Part 3)](http://alexzh.com/tutorials/android-testing-espresso-part-3/)
+    * [Android testing: UI Automator (Part 4)](http://alexzh.com/tutorials/android-testing-ui-automator-part-4/)
+    * [Dont Use Espresso Idling Resources like Google does](https://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-like-this/)
+    * [How "Android Test Recorder" generate delays between actions](http://droidtestlab.com/delay.html)
+    * [Simple way to test asynchronous actions in Android](https://medium.com/@v.danylo/simple-way-to-test-asynchronous-actions-in-android-service-asynctask-thread-rxjava-etc-d43b0402e005)
+    * [Dagger 2 Testing](http://endlesswhileloop.com/blog/2016/06/23/dagger-2-testing/)
+    * [Why I Don't use Robolectric](https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/)
+    * [Junit testing and Android dependencies](https://android.jlelse.eu/junit-testing-and-android-dependencies-e65e66afce61)
+    * [Unit testing protected lifecycle methods](https://medium.com/google-developer-experts/unit-testing-activity-lifecycle-4e740f71e68a)
+    * [Unit Testable RecyclerViews](https://www.philosophicalhacker.com/post/unit-testable-recycler-views/)
+    * [The 3 tiers of the Android test pyramid](https://medium.com/android-testing-daily/the-3-tiers-of-the-android-test-pyramid-c1211b359acd)
+    * [Testing Views in Isolation at RoMOBOS](https://proandroiddev.com/testing-views-in-isolation-at-romobos-d288e76fe10e)
+    * [Espresso Test Addiction: An Anti-pattern](https://www.philosophicalhacker.com/post/espresso-test-addiction/)
 
 ---
 
