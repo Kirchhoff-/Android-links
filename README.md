@@ -298,113 +298,71 @@ Links about android development
 
 ### Gradle
 * [10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
-
 * [A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
-
 * [[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
-
 * [How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
-
 * [Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
-
 * [[Yotube] Gradle: From User to Addict](https://www.youtube.com/watch?v=-C7TtnPJ7ms)
-
 * [Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
 
 ---
 
 ### Life
 * [40 Hours is enough](https://hackernoon.com/40-hours-is-enough-86d7166911ea)
-
 * [Programmer 60-80 hour weeks](http://brianknapp.me/programmer-60-80-hour-weeks/)
-
 * [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html)
-
 * [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5)
-
 * [Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d)
-
 * [Professional Developer: What Does It Mean?](https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean)
-
 * [I Don’t Have Time is a Myth](http://www.donnfelker.com/i-dont-have-time-is-a-myth/?utm_source=androiddevdigest)
-
 * [I "Love" Anti-patterns](https://dev.to/levimoreira/i-love-anti-patterns-1bj1)
-
 * [Soft Skills Demystified](https://www.yegor256.com/2018/08/29/soft-skills.html)
-
 * [How to Be a Good Office Slave](https://www.yegor256.com/2015/10/06/how-to-be-good-office-slave.html)
-
 * [How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
-
 * [Can’t crack that programming problem? Go to sleep](https://m.signalvnoise.com/cant-crack-that-programming-problem-go-to-sleep-or-take-a-walk-930c767e1119)
 ---
 
 ### Git
 * [Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
-
 * [Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
-
 * [Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
 
 ---
 
 ### Context
 * [Context, What Context?](https://possiblemobile.com/2013/06/context/)
-
 * [Which Context should I use in Android?](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
-
 * [Why Having Global Static References to Application Contexts is Probably not the Best Idea](https://www.philosophicalhacker.com/2015/07/14/why-static-references-to-application-contexts-are-probably-not-the-best-idea/)
-
 * [Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
-
 * [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
 
 ---
 
 ### Themes
 * [How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
-
 * [Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
-
 * [Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
-
 * [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
-
 * [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
 
 ---
 
 ### OOP
 * [Typical Mistakes in Java Code](https://www.yegor256.com/2014/04/27/typical-mistakes-in-java-code.html)
-
 * [Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
-
 * [OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
-
 * [Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
-
 * [Why null is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
-
 * [Static methods violate Dependency Inversion principle](https://www.vzurauskas.com/2018/09/09/static-methods-violate-dependency-inversion-principle/)
-
 * [Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
-
 * [Solid Is OOP for Dummies](https://www.yegor256.com/2017/03/28/solid.html)
-
 * [Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
-
 * [Seven Virtues of a Good Object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
-
 * [How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
-
 * [How Does Inversion of Control Really Work?](https://www.yegor256.com/2017/05/10/inversion-of-control.html)
-
 * [Object Behavior Must Not Be Configurable](https://www.yegor256.com/2016/04/19/object-must-not-be-configurable.html)
-
 * [Why Many Return Statements Are a Bad Idea in OOP](https://www.yegor256.com/2015/08/18/multiple-return-statements-in-oop.html)
-
 * [There Can Be Only One Primary Constructor](https://www.yegor256.com/2015/05/28/one-primary-constructor.html)
-
 * [Immutable Objects Are Not Dumb](https://www.yegor256.com/2014/12/22/immutable-objects-not-dumb.html)
 
 ---
