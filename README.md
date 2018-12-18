@@ -564,6 +564,7 @@ Links about android development
     * [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)   
     * [[Video] Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
     * [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
+    * [Kotlin Android Extensions: Using View Binding the right way](https://proandroiddev.com/kotlin-android-extensions-using-view-binding-the-right-way-707cd0c9e648)
 * Coroutines
     * [[Youtube] Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
     * [Diving deep into Kotlin Coroutines](https://www.kotlindevelopment.com/deep-dive-coroutines/)
