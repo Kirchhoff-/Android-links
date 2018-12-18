@@ -389,71 +389,43 @@ Links about android development
 ---
 
 ### Rx
-* [[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
-
-* [[Youtube] Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
-
-* [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
-
-* [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
-
-* [Rx java backpressure](https://stackoverflow.com/documentation/rx-java/2341/backpressure/10629/creating-backpressured-data-sources#t=201607290718331225652)
-
-* [Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
-
-* [Retrofit 2 and Rx Java call adapter error handling](http://bytes.babbel.com/en/articles/2016-03-16-retrofit2-rxjava-error-handling.html)
-
-* [Combination of RxJava and DiffUtil](https://hellsoft.se/a-nice-combination-of-rxjava-and-diffutil-fe3807186012)
-
-* [Server polling and retrying failed operations, with Retrofit and RxJava](https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a)
-
-* [Overriding RxAndroid Schedulers in RxJava 2](https://medium.com/@peter.tackage/overriding-rxandroid-schedulers-in-rxjava-2-5561b3d14212)
-
-* [MVVM + RxJava: Common Mistakes](http://upday.github.io/blog/mvvm_rx_common_mistakes/)
-
-* [RxJava2: Dispose an Observable chain](https://android.jlelse.eu/rxjava2-dispose-an-observable-chain-684e6ca2790)
-
-* [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
-
-* [Concurrency in RxJava 2](https://code.tutsplus.com/tutorials/concurrency-in-rxjava-2--cms-29288)
-
-* [RxJava - Schedulers - What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
-
-* [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
-
-* [Rx if the operators could speak](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
-
-* [Writing Custom Rx Operators Easily with Kotlin](https://upcurve.engineering/custom-rx-operators-kotlin/)
-
-* [RxJava as event bus, the right way](https://lorentzos.com/rxjava-as-event-bus-the-right-way-10a36bdd49ba)
-
-* [RxJava2 and Retrofit2 Error Handling on a single place](https://medium.com/mindorks/rxjava2-and-retrofit2-error-handling-on-a-single-place-8daf720d42d6)
-
-* [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
-
-* [Building an AutoCompleting EditText using RxJava](https://proandroiddev.com/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40)
-
-* [Error handling in RxJava/RxKotlin](https://android.jlelse.eu/error-handling-in-rxjava-rxkotlin-e960300990e0)
-
-* [RxJava Backpressure and why should you care?](https://proandroiddev.com/rxjava-backpressure-and-why-you-should-care-369c5242c9e6)
-
-* [LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)
-
-* [Understanding RxJava Subject — Publish, Replay, Behavior and Async Subject](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f?gi=837dc5402ae4)
-
-* [Understanding RxJava subscribeOn and observeOn](https://proandroiddev.com/understanding-rxjava-subscribeon-and-observeon-744b0c6a41ea)
-
-* [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
-
-* [Rxify: error handling with subjects, relays](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
-
-* [RxJava on the Sign In Screen](https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572)
-
-* [When you dont need map](https://blog.danlew.net/2018/02/20/when-you-dont-need-a-map)
-
-* [[Youtube] Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
-
-* [[Youtube] Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
+* Main
+    * [[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
+    * [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
+    * [RxJava2: Dispose an Observable chain](https://android.jlelse.eu/rxjava2-dispose-an-observable-chain-684e6ca2790)
+    * [Concurrency in RxJava 2](https://code.tutsplus.com/tutorials/concurrency-in-rxjava-2--cms-29288)
+    * [RxJava - Schedulers - What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
+    * [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
+    * [Rx if the operators could speak](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
+    * [Writing Custom Rx Operators Easily with Kotlin](https://upcurve.engineering/custom-rx-operators-kotlin/)
+    * [RxJava as event bus, the right way](https://lorentzos.com/rxjava-as-event-bus-the-right-way-10a36bdd49ba)
+    * [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
+    * [Understanding RxJava Subject — Publish, Replay, Behavior and Async Subject](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f?gi=837dc5402ae4)
+    * [Understanding RxJava subscribeOn and observeOn](https://proandroiddev.com/understanding-rxjava-subscribeon-and-observeon-744b0c6a41ea)
+    * [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
+    * [When you dont need map](https://blog.danlew.net/2018/02/20/when-you-dont-need-a-map)
+    * [[Youtube] Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
+* Error
+    * [Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
+    * [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
+    * [Error handling in RxJava/RxKotlin](https://android.jlelse.eu/error-handling-in-rxjava-rxkotlin-e960300990e0)
+    * [Rxify: error handling with subjects, relays](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
+* Backpressure
+    * [Rx java backpressure](https://stackoverflow.com/documentation/rx-java/2341/backpressure/10629/creating-backpressured-data-sources#t=201607290718331225652)
+    * [RxJava Backpressure and why should you care?](https://proandroiddev.com/rxjava-backpressure-and-why-you-should-care-369c5242c9e6)
+* Android
+    * [[Youtube] Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
+    * [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
+    * [Retrofit 2 and Rx Java call adapter error handling](http://bytes.babbel.com/en/articles/2016-03-16-retrofit2-rxjava-error-handling.html)
+    * [Combination of RxJava and DiffUtil](https://hellsoft.se/a-nice-combination-of-rxjava-and-diffutil-fe3807186012)
+    * [Server polling and retrying failed operations, with Retrofit and RxJava](https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a)
+    * [Overriding RxAndroid Schedulers in RxJava 2](https://medium.com/@peter.tackage/overriding-rxandroid-schedulers-in-rxjava-2-5561b3d14212)
+    * [LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)
+    * [MVVM + RxJava: Common Mistakes](http://upday.github.io/blog/mvvm_rx_common_mistakes/)
+    * [RxJava2 and Retrofit2 Error Handling on a single place](https://medium.com/mindorks/rxjava2-and-retrofit2-error-handling-on-a-single-place-8daf720d42d6)
+    * [Building an AutoCompleting EditText using RxJava](https://proandroiddev.com/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40)
+    * [[Youtube] Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
+    * [RxJava on the Sign In Screen](https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572)
 
 ---
 
