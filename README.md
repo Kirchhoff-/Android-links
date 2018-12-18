@@ -62,6 +62,7 @@ Links about android development
     * [RecyclerView animations done right](http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/)
     * [Your ViewHolders are Dumb. Make ’em Not Dumb](https://jonfhancock.com/your-viewholders-are-dumb-make-em-not-dumb-82e6f73f630c)
     * [ItemDecoration in Android](https://medium.com/proandroiddev/itemdecoration-in-android-e18a0692d848)
+    * [[Yotube] Mastering RecyclerView Layouts](https://www.youtube.com/watch?v=gs_C1E8HwvE)
     * [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
 * WebView
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
@@ -243,8 +244,6 @@ Links about android development
 * [[Yotube] Timing is Everything: How to use Timer, Handler, and AlarmManager](https://www.youtube.com/watch?v=CzNFjCQhCV0)
 
 * [[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
-
-* [[Yotube] Mastering RecyclerView Layouts](https://www.youtube.com/watch?v=gs_C1E8HwvE)
 
 * [[Yotube] Requesting Permissions at Run Time](https://www.youtube.com/watch?v=WGz-alwVh8A)
 
