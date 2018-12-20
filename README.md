@@ -268,6 +268,9 @@ Links about android development
 * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
 
 * [Feature Flags in Native Mobile Development are a Must](https://www.techyourchance.com/feature-flags-in-native-mobile-development-are-must/)
+
+* [Three Things I Expect From a Software Architect](https://www.yegor256.com/2015/05/11/software-architect-responsibilities.html)
+
 ---
 
 ### Gradle
