@@ -271,6 +271,8 @@ Links about android development
 
 * [Three Things I Expect From a Software Architect](https://www.yegor256.com/2015/05/11/software-architect-responsibilities.html)
 
+* [Two Instruments of a Software Architect](https://www.yegor256.com/2015/05/13/two-instruments-of-software-architect.html)
+
 ---
 
 ### Gradle
