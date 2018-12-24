@@ -64,6 +64,7 @@ Links about android development
     * [ItemDecoration in Android](https://medium.com/proandroiddev/itemdecoration-in-android-e18a0692d848)
     * [[Yotube] Mastering RecyclerView Layouts](https://www.youtube.com/watch?v=gs_C1E8HwvE)
     * [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
+    * [Right way of setting margin on Recycler View’s cell](https://medium.com/@elye.project/right-way-of-setting-margin-on-recycler-views-cell-319da259b641)
 * WebView
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
     * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
