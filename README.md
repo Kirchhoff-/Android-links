@@ -56,6 +56,7 @@ Links about android development
     * [[Youtube] View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw)
     * [Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
     * [A guide for Android ImageView ScaleType and adjustViewBounds](https://proandroiddev.com/a-guide-for-android-imageview-scaletype-and-adjustviewbounds-64a1e4a35503)
+    * [ViewPager without fragments](https://www.bignerdranch.com/blog/viewpager-without-fragments/)    
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
