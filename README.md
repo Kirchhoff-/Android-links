@@ -20,7 +20,7 @@ Jump to
 - [Rx](#rx)
 - [Kotlin](#kotlin)
 
-### Fragment
+## Fragment
 [back to top](#readme) 
 * [Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)
 * [Fragment Transactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
@@ -32,7 +32,8 @@ Jump to
 
 ---
 
-### Patterns
+## Patterns
+[back to top](#readme) 
 * [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction](http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
 * [Common Design Patterns for Android](https://www.raywenderlich.com/109843/common-design-patterns-for-android)
 * [Designing something solid](https://www.novoda.com/blog/designing-something-solid/)
@@ -49,7 +50,8 @@ Jump to
 
 ---
 
-### Views
+## Views
+[back to top](#readme)
 * Main
     * [Greyscale Views on Android](http://blog.bradcampbell.nz/greyscale-views-on-android/)
     * [Animating Android Activities and Views with Left and Right Slide Animations](https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view)
@@ -86,7 +88,8 @@ Jump to
 
 ---
 
-### Tests
+## Tests
+[back to top](#readme)
 * Main
     * [Different ways of testing exceptions in Java and JUnit](https://blog.goyello.com/2015/10/01/different-ways-of-testing-exceptions-in-java-and-junit/)
     * [Should we use mocking libraries for go testing?](https://www.philosophicalhacker.com/2016/01/13/should-we-use-mocking-libraries-for-go-testing/)
@@ -121,7 +124,8 @@ Jump to
 
 ---
 
-### Other
+## Other
+[back to top](#readme)
 * Main
     * [Identifying an Android Device](http://handstandsam.com/2017/05/04/identifying-an-android-device/)
     * [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
@@ -169,7 +173,8 @@ Jump to
 
 ---
 
-### Gradle
+## Gradle
+[back to top](#readme)
 * [10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
 * [A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
 * [[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
@@ -180,7 +185,8 @@ Jump to
 
 ---
 
-### Life
+## Life
+[back to top](#readme)
 * [40 Hours is enough](https://hackernoon.com/40-hours-is-enough-86d7166911ea)
 * [Programmer 60-80 hour weeks](http://brianknapp.me/programmer-60-80-hour-weeks/)
 * [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html)
@@ -196,7 +202,8 @@ Jump to
 
 ---
 
-### Work
+## Work
+[back to top](#readme)
 * [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 * [Code Reviews Q&A](https://blog.babylonhealth.com/code-reviews-q-a-f33c72d3b2c3)
 * [Perfect code is an illusion](https://8thlight.com/blog/daniel-irvine/2016/11/11/perfect-code-is-an-illusion.html)
@@ -213,21 +220,24 @@ Jump to
 
 ---
 
-### Git
+## Git
+[back to top](#readme)
 * [Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
 * [Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
 * [Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
 
 ---
 
-### Java
+## Java
+[back to top](#readme)
 * [Understanding how references work in android and java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
 * [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
 * [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
 
 ---
 
-### Context
+## Context
+[back to top](#readme)
 * [Context, What Context?](https://possiblemobile.com/2013/06/context/)
 * [Which Context should I use in Android?](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
 * [Why Having Global Static References to Application Contexts is Probably not the Best Idea](https://www.philosophicalhacker.com/2015/07/14/why-static-references-to-application-contexts-are-probably-not-the-best-idea/)
@@ -236,14 +246,16 @@ Jump to
 
 ---
 
-### Service 
+## Service
+[back to top](#readme)
  * [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
 * [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 * [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
 
 ---
 
-### Dagger
+## Dagger
+[back to top](#readme)
 * [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
 * [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
 * [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
@@ -252,7 +264,8 @@ Jump to
 
 ---
 
-### Themes
+## Themes
+[back to top](#readme)
 * [How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
 * [Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
 * [Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
@@ -262,7 +275,8 @@ Jump to
 
 ---
 
-### OOP
+## OOP
+[back to top](#readme)
 * [Typical Mistakes in Java Code](https://www.yegor256.com/2014/04/27/typical-mistakes-in-java-code.html)
 * [Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
 * [OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
@@ -284,7 +298,8 @@ Jump to
 
 ---
 
-### Architecture
+## Architecture
+[back to top](#readme)
 * MVP
     * [Android MVP: Keeping Presenters Alive](https://medium.com/@trionkidnapper/android-mvp-keeping-presenters-alive-a91b9e080761)
     * [Presenters don't need lifecycle events](http://hannesdorfmann.com/android/presenters-dont-need-lifecycle)
@@ -312,7 +327,8 @@ Jump to
 
 ---
 
-### Rx
+## Rx
+[back to top](#readme)
 * Main
     * [[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
     * [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
@@ -355,7 +371,8 @@ Jump to
 
 ---
 
-### Kotlin
+## Kotlin
+[back to top](#readme)
 * Data Classes
     * [Creating multiple constructors for Data classes in Kotlin](https://medium.com/proandroiddev/creating-multiple-constructors-for-data-classes-in-kotlin-32ad27e58cac)
     * [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
