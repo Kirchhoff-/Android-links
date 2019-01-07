@@ -138,8 +138,6 @@ Links about android development
 
 * [65K methods](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71)
 
-* [I am the reason for Hungarian notation in Android](http://beust.com/weblog/2017/07/17/i-am-the-reason-for-hungarian-notation-in-android/)
-
 * [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
 
 * [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
@@ -179,8 +177,6 @@ Links about android development
 * [Add Logs Without Using Code](https://android.jlelse.eu/add-logs-without-using-code-bd49fe9202ca?__s=7obepfpkzmezdyhskkzf)
 
 * [Comparing APK sizes](https://android.jlelse.eu/comparing-apk-sizes-a0eb37bb36f?__s=7obepfpkzmezdyhskkzf)
-
-* [API Design — Handling exceptions](https://medium.com/@ZakTaccardi/api-design-handling-exceptions-84a143e32232)
 
 * [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
 
@@ -473,3 +469,4 @@ Links about android development
     * [Looping in Kotlin](https://medium.com/@elye.project/looping-in-kotlin-65b54d05ad21)
     * [[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
     * [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
+    * [API Design — Handling exceptions](https://medium.com/@ZakTaccardi/api-design-handling-exceptions-84a143e32232)
