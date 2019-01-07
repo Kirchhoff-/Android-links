@@ -1,8 +1,6 @@
 # Android-links
 
-Links about android development
-
-## Links
+Jump to
 - [Fragment](#fragment)
 - [Design patterns](#patterns)
 - [Views](#views)
@@ -242,7 +240,9 @@ Links about android development
 * [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 * [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
 
-### Dagger 2
+---
+
+### Dagger
 * [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
 * [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
 * [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
