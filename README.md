@@ -9,7 +9,8 @@ Links about android development
 - [Tests](#tests)
 - [Other](#other)
 - [Gradle](#gradle)
-- [Programmer Life](#life)
+- [Developer Life](#life)
+- [Developer Work](#work)
 - [Git](#git)
 - [Context](#context)
 - [Themes](#themes)
@@ -109,8 +110,6 @@ Links about android development
 ---
 
 ### Other
-* [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
-
 * [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
 
 * [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
@@ -151,12 +150,6 @@ Links about android development
 
 * [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
 
-* [Code Reviews Q&A](https://blog.babylonhealth.com/code-reviews-q-a-f33c72d3b2c3)
-
-* [Perfect code is an illusion](https://8thlight.com/blog/daniel-irvine/2016/11/11/perfect-code-is-an-illusion.html)
-
-* [The problematic pull request](https://8thlight.com/blog/daniel-irvine/2016/11/18/the-problematic-pull-request.html)
-
 * [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
 
 * [From Fragments to Activity: the Lambda Way](https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9)
@@ -182,8 +175,6 @@ Links about android development
 * [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
 
 * [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
-
-* [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
 
 * [Use the Android apk analyzer to reduce your apk size](https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/)
 
@@ -222,8 +213,6 @@ Links about android development
 * [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
 
 * [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
-
-* [Flexibility Equates to Lower Quality](https://www.yegor256.com/2017/04/11/flexibility-equates-lower-quality.html)
 
 * [How to Correctly Store App-Specific Files in Android](https://www.grokkingandroid.com/how-to-correctly-store-app-specific-files-in-android/)
 
@@ -267,10 +256,6 @@ Links about android development
 
 * [Feature Flags in Native Mobile Development are a Must](https://www.techyourchance.com/feature-flags-in-native-mobile-development-are-must/)
 
-* [Three Things I Expect From a Software Architect](https://www.yegor256.com/2015/05/11/software-architect-responsibilities.html)
-
-* [Two Instruments of a Software Architect](https://www.yegor256.com/2015/05/13/two-instruments-of-software-architect.html)
-
 ---
 
 ### Gradle
@@ -297,6 +282,19 @@ Links about android development
 * [How to Be a Good Office Slave](https://www.yegor256.com/2015/10/06/how-to-be-good-office-slave.html)
 * [How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
 * [Can’t crack that programming problem? Go to sleep](https://m.signalvnoise.com/cant-crack-that-programming-problem-go-to-sleep-or-take-a-walk-930c767e1119)
+
+---
+
+### Work
+* [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
+* [Code Reviews Q&A](https://blog.babylonhealth.com/code-reviews-q-a-f33c72d3b2c3)
+* [Perfect code is an illusion](https://8thlight.com/blog/daniel-irvine/2016/11/11/perfect-code-is-an-illusion.html)
+* [The problematic pull request](https://8thlight.com/blog/daniel-irvine/2016/11/18/the-problematic-pull-request.html)
+* [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
+* [Flexibility Equates to Lower Quality](https://www.yegor256.com/2017/04/11/flexibility-equates-lower-quality.html)
+* [Three Things I Expect From a Software Architect](https://www.yegor256.com/2015/05/11/software-architect-responsibilities.html)
+* [Two Instruments of a Software Architect](https://www.yegor256.com/2015/05/13/two-instruments-of-software-architect.html)
+
 ---
 
 ### Git
