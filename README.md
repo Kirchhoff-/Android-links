@@ -353,49 +353,30 @@ Links about android development
 ---
 
 ### Architecture
-* [Interfaces for presenters in mvp are a waste of time](http://blog.karumi.com/interfaces-for-presenters-in-mvp-are-a-waste-of-time/)
-
-* [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
-
-* [Android Architecture(MVC, MVP, MVVM)](https://android.jlelse.eu/android-architecture-2f12e1c7d4db)
-
-* [Architectures of Android applications](https://medium.com/@bvmaks/architectures-of-android-applications-244a083bf132)
-
-* [Cargo Cult MVVM => The death knell of WPF](http://cargocultsoftwaredevelopment.blogspot.com/2010/10/cargo-cult-mvvm-death-knell-of-wpf.html)
-
-* [Android Architecture Components](https://proandroiddev.com/android-architecture-components-cb1ea88d3835)
-
-* [Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749?_ga=2.12071028.1998131091.1501205919-2091102857.1500428525)
-
-* [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
-
-* [Android MVP: Keeping Presenters Alive](https://medium.com/@trionkidnapper/android-mvp-keeping-presenters-alive-a91b9e080761)
-
-* [Presenters don't need lifecycle events](http://hannesdorfmann.com/android/presenters-dont-need-lifecycle)
-
-* [Architecture Components - I'm not a purist but](http://hannesdorfmann.com/android/arch-components-purist)
-
-* [Presenters are not for persisting](https://hackernoon.com/presenters-are-not-for-persisting-f537a2cc7962)
-
-* [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
-
-* [MVP to MVVM transformation](https://proandroiddev.com/mvp-to-mvvm-transformation-611959d5e0ca)
-
-* [Background and Foreground events with Android Architecture Components](https://medium.com/@arturogdg/background-and-foreground-events-with-android-architecture-components-233fdd9fa855)
-
-* [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090)
-
-* [Restoring State in Android MVP Architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
-
-* [Android ViewModel should be called scopedComponent](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
-
-* [[Youtube] Android Software Architecture by Example](https://www.youtube.com/watch?v=7t7MN8e1W7s)
-
-* [[Youtube] Half Way to clean architecture](https://www.youtube.com/watch?v=R89ufpJI3SY)
-
-* [[Youtube] Application Architecture: Designing Offline Application Case Studies](https://www.youtube.com/watch?v=n8nG5K_3BJM)
-
-* [[Video] Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
+* MVP
+    * [Android MVP: Keeping Presenters Alive](https://medium.com/@trionkidnapper/android-mvp-keeping-presenters-alive-a91b9e080761)
+    * [Presenters don't need lifecycle events](http://hannesdorfmann.com/android/presenters-dont-need-lifecycle)
+    * [Presenters are not for persisting](https://hackernoon.com/presenters-are-not-for-persisting-f537a2cc7962)
+    * [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
+    * [Restoring State in Android MVP Architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
+* Architecture Components
+    * [Android Architecture Components](https://proandroiddev.com/android-architecture-components-cb1ea88d3835)
+    * [Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749)
+    * [Architecture Components - I'm not a purist but](http://hannesdorfmann.com/android/arch-components-purist)
+    * [Background and Foreground events with Android Architecture Components](https://medium.com/@arturogdg/background-and-foreground-events-with-android-architecture-components-233fdd9fa855)
+    * [Android ViewModel should be called scopedComponent](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
+    * [[Video] Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
+    * [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090)
+* Other    
+    * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
+    * [Android Architecture(MVC, MVP, MVVM)](https://android.jlelse.eu/android-architecture-2f12e1c7d4db)
+    * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
+    * [Architectures of Android applications](https://medium.com/@bvmaks/architectures-of-android-applications-244a083bf132)
+    * [Cargo Cult MVVM => The death knell of WPF](http://cargocultsoftwaredevelopment.blogspot.com/2010/10/cargo-cult-mvvm-death-knell-of-wpf.html)
+    * [MVP to MVVM transformation](https://proandroiddev.com/mvp-to-mvvm-transformation-611959d5e0ca)
+    * [[Youtube] Android Software Architecture by Example](https://www.youtube.com/watch?v=7t7MN8e1W7s)
+    * [[Youtube] Half Way to clean architecture](https://www.youtube.com/watch?v=R89ufpJI3SY)
+    * [[Youtube] Application Architecture: Designing Offline Application Case Studies](https://www.youtube.com/watch?v=n8nG5K_3BJM)
 
 ---
 
