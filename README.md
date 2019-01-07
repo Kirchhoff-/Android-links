@@ -14,6 +14,7 @@ Links about android development
 - [Git](#git)
 - [Java](#java)
 - [Context](#context)
+- [Service](#service)
 - [Dagger 2](#dagger)
 - [Themes](#themes)
 - [OOP](#oop)
@@ -235,6 +236,11 @@ Links about android development
 * [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
 
 ---
+
+### Service 
+ * [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
+* [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
+* [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
 
 ### Dagger 2
 * [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
