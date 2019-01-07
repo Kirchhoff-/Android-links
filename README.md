@@ -117,12 +117,6 @@ Links about android development
 
 * [Introduction to SpringAnimation with examples](https://www.thedroidsonroids.com/blog/android/springanimation-examples/)
 
-* [The Trouble with Checked Exceptions(part 1)](http://www.mindview.net/Etc/Discussions/CheckedExceptions)
-
-* [The Trouble with Checked Exceptions(part 2)](http://www.artima.com/intv/handcuffs.html)
-
-* [The Trouble with Checked Exceptions(part 3)](http://radio-weblogs.com/0122027/stories/2003/04/01/JavasCheckedExceptionsWereAMistake.html)
-
 * [Identifying an Android Device](http://handstandsam.com/2017/05/04/identifying-an-android-device/)
 
 * [Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
