@@ -28,6 +28,7 @@ Links about android development
 * [Android Fragment Lifecycle for Professional Developers](https://www.techyourchance.com/android-fragment-lifecycle-for-professional-developers/)
 * [Lifecycle & Fragments backstack](https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5)
 * [[Youtube] Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
+* [From Fragments to Activity: the Lambda Way](https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9)
 
 ---
 
@@ -121,91 +122,50 @@ Links about android development
 ---
 
 ### Other
-* [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
-
-* [Identifying an Android Device](http://handstandsam.com/2017/05/04/identifying-an-android-device/)
-
-* [Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
-
-* [An introduction to Android Instant Apps](https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps)
-
-* [Live Template for RecyclerView Adapter in Android Studio](https://tech.fleka.me/live-template-for-recyclerview-adapter-in-android-studio-5a4e7342bffc)
-
-* [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
-
-* [65K methods](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71)
-
-* [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
-
-* [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
-
-* [From Fragments to Activity: the Lambda Way](https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9)
-
-* [Optimizing the Performance of Vector Drawables](https://medium.com/upday-devs/optimizing-the-performance-of-vector-drawables-680a4c456286)
-
-* [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
-
-* [A Curious Case of Multiple Locales](https://blog.egorand.me/a-curious-case-of-multiple-locales/)
-
-* [What you need to know about Android app memory leaks](https://techbeacon.com/what-you-need-know-about-android-app-memory-leaks)
-
-* [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
-
-* [Android leak pattern: subscriptions in views](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c)
-
-* [Practical ProGuard rules examples](https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9)
-
-* [Task Stack](https://blog.stylingandroid.com/task-stack/)
-
-* [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
-
-* [Use the Android apk analyzer to reduce your apk size](https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/)
-
-* [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
-
-* [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
-
-* [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c?__s=7obepfpkzmezdyhskkzf)
-
-* [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
-
-* [Add Logs Without Using Code](https://android.jlelse.eu/add-logs-without-using-code-bd49fe9202ca?__s=7obepfpkzmezdyhskkzf)
-
-* [Comparing APK sizes](https://android.jlelse.eu/comparing-apk-sizes-a0eb37bb36f?__s=7obepfpkzmezdyhskkzf)
-
-* [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
-
-* [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
-
-* [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
-
-* [How to Correctly Store App-Specific Files in Android](https://www.grokkingandroid.com/how-to-correctly-store-app-specific-files-in-android/)
-
-* [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
-
-* [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
-
-* [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
-
-* [[Yotube] Understanding and Experimenting with MultiDex](https://www.youtube.com/watch?v=skmOBriQ28E)
-
-* [[Yotube] Timing is Everything: How to use Timer, Handler, and AlarmManager](https://www.youtube.com/watch?v=CzNFjCQhCV0)
-
-* [[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
-
-* [[Yotube] Requesting Permissions at Run Time](https://www.youtube.com/watch?v=WGz-alwVh8A)
-
-* [[Yotube] How the Main Thread works](https://www.youtube.com/watch?v=eAtMon8ndfk)
-
-* [[Yotube] Bulletproof Android](https://www.youtube.com/watch?v=1yF5sqGJo90)
-
-* [[Yotube] Exploring Custom Activity Transitions](https://www.youtube.com/watch?v=HLhA0I00TnI)
-
-* [[Yotube] Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
-
-* [[Video] Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
-
-* [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
+* Main
+    * [Identifying an Android Device](http://handstandsam.com/2017/05/04/identifying-an-android-device/)
+    * [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
+    * [Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
+    * [An introduction to Android Instant Apps](https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps)
+    * [Live Template for RecyclerView Adapter in Android Studio](https://tech.fleka.me/live-template-for-recyclerview-adapter-in-android-studio-5a4e7342bffc)
+    * [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
+    * [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
+    * [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
+    * [Optimizing the Performance of Vector Drawables](https://medium.com/upday-devs/optimizing-the-performance-of-vector-drawables-680a4c456286)
+    * [A Curious Case of Multiple Locales](https://blog.egorand.me/a-curious-case-of-multiple-locales/)
+    * [Task Stack](https://blog.stylingandroid.com/task-stack/)
+    * [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
+    * [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
+    * [Add Logs Without Using Code](https://android.jlelse.eu/add-logs-without-using-code-bd49fe9202ca)
+    * [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
+    * [How to Correctly Store App-Specific Files in Android](https://www.grokkingandroid.com/how-to-correctly-store-app-specific-files-in-android/)
+    * [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
+    * [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
+    * [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
+    * [[Yotube] Timing is Everything: How to use Timer, Handler, and AlarmManager](https://www.youtube.com/watch?v=CzNFjCQhCV0)
+    * [[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
+    * [[Yotube] Requesting Permissions at Run Time](https://www.youtube.com/watch?v=WGz-alwVh8A)
+    * [[Yotube] How the Main Thread works](https://www.youtube.com/watch?v=eAtMon8ndfk)
+    * [[Yotube] Exploring Custom Activity Transitions](https://www.youtube.com/watch?v=HLhA0I00TnI)
+    * [[Yotube] Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
+    * [[Video] Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
+* Net
+    * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
+    * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
+    * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
+* ProGuard
+    * [Practical ProGuard rules examples](https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9)
+    * [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
+    * [[Yotube] Bulletproof Android](https://www.youtube.com/watch?v=1yF5sqGJo90)
+* Multidex
+    * [65K methods](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71)
+    * [Use the Android apk analyzer to reduce your apk size](https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/)
+    * [Comparing APK sizes](https://android.jlelse.eu/comparing-apk-sizes-a0eb37bb36f)
+    * [[Yotube] Understanding and Experimenting with MultiDex](https://www.youtube.com/watch?v=skmOBriQ28E)
+* Memory leak
+    * [What you need to know about Android app memory leaks](https://techbeacon.com/what-you-need-know-about-android-app-memory-leaks)
+    * [Android leak pattern: subscriptions in views](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c)
+    * [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c)
 
 ---
 
