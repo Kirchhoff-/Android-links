@@ -13,6 +13,7 @@ Links about android development
 - [Developer Work](#work)
 - [Git](#git)
 - [Context](#context)
+- [Dagger 2](#dagger)
 - [Themes](#themes)
 - [OOP](#oop)
 - [Architecture](#architecture)
@@ -141,10 +142,6 @@ Links about android development
 
 * [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
 
-* [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
-
-* [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
-
 * [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
 
 * [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
@@ -191,8 +188,6 @@ Links about android development
 
 * [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
 
-* [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
-
 * [How to Correctly Store App-Specific Files in Android](https://www.grokkingandroid.com/how-to-correctly-store-app-specific-files-in-android/)
 
 * [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
@@ -200,10 +195,6 @@ Links about android development
 * [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
 
 * [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
-
-* [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
-
-* [[Yotube] The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
 
 * [[Yotube] Understanding and Experimenting with MultiDex](https://www.youtube.com/watch?v=skmOBriQ28E)
 
@@ -284,6 +275,15 @@ Links about android development
 * [Why Having Global Static References to Application Contexts is Probably not the Best Idea](https://www.philosophicalhacker.com/2015/07/14/why-static-references-to-application-contexts-are-probably-not-the-best-idea/)
 * [Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
 * [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
+
+---
+
+### Dagger 2
+* [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+* [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
+* [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+* [[Yotube] The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
+* [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
 
 ---
 
