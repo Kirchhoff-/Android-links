@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Updated-January%20%207,%202019-brightgreen.svg)
 
 Jump to
-- Android
+- [Android](#android)
    - [Views](#views)
    - [Context](#context)
    - [Fragment](#fragment)
@@ -11,17 +11,17 @@ Jump to
    - [Gradle](#gradle)
    - [Architecture](#architecture)
    - [Other](#other)
- - Programming language 
+ - [Programming language](#programming-language) 
    - [Kotlin](#kotlin)
    - [Java](#java)
-- Software development
+- [Software development](#software-development)
    - [OOP](#oop)
    - [Design patterns](#patterns)
    - [Tests](#tests)
    - [Git](#git)
    - [Developer Work](#work)
    - [Developer Life](#life)
-- Libraries
+- [Libraries](#libraries)
    - [Rx](#rx)
    - [Dagger 2](#dagger)
 
