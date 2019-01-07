@@ -21,6 +21,7 @@ Jump to
 - [Kotlin](#kotlin)
 
 ### Fragment
+[back to top](#readme) 
 * [Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)
 * [Fragment Transactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
 * [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
