@@ -1,4 +1,5 @@
 # Android-links
+![](https://img.shields.io/badge/Updated-January%20%207,%202019-brightgreen.svg)
 
 Jump to
 - [Fragment](#fragment)
