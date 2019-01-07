@@ -40,6 +40,9 @@ Links about android development
 * [Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
 * [Defensive Programming via Validating Decorators](https://www.yegor256.com/2016/01/26/defensive-programming.html)
 * [Vertical and Horizontal Decorating](https://www.yegor256.com/2015/10/01/vertical-horizontal-decorating.html)
+* [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
+* [Building vertical decorators right](https://www.vzurauskas.com/2018/10/28/building-vertical-decorators-right/)
+* [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
 
 ---
 
@@ -57,7 +60,13 @@ Links about android development
     * [[Youtube] View only Android apps at scale](https://www.youtube.com/watch?v=kAAnIN-IqWw)
     * [Rich text battle: TextView vs WebView](http://www.hidroh.com/2016/02/27/richtext-textview-versus-webview/)
     * [A guide for Android ImageView ScaleType and adjustViewBounds](https://proandroiddev.com/a-guide-for-android-imageview-scaletype-and-adjustviewbounds-64a1e4a35503)
-    * [ViewPager without fragments](https://www.bignerdranch.com/blog/viewpager-without-fragments/)    
+    * [ViewPager without fragments](https://www.bignerdranch.com/blog/viewpager-without-fragments/)
+    * [Introduction to SpringAnimation with examples](https://www.thedroidsonroids.com/blog/android/springanimation-examples/)
+    * [-nodpi, -anydpi, and WTF?](https://commonsware.com/blog/2015/12/21/nodpi-anydpi-wtf.html)
+    * [TransitionDrawable — Small Gems of the Android Framework](https://proandroiddev.com/transitiondrawable-small-gems-of-the-android-framework-4dcdd3c83319)
+    * [Preferred way to set clickable image icon](https://medium.com/@elye.project/preferred-way-to-set-clickable-image-icon-95b0c88f3cd9)
+    * [Selectively Locking An Android UI](https://mpope9.github.io/2018/09/06/LockingAndroidUI.html)
+    * [[Yotube] Loving Lean Layouts](https://www.youtube.com/watch?v=-xAdDqwaWJk)
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
@@ -112,10 +121,6 @@ Links about android development
 ### Other
 * [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
 
-* [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
-
-* [Introduction to SpringAnimation with examples](https://www.thedroidsonroids.com/blog/android/springanimation-examples/)
-
 * [Identifying an Android Device](http://handstandsam.com/2017/05/04/identifying-an-android-device/)
 
 * [Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
@@ -130,12 +135,6 @@ Links about android development
 
 * [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
 
-* [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
-
-* [Keep Your Features in Progress Out of Your Release Builds](http://antoine-merle.com/blog/2015/10/10/keep-your-features-in-progress-out-of-your-release-builds/)
-
-* [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
-
 * [65K methods](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71)
 
 * [I am the reason for Hungarian notation in Android](http://beust.com/weblog/2017/07/17/i-am-the-reason-for-hungarian-notation-in-android/)
@@ -145,8 +144,6 @@ Links about android development
 * [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
 
 * [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
-
-* [How to make complex requests simple with RxJava in Kotlin](https://blog.mindorks.com/how-to-make-complex-requests-simple-with-rxjava-in-kotlin-ccec004c5d10)
 
 * [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
 
@@ -162,8 +159,6 @@ Links about android development
 
 * [What you need to know about Android app memory leaks](https://techbeacon.com/what-you-need-know-about-android-app-memory-leaks)
 
-* [No Cause for Concern — RxJava and Retrofit Throwing a Tantrum](https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c)
-
 * [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
 
 * [Android leak pattern: subscriptions in views](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c)
@@ -174,21 +169,9 @@ Links about android development
 
 * [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
 
-* [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
-
 * [Use the Android apk analyzer to reduce your apk size](https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/)
 
-* [-nodpi, -anydpi, and WTF?](https://commonsware.com/blog/2015/12/21/nodpi-anydpi-wtf.html)
-
 * [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
-
-* [Composite Views in Android: Composition over Inheritance](https://medium.com/@manuelvicnt/composite-views-in-android-composition-over-inheritance-4a7114609560)
-
-* [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
-
-* [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
-
-* [Making the Android Studio Layout Editor Better With Kotlin](https://blog.shazam.com/making-the-android-studio-layout-editor-better-with-kotlin-997ca0653923)
 
 * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
 
@@ -199,10 +182,6 @@ Links about android development
 * [Add Logs Without Using Code](https://android.jlelse.eu/add-logs-without-using-code-bd49fe9202ca?__s=7obepfpkzmezdyhskkzf)
 
 * [Comparing APK sizes](https://android.jlelse.eu/comparing-apk-sizes-a0eb37bb36f?__s=7obepfpkzmezdyhskkzf)
-
-* [TransitionDrawable — Small Gems of the Android Framework](https://proandroiddev.com/transitiondrawable-small-gems-of-the-android-framework-4dcdd3c83319)
-
-* [Selectively Locking An Android UI](https://mpope9.github.io/2018/09/06/LockingAndroidUI.html?__s=7obepfpkzmezdyhskkzf)
 
 * [API Design — Handling exceptions](https://medium.com/@ZakTaccardi/api-design-handling-exceptions-84a143e32232)
 
@@ -236,25 +215,15 @@ Links about android development
 
 * [[Yotube] How the Main Thread works](https://www.youtube.com/watch?v=eAtMon8ndfk)
 
-* [[Yotube] Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
-
 * [[Yotube] Bulletproof Android](https://www.youtube.com/watch?v=1yF5sqGJo90)
 
 * [[Yotube] Exploring Custom Activity Transitions](https://www.youtube.com/watch?v=HLhA0I00TnI)
 
 * [[Yotube] Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
 
-* [[Yotube] Loving Lean Layouts](https://www.youtube.com/watch?v=-xAdDqwaWJk)
-
 * [[Video] Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
 
-* [Building vertical decorators right](https://www.vzurauskas.com/2018/10/28/building-vertical-decorators-right/)
-
-* [Preferred way to set clickable image icon](https://medium.com/@elye.project/preferred-way-to-set-clickable-image-icon-95b0c88f3cd9)
-
 * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
-
-* [Feature Flags in Native Mobile Development are a Must](https://www.techyourchance.com/feature-flags-in-native-mobile-development-are-must/)
 
 ---
 
@@ -294,6 +263,11 @@ Links about android development
 * [Flexibility Equates to Lower Quality](https://www.yegor256.com/2017/04/11/flexibility-equates-lower-quality.html)
 * [Three Things I Expect From a Software Architect](https://www.yegor256.com/2015/05/11/software-architect-responsibilities.html)
 * [Two Instruments of a Software Architect](https://www.yegor256.com/2015/05/13/two-instruments-of-software-architect.html)
+* [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
+* [Feature Flags in Native Mobile Development are a Must](https://www.techyourchance.com/feature-flags-in-native-mobile-development-are-must/)
+* [Keep Your Features in Progress Out of Your Release Builds](http://antoine-merle.com/blog/2015/10/10/keep-your-features-in-progress-out-of-your-release-builds/)
+* [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
+* [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
 
 ---
 
@@ -319,6 +293,7 @@ Links about android development
 * [Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
 * [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
 * [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
+* [[Yotube] Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
 
 ---
 
@@ -410,6 +385,8 @@ Links about android development
     * [Building an AutoCompleting EditText using RxJava](https://proandroiddev.com/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40)
     * [[Youtube] Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
     * [RxJava on the Sign In Screen](https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572)
+    * [How to make complex requests simple with RxJava in Kotlin](https://blog.mindorks.com/how-to-make-complex-requests-simple-with-rxjava-in-kotlin-ccec004c5d10)
+    * [No Cause for Concern — RxJava and Retrofit Throwing a Tantrum](https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c)
 
 ---
 
@@ -453,6 +430,7 @@ Links about android development
     * [[Video] Advancing Android Development with Kotlin](https://realm.io/news/oredev-jake-wharton-kotlin-advancing-android-dev/)
     * [Custom attributes using BindingAdapters in Kotlin](https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259)
     * [Kotlin Android Extensions: Using View Binding the right way](https://proandroiddev.com/kotlin-android-extensions-using-view-binding-the-right-way-707cd0c9e648)
+    * [Making the Android Studio Layout Editor Better With Kotlin](https://blog.shazam.com/making-the-android-studio-layout-editor-better-with-kotlin-997ca0653923)
 * Coroutines
     * [[Youtube] Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
     * [Diving deep into Kotlin Coroutines](https://www.kotlindevelopment.com/deep-dive-coroutines/)
@@ -494,3 +472,4 @@ Links about android development
     * [Annotations for your Java-friendly Kotlin code](https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbedec14)
     * [Looping in Kotlin](https://medium.com/@elye.project/looping-in-kotlin-65b54d05ad21)
     * [[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
+    * [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
