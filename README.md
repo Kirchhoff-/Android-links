@@ -2,54 +2,30 @@
 ![](https://img.shields.io/badge/Updated-January%20%207,%202019-brightgreen.svg)
 
 Jump to
-- [Fragment](#fragment)
-- [Design patterns](#patterns)
-- [Views](#views)
-- [Tests](#tests)
-- [Other](#other)
-- [Gradle](#gradle)
-- [Developer Life](#life)
-- [Developer Work](#work)
-- [Git](#git)
-- [Java](#java)
-- [Context](#context)
-- [Service](#service)
-- [Dagger 2](#dagger)
-- [Themes](#themes)
-- [OOP](#oop)
-- [Architecture](#architecture)
-- [Rx](#rx)
-- [Kotlin](#kotlin)
+- Android
+   - [Views](#views)
+   - [Context](#context)
+   - [Fragment](#fragment)
+   - [Service](#service)
+   - [Themes](#themes)
+   - [Gradle](#gradle)
+   - [Architecture](#architecture)
+   - [Other](#other)
+ - Programming language 
+   - [Kotlin](#kotlin)
+   - [Java](#java)
+- Software development
+   - [OOP](#oop)
+   - [Design patterns](#patterns)
+   - [Tests](#tests)
+   - [Git](#git)
+   - [Developer Work](#work)
+   - [Developer Life](#life)
+- Libraries
+   - [Rx](#rx)
+   - [Dagger 2](#dagger)
 
-## Fragment
-[back to top](#readme) 
-* [Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)
-* [Fragment Transactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
-* [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
-* [Android Fragment Lifecycle for Professional Developers](https://www.techyourchance.com/android-fragment-lifecycle-for-professional-developers/)
-* [Lifecycle & Fragments backstack](https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5)
-* [[Youtube] Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
-* [From Fragments to Activity: the Lambda Way](https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9)
-
----
-
-## Patterns
-[back to top](#readme) 
-* [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction](http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
-* [Common Design Patterns for Android](https://www.raywenderlich.com/109843/common-design-patterns-for-android)
-* [Designing something solid](https://www.novoda.com/blog/designing-something-solid/)
-* [Writing Better Adapters](https://proandroiddev.com/writing-better-adapters-1b09758407d2)
-* [Don’t use DAO, use Repository](https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/)
-* [Design Patterns in Android – Observer](https://www.thedroidsonroids.com/blog/design-patterns-android-observer-2)
-* [Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
-* [Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
-* [Defensive Programming via Validating Decorators](https://www.yegor256.com/2016/01/26/defensive-programming.html)
-* [Vertical and Horizontal Decorating](https://www.yegor256.com/2015/10/01/vertical-horizontal-decorating.html)
-* [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
-* [Building vertical decorators right](https://www.vzurauskas.com/2018/10/28/building-vertical-decorators-right/)
-* [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
-
----
+# Android
 
 ## Views
 [back to top](#readme)
@@ -89,39 +65,85 @@ Jump to
 
 ---
 
-## Tests
+## Context
 [back to top](#readme)
-* Main
-    * [Different ways of testing exceptions in Java and JUnit](https://blog.goyello.com/2015/10/01/different-ways-of-testing-exceptions-in-java-and-junit/)
-    * [Should we use mocking libraries for go testing?](https://www.philosophicalhacker.com/2016/01/13/should-we-use-mocking-libraries-for-go-testing/)
-    * [Clean tests: Naming](https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522)
-    * [Clean tests: Comments](https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186)
-    * [Testing state vs. testing interaction](https://medium.com/android-testing-daily/testing-state-vs-testing-interaction-c5d7fe0bf247)
-    * [Test doubles](https://medium.com/android-testing-daily/test-doubles-9a63dfaeb28b)
-    * [One weird trick to name your tests](https://medium.com/@anupcowkur/one-weird-trick-to-name-your-tests-28ca1f8131c2)
-    * [An Introduction to Testing Custom Views on Android](https://proandroiddev.com/an-introduction-to-testing-custom-views-on-android-10a6152f379?__s=7obepfpkzmezdyhskkzf)
-    * [Myths about Unit Tests](https://8thlight.com/blog/fabien-townsend/2017/09/19/myths-about-unit-tests.html)
-    * [Three Reasons Why We Should Not Use Inheritance In Our Tests](https://www.petrikainulainen.net/programming/unit-testing/3-reasons-why-we-should-not-use-inheritance-in-our-tests/)
-* Android
-    * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
-    * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
-    * [How to be a mock star](https://medium.com/fueled-android/how-to-be-a-mock-star-fc00714d8c2f)
-    * [Android testing: Unit testing (Part 1)](http://alexzh.com/tutorials/android-testing-unit-testing/)
-    * [Android testing: Mockito and Robolectric (Part 2)](http://alexzh.com/tutorials/android-testing-mockito-robolectric/)
-    * [Android testing: Espresso (Part 3)](http://alexzh.com/tutorials/android-testing-espresso-part-3/)
-    * [Android testing: UI Automator (Part 4)](http://alexzh.com/tutorials/android-testing-ui-automator-part-4/)
-    * [Dont Use Espresso Idling Resources like Google does](https://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-like-this/)
-    * [How "Android Test Recorder" generate delays between actions](http://droidtestlab.com/delay.html)
-    * [Simple way to test asynchronous actions in Android](https://medium.com/@v.danylo/simple-way-to-test-asynchronous-actions-in-android-service-asynctask-thread-rxjava-etc-d43b0402e005)
-    * [Dagger 2 Testing](http://endlesswhileloop.com/blog/2016/06/23/dagger-2-testing/)
-    * [Why I Don't use Robolectric](https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/)
-    * [Junit testing and Android dependencies](https://android.jlelse.eu/junit-testing-and-android-dependencies-e65e66afce61)
-    * [Unit testing protected lifecycle methods](https://medium.com/google-developer-experts/unit-testing-activity-lifecycle-4e740f71e68a)
-    * [Unit Testable RecyclerViews](https://www.philosophicalhacker.com/post/unit-testable-recycler-views/)
-    * [The 3 tiers of the Android test pyramid](https://medium.com/android-testing-daily/the-3-tiers-of-the-android-test-pyramid-c1211b359acd)
-    * [Testing Views in Isolation at RoMOBOS](https://proandroiddev.com/testing-views-in-isolation-at-romobos-d288e76fe10e)
-    * [Espresso Test Addiction: An Anti-pattern](https://www.philosophicalhacker.com/post/espresso-test-addiction/)
-    * [Don’t Keep Activities alone is not enough for testing!](https://medium.com/@elye.project/dont-keep-activities-alone-is-not-enough-for-testing-407b7c01bd60)    
+* [Context, What Context?](https://possiblemobile.com/2013/06/context/)
+* [Which Context should I use in Android?](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
+* [Why Having Global Static References to Application Contexts is Probably not the Best Idea](https://www.philosophicalhacker.com/2015/07/14/why-static-references-to-application-contexts-are-probably-not-the-best-idea/)
+* [Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
+* [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
+
+---
+
+## Fragment
+[back to top](#readme) 
+* [Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)
+* [Fragment Transactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
+* [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
+* [Android Fragment Lifecycle for Professional Developers](https://www.techyourchance.com/android-fragment-lifecycle-for-professional-developers/)
+* [Lifecycle & Fragments backstack](https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5)
+* [[Youtube] Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
+* [From Fragments to Activity: the Lambda Way](https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9)
+
+---
+
+## Service
+[back to top](#readme)
+ * [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
+* [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
+* [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
+
+---
+
+## Themes
+[back to top](#readme)
+* [How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
+* [Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
+* [Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
+* [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
+* [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
+* [[Yotube] Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
+
+---
+
+## Gradle
+[back to top](#readme)
+* [10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
+* [A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
+* [[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
+* [How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
+* [Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
+* [[Yotube] Gradle: From User to Addict](https://www.youtube.com/watch?v=-C7TtnPJ7ms)
+* [Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
+
+---
+
+## Architecture
+[back to top](#readme)
+* MVP
+    * [Android MVP: Keeping Presenters Alive](https://medium.com/@trionkidnapper/android-mvp-keeping-presenters-alive-a91b9e080761)
+    * [Presenters don't need lifecycle events](http://hannesdorfmann.com/android/presenters-dont-need-lifecycle)
+    * [Presenters are not for persisting](https://hackernoon.com/presenters-are-not-for-persisting-f537a2cc7962)
+    * [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
+    * [Restoring State in Android MVP Architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
+* Architecture Components
+    * [Android Architecture Components](https://proandroiddev.com/android-architecture-components-cb1ea88d3835)
+    * [Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749)
+    * [Architecture Components - I'm not a purist but](http://hannesdorfmann.com/android/arch-components-purist)
+    * [Background and Foreground events with Android Architecture Components](https://medium.com/@arturogdg/background-and-foreground-events-with-android-architecture-components-233fdd9fa855)
+    * [Android ViewModel should be called scopedComponent](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
+    * [[Video] Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
+    * [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090)
+* Other    
+    * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
+    * [Android Architecture(MVC, MVP, MVVM)](https://android.jlelse.eu/android-architecture-2f12e1c7d4db)
+    * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
+    * [Architectures of Android applications](https://medium.com/@bvmaks/architectures-of-android-applications-244a083bf132)
+    * [Cargo Cult MVVM => The death knell of WPF](http://cargocultsoftwaredevelopment.blogspot.com/2010/10/cargo-cult-mvvm-death-knell-of-wpf.html)
+    * [MVP to MVVM transformation](https://proandroiddev.com/mvp-to-mvvm-transformation-611959d5e0ca)
+    * [[Youtube] Android Software Architecture by Example](https://www.youtube.com/watch?v=7t7MN8e1W7s)
+    * [[Youtube] Half Way to clean architecture](https://www.youtube.com/watch?v=R89ufpJI3SY)
+    * [[Youtube] Application Architecture: Designing Offline Application Case Studies](https://www.youtube.com/watch?v=n8nG5K_3BJM)
 
 ---
 
@@ -174,203 +196,7 @@ Jump to
 
 ---
 
-## Gradle
-[back to top](#readme)
-* [10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
-* [A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
-* [[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
-* [How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
-* [Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
-* [[Yotube] Gradle: From User to Addict](https://www.youtube.com/watch?v=-C7TtnPJ7ms)
-* [Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
-
----
-
-## Life
-[back to top](#readme)
-* [40 Hours is enough](https://hackernoon.com/40-hours-is-enough-86d7166911ea)
-* [Programmer 60-80 hour weeks](http://brianknapp.me/programmer-60-80-hour-weeks/)
-* [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html)
-* [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5)
-* [Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d)
-* [Professional Developer: What Does It Mean?](https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean)
-* [I Don’t Have Time is a Myth](http://www.donnfelker.com/i-dont-have-time-is-a-myth/?utm_source=androiddevdigest)
-* [I "Love" Anti-patterns](https://dev.to/levimoreira/i-love-anti-patterns-1bj1)
-* [Soft Skills Demystified](https://www.yegor256.com/2018/08/29/soft-skills.html)
-* [How to Be a Good Office Slave](https://www.yegor256.com/2015/10/06/how-to-be-good-office-slave.html)
-* [How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
-* [Can’t crack that programming problem? Go to sleep](https://m.signalvnoise.com/cant-crack-that-programming-problem-go-to-sleep-or-take-a-walk-930c767e1119)
-
----
-
-## Work
-[back to top](#readme)
-* [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
-* [Code Reviews Q&A](https://blog.babylonhealth.com/code-reviews-q-a-f33c72d3b2c3)
-* [Perfect code is an illusion](https://8thlight.com/blog/daniel-irvine/2016/11/11/perfect-code-is-an-illusion.html)
-* [The problematic pull request](https://8thlight.com/blog/daniel-irvine/2016/11/18/the-problematic-pull-request.html)
-* [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
-* [Flexibility Equates to Lower Quality](https://www.yegor256.com/2017/04/11/flexibility-equates-lower-quality.html)
-* [Three Things I Expect From a Software Architect](https://www.yegor256.com/2015/05/11/software-architect-responsibilities.html)
-* [Two Instruments of a Software Architect](https://www.yegor256.com/2015/05/13/two-instruments-of-software-architect.html)
-* [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
-* [Feature Flags in Native Mobile Development are a Must](https://www.techyourchance.com/feature-flags-in-native-mobile-development-are-must/)
-* [Keep Your Features in Progress Out of Your Release Builds](http://antoine-merle.com/blog/2015/10/10/keep-your-features-in-progress-out-of-your-release-builds/)
-* [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
-* [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
-
----
-
-## Git
-[back to top](#readme)
-* [Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
-* [Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
-* [Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
-
----
-
-## Java
-[back to top](#readme)
-* [Understanding how references work in android and java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
-* [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
-* [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
-
----
-
-## Context
-[back to top](#readme)
-* [Context, What Context?](https://possiblemobile.com/2013/06/context/)
-* [Which Context should I use in Android?](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
-* [Why Having Global Static References to Application Contexts is Probably not the Best Idea](https://www.philosophicalhacker.com/2015/07/14/why-static-references-to-application-contexts-are-probably-not-the-best-idea/)
-* [Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
-* [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
-
----
-
-## Service
-[back to top](#readme)
- * [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
-* [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
-* [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
-
----
-
-## Dagger
-[back to top](#readme)
-* [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
-* [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
-* [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
-* [[Yotube] The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
-* [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
-
----
-
-## Themes
-[back to top](#readme)
-* [How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
-* [Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
-* [Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
-* [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
-* [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
-* [[Yotube] Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
-
----
-
-## OOP
-[back to top](#readme)
-* [Typical Mistakes in Java Code](https://www.yegor256.com/2014/04/27/typical-mistakes-in-java-code.html)
-* [Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
-* [OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
-* [Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
-* [Why null is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
-* [Static methods violate Dependency Inversion principle](https://www.vzurauskas.com/2018/09/09/static-methods-violate-dependency-inversion-principle/)
-* [Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
-* [Solid Is OOP for Dummies](https://www.yegor256.com/2017/03/28/solid.html)
-* [Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
-* [Seven Virtues of a Good Object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
-* [How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
-* [How Does Inversion of Control Really Work?](https://www.yegor256.com/2017/05/10/inversion-of-control.html)
-* [Object Behavior Must Not Be Configurable](https://www.yegor256.com/2016/04/19/object-must-not-be-configurable.html)
-* [Why Many Return Statements Are a Bad Idea in OOP](https://www.yegor256.com/2015/08/18/multiple-return-statements-in-oop.html)
-* [There Can Be Only One Primary Constructor](https://www.yegor256.com/2015/05/28/one-primary-constructor.html)
-* [Immutable Objects Are Not Dumb](https://www.yegor256.com/2014/12/22/immutable-objects-not-dumb.html)
-* [Constructors Must Be Code-Free](https://www.yegor256.com/2015/05/07/ctors-must-be-code-free.html)
-* [Class Casting Is a Discriminating Anti-Pattern](https://www.yegor256.com/2015/04/02/class-casting-is-anti-pattern.html)
-
----
-
-## Architecture
-[back to top](#readme)
-* MVP
-    * [Android MVP: Keeping Presenters Alive](https://medium.com/@trionkidnapper/android-mvp-keeping-presenters-alive-a91b9e080761)
-    * [Presenters don't need lifecycle events](http://hannesdorfmann.com/android/presenters-dont-need-lifecycle)
-    * [Presenters are not for persisting](https://hackernoon.com/presenters-are-not-for-persisting-f537a2cc7962)
-    * [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
-    * [Restoring State in Android MVP Architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
-* Architecture Components
-    * [Android Architecture Components](https://proandroiddev.com/android-architecture-components-cb1ea88d3835)
-    * [Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749)
-    * [Architecture Components - I'm not a purist but](http://hannesdorfmann.com/android/arch-components-purist)
-    * [Background and Foreground events with Android Architecture Components](https://medium.com/@arturogdg/background-and-foreground-events-with-android-architecture-components-233fdd9fa855)
-    * [Android ViewModel should be called scopedComponent](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)
-    * [[Video] Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
-    * [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090)
-* Other    
-    * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
-    * [Android Architecture(MVC, MVP, MVVM)](https://android.jlelse.eu/android-architecture-2f12e1c7d4db)
-    * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
-    * [Architectures of Android applications](https://medium.com/@bvmaks/architectures-of-android-applications-244a083bf132)
-    * [Cargo Cult MVVM => The death knell of WPF](http://cargocultsoftwaredevelopment.blogspot.com/2010/10/cargo-cult-mvvm-death-knell-of-wpf.html)
-    * [MVP to MVVM transformation](https://proandroiddev.com/mvp-to-mvvm-transformation-611959d5e0ca)
-    * [[Youtube] Android Software Architecture by Example](https://www.youtube.com/watch?v=7t7MN8e1W7s)
-    * [[Youtube] Half Way to clean architecture](https://www.youtube.com/watch?v=R89ufpJI3SY)
-    * [[Youtube] Application Architecture: Designing Offline Application Case Studies](https://www.youtube.com/watch?v=n8nG5K_3BJM)
-
----
-
-## Rx
-[back to top](#readme)
-* Main
-    * [[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
-    * [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
-    * [RxJava2: Dispose an Observable chain](https://android.jlelse.eu/rxjava2-dispose-an-observable-chain-684e6ca2790)
-    * [Concurrency in RxJava 2](https://code.tutsplus.com/tutorials/concurrency-in-rxjava-2--cms-29288)
-    * [RxJava - Schedulers - What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
-    * [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
-    * [Rx if the operators could speak](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
-    * [Writing Custom Rx Operators Easily with Kotlin](https://upcurve.engineering/custom-rx-operators-kotlin/)
-    * [RxJava as event bus, the right way](https://lorentzos.com/rxjava-as-event-bus-the-right-way-10a36bdd49ba)
-    * [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
-    * [Understanding RxJava Subject — Publish, Replay, Behavior and Async Subject](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f?gi=837dc5402ae4)
-    * [Understanding RxJava subscribeOn and observeOn](https://proandroiddev.com/understanding-rxjava-subscribeon-and-observeon-744b0c6a41ea)
-    * [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
-    * [When you dont need map](https://blog.danlew.net/2018/02/20/when-you-dont-need-a-map)
-    * [[Youtube] Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
-* Error
-    * [Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
-    * [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
-    * [Error handling in RxJava/RxKotlin](https://android.jlelse.eu/error-handling-in-rxjava-rxkotlin-e960300990e0)
-    * [Rxify: error handling with subjects, relays](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
-* Backpressure
-    * [Rx java backpressure](https://stackoverflow.com/documentation/rx-java/2341/backpressure/10629/creating-backpressured-data-sources#t=201607290718331225652)
-    * [RxJava Backpressure and why should you care?](https://proandroiddev.com/rxjava-backpressure-and-why-you-should-care-369c5242c9e6)
-* Android
-    * [[Youtube] Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
-    * [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
-    * [Retrofit 2 and Rx Java call adapter error handling](http://bytes.babbel.com/en/articles/2016-03-16-retrofit2-rxjava-error-handling.html)
-    * [Combination of RxJava and DiffUtil](https://hellsoft.se/a-nice-combination-of-rxjava-and-diffutil-fe3807186012)
-    * [Server polling and retrying failed operations, with Retrofit and RxJava](https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a)
-    * [Overriding RxAndroid Schedulers in RxJava 2](https://medium.com/@peter.tackage/overriding-rxandroid-schedulers-in-rxjava-2-5561b3d14212)
-    * [LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)
-    * [MVVM + RxJava: Common Mistakes](http://upday.github.io/blog/mvvm_rx_common_mistakes/)
-    * [RxJava2 and Retrofit2 Error Handling on a single place](https://medium.com/mindorks/rxjava2-and-retrofit2-error-handling-on-a-single-place-8daf720d42d6)
-    * [Building an AutoCompleting EditText using RxJava](https://proandroiddev.com/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40)
-    * [[Youtube] Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
-    * [RxJava on the Sign In Screen](https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572)
-    * [How to make complex requests simple with RxJava in Kotlin](https://blog.mindorks.com/how-to-make-complex-requests-simple-with-rxjava-in-kotlin-ccec004c5d10)
-    * [No Cause for Concern — RxJava and Retrofit Throwing a Tantrum](https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c)
-
----
+# Programming language
 
 ## Kotlin
 [back to top](#readme)
@@ -457,3 +283,189 @@ Jump to
     * [[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
     * [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
     * [API Design — Handling exceptions](https://medium.com/@ZakTaccardi/api-design-handling-exceptions-84a143e32232)
+    
+---
+
+## Java
+[back to top](#readme)
+* [Understanding how references work in android and java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
+* [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
+* [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
+
+---
+
+# Software development
+
+## OOP
+[back to top](#readme)
+* [Typical Mistakes in Java Code](https://www.yegor256.com/2014/04/27/typical-mistakes-in-java-code.html)
+* [Objects vs. Data Structures](https://hackernoon.com/objects-vs-data-structures-e380b962c1d2)
+* [OOP Alternative to Utility Classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
+* [Why extends is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
+* [Why null is Bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
+* [Static methods violate Dependency Inversion principle](https://www.vzurauskas.com/2018/09/09/static-methods-violate-dependency-inversion-principle/)
+* [Objects Should Be Immutable](https://www.yegor256.com/2014/06/09/objects-should-be-immutable.html)
+* [Solid Is OOP for Dummies](https://www.yegor256.com/2017/03/28/solid.html)
+* [Getters/Setters. Evil. Period.](https://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)
+* [Seven Virtues of a Good Object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
+* [How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
+* [How Does Inversion of Control Really Work?](https://www.yegor256.com/2017/05/10/inversion-of-control.html)
+* [Object Behavior Must Not Be Configurable](https://www.yegor256.com/2016/04/19/object-must-not-be-configurable.html)
+* [Why Many Return Statements Are a Bad Idea in OOP](https://www.yegor256.com/2015/08/18/multiple-return-statements-in-oop.html)
+* [There Can Be Only One Primary Constructor](https://www.yegor256.com/2015/05/28/one-primary-constructor.html)
+* [Immutable Objects Are Not Dumb](https://www.yegor256.com/2014/12/22/immutable-objects-not-dumb.html)
+* [Constructors Must Be Code-Free](https://www.yegor256.com/2015/05/07/ctors-must-be-code-free.html)
+* [Class Casting Is a Discriminating Anti-Pattern](https://www.yegor256.com/2015/04/02/class-casting-is-anti-pattern.html)
+
+---
+
+## Patterns
+[back to top](#readme) 
+* [The Evolution Of The Repository Pattern - Be Aware Of Over Abstraction](http://hannesdorfmann.com/android/evolution-of-the-repository-pattern)
+* [Common Design Patterns for Android](https://www.raywenderlich.com/109843/common-design-patterns-for-android)
+* [Designing something solid](https://www.novoda.com/blog/designing-something-solid/)
+* [Writing Better Adapters](https://proandroiddev.com/writing-better-adapters-1b09758407d2)
+* [Don’t use DAO, use Repository](https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/)
+* [Design Patterns in Android – Observer](https://www.thedroidsonroids.com/blog/design-patterns-android-observer-2)
+* [Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
+* [Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
+* [Defensive Programming via Validating Decorators](https://www.yegor256.com/2016/01/26/defensive-programming.html)
+* [Vertical and Horizontal Decorating](https://www.yegor256.com/2015/10/01/vertical-horizontal-decorating.html)
+* [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
+* [Building vertical decorators right](https://www.vzurauskas.com/2018/10/28/building-vertical-decorators-right/)
+* [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
+
+---
+
+## Tests
+[back to top](#readme)
+* Main
+    * [Different ways of testing exceptions in Java and JUnit](https://blog.goyello.com/2015/10/01/different-ways-of-testing-exceptions-in-java-and-junit/)
+    * [Should we use mocking libraries for go testing?](https://www.philosophicalhacker.com/2016/01/13/should-we-use-mocking-libraries-for-go-testing/)
+    * [Clean tests: Naming](https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522)
+    * [Clean tests: Comments](https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186)
+    * [Testing state vs. testing interaction](https://medium.com/android-testing-daily/testing-state-vs-testing-interaction-c5d7fe0bf247)
+    * [Test doubles](https://medium.com/android-testing-daily/test-doubles-9a63dfaeb28b)
+    * [One weird trick to name your tests](https://medium.com/@anupcowkur/one-weird-trick-to-name-your-tests-28ca1f8131c2)
+    * [An Introduction to Testing Custom Views on Android](https://proandroiddev.com/an-introduction-to-testing-custom-views-on-android-10a6152f379?__s=7obepfpkzmezdyhskkzf)
+    * [Myths about Unit Tests](https://8thlight.com/blog/fabien-townsend/2017/09/19/myths-about-unit-tests.html)
+    * [Three Reasons Why We Should Not Use Inheritance In Our Tests](https://www.petrikainulainen.net/programming/unit-testing/3-reasons-why-we-should-not-use-inheritance-in-our-tests/)
+* Android
+    * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
+    * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
+    * [How to be a mock star](https://medium.com/fueled-android/how-to-be-a-mock-star-fc00714d8c2f)
+    * [Android testing: Unit testing (Part 1)](http://alexzh.com/tutorials/android-testing-unit-testing/)
+    * [Android testing: Mockito and Robolectric (Part 2)](http://alexzh.com/tutorials/android-testing-mockito-robolectric/)
+    * [Android testing: Espresso (Part 3)](http://alexzh.com/tutorials/android-testing-espresso-part-3/)
+    * [Android testing: UI Automator (Part 4)](http://alexzh.com/tutorials/android-testing-ui-automator-part-4/)
+    * [Dont Use Espresso Idling Resources like Google does](https://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-like-this/)
+    * [How "Android Test Recorder" generate delays between actions](http://droidtestlab.com/delay.html)
+    * [Simple way to test asynchronous actions in Android](https://medium.com/@v.danylo/simple-way-to-test-asynchronous-actions-in-android-service-asynctask-thread-rxjava-etc-d43b0402e005)
+    * [Dagger 2 Testing](http://endlesswhileloop.com/blog/2016/06/23/dagger-2-testing/)
+    * [Why I Don't use Robolectric](https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/)
+    * [Junit testing and Android dependencies](https://android.jlelse.eu/junit-testing-and-android-dependencies-e65e66afce61)
+    * [Unit testing protected lifecycle methods](https://medium.com/google-developer-experts/unit-testing-activity-lifecycle-4e740f71e68a)
+    * [Unit Testable RecyclerViews](https://www.philosophicalhacker.com/post/unit-testable-recycler-views/)
+    * [The 3 tiers of the Android test pyramid](https://medium.com/android-testing-daily/the-3-tiers-of-the-android-test-pyramid-c1211b359acd)
+    * [Testing Views in Isolation at RoMOBOS](https://proandroiddev.com/testing-views-in-isolation-at-romobos-d288e76fe10e)
+    * [Espresso Test Addiction: An Anti-pattern](https://www.philosophicalhacker.com/post/espresso-test-addiction/)
+    * [Don’t Keep Activities alone is not enough for testing!](https://medium.com/@elye.project/dont-keep-activities-alone-is-not-enough-for-testing-407b7c01bd60)    
+
+---
+
+## Git
+[back to top](#readme)
+* [Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
+* [Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
+* [Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
+
+---
+
+## Work
+[back to top](#readme)
+* [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
+* [Code Reviews Q&A](https://blog.babylonhealth.com/code-reviews-q-a-f33c72d3b2c3)
+* [Perfect code is an illusion](https://8thlight.com/blog/daniel-irvine/2016/11/11/perfect-code-is-an-illusion.html)
+* [The problematic pull request](https://8thlight.com/blog/daniel-irvine/2016/11/18/the-problematic-pull-request.html)
+* [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
+* [Flexibility Equates to Lower Quality](https://www.yegor256.com/2017/04/11/flexibility-equates-lower-quality.html)
+* [Three Things I Expect From a Software Architect](https://www.yegor256.com/2015/05/11/software-architect-responsibilities.html)
+* [Two Instruments of a Software Architect](https://www.yegor256.com/2015/05/13/two-instruments-of-software-architect.html)
+* [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
+* [Feature Flags in Native Mobile Development are a Must](https://www.techyourchance.com/feature-flags-in-native-mobile-development-are-must/)
+* [Keep Your Features in Progress Out of Your Release Builds](http://antoine-merle.com/blog/2015/10/10/keep-your-features-in-progress-out-of-your-release-builds/)
+* [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
+* [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
+
+---
+
+## Life
+[back to top](#readme)
+* [40 Hours is enough](https://hackernoon.com/40-hours-is-enough-86d7166911ea)
+* [Programmer 60-80 hour weeks](http://brianknapp.me/programmer-60-80-hour-weeks/)
+* [The egoless programmer](https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html)
+* [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5)
+* [Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d)
+* [Professional Developer: What Does It Mean?](https://www.thedroidsonroids.com/blog/professional-developer-what-does-it-mean)
+* [I Don’t Have Time is a Myth](http://www.donnfelker.com/i-dont-have-time-is-a-myth/?utm_source=androiddevdigest)
+* [I "Love" Anti-patterns](https://dev.to/levimoreira/i-love-anti-patterns-1bj1)
+* [Soft Skills Demystified](https://www.yegor256.com/2018/08/29/soft-skills.html)
+* [How to Be a Good Office Slave](https://www.yegor256.com/2015/10/06/how-to-be-good-office-slave.html)
+* [How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
+* [Can’t crack that programming problem? Go to sleep](https://m.signalvnoise.com/cant-crack-that-programming-problem-go-to-sleep-or-take-a-walk-930c767e1119)
+
+---
+
+# Libraries
+
+## Rx
+[back to top](#readme)
+* Main
+    * [[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
+    * [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
+    * [RxJava2: Dispose an Observable chain](https://android.jlelse.eu/rxjava2-dispose-an-observable-chain-684e6ca2790)
+    * [Concurrency in RxJava 2](https://code.tutsplus.com/tutorials/concurrency-in-rxjava-2--cms-29288)
+    * [RxJava - Schedulers - What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
+    * [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
+    * [Rx if the operators could speak](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
+    * [Writing Custom Rx Operators Easily with Kotlin](https://upcurve.engineering/custom-rx-operators-kotlin/)
+    * [RxJava as event bus, the right way](https://lorentzos.com/rxjava-as-event-bus-the-right-way-10a36bdd49ba)
+    * [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
+    * [Understanding RxJava Subject — Publish, Replay, Behavior and Async Subject](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f?gi=837dc5402ae4)
+    * [Understanding RxJava subscribeOn and observeOn](https://proandroiddev.com/understanding-rxjava-subscribeon-and-observeon-744b0c6a41ea)
+    * [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
+    * [When you dont need map](https://blog.danlew.net/2018/02/20/when-you-dont-need-a-map)
+    * [[Youtube] Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
+* Error
+    * [Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
+    * [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
+    * [Error handling in RxJava/RxKotlin](https://android.jlelse.eu/error-handling-in-rxjava-rxkotlin-e960300990e0)
+    * [Rxify: error handling with subjects, relays](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
+* Backpressure
+    * [Rx java backpressure](https://stackoverflow.com/documentation/rx-java/2341/backpressure/10629/creating-backpressured-data-sources#t=201607290718331225652)
+    * [RxJava Backpressure and why should you care?](https://proandroiddev.com/rxjava-backpressure-and-why-you-should-care-369c5242c9e6)
+* Android
+    * [[Youtube] Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
+    * [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
+    * [Retrofit 2 and Rx Java call adapter error handling](http://bytes.babbel.com/en/articles/2016-03-16-retrofit2-rxjava-error-handling.html)
+    * [Combination of RxJava and DiffUtil](https://hellsoft.se/a-nice-combination-of-rxjava-and-diffutil-fe3807186012)
+    * [Server polling and retrying failed operations, with Retrofit and RxJava](https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a)
+    * [Overriding RxAndroid Schedulers in RxJava 2](https://medium.com/@peter.tackage/overriding-rxandroid-schedulers-in-rxjava-2-5561b3d14212)
+    * [LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)
+    * [MVVM + RxJava: Common Mistakes](http://upday.github.io/blog/mvvm_rx_common_mistakes/)
+    * [RxJava2 and Retrofit2 Error Handling on a single place](https://medium.com/mindorks/rxjava2-and-retrofit2-error-handling-on-a-single-place-8daf720d42d6)
+    * [Building an AutoCompleting EditText using RxJava](https://proandroiddev.com/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40)
+    * [[Youtube] Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
+    * [RxJava on the Sign In Screen](https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572)
+    * [How to make complex requests simple with RxJava in Kotlin](https://blog.mindorks.com/how-to-make-complex-requests-simple-with-rxjava-in-kotlin-ccec004c5d10)
+    * [No Cause for Concern — RxJava and Retrofit Throwing a Tantrum](https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c)
+
+---
+
+## Dagger
+[back to top](#readme)
+* [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+* [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
+* [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+* [[Yotube] The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
+* [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
