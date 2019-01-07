@@ -12,6 +12,7 @@ Links about android development
 - [Developer Life](#life)
 - [Developer Work](#work)
 - [Git](#git)
+- [Java](#java)
 - [Context](#context)
 - [Dagger 2](#dagger)
 - [Themes](#themes)
@@ -126,23 +127,17 @@ Links about android development
 
 * [Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
 
-* [Understanding how references work in android and java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
-
 * [An introduction to Android Instant Apps](https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps)
 
 * [Live Template for RecyclerView Adapter in Android Studio](https://tech.fleka.me/live-template-for-recyclerview-adapter-in-android-studio-5a4e7342bffc)
 
 * [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
 
-* [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
-
 * [65K methods](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71)
 
 * [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
 
 * [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
-
-* [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
 
 * [From Fragments to Activity: the Lambda Way](https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9)
 
@@ -262,6 +257,13 @@ Links about android development
 * [Keep a readable Git history](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
 * [Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
 * [Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
+
+---
+
+### Java
+* [Understanding how references work in android and java](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
+* [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
+* [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
 
 ---
 
