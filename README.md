@@ -334,6 +334,7 @@ Jump to
 * [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
 * [Building vertical decorators right](https://www.vzurauskas.com/2018/10/28/building-vertical-decorators-right/)
 * [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
+* [Inversion of control containers and the dependency injection pattern](https://martinfowler.com/articles/injection.html)
 
 ---
 
