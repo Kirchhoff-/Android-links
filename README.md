@@ -135,6 +135,7 @@ Jump to
     * [[Video] Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
     * [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090)
     * [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
+    * [5 common mistakes when using Architecture Components](https://proandroiddev.com/5-common-mistakes-when-using-architecture-components-403e9899f4cb)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture(MVC, MVP, MVVM)](https://android.jlelse.eu/android-architecture-2f12e1c7d4db)
