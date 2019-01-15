@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2014,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2015,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -339,6 +339,7 @@ Jump to
 * [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
 * [Inversion of control containers and the dependency injection pattern](https://martinfowler.com/articles/injection.html)
 * [Service locator vs dependency injection](http://guy-murphy.github.io/2014/11/24/service-locator-vs-dependency-injection/)
+* [Composable Decorators vs. Imperative Utility Methods](https://www.yegor256.com/2015/02/26/composable-decorators.html)
 
 ---
 
