@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2015,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2016,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -356,6 +356,7 @@ Jump to
     * [An Introduction to Testing Custom Views on Android](https://proandroiddev.com/an-introduction-to-testing-custom-views-on-android-10a6152f379?__s=7obepfpkzmezdyhskkzf)
     * [Myths about Unit Tests](https://8thlight.com/blog/fabien-townsend/2017/09/19/myths-about-unit-tests.html)
     * [Three Reasons Why We Should Not Use Inheritance In Our Tests](https://www.petrikainulainen.net/programming/unit-testing/3-reasons-why-we-should-not-use-inheritance-in-our-tests/)
+    * [What’s in a name?](https://medium.com/android-testing-daily/whats-in-a-name-b5f7531abf3b)    
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
