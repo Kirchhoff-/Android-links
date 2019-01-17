@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2016,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2017,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -49,6 +49,7 @@ Jump to
     * [Preferred way to set clickable image icon](https://medium.com/@elye.project/preferred-way-to-set-clickable-image-icon-95b0c88f3cd9)
     * [Selectively Locking An Android UI](https://mpope9.github.io/2018/09/06/LockingAndroidUI.html)
     * [[Yotube] Loving Lean Layouts](https://www.youtube.com/watch?v=-xAdDqwaWJk)
+    * [Implementing Custom Drawables](https://blog.zen.ly/implementing-custom-drawables-part-1-5530a98cefc9)    
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
