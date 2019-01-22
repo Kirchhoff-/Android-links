@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2021,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2022,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -179,7 +179,8 @@ Jump to
     * [[Yotube] Exploring Custom Activity Transitions](https://www.youtube.com/watch?v=HLhA0I00TnI)
     * [[Yotube] Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
     * [[Video] Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
-    * [TransactionTooLargeException on Nougat solved](https://medium.com/@mdmasudparvez/android-os-transactiontoolargeexception-on-nougat-solved-3b6e30597345)    
+    * [TransactionTooLargeException on Nougat solved](https://medium.com/@mdmasudparvez/android-os-transactiontoolargeexception-on-nougat-solved-3b6e30597345)
+    * [Bringing more colour to Android Studio](https://medium.com/a-problem-like-maria/bringing-more-colour-to-android-studio-18bb45017106)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
