@@ -408,6 +408,7 @@ Jump to
 * [Keep Your Features in Progress Out of Your Release Builds](http://antoine-merle.com/blog/2015/10/10/keep-your-features-in-progress-out-of-your-release-builds/)
 * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
 * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
+* [Who Is a Project Manager?](https://www.yegor256.com/2016/05/24/who-is-project-manager.html)
 
 ---
 
