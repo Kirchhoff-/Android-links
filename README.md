@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2028,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2029,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -325,6 +325,7 @@ Jump to
 * [Class Casting Is a Discriminating Anti-Pattern](https://www.yegor256.com/2015/04/02/class-casting-is-anti-pattern.html)
 * [Utility Classes Have Nothing to Do With Functional Programming](https://www.yegor256.com/2015/02/20/utility-classes-vs-functional-programming.html)
 * [What's Wrong With Object-Oriented Programming?](https://www.yegor256.com/2016/08/15/what-is-wrong-object-oriented-programming.html)
+* [If-Then-Else Is a Code Smell](https://www.yegor256.com/2016/08/10/if-then-else-code-smell.html)
 
 ---
 
