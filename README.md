@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2001,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2004,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -329,6 +329,7 @@ Jump to
 * [Utility Classes Have Nothing to Do With Functional Programming](https://www.yegor256.com/2015/02/20/utility-classes-vs-functional-programming.html)
 * [What's Wrong With Object-Oriented Programming?](https://www.yegor256.com/2016/08/15/what-is-wrong-object-oriented-programming.html)
 * [If-Then-Else Is a Code Smell](https://www.yegor256.com/2016/08/10/if-then-else-code-smell.html)
+* [Inheritance Is a Procedural Technique for Code Reuse](https://www.yegor256.com/2016/09/13/inheritance-is-procedural.html)
 
 ---
 
