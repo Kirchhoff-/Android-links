@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2007,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2008,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -59,6 +59,7 @@ Jump to
     * [[Yotube] Mastering RecyclerView Layouts](https://www.youtube.com/watch?v=gs_C1E8HwvE)
     * [RecyclerView — More Animations with Less Code using Support Library ListAdapter](https://medium.com/@trionkidnapper/recyclerview-more-animations-with-less-code-using-support-library-listadapter-62e65126acdb)
     * [Right way of setting margin on Recycler View’s cell](https://medium.com/@elye.project/right-way-of-setting-margin-on-recycler-views-cell-319da259b641)
+    * [DiffUtil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)
 * WebView
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
     * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
