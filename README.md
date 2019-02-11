@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2008,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2011,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -493,3 +493,4 @@ Jump to
 * [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
 * [[Yotube] The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
 * [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
+* [Android Injection Performance](https://github.com/Sloy/android-dependency-injection-performance)
