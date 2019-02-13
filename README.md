@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2012,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2013,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -393,7 +393,8 @@ Jump to
     * [The 3 tiers of the Android test pyramid](https://medium.com/android-testing-daily/the-3-tiers-of-the-android-test-pyramid-c1211b359acd)
     * [Testing Views in Isolation at RoMOBOS](https://proandroiddev.com/testing-views-in-isolation-at-romobos-d288e76fe10e)
     * [Espresso Test Addiction: An Anti-pattern](https://www.philosophicalhacker.com/post/espresso-test-addiction/)
-    * [Don’t Keep Activities alone is not enough for testing!](https://medium.com/@elye.project/dont-keep-activities-alone-is-not-enough-for-testing-407b7c01bd60)    
+    * [Don’t Keep Activities alone is not enough for testing!](https://medium.com/@elye.project/dont-keep-activities-alone-is-not-enough-for-testing-407b7c01bd60)
+    * [Taming UI tests when using multiple Gradle flavors](https://medium.com/stepstone-tech/taming-ui-tests-when-using-multiple-gradle-flavors-6190b3692491)
 
 ---
 
