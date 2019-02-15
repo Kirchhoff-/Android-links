@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2014,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2015,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -369,12 +369,13 @@ Jump to
     * [Testing state vs. testing interaction](https://medium.com/android-testing-daily/testing-state-vs-testing-interaction-c5d7fe0bf247)
     * [Test doubles](https://medium.com/android-testing-daily/test-doubles-9a63dfaeb28b)
     * [One weird trick to name your tests](https://medium.com/@anupcowkur/one-weird-trick-to-name-your-tests-28ca1f8131c2)
-    * [An Introduction to Testing Custom Views on Android](https://proandroiddev.com/an-introduction-to-testing-custom-views-on-android-10a6152f379?__s=7obepfpkzmezdyhskkzf)
+    * [An Introduction to Testing Custom Views on Android](https://proandroiddev.com/an-introduction-to-testing-custom-views-on-android-10a6152f379)
     * [Myths about Unit Tests](https://8thlight.com/blog/fabien-townsend/2017/09/19/myths-about-unit-tests.html)
     * [Three Reasons Why We Should Not Use Inheritance In Our Tests](https://www.petrikainulainen.net/programming/unit-testing/3-reasons-why-we-should-not-use-inheritance-in-our-tests/)
     * [What’s in a name?](https://medium.com/android-testing-daily/whats-in-a-name-b5f7531abf3b)
     * [Unit test vs. Integration test](https://medium.com/android-testing-daily/unit-test-vs-integration-tes-fba13b92fbf6)  
     * [Code coverage](https://medium.com/android-testing-daily/code-coverage-dc1e3d0c70)
+    * [Don’t be lazy, use @Rules](https://proandroiddev.com/dont-be-lazy-use-rules-95c68f4ecb8b)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
