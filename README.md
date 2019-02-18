@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2015,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2018,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -335,6 +335,7 @@ Jump to
 * [Inheritance Is a Procedural Technique for Code Reuse](https://www.yegor256.com/2016/09/13/inheritance-is-procedural.html)
 * [Gradients of Immutability](https://www.yegor256.com/2016/09/07/gradients-of-immutability.html)
 * [Each Private Static Method Is a Candidate for a New Class](https://www.yegor256.com/2017/02/07/private-method-is-new-class.html)
+* [Inheritance, composition, delegation, and traits](https://blog.kotlin-academy.com/inheritance-composition-delegation-and-traits-b11c64f11b27)
 
 ---
 
