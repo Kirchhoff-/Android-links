@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2019,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2020,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -426,7 +426,7 @@ Jump to
 * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
 * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
 * [Who Is a Project Manager?](https://www.yegor256.com/2016/05/24/who-is-project-manager.html)
-
+* [Either Bugs or Pull Requests ... or You Are Out](https://www.yegor256.com/2018/07/24/bugs-or-pull-requests.html)
 ---
 
 ## Life
