@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2020,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2021,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -427,6 +427,8 @@ Jump to
 * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
 * [Who Is a Project Manager?](https://www.yegor256.com/2016/05/24/who-is-project-manager.html)
 * [Either Bugs or Pull Requests ... or You Are Out](https://www.yegor256.com/2018/07/24/bugs-or-pull-requests.html)
+* [The TDD That Works for Me](https://www.yegor256.com/2017/03/24/tdd-that-works.html)
+
 ---
 
 ## Life
