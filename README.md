@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2021,%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2022,%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -399,6 +399,7 @@ Jump to
     * [Don’t Keep Activities alone is not enough for testing!](https://medium.com/@elye.project/dont-keep-activities-alone-is-not-enough-for-testing-407b7c01bd60)
     * [Taming UI tests when using multiple Gradle flavors](https://medium.com/stepstone-tech/taming-ui-tests-when-using-multiple-gradle-flavors-6190b3692491)
     * [Subclass and override](https://medium.com/android-testing-daily/subclass-and-override-1492f0564b35)
+    * [How To Unit Test LiveData and Lifecycle Components](https://proandroiddev.com/how-to-unit-test-livedata-and-lifecycle-components-8a0af41c90d9)
 
 ---
 
