@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2025%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2026%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -111,6 +111,7 @@ Jump to
 
 ## Gradle
 [back to top](#readme)
+* [Gradle Tutorial for Android: Getting Started](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)
 * [10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
 * [A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
 * [[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
