@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2005%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2006%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -142,6 +142,7 @@ Jump to
     * [5 common mistakes when using Architecture Components](https://proandroiddev.com/5-common-mistakes-when-using-architecture-components-403e9899f4cb)
     * [Using Realm with Kotlin and LiveData](https://proandroiddev.com/the-realm-of-kotlin-and-live-data-using-mvp-architecture-f04fc41c914e)
     * [Architecture Components & MVP \ MVVM](https://android.jlelse.eu/architecture-components-mvp-mvvm-237eaa831096)
+    * [ViewModels and LiveData: Patterns + AntiPatterns](https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture(MVC, MVP, MVVM)](https://android.jlelse.eu/android-architecture-2f12e1c7d4db)
