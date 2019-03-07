@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2006%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2007%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -407,6 +407,7 @@ Jump to
     * [Subclass and override](https://medium.com/android-testing-daily/subclass-and-override-1492f0564b35)
     * [How To Unit Test LiveData and Lifecycle Components](https://proandroiddev.com/how-to-unit-test-livedata-and-lifecycle-components-8a0af41c90d9)
     * [Unit testing XML resources](https://medium.com/android-testing-daily/unit-testing-xml-resources-7387447f9ef7)
+    * [Custom view attributes](https://medium.com/android-testing-daily/custom-view-attributes-ecf8822235a0)
 
 ---
 
