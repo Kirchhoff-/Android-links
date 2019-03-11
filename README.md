@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2008%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2011%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -456,6 +456,7 @@ Jump to
 * [How to Pay Programmers Less](https://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
 * [Can’t crack that programming problem? Go to sleep](https://m.signalvnoise.com/cant-crack-that-programming-problem-go-to-sleep-or-take-a-walk-930c767e1119)
 * [The Bezos way: sleep, puttering, and three high-quality decisions a day](https://m.signalvnoise.com/The-Bezos-way--sleep--puttering--and-three-high-quality-decisions-a-day/)
+* [How to Be Lazy and Stay Calm](https://www.yegor256.com/2018/04/17/how-to-be-lazy.html)
 
 ---
 
