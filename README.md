@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2012%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2013%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -458,6 +458,8 @@ Jump to
 * [The Bezos way: sleep, puttering, and three high-quality decisions a day](https://m.signalvnoise.com/The-Bezos-way--sleep--puttering--and-three-high-quality-decisions-a-day/)
 * [How to Be Lazy and Stay Calm](https://www.yegor256.com/2018/04/17/how-to-be-lazy.html)
 * [Beyond Code; What It Takes to be a Great Software Engineer](https://medium.com/@trionkidnapper/virtues-of-a-highly-efficient-software-engineer-9353c940bc83)
+* [One Simple Trick to Getting More Free Time](https://medium.com/@trionkidnapper/sone-simple-trick-to-getting-more-free-time-8bbc5e608c51)
+
 
 ---
 
