@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2013%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2014%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -191,6 +191,7 @@ Jump to
     * [Doing work with Android's new WorkManager](https://www.bignerdranch.com/blog/doing-work-with-androids-new-work-manager/)
     * [Large Database Queries on Android](https://medium.com/androiddevelopers/large-database-queries-on-android-cb043ae626e8)
     * [Realm — It’s all about the choices we make](https://android.jlelse.eu/realm-its-all-about-the-choices-we-make-7c2fe380ecd8)
+    * [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
