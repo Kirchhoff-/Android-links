@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2015%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2018%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -311,6 +311,7 @@ Jump to
 * [Default methods + lambdas = less code](https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9)
 * [Try. Finally. If. Not. Null.](https://www.yegor256.com/2016/03/22/try-finally-if-not-null.html)
 * [Double-checked locking: Clever, but broken](https://www.javaworld.com/article/2074979/double-checked-locking--clever--but-broken.html)
+* [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
 
 ---
 
