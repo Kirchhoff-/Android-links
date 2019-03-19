@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2018%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2019%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -486,6 +486,7 @@ Jump to
     * [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
     * [When you dont need map](https://blog.danlew.net/2018/02/20/when-you-dont-need-a-map)
     * [[Youtube] Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
+    * [RxJava's repeatWhen and retryWhen, explained](https://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/)
 * Error
     * [Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
     * [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
