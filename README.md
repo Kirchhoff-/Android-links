@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2019%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2020%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -301,6 +301,7 @@ Jump to
     * [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
     * [API Design — Handling exceptions](https://medium.com/@ZakTaccardi/api-design-handling-exceptions-84a143e32232)
     * [Kotlin : Slow List and Lazy Sequence](https://medium.com/@elye.project/kotlin-slow-list-and-lazy-sequence-61691fc974c5)
+    * [Moving forward with Kotlin: Inheritance](https://proandroiddev.com/moving-forward-with-kotlin-part-2-inheritance-64bc674e2224)
     
 ---
 
