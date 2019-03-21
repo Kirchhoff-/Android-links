@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2020%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2021%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -302,6 +302,7 @@ Jump to
     * [API Design — Handling exceptions](https://medium.com/@ZakTaccardi/api-design-handling-exceptions-84a143e32232)
     * [Kotlin : Slow List and Lazy Sequence](https://medium.com/@elye.project/kotlin-slow-list-and-lazy-sequence-61691fc974c5)
     * [Moving forward with Kotlin: Inheritance](https://proandroiddev.com/moving-forward-with-kotlin-part-2-inheritance-64bc674e2224)
+    * [What you didn’t know about arrays in Kotlin](https://medium.com/asos-techblog/what-you-didnt-know-about-arrays-in-kotlin-d3b20337e4)
     
 ---
 
