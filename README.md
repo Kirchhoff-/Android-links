@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2021%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2022%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -95,6 +95,7 @@ Jump to
  * [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
 * [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 * [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
+* [Mastering Android Service of 2018](https://medium.com/mindorks/mastering-android-service-of-2018-a4a1df5ed5a6)
 
 ---
 
