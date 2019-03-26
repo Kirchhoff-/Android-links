@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2023%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2026%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -315,6 +315,7 @@ Jump to
 * [Try. Finally. If. Not. Null.](https://www.yegor256.com/2016/03/22/try-finally-if-not-null.html)
 * [Double-checked locking: Clever, but broken](https://www.javaworld.com/article/2074979/double-checked-locking--clever--but-broken.html)
 * [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
+* [Java Annotations tutorial with examples](https://beginnersbook.com/2014/09/java-annotations/)
 
 ---
 
