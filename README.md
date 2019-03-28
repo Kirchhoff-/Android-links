@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2027%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2028%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -527,3 +527,4 @@ Jump to
 * [[Yotube] The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
 * [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
 * [Android Injection Performance](https://github.com/Sloy/android-dependency-injection-performance)
+* [Clean Android Application class with Dependency Injection: AppInitializers](https://proandroiddev.com/clean-android-application-class-with-dependency-injection-appinitializer-45999096f955)
