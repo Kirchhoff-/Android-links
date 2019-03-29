@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2028%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2029%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -447,6 +447,7 @@ Jump to
 * [The TDD That Works for Me](https://www.yegor256.com/2017/03/24/tdd-that-works.html)
 * [Are You an Architect?](https://www.yegor256.com/2018/06/26/are-you-an-architect.html)
 * [Don't Aim for Quality, Aim for Speed](https://www.yegor256.com/2018/03/06/speed-vs-quality.html)
+* [Who is (not) a Tech Leader](https://medium.com/@froger_mcs/who-is-not-a-tech-leader-a98aab27ad93)
 
 ---
 
