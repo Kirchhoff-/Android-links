@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2029%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2001%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -317,6 +317,7 @@ Jump to
 * [Double-checked locking: Clever, but broken](https://www.javaworld.com/article/2074979/double-checked-locking--clever--but-broken.html)
 * [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
 * [Java Annotations tutorial with examples](https://beginnersbook.com/2014/09/java-annotations/)
+* [Strict Control of Java Code Quality](https://www.yegor256.com/2014/08/13/strict-code-quality-control.html)
 
 ---
 
