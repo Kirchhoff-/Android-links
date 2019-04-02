@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2001%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2002%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -351,6 +351,7 @@ Jump to
 * [Each Private Static Method Is a Candidate for a New Class](https://www.yegor256.com/2017/02/07/private-method-is-new-class.html)
 * [Inheritance, composition, delegation, and traits](https://blog.kotlin-academy.com/inheritance-composition-delegation-and-traits-b11c64f11b27)
 * [Builders and Manipulators](https://www.yegor256.com/2018/08/22/builders-and-manipulators.html)
+* [Operator new() is Toxic](https://www.yegor256.com/2018/01/02/operator-new-is-toxic.html)
 
 ---
 
