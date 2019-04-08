@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2005%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2008%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -453,6 +453,7 @@ Jump to
 * [Are You an Architect?](https://www.yegor256.com/2018/06/26/are-you-an-architect.html)
 * [Don't Aim for Quality, Aim for Speed](https://www.yegor256.com/2018/03/06/speed-vs-quality.html)
 * [Who is (not) a Tech Leader](https://medium.com/@froger_mcs/who-is-not-a-tech-leader-a98aab27ad93)
+* [Are You a Coder or a Developer?](https://www.yegor256.com/2018/01/23/sociotech-skills.html)
 
 ---
 
