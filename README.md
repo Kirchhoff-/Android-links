@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2011%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2012%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -155,6 +155,7 @@ Jump to
     * [[Youtube] Android Software Architecture by Example](https://www.youtube.com/watch?v=7t7MN8e1W7s)
     * [[Youtube] Half Way to clean architecture](https://www.youtube.com/watch?v=R89ufpJI3SY)
     * [[Youtube] Application Architecture: Designing Offline Application Case Studies](https://www.youtube.com/watch?v=n8nG5K_3BJM)
+    * [Netflix Shows The Future of Android Architecture](https://www.techyourchance.com/netflix-shows-the-future-of-android-architecture/)
 
 ---
 
