@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2012%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2015%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -226,6 +226,7 @@ Jump to
     * [Data Classes are The Best Kotlin Feature](https://www.techyourchance.com/data-classes-best-kotlin-feature/)
     * [Kotlin data classes and sensitive information](https://mustafaali.net/2018/01/14/Kotlin-data-classes-and-sensitive-information/)
     * [Data classes aren't (that) magical](https://zsmb.co/data-classes-arent-that-magical/)
+    * [Kotlin for Android Developers: Data Class](https://android.jlelse.eu/kotlin-for-android-developers-data-class-c2ad51a32844)
 * Sealed Classes
     * [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
     * [Simplify your Android code by delegating to sealed classes](https://medium.com/halcyon-mobile/simplify-your-android-code-by-delegating-to-sealed-classes-99304c509321)
