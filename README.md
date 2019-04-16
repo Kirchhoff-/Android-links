@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2015%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2016%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -200,6 +200,7 @@ Jump to
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
     * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
+    * [OkHttp & OAuth: Token Refreshes](https://blog.coinbase.com/okhttp-oauth-token-refreshes-b598f55dd3b2)
 * ProGuard
     * [Practical ProGuard rules examples](https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9)
     * [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
