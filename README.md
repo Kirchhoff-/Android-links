@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2016%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2017%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -325,6 +325,7 @@ Jump to
 * [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
 * [Java Annotations tutorial with examples](https://beginnersbook.com/2014/09/java-annotations/)
 * [Strict Control of Java Code Quality](https://www.yegor256.com/2014/08/13/strict-code-quality-control.html)
+* [Common Bad Programming practices](https://medium.com/mindorks/common-bad-programming-practices-7fb470ed74d2)
 
 ---
 
