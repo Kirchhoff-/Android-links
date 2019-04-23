@@ -314,6 +314,7 @@ Jump to
     * [Moving forward with Kotlin: Inheritance](https://proandroiddev.com/moving-forward-with-kotlin-part-2-inheritance-64bc674e2224)
     * [What you didn’t know about arrays in Kotlin](https://medium.com/asos-techblog/what-you-didnt-know-about-arrays-in-kotlin-d3b20337e4)
     * [Kotlin: For-loop vs ForEach](https://medium.com/@elye.project/kotlin-for-loop-vs-foreach-7eb594960333)
+    * [The Argument Over Kotlin Synthetics](https://proandroiddev.com/the-argument-over-kotlin-synthetics-735305dd4ed0)
     
 ---
 
