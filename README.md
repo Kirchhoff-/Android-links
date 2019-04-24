@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2022%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2024%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -364,6 +364,7 @@ Jump to
 * [Builders and Manipulators](https://www.yegor256.com/2018/08/22/builders-and-manipulators.html)
 * [Operator new() is Toxic](https://www.yegor256.com/2018/01/02/operator-new-is-toxic.html)
 * [The Perils of Inheritance](https://blog.kotlin-academy.com/the-perils-of-inheritance-698b777fa773)
+* [How Data Visibility Hurts Maintainability](https://www.yegor256.com/2019/03/12/data-and-maintainability.html)
 
 ---
 
