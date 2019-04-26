@@ -247,6 +247,7 @@ Jump to
     * [Kotlin — Mastering generics nullability](https://medium.com/@igorwojda/kotlin-deep-dive-into-generics-nullability-9853d9a9f50d)   
     * [All About Type Aliases in Kotlin](https://typealias.com/guides/all-about-type-aliases/)
     * [An Illustrated Guide to Covariance and Contravariance in Kotlin](https://typealias.com/guides/illustrated-guide-covariance-contravariance/)
+    * [Null is your friend, not a mistake](https://medium.com/@elizarov/null-is-your-friend-not-a-mistake-b63ff1751dd5)
 * Properties
     * [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
     * [Safely accessing lateinit properties in Kotlin](https://upcurve.engineering/accessing-lateinit-kotlin/)
