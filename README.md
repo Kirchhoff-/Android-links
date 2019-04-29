@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2025%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2029%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -489,6 +489,7 @@ Jump to
 * [How to Be Lazy and Stay Calm](https://www.yegor256.com/2018/04/17/how-to-be-lazy.html)
 * [Beyond Code; What It Takes to be a Great Software Engineer](https://medium.com/@trionkidnapper/virtues-of-a-highly-efficient-software-engineer-9353c940bc83)
 * [One Simple Trick to Getting More Free Time](https://medium.com/@trionkidnapper/sone-simple-trick-to-getting-more-free-time-8bbc5e608c51)
+* [What Motivates Me as a Programmer](https://www.yegor256.com/2017/09/19/what-motivates-me.html)
 
 
 ---
