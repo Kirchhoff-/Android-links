@@ -434,6 +434,7 @@ Jump to
     * [How To Unit Test LiveData and Lifecycle Components](https://proandroiddev.com/how-to-unit-test-livedata-and-lifecycle-components-8a0af41c90d9)
     * [Unit testing XML resources](https://medium.com/android-testing-daily/unit-testing-xml-resources-7387447f9ef7)
     * [Custom view attributes](https://medium.com/android-testing-daily/custom-view-attributes-ecf8822235a0)
+    * [Can you fix the test?](https://jeroenmols.com/blog/2018/12/06/fixthetest/)
 
 ---
 
