@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2003%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2006%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -446,6 +446,7 @@ Jump to
 * [Four Steps To Maintaining a Clean Git History](https://spin.atomicobject.com/2017/04/23/maintain-clean-git-history/)
 * [Android Studio and Git Branches – How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
 * [Mastering Git — Why Rebase is amazing](https://hackernoon.com/mastering-git-why-rebase-is-amazing-a954485b128a)
+* [8 Productivity Tips for GitHub](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
 
 ---
 
