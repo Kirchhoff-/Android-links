@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2007%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2008%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -371,6 +371,7 @@ Jump to
 * [The Perils of Inheritance](https://blog.kotlin-academy.com/the-perils-of-inheritance-698b777fa773)
 * [How Data Visibility Hurts Maintainability](https://www.yegor256.com/2019/03/12/data-and-maintainability.html)
 * [Constructors or Static Factory Methods?](https://www.yegor256.com/2017/11/14/static-factory-methods.html)
+* [Streams vs. Decorators](https://www.yegor256.com/2017/10/10/streams-vs-decorators.html)
 
 ---
 
