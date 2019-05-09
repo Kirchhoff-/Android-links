@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2008%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2009%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -217,6 +217,7 @@ Jump to
     * [What you need to know about Android app memory leaks](https://techbeacon.com/what-you-need-know-about-android-app-memory-leaks)
     * [Android leak pattern: subscriptions in views](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c)
     * [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c)
+    * [Unwrapping Framework Binding Adapters](https://zdominguez.com/2019/02/15/framework-binders.html)
 
 ---
 
