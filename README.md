@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2010%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2013%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -374,6 +374,7 @@ Jump to
 * [How Data Visibility Hurts Maintainability](https://www.yegor256.com/2019/03/12/data-and-maintainability.html)
 * [Constructors or Static Factory Methods?](https://www.yegor256.com/2017/11/14/static-factory-methods.html)
 * [Streams vs. Decorators](https://www.yegor256.com/2017/10/10/streams-vs-decorators.html)
+* [[Yotube] What's Wrong About Utility Classes?](https://www.youtube.com/watch?v=psrp3TtaYYI)
 
 ---
 
