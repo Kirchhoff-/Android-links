@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2014%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2015%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -479,6 +479,7 @@ Jump to
 * [Who is (not) a Tech Leader](https://medium.com/@froger_mcs/who-is-not-a-tech-leader-a98aab27ad93)
 * [Are You a Coder or a Developer?](https://www.yegor256.com/2018/01/23/sociotech-skills.html)
 * [The Formula for Software Quality](https://www.yegor256.com/2017/12/26/software-quality-formula.html)
+* [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
 
 ---
 
