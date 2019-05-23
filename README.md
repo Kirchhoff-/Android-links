@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2022%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2023%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -219,6 +219,7 @@ Jump to
     * [What you need to know about Android app memory leaks](https://techbeacon.com/what-you-need-know-about-android-app-memory-leaks)
     * [Android leak pattern: subscriptions in views](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c)
     * [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c)
+    * [Reliable Hot Reload on Android](https://medium.com/@gpeal/reliable-hot-reload-on-android-27f14a80df60)
 
 ---
 
