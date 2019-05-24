@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2023%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2024%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -484,6 +484,7 @@ Jump to
 * [The Formula for Software Quality](https://www.yegor256.com/2017/12/26/software-quality-formula.html)
 * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
 * [Programmer’s discipline](https://medium.com/@ponnappa/programmers-discipline-57cc9ec89c91)
+* [Five tips to get your code base in shape](https://jeroenmols.com/blog/2019/02/20/tacklelegacy/)
 
 ---
 
