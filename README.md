@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2027%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2028%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -379,6 +379,7 @@ Jump to
 * [Streams vs. Decorators](https://www.yegor256.com/2017/10/10/streams-vs-decorators.html)
 * [[Yotube] What's Wrong About Utility Classes?](https://www.youtube.com/watch?v=psrp3TtaYYI)
 * [[Yotube] Dependency Injection Container is a Bad Idea](https://www.youtube.com/watch?v=oV6Utb5Jows)
+* [[Yotube] Immutable Objects vs. Common Sense](https://www.youtube.com/watch?v=KwP7Ay9Z-hc)
 
 ---
 
