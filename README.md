@@ -1,4 +1,4 @@
-# Android-links
+﻿# Android-links
 ![](https://img.shields.io/badge/Updated-May%20%2028%202019-brightgreen.svg)
 
 Jump to
@@ -380,6 +380,7 @@ Jump to
 * [[Yotube] What's Wrong About Utility Classes?](https://www.youtube.com/watch?v=psrp3TtaYYI)
 * [[Yotube] Dependency Injection Container is a Bad Idea](https://www.youtube.com/watch?v=oV6Utb5Jows)
 * [[Yotube] Immutable Objects vs. Common Sense](https://www.youtube.com/watch?v=KwP7Ay9Z-hc)
+* [[Yotube] A Few Thoughts About Constructors in OOP](https://www.youtube.com/watch?v=9yjtsCK6Wdk)
 
 ---
 
