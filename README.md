@@ -488,6 +488,7 @@ Jump to
 * [Programmer’s discipline](https://medium.com/@ponnappa/programmers-discipline-57cc9ec89c91)
 * [Five tips to get your code base in shape](https://jeroenmols.com/blog/2019/02/20/tacklelegacy/)
 * [Achieving Your Goals Feels Good](https://www.donnfelker.com/achieving-your-goals-feels-good/)
+* [Talk, then code](https://dave.cheney.net/2019/02/18/talk-then-code)
 
 ---
 
