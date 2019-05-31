@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2028%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2031%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -245,6 +245,7 @@ Jump to
     * [Kotlinâ€Šâ€”â€ŠFaster Lazy for Android](https://proandroiddev.com/kotlin-faster-lazy-for-android-7328ec8d8d57)
     * [The magic in Kotlin: Delegates](https://proandroiddev.com/the-magic-in-kotlin-delegates-377d27a7b531)
     * [Kotlin delegates in Android development](https://proandroiddev.com/kotlin-delegates-in-android-development-part-2-2c15c11ff438)
+    * [Simpler Kotlin class hierarchies using class delegation](https://proandroiddev.com/simpler-kotlin-class-hierarchies-using-class-delegation-35464106fed5)
 * Type System
     * [Kotlin Type Hierarchy](http://natpryce.com/articles/000818.html)
     * [Nothing (else) matters in Kotlin](https://proandroiddev.com/nothing-else-matters-in-kotlin-994a9ef106fc)
