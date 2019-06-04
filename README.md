@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2003%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2004%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -89,6 +89,7 @@ Jump to
 * [[Youtube] Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 * [From Fragments to Activity: the Lambda Way](https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9)
 * [Handling IllegalStateException: Can not perform this action after onSaveInstanceState](https://medium.com/@elye.project/handling-illegalstateexception-can-not-perform-this-action-after-onsaveinstancestate-d4ee8b630066)
+* [Advocating for Better Android Fragments](https://willowtreeapps.com/ideas/advocating-for-better-android-fragments)
 
 ---
 
