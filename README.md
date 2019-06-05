@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2004%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2005%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -515,6 +515,7 @@ Jump to
 * [One Simple Trick to Getting More Free Time](https://medium.com/@trionkidnapper/sone-simple-trick-to-getting-more-free-time-8bbc5e608c51)
 * [What Motivates Me as a Programmer](https://www.yegor256.com/2017/09/19/what-motivates-me.html)
 * [Being Absent While Being Present (don’t do this)](https://www.donnfelker.com/being-absent-while-being-present/)
+* [How to Cut Corners and Stay Cool](https://www.youtube.com/watch?v=YBQoTZ-1X-o)
 
 ---
 
