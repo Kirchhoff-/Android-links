@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2005%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2006%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -492,6 +492,7 @@ Jump to
 * [Five tips to get your code base in shape](https://jeroenmols.com/blog/2019/02/20/tacklelegacy/)
 * [Achieving Your Goals Feels Good](https://www.donnfelker.com/achieving-your-goals-feels-good/)
 * [Talk, then code](https://dave.cheney.net/2019/02/18/talk-then-code)
+* [[Youtube] Daily Stand-Up Meetings Are Evil](https://www.youtube.com/watch?v=ibT5oKToMoQ)
 
 ---
 
