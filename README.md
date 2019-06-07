@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2006%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2007%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -328,6 +328,7 @@ Jump to
     * [Kotlin: For-loop vs ForEach](https://medium.com/@elye.project/kotlin-for-loop-vs-foreach-7eb594960333)
     * [The Argument Over Kotlin Synthetics](https://proandroiddev.com/the-argument-over-kotlin-synthetics-735305dd4ed0)
     * [Kotlin : When if-else is too mainstream](https://medium.com/@ragdroid/kotlin-when-if-else-is-too-mainstream-acc4b91c2416)
+    * [Kotlin Sequences: An Illustrated Guide](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)
     
 ---
 
