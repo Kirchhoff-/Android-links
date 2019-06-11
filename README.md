@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2010%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2011%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -52,6 +52,7 @@ Jump to
     * [Implementing Custom Drawables](https://blog.zen.ly/implementing-custom-drawables-part-1-5530a98cefc9)
     * [How to maximize Androidâ€™s UI reusabilityâ€Šâ€”â€Š5 common mistakes](https://proandroiddev.com/how-to-maximize-androids-ui-reusability-5-common-mistakes-cb2571216a9f)
     * [State of the Navigation Drawer](https://androiduipatterns.com/state-of-the-navigation-drawer-1d2c8253de2a)
+    * [On the Bottom Navigation Bar](https://androiduipatterns.com/on-the-bottom-navigation-bar-d07d9b4b5e18)
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
