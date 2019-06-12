@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2011%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2012%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -202,6 +202,7 @@ Jump to
     * [Understanding Android Matrix transformations](https://medium.com/a-problem-like-maria/understanding-android-matrix-transformations-25e028f56dc7)
     * [Developing Secure Android Apps](https://proandroiddev.com/developing-secure-android-apps-8edad978d8ba)
     * [Unwrapping Framework Binding Adapters](https://zdominguez.com/2019/02/15/framework-binders.html)
+    * [Android CPU, Compilers, D8 & R8](https://proandroiddev.com/android-cpu-compilers-d8-r8-a3aa2bfbc109)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
