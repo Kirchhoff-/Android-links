@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2012%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2013%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -332,6 +332,7 @@ Jump to
     * [Kotlin : When if-else is too mainstream](https://medium.com/@ragdroid/kotlin-when-if-else-is-too-mainstream-acc4b91c2416)
     * [Kotlin Sequences: An Illustrated Guide](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)
     * [[Youtube] Advanced Kotlin](https://www.youtube.com/watch?v=UveNpy7lZ8M)
+    * [Those sneaky Kotlin Exceptions](https://medium.com/google-developer-experts/those-sneaky-kotlin-exceptions-597c93d29358)
     
 ---
 
