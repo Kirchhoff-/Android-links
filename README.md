@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2013%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2014%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -498,6 +498,7 @@ Jump to
 * [Achieving Your Goals Feels Good](https://www.donnfelker.com/achieving-your-goals-feels-good/)
 * [Talk, then code](https://dave.cheney.net/2019/02/18/talk-then-code)
 * [[Youtube] Daily Stand-Up Meetings Are Evil](https://www.youtube.com/watch?v=ibT5oKToMoQ)
+* [[Youtube] Seven Sins of a Software Project](https://www.youtube.com/watch?v=ZtWmlKi3ivc)
 
 ---
 
