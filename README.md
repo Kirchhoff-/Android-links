@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2017%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2018%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -160,6 +160,7 @@ Jump to
     * [[Youtube] Application Architecture: Designing Offline Application Case Studies](https://www.youtube.com/watch?v=n8nG5K_3BJM)
     * [Netflix Shows The Future of Android Architecture](https://www.techyourchance.com/netflix-shows-the-future-of-android-architecture/)
     * [MVVM with architecture components: a step by step guideline for MVP lovers](https://antonioleiva.com/mvvm-vs-mvp/)
+    * [Flexible way to handle exceptions in Android](https://android.jlelse.eu/flexible-way-to-handle-exceptions-in-android-9de236f304ad)
 
 ---
 
