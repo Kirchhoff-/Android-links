@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2018%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2019%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -501,6 +501,7 @@ Jump to
 * [Talk, then code](https://dave.cheney.net/2019/02/18/talk-then-code)
 * [[Youtube] Daily Stand-Up Meetings Are Evil](https://www.youtube.com/watch?v=ibT5oKToMoQ)
 * [[Youtube] Seven Sins of a Software Project](https://www.youtube.com/watch?v=ZtWmlKi3ivc)
+* [The Big Rewrite](https://jvaneyck.wordpress.com/2015/03/12/the-big-rewrite/)
 
 ---
 
