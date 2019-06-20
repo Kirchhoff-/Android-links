@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2019%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2020%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -302,7 +302,8 @@ Jump to
     * [How â€œEffective Javaâ€ may have influenced the design of Kotlin](http://www.lukle.at/blog/2017/08/how-effective-java-may-have-influenced-the-design-of-kotlin%E2%80%8A-%E2%80%8Apart-3/)
     * [DI for lazy kotliniers](https://jankotlin.wordpress.com/2017/09/18/di-for-lazy-kotliniers/)
     * [Effective Kotlin: Use Sequence for bigger collections with more than one processing step](https://blog.kotlin-academy.com/effective-kotlin-use-sequence-for-bigger-collections-with-more-than-one-processing-step-649a15bb4bf)
-    * [Default implementations for interfaces](https://medium.com/a-problem-like-maria/default-implementations-for-interfaces-afd0b9316a8a)    
+    * [Default implementations for interfaces](https://medium.com/a-problem-like-maria/default-implementations-for-interfaces-afd0b9316a8a)
+    * [Kotlin Anti-Patterns - Also this is Null](https://blog.novoda.com/kotlin-anti-patterns-also-this-is-null/)  
 * Variable
     * [Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)  
     * [A few facts about Companion objects](https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725)
