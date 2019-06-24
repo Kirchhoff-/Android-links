@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2021%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2024%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -504,6 +504,7 @@ Jump to
 * [[Youtube] Daily Stand-Up Meetings Are Evil](https://www.youtube.com/watch?v=ibT5oKToMoQ)
 * [[Youtube] Seven Sins of a Software Project](https://www.youtube.com/watch?v=ZtWmlKi3ivc)
 * [The Big Rewrite](https://jvaneyck.wordpress.com/2015/03/12/the-big-rewrite/)
+* [[Youtube] Protect yourself against stupid managers—become their good friend!](https://www.youtube.com/watch?v=_Y2lZsRLwlk)
 
 ---
 
