@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2024%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2025%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -470,6 +470,7 @@ Jump to
 * [Android Studio and Git Branches â€“ How to Simplify Your Work](https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work)
 * [Mastering Gitâ€Šâ€”â€ŠWhy Rebase is amazing](https://hackernoon.com/mastering-git-why-rebase-is-amazing-a954485b128a)
 * [8 Productivity Tips for GitHub](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
+* [Git from humans to humans — Pull Requests](https://medium.com/@caueferreira/git-from-humans-to-humans-pull-requests-c25ad049a278)
 
 ---
 
