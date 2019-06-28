@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2027%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2028%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -395,6 +395,7 @@ Jump to
 * [[Yotube] Dependency Injection Container is a Bad Idea](https://www.youtube.com/watch?v=oV6Utb5Jows)
 * [[Yotube] Immutable Objects vs. Common Sense](https://www.youtube.com/watch?v=KwP7Ay9Z-hc)
 * [[Yotube] A Few Thoughts About Constructors in OOP](https://www.youtube.com/watch?v=9yjtsCK6Wdk)
+* [[Yotube] Smart Classes and Functionality-Poor Interfaces](https://www.youtube.com/watch?v=Xk9tIqwca3k)
 
 ---
 
