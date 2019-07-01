@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2028%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2001%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -396,6 +396,7 @@ Jump to
 * [[Yotube] Immutable Objects vs. Common Sense](https://www.youtube.com/watch?v=KwP7Ay9Z-hc)
 * [[Yotube] A Few Thoughts About Constructors in OOP](https://www.youtube.com/watch?v=9yjtsCK6Wdk)
 * [[Yotube] Smart Classes and Functionality-Poor Interfaces](https://www.youtube.com/watch?v=Xk9tIqwca3k)
+* [[Yotube] How Immutability Helps in OOP](https://www.youtube.com/watch?v=EnhRgXrHCC4)
 
 ---
 
