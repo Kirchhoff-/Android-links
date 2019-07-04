@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2003%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2004%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -477,6 +477,7 @@ Jump to
 * [Mastering Gitâ€Šâ€”â€ŠWhy Rebase is amazing](https://hackernoon.com/mastering-git-why-rebase-is-amazing-a954485b128a)
 * [8 Productivity Tips for GitHub](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
 * [Git from humans to humans — Pull Requests](https://medium.com/@caueferreira/git-from-humans-to-humans-pull-requests-c25ad049a278)
+* [Git commands for code detectives](https://blog.novoda.com/git-code-detectives/)
 
 ---
 
