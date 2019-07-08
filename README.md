@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2005%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2008%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -297,6 +297,7 @@ Jump to
     * [Kotlin Functional Programming: Does it make sense?](https://medium.com/@JorgeCastilloPr/kotlin-functional-programming-does-it-make-sense-36ad07e6bacf)
     * [Lambda Expressions in Kotlin](http://www.baeldung.com/kotlin-lambda-expressions)
     * [Kotlin Standard Functions cheat-sheet](https://medium.com/androiddevelopers/kotlin-standard-functions-cheat-sheet-27f032dd4326)
+    * [Kotlin: Function References](https://blog.stylingandroid.com/kotlin-function-references/)
 * Extension Functions
     * [How to Abuse Kotlin Extension Functions](https://www.philosophicalhacker.com/post/how-to-abuse-kotlin-extension-functions/)
     * [Getting rid of boilerplate with Kotlin Android Extensions](https://www.kotlindevelopment.com/kotlin_android_extensions_eliminate_findviewbyid/)    
