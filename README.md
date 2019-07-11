@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2010%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2011%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -601,3 +601,4 @@ Jump to
 * [A Dagger to Remember](http://arturdryomov.online/posts/a-dagger-to-remember/)
 * [Android Injection Performance](https://github.com/Sloy/android-dependency-injection-performance)
 * [Clean Android Application class with Dependency Injection: AppInitializers](https://proandroiddev.com/clean-android-application-class-with-dependency-injection-appinitializer-45999096f955)
+* [Keeping the Daggers Sharp](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
