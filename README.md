@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2011%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2012%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -517,6 +517,7 @@ Jump to
 * [[Youtube] Seven Sins of a Software Project](https://www.youtube.com/watch?v=ZtWmlKi3ivc)
 * [The Big Rewrite](https://jvaneyck.wordpress.com/2015/03/12/the-big-rewrite/)
 * [[Youtube] Protect yourself against stupid managers—become their good friend!](https://www.youtube.com/watch?v=_Y2lZsRLwlk)
+* [Software Project Review Checklist](https://www.yegor256.com/2019/04/02/software-project-review-checklist.html)
 
 ---
 
