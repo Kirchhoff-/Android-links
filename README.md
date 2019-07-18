@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2017%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2018%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -125,6 +125,7 @@ Jump to
 * [Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
 * [[Yotube] Gradle: From User to Addict](https://www.youtube.com/watch?v=-C7TtnPJ7ms)
 * [Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
+* [Speed Up Your Android Project's Gradle Builds](https://dev.to/joshuadeguzman/speed-up-your-android-project-s-gradle-builds-1366)
 
 ---
 
