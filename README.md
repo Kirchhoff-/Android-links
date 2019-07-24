@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2023%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2024%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -349,6 +349,7 @@ Jump to
     * [Those sneaky Kotlin Exceptions](https://medium.com/google-developer-experts/those-sneaky-kotlin-exceptions-597c93d29358)
     * [Kotlin pearls: It’s an Object… It’s a Function… It’s an Invokable](https://proandroiddev.com/kotlin-pearls-3-its-an-object-it-s-a-function-it-s-an-invokable-bc4bfed2e63f)
     * [Kotlin: Don’t just use LET for null check](https://medium.com/@elye.project/kotlin-dont-just-use-let-7e91f544e27f)
+    * [The Mystery of Mutable Kotlin Collections](https://proandroiddev.com/the-mystery-of-mutable-kotlin-collections-e82cbf5d781)
     
 ---
 
