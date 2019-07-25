@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2024%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2025%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -476,6 +476,7 @@ Jump to
     * [Unit testing XML resources](https://medium.com/android-testing-daily/unit-testing-xml-resources-7387447f9ef7)
     * [Custom view attributes](https://medium.com/android-testing-daily/custom-view-attributes-ecf8822235a0)
     * [Can you fix the test?](https://jeroenmols.com/blog/2018/12/06/fixthetest/)
+    * [Unit Testing in MVVM+Kotlin+DataBinding](https://medium.com/@nik.arora8059/unit-testing-in-mvvm-kotlin-databinding-ba3d4ea08f0e)
 
 ---
 
