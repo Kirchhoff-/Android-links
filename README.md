@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2026%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2029%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -209,6 +209,7 @@ Jump to
     * [Unwrapping Framework Binding Adapters](https://zdominguez.com/2019/02/15/framework-binders.html)
     * [Android CPU, Compilers, D8 & R8](https://proandroiddev.com/android-cpu-compilers-d8-r8-a3aa2bfbc109)
     * [[Yotube] From AlarmManager to WorkManager](https://www.youtube.com/watch?v=TCylj3i5cXI)
+    * [[Yotube] Working Effectively with (Android) Legacy Code](https://www.youtube.com/watch?v=xsoQpcvGZgI)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
