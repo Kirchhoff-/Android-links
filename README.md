@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2029%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2030%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -529,6 +529,7 @@ Jump to
 * [[Youtube] Protect yourself against stupid managers—become their good friend!](https://www.youtube.com/watch?v=_Y2lZsRLwlk)
 * [Software Project Review Checklist](https://www.yegor256.com/2019/04/02/software-project-review-checklist.html)
 * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+* [Test Driven Development Is Dumb. Fight Me.](https://itnext.io/test-driven-development-is-dumb-fight-me-a38b3033280c)
 
 ---
 
