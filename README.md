@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2031%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2001%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -531,6 +531,7 @@ Jump to
 * [Software Project Review Checklist](https://www.yegor256.com/2019/04/02/software-project-review-checklist.html)
 * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 * [Test Driven Development Is Dumb. Fight Me.](https://itnext.io/test-driven-development-is-dumb-fight-me-a38b3033280c)
+* [How to Deal With Conflicts in a Software Team](https://www.youtube.com/watch?v=GWLpAZqvqSc)
 
 ---
 
