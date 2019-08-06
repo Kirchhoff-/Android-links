@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2005%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2006%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -306,6 +306,7 @@ Jump to
     * [Kotlin: Function References](https://blog.stylingandroid.com/kotlin-function-references/)
     * [When to use Kotlin's standard functions](https://blog.danlew.net/2019/02/12/when-to-use-kotlins-stdlib-functions/)
     * [Be Explicit! Don’t Let Convenience Make Your Code Less Maintainable and Readable](https://medium.com/@nohitme/be-explicit-dont-let-convenience-make-your-code-less-maintainable-and-readable-8ea1f4a8e511)
+    * [How to use Kotlin's 'it also let apply run'](https://bloggie.io/@_junrong/how-to-use-kotlin-s-it-also-let-apply-run)
 * Extension Functions
     * [How to Abuse Kotlin Extension Functions](https://www.philosophicalhacker.com/post/how-to-abuse-kotlin-extension-functions/)
     * [Getting rid of boilerplate with Kotlin Android Extensions](https://www.kotlindevelopment.com/kotlin_android_extensions_eliminate_findviewbyid/)
