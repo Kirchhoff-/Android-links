@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2008%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2009%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -356,6 +356,7 @@ Jump to
     * [Kotlin: Don’t just use LET for null check](https://medium.com/@elye.project/kotlin-dont-just-use-let-7e91f544e27f)
     * [The Mystery of Mutable Kotlin Collections](https://proandroiddev.com/the-mystery-of-mutable-kotlin-collections-e82cbf5d781)
     * [Collections and sequences in Kotlin](https://medium.com/androiddevelopers/collections-and-sequences-in-kotlin-55db18283aca)
+    * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
     
 ---
 
