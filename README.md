@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2013%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2014%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -499,6 +499,7 @@ Jump to
 * [Git from humans to humans — Pull Requests](https://medium.com/@caueferreira/git-from-humans-to-humans-pull-requests-c25ad049a278)
 * [Git commands for code detectives](https://blog.novoda.com/git-code-detectives/)
 * [Merge Git Authors](https://arturdryomov.online/posts/merge-git-authors/)
+* [Git, beyond version control](https://medium.com/@aitorvs/git-beyond-version-control-629cbea23f37)
 
 ---
 
