@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2014%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2015%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -458,6 +458,7 @@ Jump to
     * [Unit test vs. Integration test](https://medium.com/android-testing-daily/unit-test-vs-integration-tes-fba13b92fbf6)  
     * [Code coverage](https://medium.com/android-testing-daily/code-coverage-dc1e3d0c70)
     * [Don’t be lazy, use @Rules](https://proandroiddev.com/dont-be-lazy-use-rules-95c68f4ecb8b)
+    * [Mock factory for Android testing in multi-module system](https://treatwell.engineering/mock-factory-for-android-testing-in-multi-module-system-7654f45808be)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
