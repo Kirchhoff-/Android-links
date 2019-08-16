@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2015%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2016%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -627,3 +627,4 @@ Jump to
 * [Clean Android Application class with Dependency Injection: AppInitializers](https://proandroiddev.com/clean-android-application-class-with-dependency-injection-appinitializer-45999096f955)
 * [Keeping the Daggers Sharp](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
 * [Abusing Dagger with Initializers](https://medium.com/@blipinsk/abusing-dagger-with-initializers-a1e742024ac8)
+* [Dagger in Kotlin: Gotchas and Optimizations](https://medium.com/androiddevelopers/dagger-in-kotlin-gotchas-and-optimizations-7446d8dfd7dc)
