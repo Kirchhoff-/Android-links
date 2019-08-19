@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2016%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2019%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -167,6 +167,7 @@ Jump to
     * [Netflix Shows The Future of Android Architecture](https://www.techyourchance.com/netflix-shows-the-future-of-android-architecture/)
     * [MVVM with architecture components: a step by step guideline for MVP lovers](https://antonioleiva.com/mvvm-vs-mvp/)
     * [Flexible way to handle exceptions in Android](https://android.jlelse.eu/flexible-way-to-handle-exceptions-in-android-9de236f304ad)
+    * [MVI - The Good, the Bad, and the Ugly](https://adambennett.dev/2019/07/mvi-the-good-the-bad-and-the-ugly/)
 
 ---
 
