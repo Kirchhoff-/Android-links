@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2019%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2020%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -213,6 +213,7 @@ Jump to
     * [Android CPU, Compilers, D8 & R8](https://proandroiddev.com/android-cpu-compilers-d8-r8-a3aa2bfbc109)
     * [[Yotube] From AlarmManager to WorkManager](https://www.youtube.com/watch?v=TCylj3i5cXI)
     * [[Yotube] Working Effectively with (Android) Legacy Code](https://www.youtube.com/watch?v=xsoQpcvGZgI)
+    * [A Little Thing about Android Module Paths](https://medium.com/androiddevelopers/gradle-path-configuration-dc523f0ed25c)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
