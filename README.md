@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2020%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2021%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -567,6 +567,8 @@ Jump to
 * [Being Absent While Being Present (don’t do this)](https://www.donnfelker.com/being-absent-while-being-present/)
 * [How to Cut Corners and Stay Cool](https://www.youtube.com/watch?v=YBQoTZ-1X-o)
 * [The Path to Career Happiness Begins with a Job that Sucks](https://medium.com/the-coffeelicious/the-path-to-career-happiness-begins-with-a-job-that-you-hate-ea0ff86e7b5c)
+* [10 Ways Your Software Career Will Likely Be The Death Of You](https://medium.com/@toddhd/10-ways-your-software-career-will-likely-be-the-death-of-you-7cb98145d9e7)
+
 
 ---
 
