@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2022%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2023%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -324,6 +324,7 @@ Jump to
     * [Default implementations for interfaces](https://medium.com/a-problem-like-maria/default-implementations-for-interfaces-afd0b9316a8a)
     * [Kotlin Anti-Patterns - Also this is Null](https://blog.novoda.com/kotlin-anti-patterns-also-this-is-null/)
     * [Abstract class vs interface in Kotlin](https://blog.kotlin-academy.com/abstract-class-vs-interface-in-kotlin-5ab8697c3a14)
+    * [Patterns in Kotlin: Abstract Factory](https://medium.com/@dbottillo/patterns-in-kotlin-abstract-factory-a0ff99a0d177)
 * Variable
     * [Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)  
     * [A few facts about Companion objects](https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725)
