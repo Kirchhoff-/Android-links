@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2026%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2027%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -215,6 +215,7 @@ Jump to
     * [[Yotube] From AlarmManager to WorkManager](https://www.youtube.com/watch?v=TCylj3i5cXI)
     * [[Yotube] Working Effectively with (Android) Legacy Code](https://www.youtube.com/watch?v=xsoQpcvGZgI)
     * [A Little Thing about Android Module Paths](https://medium.com/androiddevelopers/gradle-path-configuration-dc523f0ed25c)
+    * [Understanding Activity Aliases in Android To Preserve Your Launchers](https://blog.mindorks.com/understanding-activity-aliases-in-android-to-preserve-your-launchers)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
