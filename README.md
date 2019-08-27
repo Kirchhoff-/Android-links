@@ -30,7 +30,6 @@ Jump to
 ## Views
 [back to top](#readme)
 * Main
-    * [Greyscale Views on Android](http://blog.bradcampbell.nz/greyscale-views-on-android/)
     * [Animating Android Activities and Views with Left and Right Slide Animations](https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view)
     * [Using Custom Views As Menu Items](http://blog.stablekernel.com/using-custom-views-as-menu-items)
     * [ConstraintLayout - Guidelines, Barriers, Chains and Groups](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
