@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2028%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2029%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -299,7 +299,8 @@ Jump to
     * [[Youtube] Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
     * [Diving deep into Kotlin Coroutines](https://www.kotlindevelopment.com/deep-dive-coroutines/)
     * [Simple asynchronous loading with Kotlin Coroutines](https://hellsoft.se/simple-asynchronous-loading-with-kotlin-coroutines-f26408f97f46)
-    * [Concurrent coroutines - concurrency is not parallelism](https://kotlinexpertise.com/kotlin-coroutines-concurrency)    
+    * [Concurrent coroutines - concurrency is not parallelism](https://kotlinexpertise.com/kotlin-coroutines-concurrency)
+    * [Android Kotlin Coroutine Best Practices](https://medium.com/@kenkyee/android-kotlin-coroutine-best-practices-bc033fed62e7)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
