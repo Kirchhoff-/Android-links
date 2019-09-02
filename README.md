@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2030%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2002%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -154,6 +154,7 @@ Jump to
     * [ViewModels and LiveData: Patterns + AntiPatterns](https://medium.com/androiddevelopers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
     * [ViewModels: State persistence — SavedState](https://proandroiddev.com/viewmodels-state-persistence-savedstate-54d015acad82)
     * [A WorkManager Pitfall: Modifying a Scheduled Worker](https://craigrussell.io/2019/04/a-workmanager-pitfall-modifying-a-scheduled-worker/)
+    * [Workout your tasks with WorkManager](https://proandroiddev.com/workout-your-tasks-with-workmanager-intro-db5aefe14d66)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture(MVC, MVP, MVVM)](https://android.jlelse.eu/android-architecture-2f12e1c7d4db)
