@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2005%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2006%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -220,6 +220,7 @@ Jump to
     * [[Yotube] Understanding Android's Message Queue](https://www.youtube.com/watch?v=7H7zAtE3ki0)
     * [Understanding the Application Lifecycle in Android](https://blog.mindorks.com/understanding-the-application-lifecycle-in-android)
     * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
+    * [Saving secrets with buildSrc](https://bloggie.io/@_junrong/android-saving-secrets-with-buildsrc)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
