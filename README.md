@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2009%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2010%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -222,6 +222,7 @@ Jump to
     * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
     * [Saving secrets with buildSrc](https://bloggie.io/@_junrong/android-saving-secrets-with-buildsrc)
     * [Holiday clean up or cute versioning in android](https://treatwell.engineering/holiday-clean-up-or-cute-versioning-in-android-bf02356dd07f)
+    * [Divide and conquer](https://treatwell.engineering/divide-and-conquer-6604084e3f41)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
