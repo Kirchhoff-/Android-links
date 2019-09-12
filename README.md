@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2011%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2012%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -646,3 +646,4 @@ Jump to
 * [Keeping the Daggers Sharp](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
 * [Abusing Dagger with Initializers](https://medium.com/@blipinsk/abusing-dagger-with-initializers-a1e742024ac8)
 * [Dagger in Kotlin: Gotchas and Optimizations](https://medium.com/androiddevelopers/dagger-in-kotlin-gotchas-and-optimizations-7446d8dfd7dc)
+* [Dagger 2, 2 Years Later](https://www.philosophicalhacker.com/post/dagger-2-years-later/)
