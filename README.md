@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2012%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2013%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -556,6 +556,7 @@ Jump to
 * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 * [Test Driven Development Is Dumb. Fight Me.](https://itnext.io/test-driven-development-is-dumb-fight-me-a38b3033280c)
 * [How to Deal With Conflicts in a Software Team](https://www.youtube.com/watch?v=GWLpAZqvqSc)
+* [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)
 
 ---
 
