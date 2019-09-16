@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2013%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2016%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -373,6 +373,7 @@ Jump to
     * [The Mystery of Mutable Kotlin Collections](https://proandroiddev.com/the-mystery-of-mutable-kotlin-collections-e82cbf5d781)
     * [Collections and sequences in Kotlin](https://medium.com/androiddevelopers/collections-and-sequences-in-kotlin-55db18283aca)
     * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
+    * [Java vs. Kotlin: Performance](https://medium.com/@bards95/comparative-evaluation-of-selected-constructs-in-java-and-kotlin-part-1-dynamic-metrics-2592820ce80)
     
 ---
 
