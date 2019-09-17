@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2016%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2017%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -224,6 +224,7 @@ Jump to
     * [Holiday clean up or cute versioning in android](https://treatwell.engineering/holiday-clean-up-or-cute-versioning-in-android-bf02356dd07f)
     * [Divide and conquer](https://treatwell.engineering/divide-and-conquer-6604084e3f41)
     * [Android Memory Profiler](https://www.raywenderlich.com/4557771-android-memory-profiler-getting-started)
+    * [TimingLogger: An idiomatic Android approach to measuring execution time](https://itnext.io/timinglogger-an-idiomatic-android-approach-to-measuring-execution-time-8ac10a8fa0ba)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
