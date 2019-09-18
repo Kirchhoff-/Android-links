@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2017%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2018%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -557,8 +557,9 @@ Jump to
 * [Software Project Review Checklist](https://www.yegor256.com/2019/04/02/software-project-review-checklist.html)
 * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
 * [Test Driven Development Is Dumb. Fight Me.](https://itnext.io/test-driven-development-is-dumb-fight-me-a38b3033280c)
-* [How to Deal With Conflicts in a Software Team](https://www.youtube.com/watch?v=GWLpAZqvqSc)
+* [[Youtube] How to Deal With Conflicts in a Software Team](https://www.youtube.com/watch?v=GWLpAZqvqSc)
 * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)
+* [[Youtube] Testing and Quality Assurance (QA) are two entirely different things!](https://www.youtube.com/watch?v=hp4PL0AJAVo)
 
 ---
 
