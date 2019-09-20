@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2019%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2020%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -505,6 +505,7 @@ Jump to
     * [Can you fix the test?](https://jeroenmols.com/blog/2018/12/06/fixthetest/)
     * [Unit Testing in MVVM+Kotlin+DataBinding](https://medium.com/@nik.arora8059/unit-testing-in-mvvm-kotlin-databinding-ba3d4ea08f0e)
     * [Isolate your Fragments…just for testing](https://medium.com/@aitorvs/isolate-your-fragments-just-for-testing-ea7d4fddcba2)
+    * [Unit-testing LiveData and other common observability problems](https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04)
 
 ---
 
