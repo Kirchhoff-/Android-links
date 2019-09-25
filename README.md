@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2024%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2025%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -563,6 +563,7 @@ Jump to
 * [[Youtube] How to Deal With Conflicts in a Software Team](https://www.youtube.com/watch?v=GWLpAZqvqSc)
 * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)
 * [[Youtube] Testing and Quality Assurance (QA) are two entirely different things!](https://www.youtube.com/watch?v=hp4PL0AJAVo)
+* [Daily Stand-up Injection of Guilt](https://www.yegor256.com/2019/09/03/injection-of-guilt.html)
 
 ---
 
