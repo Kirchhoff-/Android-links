@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2026%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2027%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -565,6 +565,7 @@ Jump to
 * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)
 * [[Youtube] Testing and Quality Assurance (QA) are two entirely different things!](https://www.youtube.com/watch?v=hp4PL0AJAVo)
 * [Daily Stand-up Injection of Guilt](https://www.yegor256.com/2019/09/03/injection-of-guilt.html)
+* [The Joy of Programming](https://www.yegor256.com/2019/07/30/joy-of-programming.html)
 
 ---
 
