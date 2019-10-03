@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2002%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2003%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -510,6 +510,7 @@ Jump to
     * [Unit Testing in MVVM+Kotlin+DataBinding](https://medium.com/@nik.arora8059/unit-testing-in-mvvm-kotlin-databinding-ba3d4ea08f0e)
     * [Isolate your Fragments…just for testing](https://medium.com/@aitorvs/isolate-your-fragments-just-for-testing-ea7d4fddcba2)
     * [Unit-testing LiveData and other common observability problems](https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04)
+    * [Sharing code between local and instrumentation tests](https://proandroiddev.com/sharing-code-between-local-and-instrumentation-tests-c0b57ebd3200)
 
 ---
 
