@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2003%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2004%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -227,6 +227,7 @@ Jump to
     * [TimingLogger: An idiomatic Android approach to measuring execution time](https://itnext.io/timinglogger-an-idiomatic-android-approach-to-measuring-execution-time-8ac10a8fa0ba)
     * [git rm --cached ./idea?](https://dev.to/redbassett/git-rm-cached-idea-4cec)
     * [Dialogs in Android: Practical Guide](https://www.techyourchance.com/dialogs-in-android-practical-guide/)
+    * [Android ProcessLifecycleOwner by example](https://proandroiddev.com/android-processlifecycleowner-by-example-2f965061b9da)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
