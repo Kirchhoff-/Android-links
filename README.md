@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2009%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2010%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -574,6 +574,7 @@ Jump to
 * [Daily Stand-up Injection of Guilt](https://www.yegor256.com/2019/09/03/injection-of-guilt.html)
 * [The Joy of Programming](https://www.yegor256.com/2019/07/30/joy-of-programming.html)
 * [TDD Misbeliefs](https://www.yegor256.com/2019/07/02/tdd-misbeliefs.html)
+* [Maybe Don't Write That Test](https://www.philosophicalhacker.com/post/maybe-dont-write-that-test/)
 
 ---
 
