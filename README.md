@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2010%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2011%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -384,6 +384,7 @@ Jump to
     * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
     * [Java vs. Kotlin: Performance](https://medium.com/@bards95/comparative-evaluation-of-selected-constructs-in-java-and-kotlin-part-1-dynamic-metrics-2592820ce80)
     * [[Kotlin Pearls 7] Unit, Nothing, Any (and null)](https://proandroiddev.com/kotlin-pearls-7-unit-nothing-any-and-null-cbbbbca86c2d)
+    * [JvmDefault: More Useful Than You Think](https://www.zacsweers.dev/jvmdefault-more-useful/)
     
 ---
 
