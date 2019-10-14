@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2011%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2014%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -230,6 +230,7 @@ Jump to
     * [Android ProcessLifecycleOwner by example](https://proandroiddev.com/android-processlifecycleowner-by-example-2f965061b9da)
     * [Coil vs Picasso vs Glide: Get Ready… Go!](https://proandroiddev.com/coil-vs-picasso-vs-glide-get-ready-go-774add8cfd40)
     * [How to Use Shared Element Transition with Glide in 4 steps](https://www.thedroidsonroids.com/blog/how-to-use-shared-element-transition-with-glide-in-4-step)
+    * [Hidden mistakes with Shared Element Transitions](https://medium.com/redmadrobot-mobile/hidden-mistakes-with-shared-element-transitions-65d79831c63)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
