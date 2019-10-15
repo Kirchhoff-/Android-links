@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2014%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2015%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -578,6 +578,7 @@ Jump to
 * [The Joy of Programming](https://www.yegor256.com/2019/07/30/joy-of-programming.html)
 * [TDD Misbeliefs](https://www.yegor256.com/2019/07/02/tdd-misbeliefs.html)
 * [Maybe Don't Write That Test](https://www.philosophicalhacker.com/post/maybe-dont-write-that-test/)
+* [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
 ---
 
