@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2016%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2017%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -319,6 +319,7 @@ Jump to
     * [Android Kotlin Coroutine Best Practices](https://medium.com/@kenkyee/android-kotlin-coroutine-best-practices-bc033fed62e7)
     * [Launching a Kotlin Coroutine for immediate execution on the Main thread](https://medium.com/@trionkidnapper/launching-a-kotlin-coroutine-for-immediate-execution-on-the-main-thread-8555e701163b)
     * [Cancelling Kotlin Coroutines](https://proandroiddev.com/cancelling-kotlin-coroutines-1030f03bf168)
+    * [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
