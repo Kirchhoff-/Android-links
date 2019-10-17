@@ -10,6 +10,7 @@ Jump to
    - [Themes](#themes)
    - [Gradle](#gradle)
    - [Architecture](#architecture)
+   - [IDE](#ide)
    - [Other](#other)
  - [Programming language](#programming-language) 
    - [Kotlin](#kotlin)
@@ -173,6 +174,18 @@ Jump to
 
 ---
 
+## IDE
+[back to top](#readme)
+* [Live Template for RecyclerView Adapter in Android Studio](https://tech.fleka.me/live-template-for-recyclerview-adapter-in-android-studio-5a4e7342bffc)
+* [Add Logs Without Using Code](https://android.jlelse.eu/add-logs-without-using-code-bd49fe9202ca)
+* [Bringing more colour to Android Studio](https://medium.com/a-problem-like-maria/bringing-more-colour-to-android-studio-18bb45017106)
+* [Using Live Templates to Write Tests](https://overflow.buffer.com/2019/01/03/using-live-templates-to-write-tests/)
+* [Android Memory Profiler](https://www.raywenderlich.com/4557771-android-memory-profiler-getting-started)
+* [git rm --cached ./idea?](https://dev.to/redbassett/git-rm-cached-idea-4cec)
+* [Add custom live templates in Android Studio](https://proandroiddev.com/add-custom-live-templates-in-android-studio-11b59dd0284d)
+
+---
+
 ## Other
 [back to top](#readme)
 * Main
@@ -180,7 +193,6 @@ Jump to
     * [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
     * [Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
     * [An introduction to Android Instant Apps](https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps)
-    * [Live Template for RecyclerView Adapter in Android Studio](https://tech.fleka.me/live-template-for-recyclerview-adapter-in-android-studio-5a4e7342bffc)
     * [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
     * [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
     * [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
@@ -189,7 +201,6 @@ Jump to
     * [Task Stack](https://blog.stylingandroid.com/task-stack/)
     * [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
     * [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
-    * [Add Logs Without Using Code](https://android.jlelse.eu/add-logs-without-using-code-bd49fe9202ca)
     * [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
     * [How to Correctly Store App-Specific Files in Android](https://www.grokkingandroid.com/how-to-correctly-store-app-specific-files-in-android/)
     * [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
@@ -203,8 +214,6 @@ Jump to
     * [[Yotube] Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
     * [[Video] Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
     * [TransactionTooLargeException on Nougat solved](https://medium.com/@mdmasudparvez/android-os-transactiontoolargeexception-on-nougat-solved-3b6e30597345)
-    * [Bringing more colour to Android Studio](https://medium.com/a-problem-like-maria/bringing-more-colour-to-android-studio-18bb45017106)
-    * [Using Live Templates to Write Tests](https://overflow.buffer.com/2019/01/03/using-live-templates-to-write-tests/)
     * [Doing work with Android's new WorkManager](https://www.bignerdranch.com/blog/doing-work-with-androids-new-work-manager/)
     * [Large Database Queries on Android](https://medium.com/androiddevelopers/large-database-queries-on-android-cb043ae626e8)
     * [Realm — It’s all about the choices we make](https://android.jlelse.eu/realm-its-all-about-the-choices-we-make-7c2fe380ecd8)
@@ -223,15 +232,12 @@ Jump to
     * [Saving secrets with buildSrc](https://bloggie.io/@_junrong/android-saving-secrets-with-buildsrc)
     * [Holiday clean up or cute versioning in android](https://treatwell.engineering/holiday-clean-up-or-cute-versioning-in-android-bf02356dd07f)
     * [Divide and conquer](https://treatwell.engineering/divide-and-conquer-6604084e3f41)
-    * [Android Memory Profiler](https://www.raywenderlich.com/4557771-android-memory-profiler-getting-started)
     * [TimingLogger: An idiomatic Android approach to measuring execution time](https://itnext.io/timinglogger-an-idiomatic-android-approach-to-measuring-execution-time-8ac10a8fa0ba)
-    * [git rm --cached ./idea?](https://dev.to/redbassett/git-rm-cached-idea-4cec)
     * [Dialogs in Android: Practical Guide](https://www.techyourchance.com/dialogs-in-android-practical-guide/)
     * [Android ProcessLifecycleOwner by example](https://proandroiddev.com/android-processlifecycleowner-by-example-2f965061b9da)
     * [Coil vs Picasso vs Glide: Get Ready… Go!](https://proandroiddev.com/coil-vs-picasso-vs-glide-get-ready-go-774add8cfd40)
     * [How to Use Shared Element Transition with Glide in 4 steps](https://www.thedroidsonroids.com/blog/how-to-use-shared-element-transition-with-glide-in-4-step)
     * [Hidden mistakes with Shared Element Transitions](https://medium.com/redmadrobot-mobile/hidden-mistakes-with-shared-element-transitions-65d79831c63)
-    * [Add custom live templates in Android Studio](https://proandroiddev.com/add-custom-live-templates-in-android-studio-11b59dd0284d)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
@@ -252,7 +258,7 @@ Jump to
     * [Android leak pattern: subscriptions in views](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c)
     * [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c)
     * [Reliable Hot Reload on Android](https://medium.com/@gpeal/reliable-hot-reload-on-android-27f14a80df60)
-
+  
 ---
 
 # Programming language
