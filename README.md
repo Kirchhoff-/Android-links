@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2018%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2021%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -588,6 +588,7 @@ Jump to
 * [TDD Misbeliefs](https://www.yegor256.com/2019/07/02/tdd-misbeliefs.html)
 * [Maybe Don't Write That Test](https://www.philosophicalhacker.com/post/maybe-dont-write-that-test/)
 * [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+* [Stakeholder anti-patterns](https://medium.com/snapp-mobile/stakeholder-anti-patterns-b8a839a39a78)
 
 ---
 
