@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2021%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2022%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -238,6 +238,7 @@ Jump to
     * [Coil vs Picasso vs Glide: Get Ready… Go!](https://proandroiddev.com/coil-vs-picasso-vs-glide-get-ready-go-774add8cfd40)
     * [How to Use Shared Element Transition with Glide in 4 steps](https://www.thedroidsonroids.com/blog/how-to-use-shared-element-transition-with-glide-in-4-step)
     * [Hidden mistakes with Shared Element Transitions](https://medium.com/redmadrobot-mobile/hidden-mistakes-with-shared-element-transitions-65d79831c63)
+    * [Don’t use Base64 encoded images on mobile](https://medium.com/snapp-mobile/dont-use-base64-encoded-images-on-mobile-13ddeac89d7c)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
