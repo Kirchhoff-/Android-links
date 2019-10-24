@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2023%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2024%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -618,7 +618,7 @@ Jump to
 * [The Path to Career Happiness Begins with a Job that Sucks](https://medium.com/the-coffeelicious/the-path-to-career-happiness-begins-with-a-job-that-you-hate-ea0ff86e7b5c)
 * [10 Ways Your Software Career Will Likely Be The Death Of You](https://medium.com/@toddhd/10-ways-your-software-career-will-likely-be-the-death-of-you-7cb98145d9e7)
 * [I am Forky](https://medium.com/swlh/i-am-forky-5ad75ba8ab7f)
-
+* [Be Unhappy to Be Happy](https://www.yegor256.com/2019/09/17/be-unhappy-to-be-happy.html)
 
 ---
 
