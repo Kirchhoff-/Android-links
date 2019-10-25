@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2024%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2025%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -456,6 +456,7 @@ Jump to
 * [[Yotube] A Few Thoughts About Constructors in OOP](https://www.youtube.com/watch?v=9yjtsCK6Wdk)
 * [[Yotube] Smart Classes and Functionality-Poor Interfaces](https://www.youtube.com/watch?v=Xk9tIqwca3k)
 * [[Yotube] How Immutability Helps in OOP](https://www.youtube.com/watch?v=EnhRgXrHCC4)
+* [Date/Time Printing Can Be Elegant Too](https://www.yegor256.com/2019/09/27/parsing-and-printing.html)
 
 ---
 
