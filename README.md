@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2025%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2028%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -183,6 +183,7 @@ Jump to
 * [Android Memory Profiler](https://www.raywenderlich.com/4557771-android-memory-profiler-getting-started)
 * [git rm --cached ./idea?](https://dev.to/redbassett/git-rm-cached-idea-4cec)
 * [Add custom live templates in Android Studio](https://proandroiddev.com/add-custom-live-templates-in-android-studio-11b59dd0284d)
+* [Split layouts into subfolders in Android Studio](https://proandroiddev.com/split-layout-into-subfolder-in-android-5bf76f805e90)
 
 ---
 
