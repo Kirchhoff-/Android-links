@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2028%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2029%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -467,7 +467,7 @@ Jump to
 * [Common Design Patterns for Android](https://www.raywenderlich.com/109843/common-design-patterns-for-android)
 * [Designing something solid](https://www.novoda.com/blog/designing-something-solid/)
 * [Writing Better Adapters](https://proandroiddev.com/writing-better-adapters-1b09758407d2)
-* [Donâ€™t use DAO, use Repository](https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/)
+* [Dont use DAO, use Repository](https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/)
 * [Design Patterns in Android – Observer](https://www.thedroidsonroids.com/blog/design-patterns-android-observer-2)
 * [Singletons The Safe Way](https://medium.com/@mattcarroll/singletons-the-safe-way-9d1e019220fc)
 * [Android Chain Gangs](https://medium.com/@mattcarroll/android-chain-gangs-f35419f5f3dd)
@@ -479,6 +479,7 @@ Jump to
 * [Inversion of control containers and the dependency injection pattern](https://martinfowler.com/articles/injection.html)
 * [Service locator vs dependency injection](http://guy-murphy.github.io/2014/11/24/service-locator-vs-dependency-injection/)
 * [Composable Decorators vs. Imperative Utility Methods](https://www.yegor256.com/2015/02/26/composable-decorators.html)
+* [Bohemian Wrapsody](https://proandroiddev.com/bohemian-wrapsody-86a5ac3c910a)
 
 ---
 
