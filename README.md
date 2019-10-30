@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2029%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2030%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -398,6 +398,7 @@ Jump to
     * [Java vs. Kotlin: Performance](https://medium.com/@bards95/comparative-evaluation-of-selected-constructs-in-java-and-kotlin-part-1-dynamic-metrics-2592820ce80)
     * [[Kotlin Pearls 7] Unit, Nothing, Any (and null)](https://proandroiddev.com/kotlin-pearls-7-unit-nothing-any-and-null-cbbbbca86c2d)
     * [JvmDefault: More Useful Than You Think](https://www.zacsweers.dev/jvmdefault-more-useful/)
+    * [Kotlin Enum Recipes](https://arturdryomov.online/posts/kotlin-enum-recipes/)
     
 ---
 
