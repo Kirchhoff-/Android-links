@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2030%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2031%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -330,6 +330,7 @@ Jump to
     * [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
     * [Kotlin Coroutines @ Vimeo](https://medium.com/vimeo-engineering-blog/kotlin-coroutines-vimeo-a-case-study-part-1-555e78aee8b9)
     * [Kotlin Coroutines patterns & anti-patterns](https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e)
+    * [Mastering Coroutines. Android. Unit Tests](https://android.jlelse.eu/mastering-coroutines-android-unit-tests-8bc0d082bf15)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
