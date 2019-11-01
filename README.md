@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2031%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2001%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -624,6 +624,7 @@ Jump to
 * [10 Ways Your Software Career Will Likely Be The Death Of You](https://medium.com/@toddhd/10-ways-your-software-career-will-likely-be-the-death-of-you-7cb98145d9e7)
 * [I am Forky](https://medium.com/swlh/i-am-forky-5ad75ba8ab7f)
 * [Be Unhappy to Be Happy](https://www.yegor256.com/2019/09/17/be-unhappy-to-be-happy.html)
+* [How Passion for Programming Can Make us Worse at our Jobs](https://www.philosophicalhacker.com/post/programmer-passion-worse/)
 
 ---
 
