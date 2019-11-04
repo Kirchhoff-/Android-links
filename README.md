@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2001%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2004%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -596,6 +596,7 @@ Jump to
 * [Maybe Don't Write That Test](https://www.philosophicalhacker.com/post/maybe-dont-write-that-test/)
 * [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 * [Stakeholder anti-patterns](https://medium.com/snapp-mobile/stakeholder-anti-patterns-b8a839a39a78)
+* [Agile is Wrong — Part 1: Scope and Requirements Changes](https://medium.com/@daptronic/agile-is-wrong-part-1-scope-and-requirements-changes-37c653fd53e5)
 
 ---
 
