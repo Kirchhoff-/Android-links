@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2005%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2006%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -691,3 +691,4 @@ Jump to
 * [Abusing Dagger with Initializers](https://medium.com/@blipinsk/abusing-dagger-with-initializers-a1e742024ac8)
 * [Dagger in Kotlin: Gotchas and Optimizations](https://medium.com/androiddevelopers/dagger-in-kotlin-gotchas-and-optimizations-7446d8dfd7dc)
 * [Dagger 2, 2 Years Later](https://www.philosophicalhacker.com/post/dagger-2-years-later/)
+* [From Dagger components to manual dependency injection](https://proandroiddev.com/from-dagger-components-to-manual-dependency-injection-110015abe6e0)
