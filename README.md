@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2006%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2007%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -241,6 +241,7 @@ Jump to
     * [How to Use Shared Element Transition with Glide in 4 steps](https://www.thedroidsonroids.com/blog/how-to-use-shared-element-transition-with-glide-in-4-step)
     * [Hidden mistakes with Shared Element Transitions](https://medium.com/redmadrobot-mobile/hidden-mistakes-with-shared-element-transitions-65d79831c63)
     * [Don’t use Base64 encoded images on mobile](https://medium.com/snapp-mobile/dont-use-base64-encoded-images-on-mobile-13ddeac89d7c)
+    * [Mobile App Versioning: A Numbers Game](https://medium.com/@daptronic/mobile-app-versioning-a-numbers-game-f1ea9dbd1ded)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
