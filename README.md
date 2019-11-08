@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2007%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2008%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -402,6 +402,7 @@ Jump to
     * [[Kotlin Pearls 7] Unit, Nothing, Any (and null)](https://proandroiddev.com/kotlin-pearls-7-unit-nothing-any-and-null-cbbbbca86c2d)
     * [JvmDefault: More Useful Than You Think](https://www.zacsweers.dev/jvmdefault-more-useful/)
     * [Kotlin Enum Recipes](https://arturdryomov.online/posts/kotlin-enum-recipes/)
+    * [To val, or to const val, that is the question](https://medium.com/@patxi/to-val-or-to-const-val-that-is-the-question-43ba428332cb)
     
 ---
 
