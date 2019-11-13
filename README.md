@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2012%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2013%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -464,6 +464,7 @@ Jump to
 * [[Yotube] Smart Classes and Functionality-Poor Interfaces](https://www.youtube.com/watch?v=Xk9tIqwca3k)
 * [[Yotube] How Immutability Helps in OOP](https://www.youtube.com/watch?v=EnhRgXrHCC4)
 * [Date/Time Printing Can Be Elegant Too](https://www.yegor256.com/2019/09/27/parsing-and-printing.html)
+* [[Yotube] The Alternative to Fluent Interfaces in Java](https://www.youtube.com/watch?v=REj8pJesMVI)
 
 ---
 
