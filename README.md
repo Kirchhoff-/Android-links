@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2013%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2014%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -404,6 +404,7 @@ Jump to
     * [JvmDefault: More Useful Than You Think](https://www.zacsweers.dev/jvmdefault-more-useful/)
     * [Kotlin Enum Recipes](https://arturdryomov.online/posts/kotlin-enum-recipes/)
     * [To val, or to const val, that is the question](https://medium.com/@patxi/to-val-or-to-const-val-that-is-the-question-43ba428332cb)
+    * [Synchronization, Thread-Safety and Locking Techniques in Java and Kotlin](https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d)
     
 ---
 
