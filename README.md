@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2014%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2015%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -488,6 +488,7 @@ Jump to
 * [Service locator vs dependency injection](http://guy-murphy.github.io/2014/11/24/service-locator-vs-dependency-injection/)
 * [Composable Decorators vs. Imperative Utility Methods](https://www.yegor256.com/2015/02/26/composable-decorators.html)
 * [Bohemian Wrapsody](https://proandroiddev.com/bohemian-wrapsody-86a5ac3c910a)
+* [A deep dive into the Strategy Design Pattern](https://blog.usejournal.com/a-deep-dive-into-the-strategy-design-pattern-5723eb3937b4)
 
 ---
 
