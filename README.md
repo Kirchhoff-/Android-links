@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2015%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2018%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -55,6 +55,7 @@ Jump to
     * [On the Bottom Navigation Bar](https://androiduipatterns.com/on-the-bottom-navigation-bar-d07d9b4b5e18)
     * [You thought you knew Android](https://medium.com/@anoopss/you-thought-you-knew-android-e46a556d0773)
     * [Parallax Scrolling](https://blog.stylingandroid.com/parallax-scrolling/)
+    * [Resolving View Attributes on Android](https://ataulm.github.io/2019/10/28/resolving-view-attributes.html)
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
