@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2020%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2021%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -559,6 +559,7 @@ Jump to
 * [Merge Git Authors](https://arturdryomov.online/posts/merge-git-authors/)
 * [Git, beyond version control](https://medium.com/@aitorvs/git-beyond-version-control-629cbea23f37)
 * [How to never commit a temporary code to your codebase](https://medium.com/@kazarovetsblr/how-to-never-commit-a-temporary-code-to-your-codebase-91004b45f32d)
+* [Android Kotlin Code Quality Check using Detekt and Git Hooks Pre-push](https://medium.com/binar-academy/android-kotlin-code-quality-check-using-detekt-and-git-hooks-pre-push-mac-and-linux-556c111bc71b)
 
 ---
 
