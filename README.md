@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2028%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2029%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -645,6 +645,7 @@ Jump to
 * [Be Unhappy to Be Happy](https://www.yegor256.com/2019/09/17/be-unhappy-to-be-happy.html)
 * [How Passion for Programming Can Make us Worse at our Jobs](https://www.philosophicalhacker.com/post/programmer-passion-worse/)
 * [What makes a good developer?](https://medium.com/snapp-mobile/what-makes-a-good-developer-702da6e108ec)
+* [How To Achieve Work-Life Balance as a Developer](https://levelup.gitconnected.com/how-to-achieve-work-life-balance-as-a-developer-1df51dae5425)
 
 ---
 
