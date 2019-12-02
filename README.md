@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2029%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2002%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -82,6 +82,7 @@ Jump to
 * [Why Having Global Static References to Application Contexts is Probably not the Best Idea](https://www.philosophicalhacker.com/2015/07/14/why-static-references-to-application-contexts-are-probably-not-the-best-idea/)
 * [Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
 * [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
+* [Using Context Theme Wrapper](https://ataulm.github.io/2019/11/20/using-context-theme-wrapper.html)
 
 ---
 
