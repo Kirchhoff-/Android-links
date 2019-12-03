@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2002%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2003%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -563,6 +563,7 @@ Jump to
 * [Git, beyond version control](https://medium.com/@aitorvs/git-beyond-version-control-629cbea23f37)
 * [How to never commit a temporary code to your codebase](https://medium.com/@kazarovetsblr/how-to-never-commit-a-temporary-code-to-your-codebase-91004b45f32d)
 * [Android Kotlin Code Quality Check using Detekt and Git Hooks Pre-push](https://medium.com/binar-academy/android-kotlin-code-quality-check-using-detekt-and-git-hooks-pre-push-mac-and-linux-556c111bc71b)
+* [[Youtube] Three-branches release model: Master-Candidate-Live](https://www.youtube.com/watch?v=G6-OKD58czQ)
 
 ---
 
