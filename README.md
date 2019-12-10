@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2009%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2010%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -615,6 +615,7 @@ Jump to
     * [How To Be a Bad Senior Developer](https://levelup.gitconnected.com/how-to-be-a-bad-senior-developer-f774567b5ef2)
     * [How To Use Technical Debt In Your Favor](https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68)
     * [Why so salty? Context is everything in tech discussions.](https://medium.com/snapp-mobile/why-so-salty-context-is-everything-in-tech-discussions-705cfe866b46)
+    * [Revolutionary Evolution](https://www.yegor256.com/2019/11/05/revolutionary-evolution.html)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
