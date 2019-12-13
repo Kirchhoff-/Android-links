@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2012%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2013%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -618,6 +618,7 @@ Jump to
     * [How To Use Technical Debt In Your Favor](https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68)
     * [Why so salty? Context is everything in tech discussions.](https://medium.com/snapp-mobile/why-so-salty-context-is-everything-in-tech-discussions-705cfe866b46)
     * [Revolutionary Evolution](https://www.yegor256.com/2019/11/05/revolutionary-evolution.html)
+    * [‘Must be willing to work under pressure’ is a warning sign](https://codewithoutrules.com/2018/12/03/work-under-pressure/)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
