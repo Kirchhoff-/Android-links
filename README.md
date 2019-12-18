@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2017%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2018%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -58,6 +58,7 @@ Jump to
     * [Resolving View Attributes on Android](https://ataulm.github.io/2019/10/28/resolving-view-attributes.html)
     * [ConstraintLayout Flow: Simple Grid Building Without Nested Layouts](https://www.bignerdranch.com/blog/constraintlayout-flow-simple-grid-building-without-nested-layouts/)
     * [ConstraintLayout: Circular Positioning](https://medium.com/devnibbles/constraintlayout-circular-positioning-9489b11cb0e5)
+    * [How to Support Themes in Custom Views](https://infinum.com/the-capsized-eight/how-to-support-themes-in-custom-views-for-android-apps)
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
