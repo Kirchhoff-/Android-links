@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2018%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2019%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -622,6 +622,7 @@ Jump to
     * [‘Must be willing to work under pressure’ is a warning sign](https://codewithoutrules.com/2018/12/03/work-under-pressure/)
     * [“open floor space” is not a job benefit](https://codewithoutrules.com/2017/03/20/open-floor-plan/)
     * [Only code at work? That doesn’t make you a worse programmer](https://codewithoutrules.com/2018/03/04/only-code-at-work/)
+    * [Setting boundaries at your job as a programmer](https://codewithoutrules.com/2019/04/03/setting-boundaries-at-work/)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
