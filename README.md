@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2020%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2023%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -191,6 +191,7 @@ Jump to
 * [Add custom live templates in Android Studio](https://proandroiddev.com/add-custom-live-templates-in-android-studio-11b59dd0284d)
 * [Split layouts into subfolders in Android Studio](https://proandroiddev.com/split-layout-into-subfolder-in-android-5bf76f805e90)
 * [Android Studio Design Tools UX — Split View](https://medium.com/androiddevelopers/android-studio-design-tools-ux-changes-split-view-dcde75e88a0c)
+* [Scratch That Itch](https://zdominguez.com/2019/11/21/scratch-files.html)
 
 ---
 
