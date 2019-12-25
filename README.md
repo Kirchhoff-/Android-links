@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2024%202019-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2025%202019-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -663,6 +663,7 @@ Jump to
 * [What makes a good developer?](https://medium.com/snapp-mobile/what-makes-a-good-developer-702da6e108ec)
 * [How To Achieve Work-Life Balance as a Developer](https://levelup.gitconnected.com/how-to-achieve-work-life-balance-as-a-developer-1df51dae5425)
 * [Work/life balance will make you a better software engineer](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/)
+* [The not-so-passionate programmer: finding a job when you’re just a normal person](https://codewithoutrules.com/2016/11/30/not-a-passionate-programmer/)
 
 ---
 
