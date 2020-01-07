@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2006%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2007%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -177,6 +177,7 @@ Jump to
     * [MVVM with architecture components: a step by step guideline for MVP lovers](https://antonioleiva.com/mvvm-vs-mvp/)
     * [Flexible way to handle exceptions in Android](https://android.jlelse.eu/flexible-way-to-handle-exceptions-in-android-9de236f304ad)
     * [MVI - The Good, the Bad, and the Ugly](https://adambennett.dev/2019/07/mvi-the-good-the-bad-and-the-ugly/)
+    * [Anemic Repositories, MVI and RxJava-induced design damage, and how AAC ViewModel is silently killing your app](https://proandroiddev.com/anemic-repositories-mvi-and-rxjava-induced-design-damage-and-how-aac-viewmodel-is-silently-1762caa70e13)
 
 ---
 
