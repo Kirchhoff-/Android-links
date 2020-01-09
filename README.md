@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2008%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2009%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -480,6 +480,7 @@ Jump to
 * [[Yotube] How Immutability Helps in OOP](https://www.youtube.com/watch?v=EnhRgXrHCC4)
 * [Date/Time Printing Can Be Elegant Too](https://www.yegor256.com/2019/09/27/parsing-and-printing.html)
 * [[Yotube] The Alternative to Fluent Interfaces in Java](https://www.youtube.com/watch?v=REj8pJesMVI)
+* [A Dependency Injector’s 3 Jobs](https://publicobject.com/2019/06/25/a-dependency-injectors-3-jobs/)
 
 ---
 
