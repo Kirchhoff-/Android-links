@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2009%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2010%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -419,6 +419,7 @@ Jump to
     * [To val, or to const val, that is the question](https://medium.com/@patxi/to-val-or-to-const-val-that-is-the-question-43ba428332cb)
     * [Synchronization, Thread-Safety and Locking Techniques in Java and Kotlin](https://proandroiddev.com/synchronization-and-thread-safety-techniques-in-java-and-kotlin-f63506370e6d)
     * [Public API challenges in Kotlin](https://jakewharton.com/public-api-challenges-in-kotlin/)
+    * [Kotlin’s Assert Is Not Like Java’s Assert](https://publicobject.com/2019/11/18/kotlins-assert-is-not-like-javas-assert/)
     
 ---
 
