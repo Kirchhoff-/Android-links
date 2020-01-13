@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2010%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2013%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -671,6 +671,7 @@ Jump to
 * [Work/life balance will make you a better software engineer](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/)
 * [The not-so-passionate programmer: finding a job when you’re just a normal person](https://codewithoutrules.com/2016/11/30/not-a-passionate-programmer/)
 * [Avoiding hour creep: get your work done and still go home at 5PM](https://codewithoutrules.com/2018/06/15/avoid-hour-creep/)
+* [How to stay motivated](https://medium.com/@sgkantamani/how-to-stay-motivated-b1e7689ee1d4)
 
 ---
 
