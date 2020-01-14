@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2013%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2014%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -363,6 +363,7 @@ Jump to
     * [Getting rid of boilerplate with Kotlin Android Extensions](https://www.kotlindevelopment.com/kotlin_android_extensions_eliminate_findviewbyid/)
     * [Extensions: The Good, The Bad and The Ugly](https://proandroiddev.com/kotlin-pearls-6-extensions-the-good-the-bad-and-the-ugly-23c88fcab235)
     * [Writing clean models using extensions](https://okkotlin.com/clean-models/)
+    * [Factory or Extension Function?](https://publicobject.com/2019/05/22/factory-or-extension-function/)
 * Patterns
     * [Gang of Four Patterns in Kotlin](https://dev.to/lovis/gang-of-four-patterns-in-kotlin)
     * [Kotlin tips: Singleton, Utility Functions, group Object Initialization](https://medium.com/default-to-open/kotlin-tips-singleton-utility-functions-group-object-initialization-and-more-27cdd6f63a41)   
