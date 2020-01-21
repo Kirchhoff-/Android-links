@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2020%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2021%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -638,6 +638,7 @@ Jump to
     * [Setting boundaries at your job as a programmer](https://codewithoutrules.com/2019/04/03/setting-boundaries-at-work/)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
     * [A message without a context is unprofessional and very annoying for the listener; don't do it!](https://www.youtube.com/watch?v=fVMml2vpP-Y)
+    * [Talented Programmers, Who Are They?](https://www.yegor256.com/2019/12/31/talented-programmers.html)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
