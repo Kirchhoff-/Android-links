@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2021%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2022%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -390,6 +390,7 @@ Jump to
     * [When to Use Sequences](https://typealias.com/guides/when-to-use-sequences/)
 * Flow
     * [Playing with Kotlin Flows](https://medium.com/@davidecerbo/playing-with-kotlin-flows-72370fc00e51)
+    * [Back-pressure in Kotlin Flows](https://medium.com/@davidecerbo/backpressure-in-kotlin-flows-9324d86c964e)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
