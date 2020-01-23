@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2022%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2023%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -582,6 +582,7 @@ Jump to
 * [How to never commit a temporary code to your codebase](https://medium.com/@kazarovetsblr/how-to-never-commit-a-temporary-code-to-your-codebase-91004b45f32d)
 * [Android Kotlin Code Quality Check using Detekt and Git Hooks Pre-push](https://medium.com/binar-academy/android-kotlin-code-quality-check-using-detekt-and-git-hooks-pre-push-mac-and-linux-556c111bc71b)
 * [[Youtube] Three-branches release model: Master-Candidate-Live](https://www.youtube.com/watch?v=G6-OKD58czQ)
+* [How to Split Pull Requests – Good Practices, Methods and Git Strategies](https://www.thedroidsonroids.com/blog/splitting-pull-request)
 
 ---
 
