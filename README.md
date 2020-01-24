@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2023%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2024%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -315,6 +315,7 @@ Jump to
     * [Null is your friend, not a mistake](https://medium.com/@elizarov/null-is-your-friend-not-a-mistake-b63ff1751dd5)
     * [Kotlin’s Nothing: Its Usefulness in Generics](https://blog.kotlin-academy.com/kotlins-nothing-its-usefulness-in-generics-5076a6a457f7)
     * [Understanding Kotlin limitations for type parameter positions](https://blog.kotlin-academy.com/understanding-kotlin-limitations-for-type-parameter-positions-15527b916034)
+    * [Any, Unit, Nothing and all their friends](https://medium.com/@patxi/any-unit-nothing-and-all-their-friends-e39613b48235)
 * Properties
     * [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
     * [Safely accessing lateinit properties in Kotlin](https://upcurve.engineering/accessing-lateinit-kotlin/)
