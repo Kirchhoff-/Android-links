@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2024%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2027%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -428,6 +428,7 @@ Jump to
     * [Public API challenges in Kotlin](https://jakewharton.com/public-api-challenges-in-kotlin/)
     * [Kotlin’s Assert Is Not Like Java’s Assert](https://publicobject.com/2019/11/18/kotlins-assert-is-not-like-javas-assert/)
     * [Companion object invoke operator overloading for default constructor argument in generic classes](https://proandroiddev.com/companion-object-invoke-operator-overloading-for-default-constructor-argument-in-generic-classes-c8eb61dcc4f7)
+    * [Uniform list access with subscripts](https://okkotlin.com/subscripts/)
     
 ---
 
