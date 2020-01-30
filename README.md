@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2029%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2030%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -297,6 +297,7 @@ Jump to
     * [Kotlin Sealed Classes — enums with swag](https://proandroiddev.com/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4)
     * [Kotlin pearls: Sealed Class Override](https://proandroiddev.com/kotlin-pearls-sealed-class-override-b951dcd752c6)
     * [Abstracting Kotlin Sealed Classes](https://arturdryomov.online/posts/abstracting-kotlin-sealed-classes/)
+    * [You may not need a sealed class](https://medium.com/@patxi/you-may-not-need-a-sealed-class-fe4551e800b4)
 * Delegates
     * [Kotlin is Dope And So Are Its Custom Property Delegates](https://robots.thoughtbot.com/kotlin-is-dope-and-so-are-its-custom-property-delegates)
     * [Kotlin — Faster Lazy for Android](https://proandroiddev.com/kotlin-faster-lazy-for-android-7328ec8d8d57)
