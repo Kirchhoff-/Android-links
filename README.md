@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2003%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2004%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -494,6 +494,7 @@ Jump to
 * [Date/Time Printing Can Be Elegant Too](https://www.yegor256.com/2019/09/27/parsing-and-printing.html)
 * [[Yotube] The Alternative to Fluent Interfaces in Java](https://www.youtube.com/watch?v=REj8pJesMVI)
 * [A Dependency Injector’s 3 Jobs](https://publicobject.com/2019/06/25/a-dependency-injectors-3-jobs/)
+* [[Yotube] Why Static Methods Are Evil?](https://www.youtube.com/watch?v=A-9FjaOIsw8)
 
 ---
 
