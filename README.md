@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2012%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2013%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -124,6 +124,7 @@ Jump to
 * [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
 * [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
 * [[Yotube] Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
+* [Android Styling: Themes vs Styles](https://medium.com/androiddevelopers/android-styling-themes-vs-styles-ebe05f917578)
 
 ---
 
