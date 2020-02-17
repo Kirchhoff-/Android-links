@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2014%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2017%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -259,6 +259,7 @@ Jump to
     * [Beyond Gson — Evaluating JSON Parsers for Android & Kotlin](https://blog.usejournal.com/beyond-gson-evaluating-json-parsers-for-android-kotlin-e7aa4bcc413e)
     * [Simple Guide to Android Product Flavors](https://levelup.gitconnected.com/simple-guide-to-android-product-flavors-674106455038)
     * [The different between @id/ and @+id/ in Android](https://medium.com/@nhoxbypass/s%E1%BB%B1-kh%C3%A1c-nhau-gi%E1%BB%AFa-id-v%C3%A0-id-trong-android-870093537078)
+    * [Encrypting Shared Preferences with the AndroidX Security Library](https://www.bignerdranch.com/blog/encrypting-shared-preferences-with-the-androidx-security-library/)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
