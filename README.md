@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2017%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2018%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -25,6 +25,7 @@ Jump to
 - [Libraries](#libraries)
    - [Rx](#rx)
    - [Dagger 2](#dagger)
+   - [Koin](#koin)
 
 # Android
 
@@ -763,3 +764,9 @@ Jump to
 * [Dagger in Kotlin: Gotchas and Optimizations](https://medium.com/androiddevelopers/dagger-in-kotlin-gotchas-and-optimizations-7446d8dfd7dc)
 * [Dagger 2, 2 Years Later](https://www.philosophicalhacker.com/post/dagger-2-years-later/)
 * [From Dagger components to manual dependency injection](https://proandroiddev.com/from-dagger-components-to-manual-dependency-injection-110015abe6e0)
+
+---
+
+## Koin
+[back to top](#readme)
+* [[Youtube] Arnaud Giuliani - Dependency injection from zero to hero with Koin](https://www.youtube.com/watch?v=mt9yoWScgb8)
