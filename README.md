@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2020%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2021%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -104,6 +104,7 @@ Jump to
 * [Handling IllegalStateException: Can not perform this action after onSaveInstanceState](https://medium.com/@elye.project/handling-illegalstateexception-can-not-perform-this-action-after-onsaveinstancestate-d4ee8b630066)
 * [Advocating for Better Android Fragments](https://willowtreeapps.com/ideas/advocating-for-better-android-fragments)
 * [Android Fragments: FragmentContainerView](https://proandroiddev.com/android-fragments-fragmentcontainerview-292f393f9ccf)
+* [Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
 
 ---
 
