@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2025%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2026%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -275,6 +275,7 @@ Jump to
     * [Practical ProGuard rules examples](https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9)
     * [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
     * [[Yotube] Bulletproof Android](https://www.youtube.com/watch?v=1yF5sqGJo90)
+    * [Is Your Kotlin Code Really Obfuscated?](https://proandroiddev.com/is-your-kotlin-code-really-obfuscated-a36abf033dde)
 * Multidex
     * [65K methods](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71)
     * [Use the Android apk analyzer to reduce your apk size](https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/)
