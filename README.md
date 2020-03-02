@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2028%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2002%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -364,6 +364,7 @@ Jump to
     * [Mastering Coroutines. Android. Unit Tests](https://android.jlelse.eu/mastering-coroutines-android-unit-tests-8bc0d082bf15)
     * [Managing exceptions in nested coroutine scopes](https://proandroiddev.com/managing-exceptions-in-nested-coroutine-scopes-9f23fd85e61)
     * [Kotlin Coroutines on Android: Things I Wish I Knew at the Beginning](https://medium.com/capital-one-tech/kotlin-coroutines-on-android-things-i-wish-i-knew-at-the-beginning-c2f0b1f16cff)
+    * [[Youtube] Structured concurrency](https://www.youtube.com/watch?v=Mj5P47F6nJg)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
