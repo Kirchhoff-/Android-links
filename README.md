@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2002%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2003%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -620,7 +620,6 @@ Jump to
     * [Three Things I Expect From a Software Architect](https://www.yegor256.com/2015/05/11/software-architect-responsibilities.html)
     * [Two Instruments of a Software Architect](https://www.yegor256.com/2015/05/13/two-instruments-of-software-architect.html)
     * [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html)
-    * [Feature Flags in Native Mobile Development are a Must](https://www.techyourchance.com/feature-flags-in-native-mobile-development-are-must/)
     * [Keep Your Features in Progress Out of Your Release Builds](http://antoine-merle.com/blog/2015/10/10/keep-your-features-in-progress-out-of-your-release-builds/) 
     * [Who Is a Project Manager?](https://www.yegor256.com/2016/05/24/who-is-project-manager.html)
     * [Either Bugs or Pull Requests ... or You Are Out](https://www.yegor256.com/2018/07/24/bugs-or-pull-requests.html)
@@ -643,7 +642,6 @@ Jump to
     * [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
     * [Test Driven Development Is Dumb. Fight Me.](https://itnext.io/test-driven-development-is-dumb-fight-me-a38b3033280c)
     * [[Youtube] How to Deal With Conflicts in a Software Team](https://www.youtube.com/watch?v=GWLpAZqvqSc)
-    * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)
     * [[Youtube] Testing and Quality Assurance (QA) are two entirely different things!](https://www.youtube.com/watch?v=hp4PL0AJAVo)
     * [Daily Stand-up Injection of Guilt](https://www.yegor256.com/2019/09/03/injection-of-guilt.html)
     * [The Joy of Programming](https://www.yegor256.com/2019/07/30/joy-of-programming.html)
@@ -670,7 +668,10 @@ Jump to
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
     * [[Youtube] Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
     * [Agile is Wrong — Part 1: Scope and Requirements Changes](https://medium.com/@daptronic/agile-is-wrong-part-1-scope-and-requirements-changes-37c653fd53e5)
-
+* Feature flags
+    * [Feature Flags in Native Mobile Development are a Must](https://www.techyourchance.com/feature-flags-in-native-mobile-development-are-must/)
+    * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)    
+    * [Remote feature flags do not always come for free](https://proandroiddev.com/remote-feature-flags-do-not-always-come-for-free-a372f1768a70)
 ---
 
 ## Life
