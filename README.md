@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2003%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2004%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -265,7 +265,8 @@ Jump to
     * [Simple Guide to Android Product Flavors](https://levelup.gitconnected.com/simple-guide-to-android-product-flavors-674106455038)
     * [The different between @id/ and @+id/ in Android](https://medium.com/@nhoxbypass/s%E1%BB%B1-kh%C3%A1c-nhau-gi%E1%BB%AFa-id-v%C3%A0-id-trong-android-870093537078)
     * [Encrypting Shared Preferences with the AndroidX Security Library](https://www.bignerdranch.com/blog/encrypting-shared-preferences-with-the-androidx-security-library/)
-    * [](https://android.jlelse.eu/reduce-overdraw-from-your-android-application-6cf15f4aa85f)
+    * [Reduce Overdraw from Your Android Application](https://android.jlelse.eu/reduce-overdraw-from-your-android-application-6cf15f4aa85f)
+    * [Showing the Android Keyboard Reliably](https://developer.squareup.com/blog/showing-the-android-keyboard-reliably/)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
