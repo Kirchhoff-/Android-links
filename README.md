@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2005%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2006%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -189,6 +189,7 @@ Jump to
     * [MVI - The Good, the Bad, and the Ugly](https://adambennett.dev/2019/07/mvi-the-good-the-bad-and-the-ugly/)
     * [Anemic Repositories, MVI and RxJava-induced design damage, and how AAC ViewModel is silently killing your app](https://proandroiddev.com/anemic-repositories-mvi-and-rxjava-induced-design-damage-and-how-aac-viewmodel-is-silently-1762caa70e13)
     * [MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC — building abstractions for the sake of building abstractions](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386)
+    * [Say no to BaseActivity and BaseFragment](https://proandroiddev.com/say-no-to-baseactivity-and-basefragment-83b156ed8998)
 
 ---
 
