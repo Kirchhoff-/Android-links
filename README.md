@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2006%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2009%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -268,6 +268,7 @@ Jump to
     * [Encrypting Shared Preferences with the AndroidX Security Library](https://www.bignerdranch.com/blog/encrypting-shared-preferences-with-the-androidx-security-library/)
     * [Reduce Overdraw from Your Android Application](https://android.jlelse.eu/reduce-overdraw-from-your-android-application-6cf15f4aa85f)
     * [Showing the Android Keyboard Reliably](https://developer.squareup.com/blog/showing-the-android-keyboard-reliably/)
+    * [Data Encryption on Android with Jetpack Security](https://android-developers.googleblog.com/2020/02/data-encryption-on-android-with-jetpack.html)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
