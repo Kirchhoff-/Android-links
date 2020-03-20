@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2009%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2020%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -156,6 +156,7 @@ Jump to
     * [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
     * [Restoring State in Android MVP Architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
     * [Passive View MVP in Kotlin](https://medium.com/@daptronic/passive-view-mvp-in-kotlin-a8cbcb9a25e2)
+    * [Building An Application With MVP](https://androidessence.com/building-an-app-with-mvp)
 * Architecture Components
     * [Android Architecture Components](https://proandroiddev.com/android-architecture-components-cb1ea88d3835)
     * [Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749)
