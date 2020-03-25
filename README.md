@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2024%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2025%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -192,6 +192,7 @@ Jump to
     * [MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC — building abstractions for the sake of building abstractions](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386)
     * [Say no to BaseActivity and BaseFragment](https://proandroiddev.com/say-no-to-baseactivity-and-basefragment-83b156ed8998)
     * [Building An Application With MVVM](https://androidessence.com/building-an-app-with-mvvm)
+    * [Multiple ways of defining Clean Architecture layers](https://proandroiddev.com/multiple-ways-of-defining-clean-architecture-layers-bbb70afa5d4a)
 
 ---
 
