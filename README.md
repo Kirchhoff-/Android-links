@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2025%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2026%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -74,6 +74,7 @@ Jump to
     * [Right way of setting margin on Recycler View’s cell](https://medium.com/@elye.project/right-way-of-setting-margin-on-recycler-views-cell-319da259b641)
     * [DiffUtil is a must](https://proandroiddev.com/diffutil-is-a-must-797502bc1149)
     * [Saving Scroll Positions of Nested RecyclerViews](https://android.jlelse.eu/storing-scroll-positions-of-nested-recyclerviews-9e9e8eb3196d)
+    * [Glide'ing your way into RecyclerView state invalidation](https://ricardocosteira.com/glideing-your-way-into-recyclerview-state-invalidation)
 * WebView
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
     * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
