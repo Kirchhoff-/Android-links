@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2026%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2027%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -596,6 +596,7 @@ Jump to
     * [Isolate your Fragments…just for testing](https://medium.com/@aitorvs/isolate-your-fragments-just-for-testing-ea7d4fddcba2)
     * [Unit-testing LiveData and other common observability problems](https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04)
     * [Sharing code between local and instrumentation tests](https://proandroiddev.com/sharing-code-between-local-and-instrumentation-tests-c0b57ebd3200)
+    * [Unit Testing RxJava or Coroutine Code With Constructor Injection](https://androidessence.com/unit-testing-async-code)
 
 ---
 
