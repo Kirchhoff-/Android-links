@@ -569,7 +569,6 @@ Jump to
     * [Android testing: Espresso (Part 3)](http://alexzh.com/tutorials/android-testing-espresso-part-3/)
     * [Android testing: UI Automator (Part 4)](http://alexzh.com/tutorials/android-testing-ui-automator-part-4/)
     * [Dont Use Espresso Idling Resources like Google does](https://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-like-this/)
-    * [How "Android Test Recorder" generate delays between actions](http://droidtestlab.com/delay.html)
     * [Simple way to test asynchronous actions in Android](https://medium.com/@v.danylo/simple-way-to-test-asynchronous-actions-in-android-service-asynctask-thread-rxjava-etc-d43b0402e005)
     * [Dagger 2 Testing](http://endlesswhileloop.com/blog/2016/06/23/dagger-2-testing/)
     * [Why I Don't use Robolectric](https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/)
@@ -603,7 +602,7 @@ Jump to
 * [8 Productivity Tips for GitHub](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
 * [Git from humans to humans — Pull Requests](https://medium.com/@caueferreira/git-from-humans-to-humans-pull-requests-c25ad049a278)
 * [Git commands for code detectives](https://blog.novoda.com/git-code-detectives/)
-* [Merge Git Authors](https://arturdryomov.online/posts/merge-git-authors/)
+* [Merge Git Authors](https://arturdryomov.dev/posts/merge-git-authors/)
 * [Git, beyond version control](https://medium.com/@aitorvs/git-beyond-version-control-629cbea23f37)
 * [How to never commit a temporary code to your codebase](https://medium.com/@kazarovetsblr/how-to-never-commit-a-temporary-code-to-your-codebase-91004b45f32d)
 * [Android Kotlin Code Quality Check using Detekt and Git Hooks Pre-push](https://medium.com/binar-academy/android-kotlin-code-quality-check-using-detekt-and-git-hooks-pre-push-mac-and-linux-556c111bc71b)
@@ -616,10 +615,8 @@ Jump to
 [back to top](#readme)
 * Main
     * [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
-    * [Code Reviews Q&A](https://blog.babylonhealth.com/code-reviews-q-a-f33c72d3b2c3)
     * [Perfect code is an illusion](https://8thlight.com/blog/daniel-irvine/2016/11/11/perfect-code-is-an-illusion.html)
     * [The problematic pull request](https://8thlight.com/blog/daniel-irvine/2016/11/18/the-problematic-pull-request.html)
-    * [Rebuild or Report?](https://blog.photoeditorsdk.com/rebuild-or-report-211d6ac6e787)
     * [Flexibility Equates to Lower Quality](https://www.yegor256.com/2017/04/11/flexibility-equates-lower-quality.html)
     * [Three Things I Expect From a Software Architect](https://www.yegor256.com/2015/05/11/software-architect-responsibilities.html)
     * [Two Instruments of a Software Architect](https://www.yegor256.com/2015/05/13/two-instruments-of-software-architect.html)
@@ -673,7 +670,6 @@ Jump to
     * [[Youtube] Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
     * [Agile is Wrong — Part 1: Scope and Requirements Changes](https://medium.com/@daptronic/agile-is-wrong-part-1-scope-and-requirements-changes-37c653fd53e5)
 * Feature flags
-    * [Feature Flags in Native Mobile Development are a Must](https://www.techyourchance.com/feature-flags-in-native-mobile-development-are-must/)
     * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)    
     * [Remote feature flags do not always come for free](https://proandroiddev.com/remote-feature-flags-do-not-always-come-for-free-a372f1768a70)
 ---
