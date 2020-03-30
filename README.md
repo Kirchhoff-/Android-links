@@ -36,7 +36,6 @@ Jump to
     * [Using Custom Views As Menu Items](http://blog.stablekernel.com/using-custom-views-as-menu-items)
     * [ConstraintLayout - Guidelines, Barriers, Chains and Groups](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
     * [Playing with elevation in Android](https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596)
-    * [An Android Toolbar and Action Bar Color Guide](https://www.codeandkits.com/Blog/2018/03/26/an-android-toolbar-and-action-bar-color-guide/)
     * [Drawing multiline text to Canvas](https://medium.com/over-engineering/drawing-multiline-text-to-canvas-on-android-9b98f0bfa16a)
     * [Spantastic text styling with Spans](https://medium.com/google-developers/spantastic-text-styling-with-spans-17b0c16b4568)
     * [Customizing Switch using XML](https://medium.com/@elye.project/customizing-switch-using-xml-ca0d37204a86)
@@ -84,7 +83,6 @@ Jump to
 
 ## Context
 [back to top](#readme)
-* [Context, What Context?](https://possiblemobile.com/2013/06/context/)
 * [Which Context should I use in Android?](https://medium.com/@ali.muzaffar/which-context-should-i-use-in-android-e3133d00772c)
 * [Why Having Global Static References to Application Contexts is Probably not the Best Idea](https://www.philosophicalhacker.com/2015/07/14/why-static-references-to-application-contexts-are-probably-not-the-best-idea/)
 * [Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
@@ -95,7 +93,7 @@ Jump to
 
 ## Fragment
 [back to top](#readme) 
-* [Advocating Against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html)
+* [Advocating Against Android Fragments](https://developer.squareup.com/blog/advocating-against-android-fragments/)
 * [Fragment Transactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
 * [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
 * [Android Fragment Lifecycle for Professional Developers](https://www.techyourchance.com/android-fragment-lifecycle-for-professional-developers/)
@@ -123,7 +121,7 @@ Jump to
 [back to top](#readme)
 * [How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
 * [Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
-* [Android Resources Refactoring](https://news.realm.io/news/android-resources-refactoring/)
+* [Android Resources Refactoring](https://academy.realm.io/posts/android-resources-refactoring/)
 * [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
 * [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
 * [[Yotube] Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
@@ -134,7 +132,6 @@ Jump to
 ## Gradle
 [back to top](#readme)
 * [Gradle Tutorial for Android: Getting Started](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)
-* [10 Tips to Improve Your Gradle Build Time](http://www.universalmind.com/blog/10-tips-to-improve-your-gradle-build-time/)
 * [A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
 * [[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
 * [How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
@@ -153,7 +150,7 @@ Jump to
 * MVP
     * [Android MVP: Keeping Presenters Alive](https://medium.com/@trionkidnapper/android-mvp-keeping-presenters-alive-a91b9e080761)
     * [Presenters don't need lifecycle events](http://hannesdorfmann.com/android/presenters-dont-need-lifecycle)
-    * [Presenters are not for persisting](https://hackernoon.com/presenters-are-not-for-persisting-f537a2cc7962)
+    * [Presenters are not for persisting](https://medium.com/@theMikhail/presenters-are-not-for-persisting-f537a2cc7962)
     * [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
     * [Restoring State in Android MVP Architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
     * [Passive View MVP in Kotlin](https://medium.com/@daptronic/passive-view-mvp-in-kotlin-a8cbcb9a25e2)
@@ -223,7 +220,7 @@ Jump to
     * [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
     * [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
     * [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
-    * [Optimizing the Performance of Vector Drawables](https://medium.com/upday-devs/optimizing-the-performance-of-vector-drawables-680a4c456286)
+    * [Optimizing the Performance of Vector Drawables](https://upday.github.io/blog/vector_drawables_optimisation/)
     * [A Curious Case of Multiple Locales](https://blog.egorand.me/a-curious-case-of-multiple-locales/)
     * [Task Stack](https://blog.stylingandroid.com/task-stack/)
     * [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
@@ -239,9 +236,8 @@ Jump to
     * [[Yotube] How the Main Thread works](https://www.youtube.com/watch?v=eAtMon8ndfk)
     * [[Yotube] Exploring Custom Activity Transitions](https://www.youtube.com/watch?v=HLhA0I00TnI)
     * [[Yotube] Tools of the Trade](https://www.youtube.com/watch?v=AeoeD7K8vKI)
-    * [[Video] Exploring the Activity Lifecycle](https://realm.io/news/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
+    * [[Video] Exploring the Activity Lifecycle](https://academy.realm.io/posts/activities-in-the-wild-exploring-the-activity-lifecycle-android/)
     * [TransactionTooLargeException on Nougat solved](https://medium.com/@mdmasudparvez/android-os-transactiontoolargeexception-on-nougat-solved-3b6e30597345)
-    * [Doing work with Android's new WorkManager](https://www.bignerdranch.com/blog/doing-work-with-androids-new-work-manager/)
     * [Large Database Queries on Android](https://medium.com/androiddevelopers/large-database-queries-on-android-cb043ae626e8)
     * [Realm — It’s all about the choices we make](https://android.jlelse.eu/realm-its-all-about-the-choices-we-make-7c2fe380ecd8)
     * [Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)
@@ -269,7 +265,6 @@ Jump to
     * [Mobile App Versioning: A Numbers Game](https://medium.com/@daptronic/mobile-app-versioning-a-numbers-game-f1ea9dbd1ded)
     * [Beyond Gson — Evaluating JSON Parsers for Android & Kotlin](https://blog.usejournal.com/beyond-gson-evaluating-json-parsers-for-android-kotlin-e7aa4bcc413e)
     * [Simple Guide to Android Product Flavors](https://levelup.gitconnected.com/simple-guide-to-android-product-flavors-674106455038)
-    * [The different between @id/ and @+id/ in Android](https://medium.com/@nhoxbypass/s%E1%BB%B1-kh%C3%A1c-nhau-gi%E1%BB%AFa-id-v%C3%A0-id-trong-android-870093537078)
     * [Encrypting Shared Preferences with the AndroidX Security Library](https://www.bignerdranch.com/blog/encrypting-shared-preferences-with-the-androidx-security-library/)
     * [Reduce Overdraw from Your Android Application](https://android.jlelse.eu/reduce-overdraw-from-your-android-application-6cf15f4aa85f)
     * [Showing the Android Keyboard Reliably](https://developer.squareup.com/blog/showing-the-android-keyboard-reliably/)
