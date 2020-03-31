@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2028%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2031%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -448,6 +448,7 @@ Jump to
     * [Companion object invoke operator overloading for default constructor argument in generic classes](https://proandroiddev.com/companion-object-invoke-operator-overloading-for-default-constructor-argument-in-generic-classes-c8eb61dcc4f7)
     * [Uniform list access with subscripts](https://okkotlin.com/subscripts/)
     * [Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
+    * [Equality in Kotlin (==, === and equals)](https://medium.com/@agrawalsuneet/equality-in-kotlin-and-equals-d8373ef529f1)
     
 ---
 
