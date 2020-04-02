@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2001%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2002%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -292,6 +292,7 @@ Jump to
     * [Android leak pattern: subscriptions in views](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c)
     * [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c)
     * [Reliable Hot Reload on Android](https://medium.com/@gpeal/reliable-hot-reload-on-android-27f14a80df60)
+    * [A Subtle Memory Leak - Fragment, RecyclerView and its Adapter](https://charlesmuchene.hashnode.dev/a-subtle-memory-leak-fragment-recyclerview-and-its-adapter-ck805s7jd03frzns17uapi3vh)
   
 ---
 
