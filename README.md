@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2002%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2003%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -451,6 +451,7 @@ Jump to
     * [Uniform list access with subscripts](https://okkotlin.com/subscripts/)
     * [Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
     * [Equality in Kotlin (==, === and equals)](https://medium.com/@agrawalsuneet/equality-in-kotlin-and-equals-d8373ef529f1)
+    * [TypeCheck (‘is’) and Cast (‘as’) in Kotlin](https://medium.com/@agrawalsuneet/typecheck-is-and-cast-as-in-kotlin-a2490c567a85)
     
 ---
 
