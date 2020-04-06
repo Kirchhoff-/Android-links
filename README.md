@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2003%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2006%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -192,6 +192,7 @@ Jump to
     * [Building An Application With MVVM](https://androidessence.com/building-an-app-with-mvvm)
     * [Multiple ways of defining Clean Architecture layers](https://proandroiddev.com/multiple-ways-of-defining-clean-architecture-layers-bbb70afa5d4a)
     * [MVWTF: Demystifying Architecture Patterns](https://androidessence.com/mvwtf)
+    * [Repository Pattern: Properly Organizing Your Data Layer](https://androidessence.com/repository-pattern)
 
 ---
 
