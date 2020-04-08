@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2007%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2008%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -372,6 +372,7 @@ Jump to
     * [Managing exceptions in nested coroutine scopes](https://proandroiddev.com/managing-exceptions-in-nested-coroutine-scopes-9f23fd85e61)
     * [Kotlin Coroutines on Android: Things I Wish I Knew at the Beginning](https://medium.com/capital-one-tech/kotlin-coroutines-on-android-things-i-wish-i-knew-at-the-beginning-c2f0b1f16cff)
     * [[Youtube] Structured concurrency](https://www.youtube.com/watch?v=Mj5P47F6nJg)
+    * [Preventing coroutine cancellation for important actions](https://craigrussell.io/2020/03/preventing-coroutine-cancellation-for-important-actions/)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
