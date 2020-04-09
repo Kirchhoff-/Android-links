@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2008%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2009%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -519,6 +519,7 @@ Jump to
 * [A Dependency Injector’s 3 Jobs](https://publicobject.com/2019/06/25/a-dependency-injectors-3-jobs/)
 * [[Yotube] Why Static Methods Are Evil?](https://www.youtube.com/watch?v=A-9FjaOIsw8)
 * [Fat vs. Skinny Design](https://www.yegor256.com/2020/02/19/fat-skinny-design.html)
+* [[Yotube] Naked Data in OOP](https://www.youtube.com/watch?v=Nm274dGikFc)
 
 ---
 
