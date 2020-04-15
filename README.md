@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2014%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2015%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -457,6 +457,7 @@ Jump to
     * [Equality in Kotlin (==, === and equals)](https://medium.com/@agrawalsuneet/equality-in-kotlin-and-equals-d8373ef529f1)
     * [TypeCheck (‘is’) and Cast (‘as’) in Kotlin](https://medium.com/@agrawalsuneet/typecheck-is-and-cast-as-in-kotlin-a2490c567a85)
     * [Kotlin ‘For’ loop](https://medium.com/@agrawalsuneet/kotlin-for-loop-44056d4f7c21)
+    * [[Youtube] Kotlin on Code Quality Tools](https://www.youtube.com/watch?v=MPjLd_M_fag)
     
 ---
 
