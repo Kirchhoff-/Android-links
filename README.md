@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2015%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2016%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -523,6 +523,7 @@ Jump to
 * [[Yotube] Why Static Methods Are Evil?](https://www.youtube.com/watch?v=A-9FjaOIsw8)
 * [Fat vs. Skinny Design](https://www.yegor256.com/2020/02/19/fat-skinny-design.html)
 * [[Yotube] Naked Data in OOP](https://www.youtube.com/watch?v=Nm274dGikFc)
+* [Encapsulate and abstract for future proof software](https://ricardocosteira.com/encapsulate-and-abstract-for-future-proof-software)
 
 ---
 
