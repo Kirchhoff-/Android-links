@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2016%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2017%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -721,6 +721,7 @@ Jump to
 * [Join our startup, we’ll cut your pay by 40%](https://codewithoutrules.com/2017/09/18/when-startups-pay-less/)
 * [Embrace the Chaos!](https://www.yegor256.com/2020/01/07/embrace-the-chaos.html)
 * [You are privileged to be a software developer!](https://blog.usejournal.com/you-are-privileged-to-be-an-developer-67fffc6fb66d)
+* [Ugly Truths About Working From Home](https://medium.com/better-programming/ugly-truths-about-working-from-home-e9907c7091ba)
 
 ---
 
