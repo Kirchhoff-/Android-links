@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2017%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2020%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -572,6 +572,7 @@ Jump to
     * [Selectively running Android modularized unit tests on your CI server](https://overflow.buffer.com/2019/12/20/selectively-running-android-modularized-unit-tests-on-your-ci-server/)
     * [Parameterized tests with Kotlin’s Sealed Classes](https://proandroiddev.com/sealed-classes-with-parameterized-tests-in-junit5-cd62f2bf8b36)
     * [Testing Kotlin Lambda Invocations without Mocking](https://dev.to/ychescale9/testing-kotlin-lambda-invocations-without-mocking-3n32)
+    * [Better Kotlin unit testing with mock helper functions](https://medium.com/@june.pravin/better-kotlin-unit-testing-with-mock-helper-functions-38dc1a6c4684)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
