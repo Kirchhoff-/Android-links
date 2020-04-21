@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2020%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2021%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -786,6 +786,7 @@ Jump to
 * [Dagger in Kotlin: Gotchas and Optimizations](https://medium.com/androiddevelopers/dagger-in-kotlin-gotchas-and-optimizations-7446d8dfd7dc)
 * [Dagger 2, 2 Years Later](https://www.philosophicalhacker.com/post/dagger-2-years-later/)
 * [From Dagger components to manual dependency injection](https://proandroiddev.com/from-dagger-components-to-manual-dependency-injection-110015abe6e0)
+* [Dagger dependencies beyond the basics](https://proandroiddev.com/dagger-dependencies-beyond-the-basics-53474e48f932)
 
 ---
 
