@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2022%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2023%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -62,6 +62,7 @@ Jump to
     * [Animating a strike through on Android](https://tigeroakes.com/posts/android-animate-strike-thru/)
     * [AnimatedIcons: Strikethru](https://blog.stylingandroid.com/animatedicons-strikethru/)
     * [Adventures in the Land of EditText](https://markushintersteiner.at/blog/adventures_in_the_land_of_edittext/)
+    * [Better Custom Views with Delegates](https://blog.autsoft.hu/better-custom-views-with-delegates/)
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
