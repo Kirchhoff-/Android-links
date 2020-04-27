@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2024%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2027%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -726,6 +726,7 @@ Jump to
 * [You are privileged to be a software developer!](https://blog.usejournal.com/you-are-privileged-to-be-an-developer-67fffc6fb66d)
 * [Ugly Truths About Working From Home](https://medium.com/better-programming/ugly-truths-about-working-from-home-e9907c7091ba)
 * [Working From Home When You’re Self-Quarantined](https://medium.com/better-programming/working-from-home-when-youre-self-quarantined-73daea114710)
+* [Hurdles Faced by a Freelancer](https://medium.com/better-programming/hurdles-faced-by-a-freelancer-66a1c73ea658)
 
 ---
 
