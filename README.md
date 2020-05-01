@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2030%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2001%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -463,6 +463,7 @@ Jump to
     * [Kotlin ‘For’ loop](https://medium.com/@agrawalsuneet/kotlin-for-loop-44056d4f7c21)
     * [[Youtube] Kotlin on Code Quality Tools](https://www.youtube.com/watch?v=MPjLd_M_fag)
     * [inline, noinline, crossinline — What do they mean?](https://android.jlelse.eu/inline-noinline-crossinline-what-do-they-mean-b13f48e113c2)
+    * [Qualified ‘this’ in Kotlin](https://medium.com/@agrawalsuneet/qualified-this-in-kotlin-b8c7360b4fda)
     
 ---
 
