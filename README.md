@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2006%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2007%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -380,6 +380,7 @@ Jump to
     * [[Youtube] Structured concurrency](https://www.youtube.com/watch?v=Mj5P47F6nJg)
     * [Preventing coroutine cancellation for important actions](https://craigrussell.io/2020/03/preventing-coroutine-cancellation-for-important-actions/)
     * [Shared mutable state with Coroutines](https://medium.com/@nazarivanchuk/shared-mutable-state-with-coroutines-33a85e903466)
+    * [Suspending over Views — Example](https://medium.com/androiddevelopers/suspending-over-views-example-260ce3dc9100)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
