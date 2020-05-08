@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2007%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2008%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -277,6 +277,7 @@ Jump to
     * [Evolution of Finding Views by ID in Android](https://wajahatkarim.com/2020/04/evolution-of-finding-views/)
     * [App Standby Buckets In Android](https://medium.com/mindorks/app-standby-buckets-in-android-ada2d2929350)
     * [Make Android View Binding great with Kotlin](https://proandroiddev.com/make-android-view-binding-great-with-kotlin-b71dd9c87719)
+    * [What you might not know about the AlertDialog](https://proandroiddev.com/what-you-might-not-know-about-the-alertdialog-2bdc55f3d907)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
