@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2012%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2013%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -422,6 +422,7 @@ Jump to
     * [Effective Kotlin: Use Sequence for bigger collections with more than one processing step](https://blog.kotlin-academy.com/effective-kotlin-use-sequence-for-bigger-collections-with-more-than-one-processing-step-649a15bb4bf)
     * [When to Use Sequences](https://typealias.com/guides/when-to-use-sequences/)
 * Flow
+    * [Into the Flow: Kotlin cold streams primer](https://www.rockandnull.com/kotlin-flow/)
     * [Playing with Kotlin Flows](https://medium.com/@davidecerbo/playing-with-kotlin-flows-72370fc00e51)
     * [Back-pressure in Kotlin Flows](https://medium.com/@davidecerbo/backpressure-in-kotlin-flows-9324d86c964e)
 * Other
