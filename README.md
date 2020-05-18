@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2015%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2018%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -196,6 +196,7 @@ Jump to
     * [Multiple ways of defining Clean Architecture layers](https://proandroiddev.com/multiple-ways-of-defining-clean-architecture-layers-bbb70afa5d4a)
     * [MVWTF: Demystifying Architecture Patterns](https://androidessence.com/mvwtf)
     * [Repository Pattern: Properly Organizing Your Data Layer](https://androidessence.com/repository-pattern)
+    * [Android: Error handling in Clean Architecture](https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03)
 
 ---
 
