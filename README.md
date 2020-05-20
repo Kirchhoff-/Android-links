@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2019%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2020%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -386,6 +386,7 @@ Jump to
     * [Shared mutable state with Coroutines](https://medium.com/@nazarivanchuk/shared-mutable-state-with-coroutines-33a85e903466)
     * [Suspending over Views — Example](https://medium.com/androiddevelopers/suspending-over-views-example-260ce3dc9100)
     * [The suspend modifier — Under the hood](https://medium.com/androiddevelopers/the-suspend-modifier-under-the-hood-b7ce46af624f)
+    * [Coroutines and exceptions: things to know](https://www.rockandnull.com/coroutines-and-exceptions/)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
