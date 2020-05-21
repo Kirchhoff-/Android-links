@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2020%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2021%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -281,6 +281,7 @@ Jump to
     * [What you might not know about the AlertDialog](https://proandroiddev.com/what-you-might-not-know-about-the-alertdialog-2bdc55f3d907)
     * [The First 2 Commits Every Android Project Should Have](https://medium.com/livefront/the-first-2-commits-every-android-project-should-have-e8a245ac86)
     * [8 Valid Reasons for Modularization in Android](https://www.techyourchance.com/modularization-android)
+    * [5 Most Popular Package Structures for Software Projects](https://www.techyourchance.com/popular-package-structures/)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
