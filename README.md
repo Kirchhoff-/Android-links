@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2025%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2026%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -369,6 +369,7 @@ Jump to
     * [Making the Android Studio Layout Editor Better With Kotlin](https://medium.com/@edwardharks/making-the-android-studio-layout-editor-better-with-kotlin-997ca0653923)
     * [Kotlin for Android Developers: Visibility Modifiers](https://medium.com/mindorks/kotlin-for-android-developers-visibility-modifiers-8d8a3b84d298)
     * [JvmOverloads for Android Views](https://zsmb.co/jvmoverloads-for-android-views/)
+    * [Misconception about Kotlin @JvmOverloads for Android View Creation](https://proandroiddev.com/misconception-about-kotlin-jvmoverloads-for-android-view-creation-cb88f432e1fe)
 * Coroutines
     * [[Youtube] Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
     * [Diving deep into Kotlin Coroutines](https://www.kotlindevelopment.com/deep-dive-coroutines/)
