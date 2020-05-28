@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2027%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2028%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -777,6 +777,7 @@ Jump to
     * [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
     * [Error handling in RxJava/RxKotlin](https://android.jlelse.eu/error-handling-in-rxjava-rxkotlin-e960300990e0)
     * [Rxify: error handling with subjects, relays](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
+    * [Clean architecture — error handling with Kotlin/RxJava](https://medium.com/@june.pravin/clean-architecture-error-handling-with-kotlin-rxjava-d01c82a0f31e)
 * Backpressure
     * [RxJava Backpressure and why should you care?](https://proandroiddev.com/rxjava-backpressure-and-why-you-should-care-369c5242c9e6)
 * Android
