@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2029%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2001%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -479,6 +479,7 @@ Jump to
     * [[Youtube] Kotlin on Code Quality Tools](https://www.youtube.com/watch?v=MPjLd_M_fag)
     * [inline, noinline, crossinline — What do they mean?](https://android.jlelse.eu/inline-noinline-crossinline-what-do-they-mean-b13f48e113c2)
     * [Qualified ‘this’ in Kotlin](https://medium.com/@agrawalsuneet/qualified-this-in-kotlin-b8c7360b4fda)
+    * [Why Kotlin’s Elvis Operator is Better Than Swift’s Guard Statement](https://medium.com/better-programming/kotlins-elvis-better-than-swift-s-guard-53030d403c3f)
     
 ---
 
