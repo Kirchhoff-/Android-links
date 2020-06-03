@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2002%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2003%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -392,6 +392,7 @@ Jump to
     * [Suspending over Views — Example](https://medium.com/androiddevelopers/suspending-over-views-example-260ce3dc9100)
     * [The suspend modifier — Under the hood](https://medium.com/androiddevelopers/the-suspend-modifier-under-the-hood-b7ce46af624f)
     * [Coroutines and exceptions: things to know](https://www.rockandnull.com/coroutines-and-exceptions/)
+    * [Comparing Kotlin Coroutines with Callbacks and RxJava](https://www.lukaslechner.com/comparing-kotlin-coroutines-with-callbacks-and-rxjava/)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
