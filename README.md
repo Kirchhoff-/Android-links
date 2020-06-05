@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2004%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2005%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -285,6 +285,7 @@ Jump to
     * [5 Most Popular Package Structures for Software Projects](https://www.techyourchance.com/popular-package-structures/)
     * [Android Foreground Service Restrictions](https://proandroiddev.com/android-foreground-service-restrictions-d3baa93b2f70)
     * [Low-level implementation of array](https://medium.com/swlh/low-level-implementation-of-array-b4654d4e28ca)
+    * [Android Logging on Steroids: Clickable Logs With Location Info](https://medium.com/@.me./android-logging-on-steroids-clickable-logs-with-location-info-de1a5c16e86f)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
