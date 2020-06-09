@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2008%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2009%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -498,6 +498,7 @@ Jump to
 * [Strict Control of Java Code Quality](https://www.yegor256.com/2014/08/13/strict-code-quality-control.html)
 * [Common Bad Programming practices](https://medium.com/mindorks/common-bad-programming-practices-7fb470ed74d2)
 * [Handling Nullability in Your Code](https://pspdfkit.com/blog/2019/handling-nullability-in-your-code/)
+* [Java Memory Model](http://tutorials.jenkov.com/java-concurrency/java-memory-model.html)
 
 ---
 
