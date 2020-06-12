@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2011%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2012%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -177,6 +177,7 @@ Jump to
     * [When to load data in ViewModels](https://proandroiddev.com/when-to-load-data-in-viewmodels-ad9616940da7)
     * [Surviving Configuration Change - ViewModel](https://charlesmuchene.hashnode.dev/surviving-configuration-change-viewmodel-ck8cyte8u00nfxes1o6s76r1m)
     * [Should I use Jetpack ViewModel?](https://www.glureau.com/2020/05/15/Jetpack-ViewModel-ProCons/)
+    * [Encapsulating View State](https://ryanharter.com/blog/2019/07/encapsulating-view-state/)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture(MVC, MVP, MVVM)](https://android.jlelse.eu/android-architecture-2f12e1c7d4db)
