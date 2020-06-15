@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2012%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2015%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -824,6 +824,7 @@ Jump to
 * [From Dagger components to manual dependency injection](https://proandroiddev.com/from-dagger-components-to-manual-dependency-injection-110015abe6e0)
 * [Dagger dependencies beyond the basics](https://proandroiddev.com/dagger-dependencies-beyond-the-basics-53474e48f932)
 * [Injection into Android Component’s Constructors is real](https://proandroiddev.com/inject-into-android-component-constructor-4f5ddd27d06)
+* [Facilitating dependency initialization with Dagger multibindings](https://medium.com/quick-code/facilitating-dependency-initialization-with-dagger-multibindings-e31f3323338f)
 
 ---
 
