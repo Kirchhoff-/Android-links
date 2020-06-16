@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2015%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2016%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -397,6 +397,7 @@ Jump to
     * [The suspend modifier — Under the hood](https://medium.com/androiddevelopers/the-suspend-modifier-under-the-hood-b7ce46af624f)
     * [Coroutines and exceptions: things to know](https://www.rockandnull.com/coroutines-and-exceptions/)
     * [Comparing Kotlin Coroutines with Callbacks and RxJava](https://www.lukaslechner.com/comparing-kotlin-coroutines-with-callbacks-and-rxjava/)
+    * [Understanding Kotlin Coroutines with this mental model](https://www.lukaslechner.com/understanding-kotlin-coroutines-with-this-mental-model/)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
