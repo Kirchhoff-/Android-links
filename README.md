@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2016%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2017%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -826,6 +826,7 @@ Jump to
 * [Dagger dependencies beyond the basics](https://proandroiddev.com/dagger-dependencies-beyond-the-basics-53474e48f932)
 * [Injection into Android Component’s Constructors is real](https://proandroiddev.com/inject-into-android-component-constructor-4f5ddd27d06)
 * [Facilitating dependency initialization with Dagger multibindings](https://medium.com/quick-code/facilitating-dependency-initialization-with-dagger-multibindings-e31f3323338f)
+* [Dagger Tips: Leveraging AssistedInjection to inject ViewModels](https://proandroiddev.com/dagger-tips-leveraging-assistedinjection-to-inject-viewmodels-with-savedstatehandle-and-93fe009ad874)
 
 ---
 
