@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2017%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2018%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -296,6 +296,7 @@ Jump to
     * [OkHttp & OAuth: Token Refreshes](https://blog.coinbase.com/okhttp-oauth-token-refreshes-b598f55dd3b2)
     * [Four Ways to Bypass Android SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
     * [Securing Network and Inter-App Communications on Android](https://heartbeat.fritz.ai/securing-network-and-inter-app-communications-in-android-c733baa5057c)
+    * [Maximizing OkHttp connection reuse](https://medium.com/booking-com-development/maximizing-okhttp-connection-reuse-b1f0ad6ec66c)
 * ProGuard
     * [Practical ProGuard rules examples](https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9)
     * [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
