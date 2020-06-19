@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2018%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2019%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -65,6 +65,7 @@ Jump to
     * [Better Custom Views with Delegates](https://blog.autsoft.hu/better-custom-views-with-delegates/)
     * [ViewStub: On-demand inflate view or lazily inflate layout resource](https://proandroiddev.com/viewstub-on-demand-inflate-view-or-inflate-lazily-layout-resource-e56b8c39398b)
     * [The Lifecycle of a View in Android](https://proandroiddev.com/the-life-cycle-of-a-view-in-android-6a2c4665b95e)
+    * [Android’s ImageView scale type cheatsheet](https://uxdesign.cc/androids-imageview-scale-type-cheatsheet-1528cbad8db4)
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
