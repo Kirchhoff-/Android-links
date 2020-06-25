@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2024%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2025%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -637,6 +637,7 @@ Jump to
     * [Unit-testing LiveData and other common observability problems](https://medium.com/androiddevelopers/unit-testing-livedata-and-other-common-observability-problems-bb477262eb04)
     * [Sharing code between local and instrumentation tests](https://proandroiddev.com/sharing-code-between-local-and-instrumentation-tests-c0b57ebd3200)
     * [Unit Testing RxJava or Coroutine Code With Constructor Injection](https://androidessence.com/unit-testing-async-code)
+    * [Using Fakes To Test Reactive Flows](https://tech.okcupid.com/using-fakes-to-test-reactive-flows-for-android/)
 
 ---
 
