@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2026%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2029%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -108,6 +108,7 @@ Jump to
 * [Advocating for Better Android Fragments](https://willowtreeapps.com/ideas/advocating-for-better-android-fragments)
 * [Android Fragments: FragmentContainerView](https://proandroiddev.com/android-fragments-fragmentcontainerview-292f393f9ccf)
 * [Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
+* [Fragment Lifecycles in the Age of Jetpack](https://zsmb.co/fragment-lifecycles-in-the-age-of-jetpack/)
 
 ---
 
