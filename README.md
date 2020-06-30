@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2029%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2030%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -219,6 +219,7 @@ Jump to
 * [Android Studio Design Tools UX — Split View](https://medium.com/androiddevelopers/android-studio-design-tools-ux-changes-split-view-dcde75e88a0c)
 * [Scratch That Itch](https://zdominguez.com/2019/11/21/scratch-files.html)
 * [TODO Live Templates](https://zarah.dev/2020/03/06/live-templates.html)
+* [Accommodate your project-specific needs with custom templates](https://proandroiddev.com/accommodate-your-project-specific-needs-with-custom-templates-46cfdccc8363)
 
 ---
 
