@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2001%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2002%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -294,6 +294,7 @@ Jump to
     * [Low-level implementation of array](https://medium.com/swlh/low-level-implementation-of-array-b4654d4e28ca)
     * [Android Logging on Steroids: Clickable Logs With Location Info](https://medium.com/@.me./android-logging-on-steroids-clickable-logs-with-location-info-de1a5c16e86f)
     * [Easy Android Scopes](https://ryanharter.com/blog/2020/03/easy-android-scopes/)
+    * [The Bifurcation Of Android](https://medium.com/nala-money/the-bifurcation-of-android-6fa1cced074d)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
