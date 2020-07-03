@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2002%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2003%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -562,6 +562,7 @@ Jump to
 * [Fat vs. Skinny Design](https://www.yegor256.com/2020/02/19/fat-skinny-design.html)
 * [[Yotube] Naked Data in OOP](https://www.youtube.com/watch?v=Nm274dGikFc)
 * [Encapsulate and abstract for future proof software](https://ricardocosteira.com/encapsulate-and-abstract-for-future-proof-software)
+* [The forgotten art of construction](https://proandroiddev.com/the-forgotten-art-of-construction-cfedc368e67f)
 
 ---
 
