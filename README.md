@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2003%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2006%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -845,3 +845,9 @@ Jump to
 ## Koin
 [back to top](#readme)
 * [[Youtube] Arnaud Giuliani - Dependency injection from zero to hero with Koin](https://www.youtube.com/watch?v=mt9yoWScgb8)
+
+---
+
+## Hilt
+[back to top](#readme)
+* [Exploring dagger hilt: an introduction](https://joebirch.co/android/exploring-dagger-hilt-an-introduction/)
