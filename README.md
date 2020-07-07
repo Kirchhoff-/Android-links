@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2006%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2007%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -495,6 +495,7 @@ Jump to
     * [Why Kotlin’s Elvis Operator is Better Than Swift’s Guard Statement](https://medium.com/better-programming/kotlins-elvis-better-than-swift-s-guard-53030d403c3f)
     * [The hidden Kotlin gem you didn't think you'll love: Deprecations with ReplaceWith](https://dev.to/mreichelt/the-hidden-kotlin-gem-you-didn-t-think-you-ll-love-deprecations-with-replacewith-3blo)
     * [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
+    * [Reification of the Erased](https://medium.com/androiddevelopers/reification-of-the-erased-41e246725d2c)
     
 ---
 
