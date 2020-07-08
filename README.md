@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2007%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2008%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -721,6 +721,7 @@ Jump to
     * [Don’t crank out code at 2AM, especially if you’re the CTO](https://codewithoutrules.com/2017/07/07/dont-code-at-2am/)
     * [5 Effective Ways to Boost Your Productivity as a Developer](https://medium.com/better-programming/5-effective-ways-to-boost-your-productivity-as-a-developer-228078460841)
     * [Rethinking "Always Be Coding"](https://www.rockandnull.com/rethinking-always-be-coding/)
+    * [Intentional qualities](https://medium.com/@elizarov/intentional-qualities-7e6a57bb87fc)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
