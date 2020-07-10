@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2009%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2010%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -406,6 +406,7 @@ Jump to
     * [Coroutines and exceptions: things to know](https://www.rockandnull.com/coroutines-and-exceptions/)
     * [Comparing Kotlin Coroutines with Callbacks and RxJava](https://www.lukaslechner.com/comparing-kotlin-coroutines-with-callbacks-and-rxjava/)
     * [Understanding Kotlin Coroutines with this mental model](https://www.lukaslechner.com/understanding-kotlin-coroutines-with-this-mental-model/)
+    * [Cancellation in coroutines](https://medium.com/androiddevelopers/cancellation-in-coroutines-aa6b90163629)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
