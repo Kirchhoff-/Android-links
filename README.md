@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2021%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2022%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -804,6 +804,7 @@ Jump to
     * [Hardly Comprehensive Introduction to RxJava: Observable Types, Backpressure, and Error Handling](https://www.ericdecanini.com/2019/01/07/comprehensive-introduction-to-rxjava-observable-types-backpressure-and-error-handling/)
     * [RxJava2 puzzle: Scheduler as 3rd parameter](https://www.glureau.com/2020/04/29/RxJava-Puzzle-Scheduler-3rd-param/)
     * [RxJava2 puzzle: Subscription threading](https://www.glureau.com/2020/05/01/RxJava-Puzzle-Subscription-Threading/)
+    * [RxJava2 subscribeOn: How to use it](https://www.glureau.com/2020/05/02/RxJava-SubscribeOn-HowTo/)
 * Error
     * [Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
     * [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
