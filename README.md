@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2022%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2023%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -207,6 +207,7 @@ Jump to
     * [MVWTF: Demystifying Architecture Patterns](https://androidessence.com/mvwtf)
     * [Repository Pattern: Properly Organizing Your Data Layer](https://androidessence.com/repository-pattern)
     * [Android: Error handling in Clean Architecture](https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03)
+    * [Designing and Working with Single View States on Android](https://zsmb.co/designing-and-working-with-single-view-states-on-android/)
 
 ---
 
