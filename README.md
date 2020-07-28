@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2025%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2028%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -504,6 +504,7 @@ Jump to
     * [The hidden Kotlin gem you didn't think you'll love: Deprecations with ReplaceWith](https://dev.to/mreichelt/the-hidden-kotlin-gem-you-didn-t-think-you-ll-love-deprecations-with-replacewith-3blo)
     * [Kotlin and Exceptions](https://medium.com/@elizarov/kotlin-and-exceptions-8062f589d07)
     * [Reification of the Erased](https://medium.com/androiddevelopers/reification-of-the-erased-41e246725d2c)
+    * [Kotlin’s Noinline & Crossline, once for all](https://medium.com/@cortinico/kotlins-noinline-crossline-once-for-all-c942fd07b7a3)
     
 ---
 
