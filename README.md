@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2028%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2029%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -209,6 +209,7 @@ Jump to
     * [Android: Error handling in Clean Architecture](https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03)
     * [Designing and Working with Single View States on Android](https://zsmb.co/designing-and-working-with-single-view-states-on-android/)
     * [Thoughts about State Handling on Android](https://zsmb.co/thoughts-about-state-handling-on-android/)
+    * [Architecture Trio Of Apps](https://www.rstockbridge.dev/2020-06-06-architecture/)
 
 ---
 
