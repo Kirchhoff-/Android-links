@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2029%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2030%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -574,6 +574,7 @@ Jump to
 * [[Yotube] Naked Data in OOP](https://www.youtube.com/watch?v=Nm274dGikFc)
 * [Encapsulate and abstract for future proof software](https://ricardocosteira.com/encapsulate-and-abstract-for-future-proof-software)
 * [The forgotten art of construction](https://proandroiddev.com/the-forgotten-art-of-construction-cfedc368e67f)
+* [Immutability we can afford](https://medium.com/@elizarov/immutability-we-can-afford-10c0dcb8351d)
 
 ---
 
