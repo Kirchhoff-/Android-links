@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2031%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2003%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -599,6 +599,7 @@ Jump to
 * [Composable Decorators vs. Imperative Utility Methods](https://www.yegor256.com/2015/02/26/composable-decorators.html)
 * [Bohemian Wrapsody](https://proandroiddev.com/bohemian-wrapsody-86a5ac3c910a)
 * [A deep dive into the Strategy Design Pattern](https://blog.usejournal.com/a-deep-dive-into-the-strategy-design-pattern-5723eb3937b4)
+* [The Builder pattern in Java — yet another Builder Pattern article](https://medium.com/@sergio.igwt/the-builder-pattern-in-java-2c03fc6ccd16)
 
 ---
 
