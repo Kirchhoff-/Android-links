@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2004%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2005%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -303,6 +303,7 @@ Jump to
     * [Easy Android Scopes](https://ryanharter.com/blog/2020/03/easy-android-scopes/)
     * [The Bifurcation Of Android](https://medium.com/nala-money/the-bifurcation-of-android-6fa1cced074d)
     * [Remote logging with Timber and Firebase Realtime Database](https://proandroiddev.com/remote-logging-with-timber-and-firebase-realtime-database-a9dfbe66284c)
+    * [A few experiments with Android drawable gradients](https://blog.jakelee.co.uk/a-few-experiments-with-android-drawable-gradients/)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
