@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2005%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2006%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -739,6 +739,7 @@ Jump to
     * [5 Effective Ways to Boost Your Productivity as a Developer](https://medium.com/better-programming/5-effective-ways-to-boost-your-productivity-as-a-developer-228078460841)
     * [Rethinking "Always Be Coding"](https://www.rockandnull.com/rethinking-always-be-coding/)
     * [Intentional qualities](https://medium.com/@elizarov/intentional-qualities-7e6a57bb87fc)
+    * [To Measure or Not to Measure](https://www.yegor256.com/2020/06/23/individual-performance-metrics.html)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
