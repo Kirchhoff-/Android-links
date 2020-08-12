@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2011%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2012%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -632,6 +632,7 @@ Jump to
     * [Better Kotlin unit testing with mock helper functions](https://medium.com/@june.pravin/better-kotlin-unit-testing-with-mock-helper-functions-38dc1a6c4684)
     * [Replacing Mocks](https://ryanharter.com/blog/2020/06/replacing-mocks/)
     * [Unit Testing vs Functional Testing: A Detailed Comparison](https://www.simform.com/unit-testing-vs-functional-testing/)
+    * [Code Coverage Best Practices](https://testing.googleblog.com/2020/08/code-coverage-best-practices.html)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
