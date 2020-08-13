@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2012%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2013%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -69,6 +69,7 @@ Jump to
     * [NumberPicker](https://blog.stylingandroid.com/numberpicker/)
     * [MotionLayout: Visibility](https://blog.stylingandroid.com/motionlayout-visibility/)
     * [2 Android components you should start using right now!](https://medium.com/@sonique6784/2-android-components-you-should-start-using-right-now-b68515fcf9e8)
+    * [Material Slider](https://blog.stylingandroid.com/material-slider/)
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
