@@ -306,6 +306,7 @@ Jump to
     * [Remote logging with Timber and Firebase Realtime Database](https://proandroiddev.com/remote-logging-with-timber-and-firebase-realtime-database-a9dfbe66284c)
     * [A few experiments with Android drawable gradients](https://blog.jakelee.co.uk/a-few-experiments-with-android-drawable-gradients/)
     * [Assets or Resource Raw folder of Android?](https://medium.com/mobile-app-development-publication/assets-or-resource-raw-folder-of-android-5bdc042570e0)
+    * [Android Widgets](https://medium.com/android-bits/android-widgets-ad3d166458d3)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
