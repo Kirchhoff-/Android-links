@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2017%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2018%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -238,7 +238,6 @@ Jump to
 * Main
     * [Identifying an Android Device](http://handstandsam.com/2017/05/04/identifying-an-android-device/)
     * [Streamlining eero’s Android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.svunhmwgi)
-    * [Glide vs Picasso](https://medium.com/@multidots/glide-vs-picasso-930eed42b81d)
     * [An introduction to Android Instant Apps](https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps)
     * [Android Task and Back Stack Review](https://blog.mindorks.com/android-task-and-back-stack-review-5017f2c18196)
     * [Going multiprocess on Android](https://medium.com/@rotxed/going-multiprocess-on-android-52975ed8863c)
