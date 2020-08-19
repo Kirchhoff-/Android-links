@@ -141,7 +141,6 @@ Jump to
 ## Gradle
 [back to top](#readme)
 * [Gradle Tutorial for Android: Getting Started](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)
-* [A strategy to secure your API keys using Gradle](https://medium.com/@cassioso/a-strategy-to-secure-your-api-keys-using-gradle-b9c107272860)
 * [[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
 * [How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
 * [Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
