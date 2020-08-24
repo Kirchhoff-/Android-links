@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2018%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2024%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -33,7 +33,6 @@ Jump to
 [back to top](#readme)
 * Main
     * [Animating Android Activities and Views with Left and Right Slide Animations](https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view)
-    * [Using Custom Views As Menu Items](http://blog.stablekernel.com/using-custom-views-as-menu-items)
     * [ConstraintLayout - Guidelines, Barriers, Chains and Groups](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/)
     * [Playing with elevation in Android](https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596)
     * [Drawing multiline text to Canvas](https://medium.com/over-engineering/drawing-multiline-text-to-canvas-on-android-9b98f0bfa16a)
@@ -128,7 +127,6 @@ Jump to
 
 ## Themes
 [back to top](#readme)
-* [How to style AlertDialogs like a pro](http://blog.supenta.com/2014/07/02/how-to-style-alertdialogs-like-a-pro/)
 * [Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
 * [Android Resources Refactoring](https://academy.realm.io/posts/android-resources-refactoring/)
 * [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
@@ -189,7 +187,6 @@ Jump to
     * [SavedStateHandle to the Rescue](https://medium.com/making-meetup/savedstatehandle-to-the-rescue-bec7ce8257f1)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
-    * [Android Architecture(MVC, MVP, MVVM)](https://android.jlelse.eu/android-architecture-2f12e1c7d4db)
     * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
     * [Architectures of Android applications](https://medium.com/@bvmaks/architectures-of-android-applications-244a083bf132)
     * [Cargo Cult MVVM => The death knell of WPF](http://cargocultsoftwaredevelopment.blogspot.com/2010/10/cargo-cult-mvvm-death-knell-of-wpf.html)
@@ -211,7 +208,6 @@ Jump to
     * [Android: Error handling in Clean Architecture](https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03)
     * [Designing and Working with Single View States on Android](https://zsmb.co/designing-and-working-with-single-view-states-on-android/)
     * [Thoughts about State Handling on Android](https://zsmb.co/thoughts-about-state-handling-on-android/)
-    * [Architecture Trio Of Apps](https://www.rstockbridge.dev/2020-06-06-architecture/)
 
 ---
 
@@ -297,7 +293,6 @@ Jump to
     * [The First 2 Commits Every Android Project Should Have](https://medium.com/livefront/the-first-2-commits-every-android-project-should-have-e8a245ac86)
     * [8 Valid Reasons for Modularization in Android](https://www.techyourchance.com/modularization-android)
     * [5 Most Popular Package Structures for Software Projects](https://www.techyourchance.com/popular-package-structures/)
-    * [Android Foreground Service Restrictions](https://proandroiddev.com/android-foreground-service-restrictions-d3baa93b2f70)
     * [Low-level implementation of array](https://medium.com/swlh/low-level-implementation-of-array-b4654d4e28ca)
     * [Android Logging on Steroids: Clickable Logs With Location Info](https://medium.com/@.me./android-logging-on-steroids-clickable-logs-with-location-info-de1a5c16e86f)
     * [Easy Android Scopes](https://ryanharter.com/blog/2020/03/easy-android-scopes/)
@@ -384,7 +379,6 @@ Jump to
     * [Starting Activities with Kotlin](https://medium.com/@passsy/starting-activities-with-kotlin-my-journey-8b7307f1e460)
     * [Kotlin + buildSrc for Better Gradle Dependency Management](https://handstandsam.com/2018/02/11/kotlin-buildsrc-for-better-gradle-dependency-management/)
     * [The danger of assumptions: Kotlin with Android custom views](https://blog.q42.nl/the-danger-of-assumptions-kotlin-with-android-custom-views-adb79bf2da45)
-    * [Improving findViewById with Kotlin](https://medium.com/@quiro91/improving-findviewbyid-with-kotlin-4cf2f8f779bb)
     * [A Better Way to Launch Activities on Android](https://medium.com/capital-one-developers/a-better-way-to-launch-activities-on-android-8a1045181b16)
     * [Hacking Architecture Components by using Kotlin](https://antonioleiva.com/architecture-components-kotlin/)   
     * [[Video] Advancing Android Development with Kotlin](https://academy.realm.io/posts/oredev-jake-wharton-kotlin-advancing-android-dev/)
@@ -464,7 +458,6 @@ Jump to
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
-    * [Anko for developer](https://www.kotlindevelopment.com/why-should-use-anko/)
     * [Learning Kotlin by Mistake](https://engineering.udacity.com/learning-kotlin-by-mistake-b99304b7d724)
     * [Simplified code with kotlin](https://android.jlelse.eu/simplified-code-with-kotlin-cda9915c9fb9)
     * [Preconditions.kt: Validate Your Kotlin](https://blog.egorand.me/preconditions-kt-validate-your-kotlin/)
@@ -782,7 +775,6 @@ Jump to
 * [Be Unhappy to Be Happy](https://www.yegor256.com/2019/09/17/be-unhappy-to-be-happy.html)
 * [How Passion for Programming Can Make us Worse at our Jobs](https://www.philosophicalhacker.com/post/programmer-passion-worse/)
 * [What makes a good developer?](https://medium.com/snapp-mobile/what-makes-a-good-developer-702da6e108ec)
-* [How To Achieve Work-Life Balance as a Developer](https://levelup.gitconnected.com/how-to-achieve-work-life-balance-as-a-developer-1df51dae5425)
 * [Work/life balance will make you a better software engineer](https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/)
 * [The not-so-passionate programmer: finding a job when you’re just a normal person](https://codewithoutrules.com/2016/11/30/not-a-passionate-programmer/)
 * [Avoiding hour creep: get your work done and still go home at 5PM](https://codewithoutrules.com/2018/06/15/avoid-hour-creep/)
@@ -833,7 +825,6 @@ Jump to
     * [[Youtube] Exploring RxJava 2 for Android](https://www.youtube.com/watch?v=htIXKI5gOQU)
     * [RxJava cheat sheet, with a pinch of Android](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
     * [Retrofit 2 and Rx Java call adapter error handling](http://bytes.babbel.com/en/articles/2016-03-16-retrofit2-rxjava-error-handling.html)
-    * [Combination of RxJava and DiffUtil](https://www.hellsoft.se/a-nice-combination-of-rxjava-and-diffutil-fe3807186012/)
     * [Server polling and retrying failed operations, with Retrofit and RxJava](https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a)
     * [Overriding RxAndroid Schedulers in RxJava 2](https://medium.com/@peter.tackage/overriding-rxandroid-schedulers-in-rxjava-2-5561b3d14212)
     * [LCE: Modeling Data Loading in RxJava](https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80)
