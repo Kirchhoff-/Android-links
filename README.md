@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2025%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2026%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -302,6 +302,7 @@ Jump to
     * [A few experiments with Android drawable gradients](https://blog.jakelee.co.uk/a-few-experiments-with-android-drawable-gradients/)
     * [Assets or Resource Raw folder of Android?](https://medium.com/mobile-app-development-publication/assets-or-resource-raw-folder-of-android-5bdc042570e0)
     * [Android Widgets](https://medium.com/android-bits/android-widgets-ad3d166458d3)
+    * [Simple one-liner ViewBinding in Fragments and Activities with Kotlin](https://medium.com/@Zhuinden/simple-one-liner-viewbinding-in-fragments-and-activities-with-kotlin-961430c6c07c)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
