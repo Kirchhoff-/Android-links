@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2002%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2003%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -743,6 +743,7 @@ Jump to
     * [To Measure or Not to Measure](https://www.yegor256.com/2020/06/23/individual-performance-metrics.html)
     * [[Youtube] Micro-management vs. micro-tasking](https://www.youtube.com/watch?v=uhDmHkMAYnM)
     * [Being a senior software developer](https://levelup.gitconnected.com/being-a-senior-developer-380349b1c1dd)
+    * [Typical programmer’s mistakes](https://medium.com/@lsoares/common-programmers-errors-ea598b8f14c9)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
