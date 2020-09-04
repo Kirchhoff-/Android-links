@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2003%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2004%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -415,6 +415,7 @@ Jump to
     * [Cancellation in coroutines](https://medium.com/androiddevelopers/cancellation-in-coroutines-aa6b90163629)
     * [Demystifying CoroutineContext](https://proandroiddev.com/demystifying-coroutinecontext-1ce5b68407ad)
     * [Exceptions in coroutines](https://medium.com/androiddevelopers/exceptions-in-coroutines-ce8da1ec060c)
+    * [Coroutines & Patterns for work that shouldn’t be cancelled](https://medium.com/androiddevelopers/coroutines-patterns-for-work-that-shouldnt-be-cancelled-e26c40f142ad)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
