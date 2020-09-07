@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2004%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2007%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -745,6 +745,7 @@ Jump to
     * [[Youtube] Micro-management vs. micro-tasking](https://www.youtube.com/watch?v=uhDmHkMAYnM)
     * [Being a senior software developer](https://levelup.gitconnected.com/being-a-senior-developer-380349b1c1dd)
     * [Typical programmer’s mistakes](https://medium.com/@lsoares/common-programmers-errors-ea598b8f14c9)
+    * [How to suck at managing software projects](https://medium.com/@lsoares/how-to-suck-at-managing-software-projects-4e6e47007473)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
