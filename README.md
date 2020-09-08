@@ -24,8 +24,7 @@ Jump to
    - [Developer Life](#life)
 - [Libraries](#libraries)
    - [Rx](#rx)
-   - [Dagger 2](#dagger)
-   - [Koin](#koin)
+   - [DI](#di)
 
 # Android
 
@@ -846,35 +845,31 @@ Jump to
 
 ---
 
-## Dagger
+## DI
 [back to top](#readme)
-* [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
-* [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
-* [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
-* [[Yotube] The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
-* [A Dagger to Remember](https://arturdryomov.dev/posts/a-dagger-to-remember/)
-* [Android Injection Performance](https://github.com/Sloy/android-dependency-injection-performance)
-* [Clean Android Application class with Dependency Injection: AppInitializers](https://proandroiddev.com/clean-android-application-class-with-dependency-injection-appinitializer-45999096f955)
-* [Keeping the Daggers Sharp](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
-* [Abusing Dagger with Initializers](https://medium.com/@blipinsk/abusing-dagger-with-initializers-a1e742024ac8)
-* [Dagger in Kotlin: Gotchas and Optimizations](https://medium.com/androiddevelopers/dagger-in-kotlin-gotchas-and-optimizations-7446d8dfd7dc)
-* [Dagger 2, 2 Years Later](https://www.philosophicalhacker.com/post/dagger-2-years-later/)
-* [From Dagger components to manual dependency injection](https://proandroiddev.com/from-dagger-components-to-manual-dependency-injection-110015abe6e0)
-* [Dagger dependencies beyond the basics](https://proandroiddev.com/dagger-dependencies-beyond-the-basics-53474e48f932)
-* [Injection into Android Component’s Constructors is real](https://proandroiddev.com/inject-into-android-component-constructor-4f5ddd27d06)
-* [Facilitating dependency initialization with Dagger multibindings](https://medium.com/quick-code/facilitating-dependency-initialization-with-dagger-multibindings-e31f3323338f)
-* [Dagger Tips: Leveraging AssistedInjection to inject ViewModels](https://proandroiddev.com/dagger-tips-leveraging-assistedinjection-to-inject-viewmodels-with-savedstatehandle-and-93fe009ad874)
-* [How to Optimize Dagger Module](https://infinum.com/the-capsized-eight/how-to-optimize-dagger-module)
+* Main
+    * [Android Injection Performance](https://github.com/Sloy/android-dependency-injection-performance)   
+* Dagger 2
+    * [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+    * [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
+    * [[Yotube] DAGGER 2 - A New Type of dependency injection](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+    * [[Yotube] The Future of Dependency Injection with Dagger 2](https://www.youtube.com/watch?v=plK0zyRLIP8)
+    * [A Dagger to Remember](https://arturdryomov.dev/posts/a-dagger-to-remember/)
+    * [Clean Android Application class with Dependency Injection: AppInitializers](https://proandroiddev.com/clean-android-application-class-with-dependency-injection-appinitializer-45999096f955)
+    * [Keeping the Daggers Sharp](https://medium.com/square-corner-blog/keeping-the-daggers-sharp-%EF%B8%8F-230b3191c3f)
+    * [Abusing Dagger with Initializers](https://medium.com/@blipinsk/abusing-dagger-with-initializers-a1e742024ac8)
+    * [Dagger in Kotlin: Gotchas and Optimizations](https://medium.com/androiddevelopers/dagger-in-kotlin-gotchas-and-optimizations-7446d8dfd7dc)
+    * [Dagger 2, 2 Years Later](https://www.philosophicalhacker.com/post/dagger-2-years-later/)
+    * [From Dagger components to manual dependency injection](https://proandroiddev.com/from-dagger-components-to-manual-dependency-injection-110015abe6e0)
+    * [Dagger dependencies beyond the basics](https://proandroiddev.com/dagger-dependencies-beyond-the-basics-53474e48f932)
+    * [Injection into Android Component’s Constructors is real](https://proandroiddev.com/inject-into-android-component-constructor-4f5ddd27d06)
+    * [Facilitating dependency initialization with Dagger multibindings](https://medium.com/quick-code/facilitating-dependency-initialization-with-dagger-multibindings-e31f3323338f)
+    * [Dagger Tips: Leveraging AssistedInjection to inject ViewModels](https://proandroiddev.com/dagger-tips-leveraging-assistedinjection-to-inject-viewmodels-with-savedstatehandle-and-93fe009ad874)
+    * [How to Optimize Dagger Module](https://infinum.com/the-capsized-eight/how-to-optimize-dagger-module)
+* Koin
+    * [[Youtube] Arnaud Giuliani - Dependency injection from zero to hero with Koin](https://www.youtube.com/watch?v=mt9yoWScgb8)
+* Hilt
+    * [Exploring dagger hilt: an introduction](https://joebirch.co/android/exploring-dagger-hilt-an-introduction/)
+    * [Dependency Injection on Android with Hilt](https://medium.com/androiddevelopers/dependency-injection-on-android-with-hilt-67b6031e62d)
 
 ---
-
-## Koin
-[back to top](#readme)
-* [[Youtube] Arnaud Giuliani - Dependency injection from zero to hero with Koin](https://www.youtube.com/watch?v=mt9yoWScgb8)
-
----
-
-## Hilt
-[back to top](#readme)
-* [Exploring dagger hilt: an introduction](https://joebirch.co/android/exploring-dagger-hilt-an-introduction/)
-* [Dependency Injection on Android with Hilt](https://medium.com/androiddevelopers/dependency-injection-on-android-with-hilt-67b6031e62d)
