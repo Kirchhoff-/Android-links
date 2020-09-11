@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2010%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2011%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -747,6 +747,7 @@ Jump to
     * [Being a senior software developer](https://levelup.gitconnected.com/being-a-senior-developer-380349b1c1dd)
     * [Typical programmer’s mistakes](https://medium.com/@lsoares/common-programmers-errors-ea598b8f14c9)
     * [How to suck at managing software projects](https://medium.com/@lsoares/how-to-suck-at-managing-software-projects-4e6e47007473)
+    * [How we scaled technical discussions in the Android team](https://medium.com/babylon-engineering/how-we-scaled-technical-discussions-in-the-android-team-f0e198f069b1)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
