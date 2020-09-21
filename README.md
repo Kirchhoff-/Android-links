@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2018%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2021%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -303,6 +303,7 @@ Jump to
     * [Android Widgets](https://medium.com/android-bits/android-widgets-ad3d166458d3)
     * [Simple one-liner ViewBinding in Fragments and Activities with Kotlin](https://medium.com/@Zhuinden/simple-one-liner-viewbinding-in-fragments-and-activities-with-kotlin-961430c6c07c)
     * [Data Binding — Lessons learnt](https://medium.com/androiddevelopers/data-binding-lessons-learnt-4fd16576b719)
+    * [Dark Theme with MDC](https://medium.com/androiddevelopers/dark-theme-with-mdc-4c6fc357d956)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
