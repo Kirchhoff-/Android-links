@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2023%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2024%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -607,6 +607,7 @@ Jump to
 * [The Builder pattern in Java — yet another Builder Pattern article](https://medium.com/@sergio.igwt/the-builder-pattern-in-java-2c03fc6ccd16)
 * [Using the Adapter Design Pattern in Java](https://dzone.com/articles/adapter-design-pattern-in-java)
 * [[Youtube] Veil Objects to Replace DTOs](https://www.youtube.com/watch?v=nErn5G_JHhE)
+* [State Design Pattern](https://howtodoinjava.com/design-patterns/behavioral/state-design-pattern/)
 
 ---
 
