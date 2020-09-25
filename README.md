@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2024%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2025%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -756,6 +756,7 @@ Jump to
     * [Code Reviews Q&A](https://medium.com/babylon-engineering/code-reviews-q-a-f33c72d3b2c3)
     * [Creating a documentation culture in the Android team](https://medium.com/babylon-engineering/creating-a-documentation-culture-in-the-android-team-7cd8e61e1eaf)
     * [Bringing some order to Pull Request reviews](https://medium.com/babylon-engineering/bringing-some-order-to-pull-request-reviews-27ac55d181bb)
+    * [7 Steps to Technical Leadership](https://magdamiu.com/2020/09/12/7-steps-to-technical-leadership/)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
