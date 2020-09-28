@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2025%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2028%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -306,6 +306,7 @@ Jump to
     * [Data Binding — Lessons learnt](https://medium.com/androiddevelopers/data-binding-lessons-learnt-4fd16576b719)
     * [Dark Theme with MDC](https://medium.com/androiddevelopers/dark-theme-with-mdc-4c6fc357d956)
     * [Supercharge Android dev with Scrcpy and ADB WIFI](https://proandroiddev.com/supercharge-android-dev-with-scrcpy-and-adb-wifi-f286091c72fc)
+    * [Building on the Wrong Abstraction](https://publicobject.com/2020/09/24/building-on-the-wrong-abstraction/)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
