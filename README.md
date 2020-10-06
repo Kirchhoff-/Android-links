@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2005%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2006%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -364,6 +364,7 @@ Jump to
     * [Simpler Kotlin class hierarchies using class delegation](https://proandroiddev.com/simpler-kotlin-class-hierarchies-using-class-delegation-35464106fed5)
     * [Under the hood of Kotlin Class Delegation](https://medium.com/snapp-mobile/under-the-hood-of-kotlin-class-delegation-24d53f9aa924)
     * [Advanced Kotlin - Delegates](https://americanexpress.io/advanced-kotlin-delegates/)
+    * [Effective Class Delegation](https://zsmb.co/effective-class-delegation/)
 * Type System
     * [Kotlin Type Hierarchy](http://natpryce.com/articles/000818.html)
     * [Nothing (else) matters in Kotlin](https://proandroiddev.com/nothing-else-matters-in-kotlin-994a9ef106fc)
