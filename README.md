@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2008%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2012%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -809,6 +809,7 @@ Jump to
 * [Hurdles Faced by a Freelancer](https://medium.com/better-programming/hurdles-faced-by-a-freelancer-66a1c73ea658)
 * [Working From Home Productivity Tips](https://www.techyourchance.com/working-from-home-productivity-tips/)
 * [Don’t Just Code, But Also C…](https://medium.com/swlh/dont-just-code-but-also-c-e27e86d708ef)
+* [Freelancing](https://blog.stylingandroid.com/freelancing/)
 
 ---
 
