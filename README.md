@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2022%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2026%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -185,6 +185,7 @@ Jump to
     * [Architecture Components pitfalls](https://medium.com/@BladeCoder/architecture-components-pitfalls-part-1-9300dd969808)
     * [SavedStateHandle to the Rescue](https://medium.com/making-meetup/savedstatehandle-to-the-rescue-bec7ce8257f1)
     * [Paging3 — Doing Recyclerview Pagination the Right Way](https://medium.com/swlh/paging3-recyclerview-pagination-made-easy-333c7dfa8797)
+    * [AndroidX Navigation: Building on the Wrong Abstraction](https://proandroiddev.com/androidx-navigation-building-on-the-wrong-abstraction-1d7c4a64318c)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
