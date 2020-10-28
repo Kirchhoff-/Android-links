@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2026%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2028%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -813,6 +813,7 @@ Jump to
 * [Working From Home Productivity Tips](https://www.techyourchance.com/working-from-home-productivity-tips/)
 * [Don’t Just Code, But Also C…](https://medium.com/swlh/dont-just-code-but-also-c-e27e86d708ef)
 * [Freelancing](https://blog.stylingandroid.com/freelancing/)
+* [Remote Work in 2020 is Not Normal – Will We Evaluate It Fairly?](https://goobar.io/remote-work-in-2020-is-not-normal-will-we-evaluate-it-fairly/)
 
 ---
 
