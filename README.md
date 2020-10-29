@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2028%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2029%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -676,6 +676,7 @@ Jump to
     * [Unit Testing RxJava or Coroutine Code With Constructor Injection](https://androidessence.com/unit-testing-async-code)
     * [Using Fakes To Test Reactive Flows](https://tech.okcupid.com/using-fakes-to-test-reactive-flows-for-android/)
     * [Kotlin Unit Tests with Parameters](https://proandroiddev.com/kotlin-unit-tests-with-parameters-e37aab2b36f6)
+    * [Testing Android Architecture Components](https://www.raywenderlich.com/12678525-testing-android-architecture-components)
 
 ---
 
