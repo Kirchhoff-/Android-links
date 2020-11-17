@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-October%20%2030%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2017%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -615,6 +615,7 @@ Jump to
 * [Using the Adapter Design Pattern in Java](https://dzone.com/articles/adapter-design-pattern-in-java)
 * [[Youtube] Veil Objects to Replace DTOs](https://www.youtube.com/watch?v=nErn5G_JHhE)
 * [State Design Pattern](https://howtodoinjava.com/design-patterns/behavioral/state-design-pattern/)
+* [The Proxy Design Pattern in Java](https://stackabuse.com/the-proxy-design-pattern-in-java/)
 
 ---
 
