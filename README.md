@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2024%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2027%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -617,6 +617,7 @@ Jump to
 * [State Design Pattern](https://howtodoinjava.com/design-patterns/behavioral/state-design-pattern/)
 * [The Proxy Design Pattern in Java](https://stackabuse.com/the-proxy-design-pattern-in-java/)
 * [Iterator Pattern](https://www.geeksforgeeks.org/iterator-pattern/)
+* [Visitor design pattern](https://www.geeksforgeeks.org/visitor-design-pattern/)
 
 ---
 
