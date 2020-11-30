@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2027%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2030%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -681,6 +681,7 @@ Jump to
     * [Using Fakes To Test Reactive Flows](https://tech.okcupid.com/using-fakes-to-test-reactive-flows-for-android/)
     * [Kotlin Unit Tests with Parameters](https://proandroiddev.com/kotlin-unit-tests-with-parameters-e37aab2b36f6)
     * [Testing Android Architecture Components](https://www.raywenderlich.com/12678525-testing-android-architecture-components)
+    * [Android Model-View-Intent with Unit Tests](https://proandroiddev.com/android-model-view-intent-with-unit-tests-260e9a0cdd64)
 
 ---
 
