@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2030%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2001%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -311,6 +311,7 @@ Jump to
     * [Android ImageView AdjustViewBounds Demystified](https://medium.com/mobile-app-development-publication/android-imageview-adjustviewbounds-demystified-2f91ce7fe349)
     * [Busting Android performance myths](https://medium.com/androiddevelopers/busting-android-performance-myths-d85ae1d87f22)
     * [Android WiFi Scanning Frustrations](https://proandroiddev.com/android-wifi-scanning-frustrations-799d1d942aea)
+    * [Modern Android Security Development](https://proandroiddev.com/modern-android-security-development-f84796824cea)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
