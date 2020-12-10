@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2008%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2010%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -702,6 +702,7 @@ Jump to
 * [Android Kotlin Code Quality Check using Detekt and Git Hooks Pre-push](https://medium.com/binar-academy/android-kotlin-code-quality-check-using-detekt-and-git-hooks-pre-push-mac-and-linux-556c111bc71b)
 * [[Youtube] Three-branches release model: Master-Candidate-Live](https://www.youtube.com/watch?v=G6-OKD58czQ)
 * [How to Split Pull Requests – Good Practices, Methods and Git Strategies](https://www.thedroidsonroids.com/blog/splitting-pull-request)
+* [Trello Android's Git Branching Strategy](https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy/)
 
 ---
 
