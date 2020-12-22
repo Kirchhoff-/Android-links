@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2018%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2022%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -84,6 +84,7 @@ Jump to
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
     * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
     * [Managing Keyboard on Webview](https://medium.com/@elye.project/managing-keyboard-on-webview-d2e89109d106)    
+    * [Jump Into Chrome Custom Tabs](https://vladsonkin.com/jump-into-chrome-custom-tabs/)
 
 ---
 
