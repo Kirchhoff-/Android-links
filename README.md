@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-December%20%2022%202020-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2023%202020-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -430,6 +430,7 @@ Jump to
     * [Coroutines & Patterns for work that shouldn’t be cancelled](https://medium.com/androiddevelopers/coroutines-patterns-for-work-that-shouldnt-be-cancelled-e26c40f142ad)
     * [Why exception handling with Kotlin Coroutines is so hard and how to successfully master it!](https://www.lukaslechner.com/why-exception-handling-with-kotlin-coroutines-is-so-hard-and-how-to-successfully-master-it/)
     * [Advanced Kotlin Coroutines tips and tricks](https://alexsaveau.dev/blog/kotlin/android/advanced-kotlin-coroutines-tips-and-tricks)
+    * [Kotlin Coroutines in Android Summary](https://medium.com/swlh/kotlin-coroutines-in-android-summary-1ed3048f11c3)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
