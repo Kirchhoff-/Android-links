@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2012%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2013%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -594,6 +594,7 @@ Jump to
 * [Encapsulate and abstract for future proof software](https://ricardocosteira.com/encapsulate-and-abstract-for-future-proof-software)
 * [The forgotten art of construction](https://proandroiddev.com/the-forgotten-art-of-construction-cfedc368e67f)
 * [Immutability we can afford](https://medium.com/@elizarov/immutability-we-can-afford-10c0dcb8351d)
+* [[Yotube] How to Inject Less?](https://www.youtube.com/watch?v=MNxG1xcA2uA)
 
 ---
 
