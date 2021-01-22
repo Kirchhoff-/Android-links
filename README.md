@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2021%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2022%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -320,6 +320,7 @@ Jump to
     * [The Ultimate Guide to Android Bluetooth Low Energy](https://punchthrough.com/android-ble-guide/)
     * [All you need to know about ArrayMap & SparseArray](https://proandroiddev.com/all-you-need-to-know-about-arraymap-sparsearray-49759c2ecbf9)
     * [Understand the types of Launch Modes in an Android Activity](https://mohamedyousufmo.medium.com/understand-android-activity-launch-mode-c21fcecf04b8)
+    * [Demystifying Locale on Android](https://juliensalvi.medium.com/demystifying-locale-on-android-95450adf5aec)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
