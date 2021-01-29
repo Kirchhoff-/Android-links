@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2026%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2029%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -321,6 +321,7 @@ Jump to
     * [All you need to know about ArrayMap & SparseArray](https://proandroiddev.com/all-you-need-to-know-about-arraymap-sparsearray-49759c2ecbf9)
     * [Understand the types of Launch Modes in an Android Activity](https://mohamedyousufmo.medium.com/understand-android-activity-launch-mode-c21fcecf04b8)
     * [Demystifying Locale on Android](https://juliensalvi.medium.com/demystifying-locale-on-android-95450adf5aec)
+    * [Choose Wisely: 5 Ways To Show A Message In Android](https://vladsonkin.com/choose-wisely-5-ways-to-show-a-message-in-android/)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
