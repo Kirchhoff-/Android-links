@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-January%20%2029%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2001%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -459,6 +459,7 @@ Jump to
     * [Extensions: The Good, The Bad and The Ugly](https://proandroiddev.com/kotlin-pearls-6-extensions-the-good-the-bad-and-the-ugly-23c88fcab235)
     * [Writing clean models using extensions](https://okkotlin.com/clean-models/)
     * [Factory or Extension Function?](https://publicobject.com/2019/05/22/factory-or-extension-function/)
+    * [Bad Kotlin Extensions](https://krossovochkin.com/posts/2021_01_25_bad_kotlin_extensions/)
 * Patterns
     * [Gang of Four Patterns in Kotlin](https://dev.to/lovis/gang-of-four-patterns-in-kotlin)
     * [Kotlin tips: Singleton, Utility Functions, group Object Initialization](https://medium.com/default-to-open/kotlin-tips-singleton-utility-functions-group-object-initialization-and-more-27cdd6f63a41)   
