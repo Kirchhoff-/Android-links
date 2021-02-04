@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2002%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2004%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -215,6 +215,7 @@ Jump to
     * [Designing and Working with Single View States on Android](https://zsmb.co/designing-and-working-with-single-view-states-on-android/)
     * [Thoughts about State Handling on Android](https://zsmb.co/thoughts-about-state-handling-on-android/)
     * [Composite ViewModel](https://www.halfbit.de/posts/composite-viewmodel/)
+    * [Finding the right abstraction (when working with Strings)](https://hannesdorfmann.com/abstraction-text-resource/)
 
 ---
 
