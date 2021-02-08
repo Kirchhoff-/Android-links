@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2004%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2008%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -536,6 +536,7 @@ Jump to
     * [Reification of the Erased](https://medium.com/androiddevelopers/reification-of-the-erased-41e246725d2c)
     * [Kotlin’s Noinline & Crossline, once for all](https://medium.com/@cortinico/kotlins-noinline-crossline-once-for-all-c942fd07b7a3)
     * [Kotlin Functional Interfaces: Function reference and SAM conversion](https://krossovochkin.github.io/posts/2020_10_17_kotlin_functional_interfaces_function_references_and_sam_conversion/)
+    * [Enhanced Deprecation in Kotlin](https://todd.ginsberg.com/post/kotlin/deprecation/)
     
 ---
 
