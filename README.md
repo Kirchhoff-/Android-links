@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-February%20%2010%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2011%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -488,6 +488,7 @@ Jump to
     * [Into the Flow: Kotlin cold streams primer](https://www.rockandnull.com/kotlin-flow/)
     * [Playing with Kotlin Flows](https://medium.com/@davidecerbo/playing-with-kotlin-flows-72370fc00e51)
     * [Back-pressure in Kotlin Flows](https://medium.com/@davidecerbo/backpressure-in-kotlin-flows-9324d86c964e)
+    * [Going deep on Flows & Channels — Part 1: Streams](https://proandroiddev.com/going-deep-on-flows-channels-part-1-streams-5ae8b8491ac4)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
