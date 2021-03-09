@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2002%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2009%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -877,6 +877,7 @@ Jump to
     * [RxJava2 subscribeOn: How to use it](https://www.glureau.com/2020/05/02/RxJava-SubscribeOn-HowTo/)
     * [Operators for Transforming Observables](https://proandroiddev.com/exploring-rxjava-in-android-operators-for-transforming-observables-367c22d86677)
     * [How RxJava chain actually works](https://proandroiddev.com/how-rxjava-chain-actually-works-2800692f7e13)
+    * [Understanding hot vs cold Observables](https://luukgruijs.medium.com/understanding-hot-vs-cold-observables-62d04cf92e03)
 * Error
     * [Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
     * [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
