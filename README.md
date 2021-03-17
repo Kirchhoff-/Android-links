@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2016%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2017%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -88,6 +88,7 @@ Jump to
     * [Jump Into Chrome Custom Tabs](https://vladsonkin.com/jump-into-chrome-custom-tabs/)
 * Compose
     * [Thinking in Compose](https://developer.android.com/jetpack/compose/mental-model)
+    * [[Youtube] Jetpack Compose: Beta overview](https://www.youtube.com/watch?v=Ef1xKWjA9E8)
 
 ---
 
