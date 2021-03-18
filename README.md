@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2017%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2018%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -447,6 +447,7 @@ Jump to
     * [Kotlin Coroutines in Android Summary](https://medium.com/swlh/kotlin-coroutines-in-android-summary-1ed3048f11c3)
     * [Network Fetch with Kotlin Coroutine](https://medium.com/mobile-app-development-publication/network-fetch-with-kotlin-coroutine-3eee5593da1b)
     * [Kotlin Coroutine Scope, Context, and Job made simple](https://medium.com/mobile-app-development-publication/kotlin-coroutine-scope-context-and-job-made-simple-5adf89fcfe94)
+    * [Best practices for coroutines in Android](https://developer.android.com/kotlin/coroutines/coroutines-best-practices)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
