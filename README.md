@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2025%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2026%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -452,6 +452,7 @@ Jump to
     * [Kotlin Coroutine Scope, Context, and Job made simple](https://medium.com/mobile-app-development-publication/kotlin-coroutine-scope-context-and-job-made-simple-5adf89fcfe94)
     * [Best practices for coroutines in Android](https://developer.android.com/kotlin/coroutines/coroutines-best-practices)
     * [7 common mistakes you might be making when using Kotlin Coroutines](https://www.lukaslechner.com/7-common-mistakes-you-might-be-making-when-using-kotlin-coroutines/)
+    * [7 Gotchas When Explore Kotlin Coroutine](https://medium.com/mobile-app-development-publication/7-gotchas-when-explore-kotlin-coroutine-64b78f005150)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
