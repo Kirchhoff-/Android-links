@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2029%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2030%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -936,6 +936,7 @@ Jump to
     * [Facilitating dependency initialization with Dagger multibindings](https://medium.com/quick-code/facilitating-dependency-initialization-with-dagger-multibindings-e31f3323338f)
     * [Dagger Tips: Leveraging AssistedInjection to inject ViewModels](https://proandroiddev.com/dagger-tips-leveraging-assistedinjection-to-inject-viewmodels-with-savedstatehandle-and-93fe009ad874)
     * [How to Optimize Dagger Module](https://infinum.com/the-capsized-eight/how-to-optimize-dagger-module)
+    * [Dagger & Kotlin](https://medium.com/@naturalwarren/dagger-kotlin-3b03c8dd6e9b)
 * Koin
     * [[Youtube] Arnaud Giuliani - Dependency injection from zero to hero with Koin](https://www.youtube.com/watch?v=mt9yoWScgb8)
 * Hilt
