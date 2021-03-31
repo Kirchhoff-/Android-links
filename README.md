@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2030%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2031%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -223,6 +223,7 @@ Jump to
     * [Composite ViewModel](https://www.halfbit.de/posts/composite-viewmodel/)
     * [Finding the right abstraction (when working with Strings)](https://hannesdorfmann.com/abstraction-text-resource/)
     * [How do we handle multi-modules navigation on our Android app](https://medium.com/back-market-engineering/how-we-handle-multi-modules-navigation-on-our-android-app-25319e62d219)
+    * [Structural and navigation anti-patterns in multi-module and modularized applications](https://proandroiddev.com/structural-and-navigation-anti-patterns-in-modularized-android-applications-a7d667e35cd6)
 
 ---
 
