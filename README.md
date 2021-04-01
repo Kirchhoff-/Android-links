@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-March%20%2031%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2001%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -119,6 +119,7 @@ Jump to
 * [Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
 * [Fragment Lifecycles in the Age of Jetpack](https://zsmb.co/fragment-lifecycles-in-the-age-of-jetpack/)
 * [7 Common Mistakes Easily Made with Android Fragment](https://medium.com/mobile-app-development-publication/7-common-mistakes-easily-made-with-android-fragment-6fc85c44e783)
+* [An update to the FragmentViewBindingDelegate: the bug we’ve inherited from AutoClearedValue](https://itnext.io/an-update-to-the-fragmentviewbindingdelegate-the-bug-weve-inherited-from-autoclearedvalue-7fc0a89fcae1)
 
 ---
 
