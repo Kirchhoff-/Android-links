@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2012%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2014%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -810,6 +810,7 @@ Jump to
     * [The Pain of Daily Reports](https://www.yegor256.com/2020/11/03/daily-reports.html)
     * [On code style and consistency](https://www.rockandnull.com/code-style/)
     * [3 Inconvenient Truths About Coding](https://betterprogramming.pub/3-inconvenient-truths-about-coding-790ad872a026)
+    * [What & Why, Not How](https://handstandsam.com/2021/02/23/what-why-not-how/)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
