@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2019%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2020%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -814,6 +814,7 @@ Jump to
     * [On code style and consistency](https://www.rockandnull.com/code-style/)
     * [3 Inconvenient Truths About Coding](https://betterprogramming.pub/3-inconvenient-truths-about-coding-790ad872a026)
     * [What & Why, Not How](https://handstandsam.com/2021/02/23/what-why-not-how/)
+    * [The 3 Mindsets to Avoid as a Senior Software Developer](https://betterprogramming.pub/the-3-mindsets-to-avoid-as-a-senior-software-developer-efc8fa17fc3)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
