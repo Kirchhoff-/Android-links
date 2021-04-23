@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2022%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2023%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -556,6 +556,7 @@ Jump to
     * [Kotlin Functional Interfaces: Function reference and SAM conversion](https://krossovochkin.github.io/posts/2020_10_17_kotlin_functional_interfaces_function_references_and_sam_conversion/)
     * [Enhanced Deprecation in Kotlin](https://todd.ginsberg.com/post/kotlin/deprecation/)
     * [An opinionated guide on how to make your Kotlin code fun to read and joy to work with](https://proandroiddev.com/an-opinionated-guide-on-how-to-make-your-kotlin-code-fun-to-read-and-joy-to-work-with-caa3a4036f9e)
+    * [Bridging the gap between coroutines, threads, and concurrency problems](https://medium.com/androiddevelopers/bridging-the-gap-between-coroutines-jvm-threads-and-concurrency-problems-864e563bd7c)
     
 ---
 
