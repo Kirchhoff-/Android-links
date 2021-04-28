@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2027%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2028%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -828,6 +828,7 @@ Jump to
 * Feature flags
     * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)    
     * [Remote feature flags do not always come for free](https://proandroiddev.com/remote-feature-flags-do-not-always-come-for-free-a372f1768a70)
+    * [Feature toggles in trunk based development — Android take](https://medium.com/baracoda-engineering/feature-toggles-in-trunk-based-development-android-take-d50cd4bc977)
 ---
 
 ## Life
