@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2028%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2029%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -745,6 +745,7 @@ Jump to
 * [[Youtube] Three-branches release model: Master-Candidate-Live](https://www.youtube.com/watch?v=G6-OKD58czQ)
 * [How to Split Pull Requests – Good Practices, Methods and Git Strategies](https://www.thedroidsonroids.com/blog/splitting-pull-request)
 * [Trello Android's Git Branching Strategy](https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy/)
+* [How to Pull Request](https://medium.com/google-developer-experts/how-to-pull-request-d75ac81449a5)
 
 ---
 
