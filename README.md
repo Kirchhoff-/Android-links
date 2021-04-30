@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2029%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2030%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -692,6 +692,7 @@ Jump to
     * [Code Coverage Best Practices](https://testing.googleblog.com/2020/08/code-coverage-best-practices.html)
     * [Anti-patterns of automated software testing](https://medium.com/swlh/anti-patterns-of-automated-software-testing-b396283a4cb6)
     * [Unit Tests and Concurrency](https://lordraydenmk.github.io/2021/unit-tests-and-concurrency/)
+    * [Mocks, fakes and stubs: the stunt doubles of testing](https://blog.sebastiano.dev/test-doubles-mocks-stubs-fakes/)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
