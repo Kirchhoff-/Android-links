@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-April%20%2030%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2005%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -198,6 +198,7 @@ Jump to
     * [When LiveData and Kotlin don’t play well together](https://medium.com/google-developer-experts/when-livedata-and-kotlin-dont-play-hand-in-hand-30149aa794ec)
     * [Android Room Hidden Costs](https://krossovochkin.com/posts/2020_12_18_android_room_hidden_costs/)
     * [Avoid backing properties for LiveData and StateFlow](https://medium.com/google-developer-experts/avoid-backing-properties-for-livedata-and-stateflow-706006c9867e)
+    * [When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6?gi=f5eaa6dafeb4)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
