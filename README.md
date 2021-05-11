@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2005%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2011%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -823,6 +823,7 @@ Jump to
     * [What & Why, Not How](https://handstandsam.com/2021/02/23/what-why-not-how/)
     * [The 3 Mindsets to Avoid as a Senior Software Developer](https://betterprogramming.pub/the-3-mindsets-to-avoid-as-a-senior-software-developer-efc8fa17fc3)
     * [Great teams merge fast](https://saket.me/great-teams-merge-fast/)
+    * [Perks for adult developers](https://s4nchez.medium.com/perks-for-adult-developers-9715ee260c1a)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
