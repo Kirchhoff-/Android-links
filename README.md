@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2012%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2013%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -336,6 +336,7 @@ Jump to
     * [Choose Wisely: 5 Ways To Show A Message In Android](https://vladsonkin.com/choose-wisely-5-ways-to-show-a-message-in-android/)
     * [Keeping Secrets Safe in Android Projects](https://infinum.com/the-capsized-eight/secrets-android-projects)
     * [[Youtube] Trash Talk: The Evolution of Android Garbage Collection](https://www.youtube.com/watch?v=oKMsPrDMprE)
+    * [Android Runtime — How Dalvik and ART work?](https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
