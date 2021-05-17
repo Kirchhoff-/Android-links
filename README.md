@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2013%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2017%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -460,6 +460,7 @@ Jump to
     * [7 common mistakes you might be making when using Kotlin Coroutines](https://www.lukaslechner.com/7-common-mistakes-you-might-be-making-when-using-kotlin-coroutines/)
     * [7 Gotchas When Explore Kotlin Coroutine](https://medium.com/mobile-app-development-publication/7-gotchas-when-explore-kotlin-coroutine-64b78f005150)
     * [Do I need to call suspend functions of Retrofit and Room on a background thread?](https://www.lukaslechner.com/do-i-need-to-call-suspend-functions-of-retrofit-and-room-on-a-background-thread/)
+    * [Use suspendCoroutine to connect callbacks and coroutines](https://le0nidas.gr/2021/03/28/use-suspendcoroutine-to-connect-callbacks-and-coroutines/)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
