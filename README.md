@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-May%20%2017%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2019%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -475,6 +475,7 @@ Jump to
     * [How to use Kotlin's 'it also let apply run'](https://bloggie.io/@_junrong/how-to-use-kotlin-s-it-also-let-apply-run)
     * [Noisy Code With Kotlin Scopes](https://proandroiddev.com/noisy-code-with-kotlin-scopes-331c632739de)
     * [Functional Domain Modeling in Kotlin](https://www.47deg.com/blog/functional-domain-modeling/#functional-domain-modeling-in-kotlin-0)
+    * [Functional Exception Handling With Try](https://dzone.com/articles/kotlin-try-type-for-functional-exception-handling)
 * Extension Functions
     * [How to Abuse Kotlin Extension Functions](https://www.philosophicalhacker.com/post/how-to-abuse-kotlin-extension-functions/)
     * [Getting rid of boilerplate with Kotlin Android Extensions](https://www.kotlindevelopment.com/kotlin_android_extensions_eliminate_findviewbyid/)
