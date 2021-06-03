@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2002%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2003%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -738,6 +738,7 @@ Jump to
     * [Testing Android Architecture Components](https://www.raywenderlich.com/12678525-testing-android-architecture-components)
     * [Android Model-View-Intent with Unit Tests](https://proandroiddev.com/android-model-view-intent-with-unit-tests-260e9a0cdd64)
     * [Unit testing on Android](https://proandroiddev.com/unit-testing-on-android-9c15632848c)
+    * [Understanding Unit Tests for Android in 2021](https://proandroiddev.com/understanding-unit-tests-for-android-in-2021-71984f370240)
 
 ---
 
