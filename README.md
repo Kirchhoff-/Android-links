@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2003%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2004%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -340,6 +340,8 @@ Jump to
     * [Android Runtime — How Dalvik and ART work?](https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5)
     * [Decrease memory usage of your Android app in half](https://proandroiddev.com/decrease-memory-usage-of-your-android-app-in-half-a65524d7380b)
     * [Measure and optimize bitmap size using Glide or Picasso](https://proandroiddev.com/measure-and-optimize-bitmap-size-using-glide-or-picasso-3273b4a569cd)
+    * [Static analysis tools for Android
+](https://proandroiddev.com/static-analysis-tools-for-android-9531334954f6)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
