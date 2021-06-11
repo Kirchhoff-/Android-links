@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2007%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2011%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -517,6 +517,7 @@ Jump to
     * [Going deep on Flows & Channels — Part 1: Streams](https://proandroiddev.com/going-deep-on-flows-channels-part-1-streams-5ae8b8491ac4)
     * [The Best Way to Collect a Flow in Kotlin – launchIn](https://luukgruijs.medium.com/understanding-hot-vs-cold-observables-62d04cf92e03)
     * [A safer way to collect flows from Android UIs](https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda)
+    * [Kotlin Flows ~ an Android cheat sheet](https://rvbsoftdev.medium.com/kotlin-flows-an-android-cheat-sheet-d71ae772030d)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
