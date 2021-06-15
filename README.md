@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2014%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2015%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -674,6 +674,7 @@ Jump to
 * [Visitor design pattern](https://www.geeksforgeeks.org/visitor-design-pattern/)
 * [Facade Design Pattern](https://www.baeldung.com/java-facade-pattern)
 * [Composite Design Pattern](https://dzone.com/articles/composite-design-pattern-in-java-1)
+* [Common Design Patterns and App Architectures for Android](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
 
 ---
 
