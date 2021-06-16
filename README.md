@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2015%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2016%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -519,6 +519,7 @@ Jump to
     * [The Best Way to Collect a Flow in Kotlin – launchIn](https://luukgruijs.medium.com/understanding-hot-vs-cold-observables-62d04cf92e03)
     * [A safer way to collect flows from Android UIs](https://medium.com/androiddevelopers/a-safer-way-to-collect-flows-from-android-uis-23080b1f8bda)
     * [Kotlin Flows ~ an Android cheat sheet](https://rvbsoftdev.medium.com/kotlin-flows-an-android-cheat-sheet-d71ae772030d)
+    * [Avoid launchIn](https://www.billjings.com/posts/title/avoid-launchin/)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
