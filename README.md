@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-June%20%2017%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2018%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -747,6 +747,7 @@ Jump to
     * [Understanding Unit Tests for Android in 2021](https://proandroiddev.com/understanding-unit-tests-for-android-in-2021-71984f370240)
     * [Troubleshooting Mockito-Kotlin in Android Testing](https://hinchman-amanda.medium.com/troubleshooting-kotlin-mockito-in-android-testing-f5df66ae5cd5)
     * [How to mock under instrumentation test with MockK and Dexopener](https://proandroiddev.com/how-we-made-our-ui-tests-more-stable-with-mockk-and-dexopener-c78b02a86de)
+    * [Unit Testing Kotlin Flow](https://medium.com/google-developer-experts/unit-testing-kotlin-flow-76ea5f4282c5)
 
 ---
 
