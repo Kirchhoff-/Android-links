@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2001%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2005%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -368,6 +368,7 @@ Jump to
     * [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c)
     * [Reliable Hot Reload on Android](https://medium.com/@gpeal/reliable-hot-reload-on-android-27f14a80df60)
     * [A Subtle Memory Leak - Fragment, RecyclerView and its Adapter](https://charlesmuchene.hashnode.dev/a-subtle-memory-leak-fragment-recyclerview-and-its-adapter-ck805s7jd03frzns17uapi3vh)
+    * [Detecting memory leaks in Android applications](https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications)
   
 ---
 
