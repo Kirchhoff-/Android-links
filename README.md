@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2007%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2013%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -575,6 +575,7 @@ Jump to
     * [An opinionated guide on how to make your Kotlin code fun to read and joy to work with](https://proandroiddev.com/an-opinionated-guide-on-how-to-make-your-kotlin-code-fun-to-read-and-joy-to-work-with-caa3a4036f9e)
     * [Bridging the gap between coroutines, threads, and concurrency problems](https://medium.com/androiddevelopers/bridging-the-gap-between-coroutines-jvm-threads-and-concurrency-problems-864e563bd7c)
     * [Express Yourself: An Argument for Ending the Single Letter Generic Type Convention in Kotlin](https://bignerdranch.com/blog/express-yourself-an-argument-for-ending-the-single-letter-generic-type-convention-in-kotlin/)
+    * [An in-depth look at Kotlin’s initializers](https://medium.com/keepsafe-engineering/an-in-depth-look-at-kotlins-initializers-a0420fcbf546)
     
 ---
 
