@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2013%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2014%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -853,6 +853,7 @@ Jump to
     * [Why you need vision and strategy for your team](https://medium.com/@froger_mcs/why-you-need-vision-and-strategy-for-your-team-e59951436f04)
     * [Tech leader self-assessment](https://medium.com/@froger_mcs/tech-lead-self-assessment-534de7842ebe)
     * [Senior software engineer, these skills are expected from you](https://medium.com/@froger_mcs/senior-software-engineer-these-skills-are-expected-from-you-286c8a0334d0)
+    * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
