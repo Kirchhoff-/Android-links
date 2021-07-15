@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2014%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2015%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -84,6 +84,7 @@ Jump to
     * [Glide'ing your way into RecyclerView state invalidation](https://ricardocosteira.com/glideing-your-way-into-recyclerview-state-invalidation)
     * [RecyclerView Anti-Patterns](https://proandroiddev.com/recyclerview-antipatterns-8af3feeeccc7)
     * [Nested recycler in Android done right!](https://medium.com/nerd-for-tech/nested-recycler-in-android-done-right-b101744e2a9a)
+    * [Efficient lists with DiffUtil and ListAdapter](https://bignerdranch.com/blog/efficient-lists-with-diffutil-and-listadapter/)
 * WebView
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
     * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
