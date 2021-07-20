@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2019%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2020%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -230,6 +230,7 @@ Jump to
     * [Structural and navigation anti-patterns in multi-module and modularized applications](https://proandroiddev.com/structural-and-navigation-anti-patterns-in-modularized-android-applications-a7d667e35cd6)
     * [Repository initialization without StrictMode violations](https://proandroiddev.com/repository-initialization-without-strictmode-violations-fbbd6e554219)
     * [Our Way to MVVMI and Mistakes We Made When Implementing MVVM](https://proandroiddev.com/our-way-to-mvvmi-and-mistakes-we-made-when-implementing-mvvm-5f5448b5ad50)
+    * [Multi-module Navigation in Android](https://itnext.io/multi-module-navigation-in-android-63cb9924ffbd)
 
 ---
 
