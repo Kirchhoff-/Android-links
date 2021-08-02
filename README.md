@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-July%20%2030%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2002%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -861,6 +861,7 @@ Jump to
     * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
     * [Building and Motivating Engineering Teams](https://medium.com/swlh/building-and-motivating-engineering-teams-24fd56910039)
     * [Stop rewriting projects](https://proandroiddev.com/stop-rewriting-projects-3ce45b80862a)
+    * [How to Learn to Code](https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
