@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2019%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2020%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -473,6 +473,7 @@ Jump to
     * [Use suspendCoroutine to connect callbacks and coroutines](https://le0nidas.gr/2021/03/28/use-suspendcoroutine-to-connect-callbacks-and-coroutines/)
     * [Coroutine suspend function: when does it start, suspend or terminate?](https://medium.com/mobile-app-development-publication/coroutine-suspend-function-when-does-it-start-suspend-or-terminate-2762cabac54e)
     * [Misnomers, Mistakes and Misunderstandings to watch for when learning Kotlin Coroutines and Flow](https://medium.com/google-developer-experts/misnomers-mistakes-and-misunderstandings-to-watch-for-when-learning-kotlin-coroutines-and-flow-2744186be3e)
+    * [Are You Handling Exceptions in Kotlin Coroutines Properly?](https://www.netguru.com/blog/exceptions-in-kotlin-coroutines)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
