@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2020%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2023%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -923,6 +923,7 @@ Jump to
 * [Remote Work in 2020 is Not Normal – Will We Evaluate It Fairly?](https://goobar.io/remote-work-in-2020-is-not-normal-will-we-evaluate-it-fairly/)
 * [Software Developers: Adapt or You’ll Be Replaced](https://medium.com/better-programming/software-developers-adapt-or-youll-be-replaced-efaa8c5b4d5)
 * [What It’s Like Working From Home](https://www.ericthecoder.com/2021/05/17/what-its-like-working-from-home-as-a-software-engineer/)
+* [Gear Up for Remote Work](https://medium.com/javascript-scene/gear-up-for-remote-work-d93cf61300f)
 
 ---
 
