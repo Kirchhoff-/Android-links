@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2024%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2025%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -988,6 +988,7 @@ Jump to
 * Main
     * [Android Injection Performance](https://github.com/Sloy/android-dependency-injection-performance)
     * [Comparing Three Dependency Injection Solutions](https://androidessence.com/comparing-three-dependency-injection-solutions)
+    * [About DI Frameworks](https://codetwister.medium.com/about-di-frameworks-b617281421e)
 * Dagger 2
     * [Tasting Dagger 2 on Android](https://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
     * [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
