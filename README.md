@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2025%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2026%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -869,6 +869,7 @@ Jump to
     * [Stop rewriting projects](https://proandroiddev.com/stop-rewriting-projects-3ce45b80862a)
     * [How to Learn to Code](https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac)
     * [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
+    * [Why Development Teams are Slow](https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
