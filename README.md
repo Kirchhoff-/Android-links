@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2027%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2030%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -346,6 +346,7 @@ Jump to
     * [Static analysis tools for Android](https://proandroiddev.com/static-analysis-tools-for-android-9531334954f6)
     * [From zero to hero: Optimizing Android app startup time](https://medium.com/skoumal-studio/from-zero-to-hero-optimizing-android-app-startup-time-eda9022c0963)
     * [All About PendingIntents](https://medium.com/androiddevelopers/all-about-pendingintents-748c8eb8619)
+    * [Delay with respect of lifecycle](https://proandroiddev.com/delay-with-respect-of-lifecycle-6ee3f0f65e24)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
