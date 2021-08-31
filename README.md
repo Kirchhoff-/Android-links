@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-August%20%2030%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2031%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -532,6 +532,7 @@ Jump to
     * [Kotlin flow: Nesting vs Chaining](https://krossovochkin.com/posts/2021_07_08_kotlin_flow_nesting_vs_chaining/)
     * [Simplifying APIs with coroutines and Flow](https://medium.com/androiddevelopers/simplifying-apis-with-coroutines-and-flow-a6fb65338765)
     * [StateFlow and SharedFlow: the new hot stream APIs in town](https://www.rockandnull.com/stateflow-kotlin/)
+    * [Substituting Android’s LiveData: StateFlow or SharedFlow?](https://proandroiddev.com/should-we-choose-kotlins-stateflow-or-sharedflow-to-substitute-for-android-s-livedata-2d69f2bd6fa5)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
