@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2002%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2006%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -766,6 +766,7 @@ Jump to
     * [How to mock under instrumentation test with MockK and Dexopener](https://proandroiddev.com/how-we-made-our-ui-tests-more-stable-with-mockk-and-dexopener-c78b02a86de)
     * [Unit Testing Kotlin Flow](https://medium.com/google-developer-experts/unit-testing-kotlin-flow-76ea5f4282c5)
     * [Unit Testing RxJava Observables](https://www.ericthecoder.com/2021/05/04/unit-testing-rxjava-observables/)
+    * [Testing Retrofit calls with OkHttp MockWebServer](https://kotlintesting.com/testing-retrofit-calls/)
 
 ---
 
