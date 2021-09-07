@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2006%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2007%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -788,6 +788,7 @@ Jump to
 * [Trello Android's Git Branching Strategy](https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy/)
 * [How to Pull Request](https://medium.com/google-developer-experts/how-to-pull-request-d75ac81449a5)
 * [How to Prevent Git Commit Naming Mistakes](https://betterprogramming.pub/how-to-prevent-git-commit-naming-mistakes-a34c8a7c6ae6)
+* [Git Rebase For Nested Branches](https://betterprogramming.pub/git-rebase-for-nested-branches-7a6bbb4a6688)
 
 ---
 
