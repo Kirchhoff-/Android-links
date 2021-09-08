@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2007%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2008%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -877,6 +877,7 @@ Jump to
     * [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
     * [Why Development Teams are Slow](https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c)
     * [Engineering Productivity](https://skamille.medium.com/engineering-productivity-b1ea12db02e4)
+    * [Lack of Problem Is the Problem](https://www.yegor256.com/2020/10/13/lack-of-problem.html)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
