@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-September%20%2010%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2013%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -692,6 +692,7 @@ Jump to
 * [Facade Design Pattern](https://www.baeldung.com/java-facade-pattern)
 * [Composite Design Pattern](https://dzone.com/articles/composite-design-pattern-in-java-1)
 * [Common Design Patterns and App Architectures for Android](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
+* [Why service locator is so unpopular](https://proandroiddev.com/why-service-locator-is-so-unpopular-bbe8678be72c)
 
 ---
 
