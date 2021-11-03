@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2002%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2003%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -771,6 +771,7 @@ Jump to
     * [Unit Testing Kotlin Flow](https://medium.com/google-developer-experts/unit-testing-kotlin-flow-76ea5f4282c5)
     * [Unit Testing RxJava Observables](https://www.ericthecoder.com/2021/05/04/unit-testing-rxjava-observables/)
     * [Testing Retrofit calls with OkHttp MockWebServer](https://kotlintesting.com/testing-retrofit-calls/)
+    * [Why I’m switching from Mockito to Mockk](https://www.ericthecoder.com/2021/07/20/why-im-switching-from-mockito-to-mockk/)
 
 ---
 
