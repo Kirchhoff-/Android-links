@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2005%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2008%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -891,6 +891,7 @@ Jump to
     * [[Youtube] Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
     * [Agile is Wrong — Part 1: Scope and Requirements Changes](https://medium.com/@daptronic/agile-is-wrong-part-1-scope-and-requirements-changes-37c653fd53e5)
     * [Another View of Agile Software Development](https://levelup.gitconnected.com/another-view-of-agile-software-development-263590cd16b8)
+    * [What tech leader can learn from direct reports’ performance reviews](https://medium.com/@froger_mcs/what-tech-leader-can-learn-from-direct-reports-performance-reviews-3f5ed7dc4cec)
 * Feature flags
     * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)    
     * [Remote feature flags do not always come for free](https://proandroiddev.com/remote-feature-flags-do-not-always-come-for-free-a372f1768a70)
