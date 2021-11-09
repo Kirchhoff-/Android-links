@@ -1,5 +1,5 @@
 ﻿# Android-links
-![](https://img.shields.io/badge/Updated-November%20%2008%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2009%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -731,6 +731,7 @@ Jump to
     * [Unit Testing as a 1st-class Citizen](https://robholmes.app/posts/unit-testing-as-a-first-class-citizen/)
     * [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)
     * [Guidelines for writing better tests](https://www.rockandnull.com/guidelines-for-writing-better-tests/)
+    * [Should I test private methods directly?](https://medium.com/decathlontechnology/should-i-test-private-methods-direclty-c48f4fa7bb4d)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
