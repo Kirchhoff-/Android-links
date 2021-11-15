@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2012%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2015%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -104,6 +104,7 @@ Jump to
 * [Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
 * [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
 * [Using Context Theme Wrapper](https://ataulm.github.io/2019/11/20/using-context-theme-wrapper.html)
+* [Everything about Context in Android? Understand how new right](https://itzone.com.vn/en/article/everything-about-context-in-android-understand-how-new-right/)
 
 ---
 
