@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2017%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2018%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -251,6 +251,7 @@ Jump to
 * [Scratch That Itch](https://zdominguez.com/2019/11/21/scratch-files.html)
 * [TODO Live Templates](https://zarah.dev/2020/03/06/live-templates.html)
 * [Accommodate your project-specific needs with custom templates](https://proandroiddev.com/accommodate-your-project-specific-needs-with-custom-templates-46cfdccc8363)
+* [Background Task Inspector](https://medium.com/androiddevelopers/background-task-inspector-30c8706f0380)
 
 ---
 
