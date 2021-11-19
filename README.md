@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2018%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2019%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -482,6 +482,7 @@ Jump to
     * [Why using Kotlin Coroutines?](https://kt.academy/article/cc-why)
     * [Kotlin coroutines, threads, concurrency and parallelism 101](https://medium.com/android-news/kotlin-coroutines-threads-concurrency-and-parallelism-101-78a56e09d373)
     * [Job and children awaiting in Kotlin Coroutines](https://kt.academy/article/cc-job)
+    * [Coroutine scope functions](https://kt.academy/article/cc-scoping-functions)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
