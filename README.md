@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2025%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2026%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -95,6 +95,7 @@ Jump to
     * [Thinking in Compose](https://developer.android.com/jetpack/compose/mental-model)
     * [[Youtube] Jetpack Compose: Beta overview](https://www.youtube.com/watch?v=Ef1xKWjA9E8)
     * [Jetpack Compose: Modifiers fundamentals](https://www.rockandnull.com/jetpack-compose-modifier/)
+    * [Always provide a Modifier parameter](https://chris.banes.dev/always-provide-a-modifier/)
 
 ---
 
