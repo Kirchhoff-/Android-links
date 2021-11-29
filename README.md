@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2026%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2029%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -898,6 +898,7 @@ Jump to
     * [What is the Difference Between a Junior and a Senior Developer?](https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98)
     * [Learning a new codebase from its history beyond the code](https://s4nchez.medium.com/learning-a-new-codebase-from-its-history-beyond-the-code-64de2061592f)
     * [The Pain of Daily Reports](https://www.yegor256.com/2020/11/03/daily-reports.html)
+    * [[Youtube] Technical leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
