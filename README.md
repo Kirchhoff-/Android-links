@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2030%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2001%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -96,6 +96,7 @@ Jump to
     * [[Youtube] Jetpack Compose: Beta overview](https://www.youtube.com/watch?v=Ef1xKWjA9E8)
     * [Jetpack Compose: Modifiers fundamentals](https://www.rockandnull.com/jetpack-compose-modifier/)
     * [Always provide a Modifier parameter](https://chris.banes.dev/always-provide-a-modifier/)
+    * [How to create a truly custom theme in Jetpack Compose](https://proandroiddev.com/how-to-create-a-truly-custom-theme-in-jetpack-compose-55fb4cd6d655)
 
 ---
 
