@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2002%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2003%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -446,6 +446,7 @@ Jump to
     * [Misconception about Kotlin @JvmOverloads for Android View Creation](https://proandroiddev.com/misconception-about-kotlin-jvmoverloads-for-android-view-creation-cb88f432e1fe)
 * Coroutines
     * [[Youtube] Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
+    * [Coroutines: first things first](https://medium.com/androiddevelopers/coroutines-first-things-first-e6187bf3bb21)
     * [Diving deep into Kotlin Coroutines](https://www.kotlindevelopment.com/deep-dive-coroutines/)
     * [Simple asynchronous loading with Kotlin Coroutines](https://hellsoft.se/simple-asynchronous-loading-with-kotlin-coroutines-f26408f97f46)
     * [Concurrent coroutines - concurrency is not parallelism](https://kotlinexpertise.com/kotlin-coroutines-concurrency)
