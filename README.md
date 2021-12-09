@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2008%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2009%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1052,5 +1052,6 @@ Jump to
     * [Create an application CoroutineScope using Hilt](https://medium.com/androiddevelopers/create-an-application-coroutinescope-using-hilt-dd444e721528)
     * [Scoping in Android and Hilt](https://medium.com/androiddevelopers/scoping-in-android-and-hilt-c2e5222317c0)
     * [Migrating from Dagger to Hilt — Is it worth it?](https://medium.com/androiddevelopers/migrating-from-dagger-to-hilt-is-it-worth-it-4cbbc8c93e33)
+    * [Hilt — Adding components to the hierarchy](https://medium.com/androiddevelopers/hilt-adding-components-to-the-hierarchy-96f207d6d92d)
 
 ---
