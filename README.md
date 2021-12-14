@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2009%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2014%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -137,6 +137,7 @@ Jump to
 * [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
 * [Mastering Android Service of 2018](https://medium.com/mindorks/mastering-android-service-of-2018-a4a1df5ed5a6)
 * [How to Service on Android — part 2](https://www.hellsoft.se/how-to-service-on-android---part-2/)
+* [The “misbehaving” foreground service in Android](https://proandroiddev.com/when-your-app-makes-android-foreground-services-misbehave-8dbcc57dd99c)
 
 ---
 
