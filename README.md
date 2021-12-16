@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2015%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2016%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -790,6 +790,7 @@ Jump to
     * [Testing Retrofit calls with OkHttp MockWebServer](https://kotlintesting.com/testing-retrofit-calls/)
     * [Why I’m switching from Mockito to Mockk](https://www.ericthecoder.com/2021/07/20/why-im-switching-from-mockito-to-mockk/)
     * [Getting Started with Cucumber](https://www.raywenderlich.com/26211276-getting-started-with-cucumber)
+    * [Testing Kotlin Coroutines](https://kt.academy/article/cc-testing)
 
 ---
 
