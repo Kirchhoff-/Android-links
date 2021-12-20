@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2017%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2020%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -492,6 +492,7 @@ Jump to
     * [Coroutine scope functions](https://kt.academy/article/cc-scoping-functions)
     * [Channel in Kotlin Coroutines](https://kt.academy/article/cc-channel)
     * [Coroutines racing! Why, and how](https://blog.louiscad.com/coroutines-racing-why-and-how)
+    * [Safe delay in Android Views: goodbye Handlers, Hello Coroutines!](https://juliensalvi.medium.com/safe-delay-in-android-views-goodbye-handlers-hello-coroutines-cd47f53f0fbf)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
