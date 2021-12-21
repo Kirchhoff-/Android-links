@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2020%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2021%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -609,6 +609,7 @@ Jump to
     * [An in-depth look at Kotlin’s initializers](https://medium.com/keepsafe-engineering/an-in-depth-look-at-kotlins-initializers-a0420fcbf546)
     * [The Kotlin modifier that shouldn't be there](https://proandroiddev.com/the-modifier-that-shouldnt-be-there-77ff941f0529)
     * [How to return 2+ values with 0 allocation in Kotlin](https://blog.louiscad.com/how-to-return-2-values-with-0-allocation-in-kotlin)
+    * [Avoid unnecessary object creation](https://kt.academy/article/ek-unnecessary-objects)
     
 ---
 
