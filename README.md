@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2024%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2028%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -357,6 +357,7 @@ Jump to
     * [All About PendingIntents](https://medium.com/androiddevelopers/all-about-pendingintents-748c8eb8619)
     * [Delay with respect of lifecycle](https://proandroiddev.com/delay-with-respect-of-lifecycle-6ee3f0f65e24)
     * [Detect Screenshots in Android](https://proandroiddev.com/detect-screenshots-in-android-7bc4343ddce1)
+    * [Automation of code analysis in Android projects](https://proandroiddev.com/automating-analyzing-of-code-in-android-projects-a60313569c53)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
