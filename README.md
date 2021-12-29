@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2028%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2029%202021-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -98,6 +98,7 @@ Jump to
     * [Always provide a Modifier parameter](https://chris.banes.dev/always-provide-a-modifier/)
     * [How to create a truly custom theme in Jetpack Compose](https://proandroiddev.com/how-to-create-a-truly-custom-theme-in-jetpack-compose-55fb4cd6d655)
     * [A Vocabulary of Jetpack Compose Terms](https://www.pamelaahill.com/post/a-vocabulary-of-jetpack-compose-terms)
+    * [Loading images for Jetpack Compose using Glide, Coil, and Fresco](https://proandroiddev.com/loading-images-for-jetpack-compose-using-glide-coil-and-fresco-1211261a296e)
 
 ---
 
