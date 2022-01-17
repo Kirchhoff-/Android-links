@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2031%202021-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2017%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -917,6 +917,7 @@ Jump to
     * [The Pain of Daily Reports](https://www.yegor256.com/2020/11/03/daily-reports.html)
     * [[Youtube] Technical leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw)
     * [Perfectionism vs. Excellence](https://hannesdorfmann.com/perfectionism-vs-excellence/)
+    * [10 Mistakes To Avoid as a Software Development Manager](https://betterprogramming.pub/10-mistakes-to-avoid-as-a-software-development-manager-84bdf645ed7c)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
