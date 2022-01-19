@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2018%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2019%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -362,6 +362,7 @@ Jump to
     * [Delay with respect of lifecycle](https://proandroiddev.com/delay-with-respect-of-lifecycle-6ee3f0f65e24)
     * [Detect Screenshots in Android](https://proandroiddev.com/detect-screenshots-in-android-7bc4343ddce1)
     * [Automation of code analysis in Android projects](https://proandroiddev.com/automating-analyzing-of-code-in-android-projects-a60313569c53)
+    * [Insecure TLS Certificate Checking in Android Apps](https://www.guardsquare.com/blog/insecure-tls-certificate-checking-in-android-apps)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
