@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2020%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2021%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -71,6 +71,7 @@ Jump to
     * [Ultimate Guide To Android Custom View](https://vladsonkin.com/ultimate-guide-to-android-custom-view/)
     * [MaterialTimePicker](https://blog.stylingandroid.com/materialtimepicker/)
     * [Controlling TextView MinWidth](https://krossovochkin.com/posts/2021_09_14_controlling_textview_minwidth/)
+    * [[Youtube] Transitions without Activities or Fragments](https://www.youtube.com/watch?v=9Y5cbC5YrOY)
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
