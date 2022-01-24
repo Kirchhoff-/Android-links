@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2021%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2024%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -922,6 +922,7 @@ Jump to
     * [[Youtube] Technical leadership and glue work](https://www.youtube.com/watch?v=KClAPipnKqw)
     * [Perfectionism vs. Excellence](https://hannesdorfmann.com/perfectionism-vs-excellence/)
     * [10 Mistakes To Avoid as a Software Development Manager](https://betterprogramming.pub/10-mistakes-to-avoid-as-a-software-development-manager-84bdf645ed7c)
+    * [[Youtube] The Future of the Testing Role](https://www.youtube.com/watch?v=c5821YeWico)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
