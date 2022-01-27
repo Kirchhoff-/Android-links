@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2025%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2027%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -806,6 +806,7 @@ Jump to
     * [Why I’m switching from Mockito to Mockk](https://www.ericthecoder.com/2021/07/20/why-im-switching-from-mockito-to-mockk/)
     * [Getting Started with Cucumber](https://www.raywenderlich.com/26211276-getting-started-with-cucumber)
     * [Testing Kotlin Coroutines](https://kt.academy/article/cc-testing)
+    * [Mocking Matchers API](https://krossovochkin.com/posts/2021_09_11_mocking_matchers_api/)
 
 ---
 
