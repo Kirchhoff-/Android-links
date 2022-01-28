@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2027%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2028%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -243,6 +243,7 @@ Jump to
     * [Repository initialization without StrictMode violations](https://proandroiddev.com/repository-initialization-without-strictmode-violations-fbbd6e554219)
     * [Our Way to MVVMI and Mistakes We Made When Implementing MVVM](https://proandroiddev.com/our-way-to-mvvmi-and-mistakes-we-made-when-implementing-mvvm-5f5448b5ad50)
     * [Multi-module Navigation in Android](https://itnext.io/multi-module-navigation-in-android-63cb9924ffbd)
+    * [Architecture in Jetpack Compose — MVP, MVVM, & MVI](https://medium.com/mobile-at-octopus-energy/architecture-in-jetpack-compose-mvp-mvvm-mvi-17d8170a13fd)
 
 ---
 
