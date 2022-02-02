@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2031%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2002%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -809,6 +809,7 @@ Jump to
     * [Getting Started with Cucumber](https://www.raywenderlich.com/26211276-getting-started-with-cucumber)
     * [Testing Kotlin Coroutines](https://kt.academy/article/cc-testing)
     * [Mocking Matchers API](https://krossovochkin.com/posts/2021_09_11_mocking_matchers_api/)
+    * [Android BDD with Robolectric and Espresso — how to refactor your Android project tests](https://medium.com/gumtree-dev-team/android-bdd-with-robolectric-and-espresso-how-to-refactor-your-android-project-tests-d79a07870da0)
 
 ---
 
