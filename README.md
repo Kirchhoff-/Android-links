@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2003%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2004%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -929,6 +929,7 @@ Jump to
     * [10 Mistakes To Avoid as a Software Development Manager](https://betterprogramming.pub/10-mistakes-to-avoid-as-a-software-development-manager-84bdf645ed7c)
     * [[Youtube] The Future of the Testing Role](https://www.youtube.com/watch?v=c5821YeWico)
     * [Incident Review and Postmortem Best Practices](https://blog.pragmaticengineer.com/postmortem-best-practices/)
+    * [Building high-performing engineering team](https://medium.com/@froger_mcs/on-psychological-safety-9c9b6815c1cd)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
