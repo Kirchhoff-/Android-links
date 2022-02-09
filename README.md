@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2004%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2009%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -566,6 +566,7 @@ Jump to
     * [Making cold Flows lifecycle-aware](https://dev.to/hichamboushaba/making-callback-flows-lifecycle-aware-2dai)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
+    * [Using Kotlin in a Java project: 10 lessons learned](https://xebia.com/using-kotlin-in-a-java-project-10-lessons-learned/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
     * [Learning Kotlin by Mistake](https://engineering.udacity.com/learning-kotlin-by-mistake-b99304b7d724)
     * [Simplified code with kotlin](https://android.jlelse.eu/simplified-code-with-kotlin-cda9915c9fb9)
