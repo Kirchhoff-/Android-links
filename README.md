@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2009%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2011%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -102,6 +102,7 @@ Jump to
     * [A Vocabulary of Jetpack Compose Terms](https://www.pamelaahill.com/post/a-vocabulary-of-jetpack-compose-terms)
     * [Loading images for Jetpack Compose using Glide, Coil, and Fresco](https://proandroiddev.com/loading-images-for-jetpack-compose-using-glide-coil-and-fresco-1211261a296e)
     * [Remembering the State in Jetpack Compose](https://patxi.medium.com/remembering-the-state-in-jetpack-compose-e97928ecff68)
+    * [Things you need to know before switching to Jetpack Compose](https://maxkim.eu/things-you-need-to-know-before-switching-to-jetpack-compose)
 
 ---
 
