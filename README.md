@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2011%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2015%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -932,6 +932,7 @@ Jump to
     * [[Youtube] The Future of the Testing Role](https://www.youtube.com/watch?v=c5821YeWico)
     * [Incident Review and Postmortem Best Practices](https://blog.pragmaticengineer.com/postmortem-best-practices/)
     * [Building high-performing engineering team](https://medium.com/@froger_mcs/on-psychological-safety-9c9b6815c1cd)
+    * [[Youtube] Quality Assurance vs. Testing](https://www.youtube.com/watch?v=jZitXMQaXvE)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
