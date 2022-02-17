@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2015%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2017%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -72,6 +72,7 @@ Jump to
     * [MaterialTimePicker](https://blog.stylingandroid.com/materialtimepicker/)
     * [Controlling TextView MinWidth](https://krossovochkin.com/posts/2021_09_14_controlling_textview_minwidth/)
     * [[Youtube] Transitions without Activities or Fragments](https://www.youtube.com/watch?v=9Y5cbC5YrOY)
+    * [Building a Segmented Progress Bar in Android](https://medium.com/betclic-tech/building-a-segmented-progress-bar-in-android-e3f198db393d)
 * RecyclerView
     * [How to filter a RecyclerView with a SearchView](https://www.codementor.io/tips/1237823034/how-to-filter-a-recyclerview-with-a-searchview)
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
