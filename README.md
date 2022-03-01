@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2024%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2001%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -627,6 +627,7 @@ Jump to
     * [Avoid unnecessary object creation](https://kt.academy/article/ek-unnecessary-objects)
     * [Use inline modifier for functions with parameters of functional types](https://kt.academy/article/ek-inline-functions)
     * [Consider using inline value classes](https://kt.academy/article/ek-value-classes)
+    * [A Practical Guide to Kotlin's inline Modifier](https://maxkim.eu/a-practical-guide-to-kotlins-inline-modifier)
     
 ---
 
