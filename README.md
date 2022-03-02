@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2001%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2002%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -105,6 +105,7 @@ Jump to
     * [Remembering the State in Jetpack Compose](https://patxi.medium.com/remembering-the-state-in-jetpack-compose-e97928ecff68)
     * [Things you need to know before switching to Jetpack Compose](https://maxkim.eu/things-you-need-to-know-before-switching-to-jetpack-compose)
     * [Compose O'Clock](https://zsmb.co/compose-o-clock/)
+    * [Jetpack Compose — Reveal effect](https://dev.to/bmonjoie/jetpack-compose-reveal-effect-1fao)
 
 ---
 
