@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2003%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2004%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -569,6 +569,7 @@ Jump to
     * [Substituting Android’s LiveData: StateFlow or SharedFlow?](https://proandroiddev.com/should-we-choose-kotlins-stateflow-or-sharedflow-to-substitute-for-android-s-livedata-2d69f2bd6fa5)
     * [Migrating from LiveData to Kotlin’s Flow](https://medium.com/androiddevelopers/migrating-from-livedata-to-kotlins-flow-379292f419fb)
     * [Making cold Flows lifecycle-aware](https://dev.to/hichamboushaba/making-callback-flows-lifecycle-aware-2dai)
+    * [Kotlin’s Flow in ViewModels: it’s complicated](https://bladecoder.medium.com/kotlins-flow-in-viewmodels-it-s-complicated-556b472e281a)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [Using Kotlin in a Java project: 10 lessons learned](https://xebia.com/using-kotlin-in-a-java-project-10-lessons-learned/)
