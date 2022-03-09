@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2008%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2009%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -89,6 +89,7 @@ Jump to
     * [Nested recycler in Android done right!](https://medium.com/nerd-for-tech/nested-recycler-in-android-done-right-b101744e2a9a)
     * [Efficient lists with DiffUtil and ListAdapter](https://bignerdranch.com/blog/efficient-lists-with-diffutil-and-listadapter/)
     * [RecyclerView Item Change Animations With a Custom Item Animator](https://medium.com/swlh/recyclerview-item-change-animations-ebe2383bb481)
+    * [Paging Image Carousel with RecyclerView](https://medium.com/holler-developers/paging-image-gallery-with-recyclerview-f059d035b7e7)
 * WebView
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
     * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
