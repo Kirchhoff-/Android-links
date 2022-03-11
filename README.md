@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2010%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2011%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -775,6 +775,7 @@ Jump to
     * [Guidelines for writing better tests](https://www.rockandnull.com/guidelines-for-writing-better-tests/)
     * [Should I test private methods directly?](https://medium.com/decathlontechnology/should-i-test-private-methods-direclty-c48f4fa7bb4d)
     * [Revamping the Android testing pipeline at Dropbox](https://dropbox.tech/mobile/revamping-the-android-testing-pipeline-at-dropbox)
+    * [Testing Files without Files](https://arturdryomov.dev/posts/testing-files-without-files/)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
