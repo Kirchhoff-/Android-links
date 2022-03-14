@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2011%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2014%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -704,6 +704,7 @@ Jump to
 * [The forgotten art of construction](https://proandroiddev.com/the-forgotten-art-of-construction-cfedc368e67f)
 * [Immutability we can afford](https://medium.com/@elizarov/immutability-we-can-afford-10c0dcb8351d)
 * [[Yotube] How to Inject Less?](https://www.youtube.com/watch?v=MNxG1xcA2uA)
+* [Prestructors](https://www.yegor256.com/2021/08/04/prestructors.html)
 
 ---
 
