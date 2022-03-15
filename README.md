@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2014%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2015%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -946,6 +946,7 @@ Jump to
     * [[Youtube] Quality Assurance vs. Testing](https://www.youtube.com/watch?v=jZitXMQaXvE)
     * [7 Tips for Becoming a Better Developer](https://maxkim.eu/7-tips-for-becoming-a-better-developer)
     * [What's in a Good Error Message?](https://www.morling.dev/blog/whats-in-a-good-error-message/)
+    * [No, your pull request does not need a review](https://jeroenmols.com/blog/2022/02/23/pull-request-reviews/)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
