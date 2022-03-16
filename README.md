@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2015%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2016%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1060,6 +1060,7 @@ Jump to
     * [No Cause for Concern — RxJava and Retrofit Throwing a Tantrum](https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c)
     * [RxJava vs. Coroutines](https://blog.danlew.net/2021/01/28/rxjava-vs-coroutines/)
     * [When And How To Use RxJava Disposable](http://cupsofcode.com/post/when_how_use_rxjava_disposable_serialdisposable_compositedisposable/)
+    * [RxJava 2: Where’s disposable when subscribe observer?](https://medium.com/mobile-app-development-publication/rxjava-2-wheres-disposable-when-subscribe-observer-4ec16049f2e1)
 
 ---
 
