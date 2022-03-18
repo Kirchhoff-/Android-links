@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2017%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2018%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -107,6 +107,7 @@ Jump to
     * [Things you need to know before switching to Jetpack Compose](https://maxkim.eu/things-you-need-to-know-before-switching-to-jetpack-compose)
     * [Compose O'Clock](https://zsmb.co/compose-o-clock/)
     * [Jetpack Compose — Reveal effect](https://dev.to/bmonjoie/jetpack-compose-reveal-effect-1fao)
+    * [Instagram-like particles animation using Jetpack Compose](https://andreytzkt.medium.com/instagram-like-particles-animation-using-jetpack-compose-9cef387884a2)
 
 ---
 
