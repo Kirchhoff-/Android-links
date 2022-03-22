@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2021%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2022%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -25,6 +25,7 @@ Jump to
 - [Libraries](#libraries)
    - [Rx](#rx)
    - [DI](#di)
+   - [Other Libraries](#other-libraries)
 
 # Android
 
@@ -1101,6 +1102,6 @@ Jump to
     * [Hilt — Adding components to the hierarchy](https://medium.com/androiddevelopers/hilt-adding-components-to-the-hierarchy-96f207d6d92d)
 
 ---
-## Other
+## Other Libraries
 [back to top](#readme)
 * [Introducing Ruler: Our Tool for Measuring Android App Size](https://engineering.atspotify.com/2022/02/introducing-ruler-our-tool-for-measuring-android-app-size/)
