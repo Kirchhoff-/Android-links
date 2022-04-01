@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2031%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2001%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -111,6 +111,7 @@ Jump to
     * [Instagram-like particles animation using Jetpack Compose](https://andreytzkt.medium.com/instagram-like-particles-animation-using-jetpack-compose-9cef387884a2)
     * [Building design system with Jetpack Compose](https://proandroiddev.com/building-design-system-with-jetpack-compose-1208c250ae75)
     * [State and Jetpack Compose](https://developer.android.com/jetpack/compose/state)
+    * [Complete guide to Rich Text in Jetpack Compose](https://dmytroshuba.com/blog/complete-guide-to-rich-text-in-jetpack-compose/)
 
 ---
 
