@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2001%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2004%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -381,6 +381,7 @@ Jump to
     * [Reverse Engineer Your Favorite Android App](https://medium.com/helpshift-engineering/reverse-engineer-your-favorite-android-app-863a797042a6)
     * [Accessing App Usage History In Android](https://proandroiddev.com/accessing-app-usage-history-in-android-79c3af861ccf)
     * [The Case of the Disappearing Days](https://chrishorner.codes/post/debugging-dates/)
+    * [Two targets, one arrow: Cutting down our app size and startup time on Android](https://www.gojek.io/blog/how-we-reduced-our-app-size)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
