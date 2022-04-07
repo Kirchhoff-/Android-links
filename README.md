@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2006%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2007%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -276,6 +276,7 @@ Jump to
 * [Accommodate your project-specific needs with custom templates](https://proandroiddev.com/accommodate-your-project-specific-needs-with-custom-templates-46cfdccc8363)
 * [Background Task Inspector](https://medium.com/androiddevelopers/background-task-inspector-30c8706f0380)
 * [Debugging like a pro in Android Studio](https://medium.com/helpshift-engineering/debugging-like-a-pro-in-android-studio-8c6547825961)
+* [Android Debugging](https://blog.protein.tech/android-debugging-8dee028d77e5)
 
 ---
 
