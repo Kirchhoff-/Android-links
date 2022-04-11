@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2007%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2011%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -644,6 +644,7 @@ Jump to
     * [Use inline modifier for functions with parameters of functional types](https://kt.academy/article/ek-inline-functions)
     * [Consider using inline value classes](https://kt.academy/article/ek-value-classes)
     * [A Practical Guide to Kotlin's inline Modifier](https://maxkim.eu/a-practical-guide-to-kotlins-inline-modifier)
+    * [How to leverage functional programming in Kotlin to write better, cleaner code](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
     
 ---
 
