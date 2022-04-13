@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2012%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2013%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1018,6 +1018,7 @@ Jump to
 * [Software Developers: Adapt or You’ll Be Replaced](https://medium.com/better-programming/software-developers-adapt-or-youll-be-replaced-efaa8c5b4d5)
 * [What It’s Like Working From Home](https://www.ericthecoder.com/2021/05/17/what-its-like-working-from-home-as-a-software-engineer/)
 * [Gear Up for Remote Work](https://medium.com/javascript-scene/gear-up-for-remote-work-d93cf61300f)
+* [Put a Number on Your Boss's Emotions](https://www.yegor256.com/2020/12/29/metric-for-emotions.html)
 
 ---
 
