@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2013%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2014%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -583,6 +583,7 @@ Jump to
     * [Migrating from LiveData to Kotlin’s Flow](https://medium.com/androiddevelopers/migrating-from-livedata-to-kotlins-flow-379292f419fb)
     * [Making cold Flows lifecycle-aware](https://dev.to/hichamboushaba/making-callback-flows-lifecycle-aware-2dai)
     * [Kotlin’s Flow in ViewModels: it’s complicated](https://bladecoder.medium.com/kotlins-flow-in-viewmodels-it-s-complicated-556b472e281a)
+    * [Do or do not; there is no tryEmit()](https://blog.danlew.net/2021/03/23/do-or-do-not-there-is-no-tryemit/)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [Using Kotlin in a Java project: 10 lessons learned](https://xebia.com/using-kotlin-in-a-java-project-10-lessons-learned/)
