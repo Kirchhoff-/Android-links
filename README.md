@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2015%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2018%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1021,6 +1021,7 @@ Jump to
 * [What It’s Like Working From Home](https://www.ericthecoder.com/2021/05/17/what-its-like-working-from-home-as-a-software-engineer/)
 * [Gear Up for Remote Work](https://medium.com/javascript-scene/gear-up-for-remote-work-d93cf61300f)
 * [Put a Number on Your Boss's Emotions](https://www.yegor256.com/2020/12/29/metric-for-emotions.html)
+* [OPP (Other People’s Problems)](https://skamille.medium.com/opp-other-peoples-problems-d7eb174724ee)
 
 ---
 
