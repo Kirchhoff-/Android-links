@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2018%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2021%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -300,7 +300,6 @@ Jump to
     * [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
     * [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
     * [[Yotube] Timing is Everything: How to use Timer, Handler, and AlarmManager](https://www.youtube.com/watch?v=CzNFjCQhCV0)
-    * [[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
     * [[Yotube] Requesting Permissions at Run Time](https://www.youtube.com/watch?v=WGz-alwVh8A)
     * [[Yotube] How the Main Thread works](https://www.youtube.com/watch?v=eAtMon8ndfk)
     * [[Yotube] Exploring Custom Activity Transitions](https://www.youtube.com/watch?v=HLhA0I00TnI)
@@ -411,7 +410,9 @@ Jump to
     * [Reliable Hot Reload on Android](https://medium.com/@gpeal/reliable-hot-reload-on-android-27f14a80df60)
     * [A Subtle Memory Leak - Fragment, RecyclerView and its Adapter](https://charlesmuchene.hashnode.dev/a-subtle-memory-leak-fragment-recyclerview-and-its-adapter-ck805s7jd03frzns17uapi3vh)
     * [Detecting memory leaks in Android applications](https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications)
-  
+* Lint
+    * [[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
+    * [Multi-module Lint Rules](https://zarah.dev/2021/10/04/multi-module-lint.html)  
 ---
 
 # Programming language
