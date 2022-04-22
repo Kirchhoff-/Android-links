@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2021%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2022%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -413,6 +413,7 @@ Jump to
 * Lint
     * [[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
     * [Multi-module Lint Rules](https://zarah.dev/2021/10/04/multi-module-lint.html)  
+    * [Enforcing Custom View Usage With Android Lint](https://androidessence.com/enforce-custom-views-with-lint)
 ---
 
 # Programming language
