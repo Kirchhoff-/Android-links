@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2022%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2025%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -525,6 +525,7 @@ Jump to
     * [Coroutines racing! Why, and how](https://blog.louiscad.com/coroutines-racing-why-and-how)
     * [Safe delay in Android Views: goodbye Handlers, Hello Coroutines!](https://juliensalvi.medium.com/safe-delay-in-android-views-goodbye-handlers-hello-coroutines-cd47f53f0fbf)
     * [Coroutine Misconceptions: Whose Context Is It Anyway?](https://medium.com/livefront/coroutine-misconceptions-whose-context-is-it-anyway-320c0b7adcc7)
+    * [Leveraging the Semaphore concept in Coroutines to limit the parallelism](https://blog.shreyaspatil.dev/leveraging-the-semaphore-concept-in-coroutines-to-limit-the-parallelism)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
