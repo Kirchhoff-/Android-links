@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2025%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2026%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -113,6 +113,7 @@ Jump to
     * [State and Jetpack Compose](https://developer.android.com/jetpack/compose/state)
     * [Complete guide to Rich Text in Jetpack Compose](https://dmytroshuba.com/blog/complete-guide-to-rich-text-in-jetpack-compose/)
     * [Dagger/Hilt vs Koin for Jetpack Compose Apps](https://patrykkosieradzki.com/dagger-hilt-vs-koin-for-jetpack-compose-apps/)
+    * [Jetpack Compose: styling Text](https://alexzh.com/jetpack-compose-styling-text/)
 
 ---
 
