@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2027%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2028%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -373,7 +373,6 @@ Jump to
     * [Android Runtime — How Dalvik and ART work?](https://proandroiddev.com/android-runtime-how-dalvik-and-art-work-6e57cf1c50e5)
     * [Decrease memory usage of your Android app in half](https://proandroiddev.com/decrease-memory-usage-of-your-android-app-in-half-a65524d7380b)
     * [Measure and optimize bitmap size using Glide or Picasso](https://proandroiddev.com/measure-and-optimize-bitmap-size-using-glide-or-picasso-3273b4a569cd)
-    * [Static analysis tools for Android](https://proandroiddev.com/static-analysis-tools-for-android-9531334954f6)
     * [From zero to hero: Optimizing Android app startup time](https://medium.com/skoumal-studio/from-zero-to-hero-optimizing-android-app-startup-time-eda9022c0963)
     * [All About PendingIntents](https://medium.com/androiddevelopers/all-about-pendingintents-748c8eb8619)
     * [Delay with respect of lifecycle](https://proandroiddev.com/delay-with-respect-of-lifecycle-6ee3f0f65e24)
@@ -412,10 +411,13 @@ Jump to
     * [Reliable Hot Reload on Android](https://medium.com/@gpeal/reliable-hot-reload-on-android-27f14a80df60)
     * [A Subtle Memory Leak - Fragment, RecyclerView and its Adapter](https://charlesmuchene.hashnode.dev/a-subtle-memory-leak-fragment-recyclerview-and-its-adapter-ck805s7jd03frzns17uapi3vh)
     * [Detecting memory leaks in Android applications](https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications)
-* Lint
+* Lint/Static analysis
     * [[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
     * [Multi-module Lint Rules](https://zarah.dev/2021/10/04/multi-module-lint.html)  
-    * [Enforcing Custom View Usage With Android Lint](https://androidessence.com/enforce-custom-views-with-lint)
+    * [Enforcing Custom View Usage With Android Lint](https://androidessence.com/enforce-custom-views-with-lint)    
+    * [Static analysis tools for Android](https://proandroiddev.com/static-analysis-tools-for-android-9531334954f6)
+    * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
+    
 ---
 
 # Programming language
@@ -616,7 +618,6 @@ Jump to
     * [Kotlin pearls: It’s an Object… It’s a Function… It’s an Invokable](https://proandroiddev.com/kotlin-pearls-3-its-an-object-it-s-a-function-it-s-an-invokable-bc4bfed2e63f)
     * [Kotlin: Don’t just use LET for null check](https://medium.com/@elye.project/kotlin-dont-just-use-let-7e91f544e27f)
     * [The Mystery of Mutable Kotlin Collections](https://proandroiddev.com/the-mystery-of-mutable-kotlin-collections-e82cbf5d781)
-    * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
     * [Java vs. Kotlin: Performance](https://medium.com/@bards95/comparative-evaluation-of-selected-constructs-in-java-and-kotlin-part-1-dynamic-metrics-2592820ce80)
     * [[Kotlin Pearls 7] Unit, Nothing, Any (and null)](https://proandroiddev.com/kotlin-pearls-7-unit-nothing-any-and-null-cbbbbca86c2d)
     * [JvmDefault: More Useful Than You Think](https://www.zacsweers.dev/jvmdefault-more-useful/)
