@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2028%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2002%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -223,7 +223,6 @@ Jump to
     * [Paging3 — Doing Recyclerview Pagination the Right Way](https://medium.com/swlh/paging3-recyclerview-pagination-made-easy-333c7dfa8797)
     * [AndroidX Navigation: Building on the Wrong Abstraction](https://proandroiddev.com/androidx-navigation-building-on-the-wrong-abstraction-1d7c4a64318c)
     * [When LiveData and Kotlin don’t play well together](https://medium.com/google-developer-experts/when-livedata-and-kotlin-dont-play-hand-in-hand-30149aa794ec)
-    * [Android Room Hidden Costs](https://krossovochkin.com/posts/2020_12_18_android_room_hidden_costs/)
     * [Avoid backing properties for LiveData and StateFlow](https://medium.com/google-developer-experts/avoid-backing-properties-for-livedata-and-stateflow-706006c9867e)
     * [When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6?gi=f5eaa6dafeb4)
 * Other    
@@ -321,7 +320,6 @@ Jump to
     * [Understanding Activity Aliases in Android To Preserve Your Launchers](https://blog.mindorks.com/understanding-activity-aliases-in-android-to-preserve-your-launchers)
     * [[Yotube] Understanding Android's Message Queue](https://www.youtube.com/watch?v=7H7zAtE3ki0)
     * [Understanding the Application Lifecycle in Android](https://blog.mindorks.com/understanding-the-application-lifecycle-in-android)
-    * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
     * [Saving secrets with buildSrc](https://bloggie.io/@_junrong/android-saving-secrets-with-buildsrc)
     * [Holiday clean up or cute versioning in android](https://treatwell.engineering/holiday-clean-up-or-cute-versioning-in-android-bf02356dd07f)
     * [Divide and conquer](https://treatwell.engineering/divide-and-conquer-6604084e3f41)
@@ -417,6 +415,10 @@ Jump to
     * [Enforcing Custom View Usage With Android Lint](https://androidessence.com/enforce-custom-views-with-lint)    
     * [Static analysis tools for Android](https://proandroiddev.com/static-analysis-tools-for-android-9531334954f6)
     * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
+* Room
+    * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929) 
+    * [Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)  
+    * [Android Room Hidden Costs](https://krossovochkin.com/posts/2020_12_18_android_room_hidden_costs/)
     
 ---
 
