@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2002%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2003%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -415,6 +415,7 @@ Jump to
     * [Enforcing Custom View Usage With Android Lint](https://androidessence.com/enforce-custom-views-with-lint)    
     * [Static analysis tools for Android](https://proandroiddev.com/static-analysis-tools-for-android-9531334954f6)
     * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
+    * [Compiler Warnings Are Good, Actually](https://publicobject.com/2022/02/02/compiler-warnings-are-good-actually/)
 * Room
     * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929) 
     * [Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)  
