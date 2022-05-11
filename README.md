@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2009%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2011%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -378,7 +378,6 @@ Jump to
     * [All About PendingIntents](https://medium.com/androiddevelopers/all-about-pendingintents-748c8eb8619)
     * [Delay with respect of lifecycle](https://proandroiddev.com/delay-with-respect-of-lifecycle-6ee3f0f65e24)
     * [Detect Screenshots in Android](https://proandroiddev.com/detect-screenshots-in-android-7bc4343ddce1)
-    * [Automation of code analysis in Android projects](https://proandroiddev.com/automating-analyzing-of-code-in-android-projects-a60313569c53)
     * [Insecure TLS Certificate Checking in Android Apps](https://www.guardsquare.com/blog/insecure-tls-certificate-checking-in-android-apps)
     * [Integrating detekt in the Workflow](https://www.raywenderlich.com/24470020-integrating-detekt-in-the-workflow)
     * [Reverse Engineer Your Favorite Android App](https://medium.com/helpshift-engineering/reverse-engineer-your-favorite-android-app-863a797042a6)
@@ -420,6 +419,7 @@ Jump to
     * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
     * [Compiler Warnings Are Good, Actually](https://publicobject.com/2022/02/02/compiler-warnings-are-good-actually/)
     * [Increasing Android Lint Terminal Results](https://jdvp.me/articles/Android-Terminal-Linting)
+    * [Automation of code analysis in Android projects](https://proandroiddev.com/automating-analyzing-of-code-in-android-projects-a60313569c53)
 * Room
     * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929) 
     * [Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)  
