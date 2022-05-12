@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2011%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2012%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -975,6 +975,7 @@ Jump to
     * [No, your pull request does not need a review](https://jeroenmols.com/blog/2022/02/23/pull-request-reviews/)
     * [The Hardest Part of Being a Software Manager](https://medium.com/javascript-scene/the-hardest-part-of-being-a-software-manager-5293b1b02f94)
     * [Self-Managing vs. Manager-Free Organizations](https://www.yegor256.com/2020/12/22/self-managing-orgs.html)
+    * [Yes, Virginia, You Can Estimate That](https://skamille.medium.com/yes-virginia-you-can-estimate-that-e33303eec9cf)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
