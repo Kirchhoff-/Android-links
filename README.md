@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2013%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2016%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1037,6 +1037,7 @@ Jump to
 * [Gear Up for Remote Work](https://medium.com/javascript-scene/gear-up-for-remote-work-d93cf61300f)
 * [Put a Number on Your Boss's Emotions](https://www.yegor256.com/2020/12/29/metric-for-emotions.html)
 * [OPP (Other People’s Problems)](https://skamille.medium.com/opp-other-peoples-problems-d7eb174724ee)
+* [[Youtube] Keep a balance between work for money and investments into yourself](https://www.youtube.com/watch?v=SNAULZ4KRak)
 
 ---
 
