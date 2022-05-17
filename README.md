@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2016%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2017%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -471,6 +471,7 @@ Jump to
     * [Understanding Kotlin limitations for type parameter positions](https://blog.kotlin-academy.com/understanding-kotlin-limitations-for-type-parameter-positions-15527b916034)
     * [Any, Unit, Nothing and all their friends](https://medium.com/@patxi/any-unit-nothing-and-all-their-friends-e39613b48235)
     * [The power of types for errors](https://proandroiddev.com/the-power-of-types-for-errors-42e2325ed9c5)
+    * [JvmSuppressWildcards: The secret sauce to your sandwich-style generics](https://chao2zhang.medium.com/jvmsuppresswildcards-the-secret-sauce-to-your-sandwich-style-generics-b0093aa5979d)
 * Properties
     * [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
     * [Kotlin and Android — Treacherous properties](https://tips.seebrock3r.me/kotlin-and-android-2-treacherous-properties-562966242c2d)
