@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2018%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2019%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -228,6 +228,7 @@ Jump to
     * [When LiveData and Kotlin don’t play well together](https://medium.com/google-developer-experts/when-livedata-and-kotlin-dont-play-hand-in-hand-30149aa794ec)
     * [Avoid backing properties for LiveData and StateFlow](https://medium.com/google-developer-experts/avoid-backing-properties-for-livedata-and-stateflow-706006c9867e)
     * [When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6?gi=f5eaa6dafeb4)
+    * [The curious case of crashing Workers](https://jeroenmols.com/blog/2022/04/27/workmanager-crash/)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
