@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2027%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2030%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -119,6 +119,7 @@ Jump to
     * [Building an Authentication Form using Jetpack Compose](https://joebirch.co/android/building-an-authentication-form-using-jetpack-compose/)
     * [Promise compose compiler and imply when you'll change](https://blog.shreyaspatil.dev/promise-compose-compiler-and-imply-when-youll-change)
     * [Keyboard Handling In Jetpack Compose — All You Need To Know](https://blog.canopas.com/keyboard-handling-in-jetpack-compose-all-you-need-to-know-3e6fddd30d9a)
+    * [How can I debug recompositions in Jetpack Compose?](https://www.jetpackcompose.app/articles/how-can-I-debug-recompositions-in-jetpack-compose)
 
 ---
 
