@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2002%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2003%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -120,6 +120,7 @@ Jump to
     * [Promise compose compiler and imply when you'll change](https://blog.shreyaspatil.dev/promise-compose-compiler-and-imply-when-youll-change)
     * [Keyboard Handling In Jetpack Compose — All You Need To Know](https://blog.canopas.com/keyboard-handling-in-jetpack-compose-all-you-need-to-know-3e6fddd30d9a)
     * [How can I debug recompositions in Jetpack Compose?](https://www.jetpackcompose.app/articles/how-can-I-debug-recompositions-in-jetpack-compose)
+    * [Composable functions and return types](https://www.valueof.io/blog/compose-composable-return-types)
 
 ---
 
