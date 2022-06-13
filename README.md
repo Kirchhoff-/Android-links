@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2010%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2013%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -672,6 +672,7 @@ Jump to
     * [Consider using inline value classes](https://kt.academy/article/ek-value-classes)
     * [A Practical Guide to Kotlin's inline Modifier](https://maxkim.eu/a-practical-guide-to-kotlins-inline-modifier)
     * [How to leverage functional programming in Kotlin to write better, cleaner code](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
+    * [Raising code quality for Faire’s Kotlin codebase](https://craft.faire.com/raising-code-quality-for-faires-kotlin-codebase-f61420b3e5e6)
     
 ---
 
