@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2013%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2014%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -424,6 +424,7 @@ Jump to
 * Lint/Static analysis
     * [[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
     * [Multi-module Lint Rules](https://zarah.dev/2021/10/04/multi-module-lint.html)  
+    * [Multi-module Lint Rules Follow Up: Suppressions](https://zarah.dev/2022/02/15/deprecated-suppress.html)  
     * [Enforcing Custom View Usage With Android Lint](https://androidessence.com/enforce-custom-views-with-lint)    
     * [Static analysis tools for Android](https://proandroiddev.com/static-analysis-tools-for-android-9531334954f6)
     * [Kotlin Static Analysis — why and how?](https://proandroiddev.com/kotlin-static-analysis-why-and-how-a12042e34a98)
