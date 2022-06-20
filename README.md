@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2017%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2018%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -395,6 +395,7 @@ Jump to
     * [Two targets, one arrow: Cutting down our app size and startup time on Android](https://www.gojek.io/blog/how-we-reduced-our-app-size)
     * [All about Preferences DataStore](https://medium.com/androiddevelopers/all-about-preferences-datastore-cc7995679334)
     * [Using DataStore With Kotlin Serialization](https://medium.com/androiddevelopers/using-datastore-with-kotlin-serialization-6552502c5345)
+    * [Android Vitals - Diving into cold start waters](https://dev.to/pyricau/android-vitals-diving-into-cold-start-waters-5hi6)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
