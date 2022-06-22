@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2021%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2022%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -998,6 +998,7 @@ Jump to
     * [Self-Managing vs. Manager-Free Organizations](https://www.yegor256.com/2020/12/22/self-managing-orgs.html)
     * [Yes, Virginia, You Can Estimate That](https://skamille.medium.com/yes-virginia-you-can-estimate-that-e33303eec9cf)
     * [Imposters to Win!](https://www.yegor256.com/2021/03/03/imposters-to-win.html)
+    * [Are you out of alignment?](https://skamille.medium.com/are-you-out-of-alignment-a7b193ab7fc4)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
