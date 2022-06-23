@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2022%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2023%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -749,6 +749,7 @@ Jump to
 * [Immutability we can afford](https://medium.com/@elizarov/immutability-we-can-afford-10c0dcb8351d)
 * [[Yotube] How to Inject Less?](https://www.youtube.com/watch?v=MNxG1xcA2uA)
 * [Prestructors](https://www.yegor256.com/2021/08/04/prestructors.html)
+* [Distance of coupling](https://www.yegor256.com/2020/10/27/distance-of-coupling.html)
 
 ---
 
