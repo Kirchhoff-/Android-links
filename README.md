@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2027%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2028%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -398,6 +398,7 @@ Jump to
     * [Using DataStore With Kotlin Serialization](https://medium.com/androiddevelopers/using-datastore-with-kotlin-serialization-6552502c5345)
     * [Android Vitals - Diving into cold start waters](https://dev.to/pyricau/android-vitals-diving-into-cold-start-waters-5hi6)
     * [When “Compat” libraries won’t save you](https://proandroiddev.com/when-compat-libraries-do-not-save-you-dc55f16b4160)
+    * [How OkCredit Android App improved Cold Startup by 70%](https://medium.com/okcredit/how-okcredit-android-app-improved-cold-startup-by-70-e02bda4836a8)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
