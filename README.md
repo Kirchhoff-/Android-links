@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2030%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2001%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1005,6 +1005,7 @@ Jump to
     * [Yes, Virginia, You Can Estimate That](https://skamille.medium.com/yes-virginia-you-can-estimate-that-e33303eec9cf)
     * [Imposters to Win!](https://www.yegor256.com/2021/03/03/imposters-to-win.html)
     * [Are you out of alignment?](https://skamille.medium.com/are-you-out-of-alignment-a7b193ab7fc4)
+    * [Calibrated Achievement Points](https://www.yegor256.com/2021/10/12/calibrated-achievement-points.html)
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
