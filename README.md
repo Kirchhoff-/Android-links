@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2001%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2004%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -125,6 +125,7 @@ Jump to
     * [Compose remember vs remember mutableStateOf](https://www.valueof.io/blog/jetpack-compose-remember-vs-mutablestateof)
     * [Diving Into Compose — Lessons Learned While Building Maps Compose](https://medium.com/androiddevelopers/diving-into-compose-lessons-learned-while-building-maps-compose-d20ef5dfe1bb)
     * [Jetpack Compose Effect Handlers](https://jorgecastillo.dev/jetpack-compose-effect-handlers)
+    * [Here's a productivity hack to save tens of engineering hours* when working with Jetpack Compose!](https://www.jetpackcompose.app/articles/productivity-hack-to-save-tens-of-engineering-hours-when-working-with-Jetpack-Compose)
 
 ---
 
