@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2004%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2005%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -195,6 +195,7 @@ Jump to
 * [Protecting secrets in an Android project](https://www.lordcodes.com/articles/protecting-secrets-in-an-android-project)
 * [A Bit of Gradle Housekeeping](https://zsmb.co/a-bit-of-gradle-housekeeping/)
 * [The Importance of Validating the Gradle Wrapper](https://jdvp.me/articles/Gradle-Wrapper-Validation)
+* [TOML + Gradle + project accessors](https://funkymuse.dev/posts/toml-gradle/)
 
 ---
 
