@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2005%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2006%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -126,6 +126,7 @@ Jump to
     * [Diving Into Compose — Lessons Learned While Building Maps Compose](https://medium.com/androiddevelopers/diving-into-compose-lessons-learned-while-building-maps-compose-d20ef5dfe1bb)
     * [Jetpack Compose Effect Handlers](https://jorgecastillo.dev/jetpack-compose-effect-handlers)
     * [Here's a productivity hack to save tens of engineering hours* when working with Jetpack Compose!](https://www.jetpackcompose.app/articles/productivity-hack-to-save-tens-of-engineering-hours-when-working-with-Jetpack-Compose)
+    * [Lazy Grid layouts in Compose](https://www.valueof.io/blog/lazy-grids-gridcells-fixed-adaptive-custom-compose)
 
 ---
 
@@ -272,7 +273,7 @@ Jump to
     * [Architecture in Jetpack Compose — MVP, MVVM, & MVI](https://medium.com/mobile-at-octopus-energy/architecture-in-jetpack-compose-mvp-mvvm-mvi-17d8170a13fd)
     * [Traditional MVVM with Jetpack Compose and StateFlow](https://proandroiddev.com/traditional-mvvm-with-jetpack-compose-and-stateflow-7ca934e12784)
     * [Jetpack Compose navigation architecture with ViewModels](https://proandroiddev.com/jetpack-compose-navigation-architecture-with-viewmodels-1de467f19e1c)
-    * [Lazy Grid layouts in Compose](https://www.valueof.io/blog/lazy-grids-gridcells-fixed-adaptive-custom-compose)
+    * [Modular navigation with Jetpack Compose](https://compose.academy/blog/modular_navigation_with_jetpack_compose)
 
 ---
 
