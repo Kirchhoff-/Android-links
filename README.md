@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2007%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2008%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -405,6 +405,7 @@ Jump to
     * [Android Vitals - Diving into cold start waters](https://dev.to/pyricau/android-vitals-diving-into-cold-start-waters-5hi6)
     * [When “Compat” libraries won’t save you](https://proandroiddev.com/when-compat-libraries-do-not-save-you-dc55f16b4160)
     * [How OkCredit Android App improved Cold Startup by 70%](https://medium.com/okcredit/how-okcredit-android-app-improved-cold-startup-by-70-e02bda4836a8)
+    * [Memory Leaks in Reactive Android Programming](https://proandroiddev.com/memory-leaks-in-reactive-android-programming-a4ad2b34466a)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
