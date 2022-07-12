@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2011%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2012%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -761,6 +761,7 @@ Jump to
 * [[Yotube] How to Inject Less?](https://www.youtube.com/watch?v=MNxG1xcA2uA)
 * [Prestructors](https://www.yegor256.com/2021/08/04/prestructors.html)
 * [Distance of coupling](https://www.yegor256.com/2020/10/27/distance-of-coupling.html)
+* [Compile less with SOLID](https://proandroiddev.com/compile-less-with-solid-bd0633c1f84)
 
 ---
 
