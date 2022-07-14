@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2013%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2014%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -627,6 +627,7 @@ Jump to
     * [Kotlin’s Flow in ViewModels: it’s complicated](https://bladecoder.medium.com/kotlins-flow-in-viewmodels-it-s-complicated-556b472e281a)
     * [Do or do not; there is no tryEmit()](https://blog.danlew.net/2021/03/23/do-or-do-not-there-is-no-tryemit/)
     * [Kotlin SharedFlow or: How I learned to stop using RxJava and love the Flow](https://proandroiddev.com/kotlin-sharedflow-or-how-i-learned-to-stop-using-rxjava-and-love-the-flow-e1b59d211715)
+    * [repeatOnLifecycle API design story](https://medium.com/androiddevelopers/repeatonlifecycle-api-design-story-8670d1a7d333)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [Using Kotlin in a Java project: 10 lessons learned](https://xebia.com/using-kotlin-in-a-java-project-10-lessons-learned/)
