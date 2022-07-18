@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2015%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2018%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -275,6 +275,7 @@ Jump to
     * [Traditional MVVM with Jetpack Compose and StateFlow](https://proandroiddev.com/traditional-mvvm-with-jetpack-compose-and-stateflow-7ca934e12784)
     * [Jetpack Compose navigation architecture with ViewModels](https://proandroiddev.com/jetpack-compose-navigation-architecture-with-viewmodels-1de467f19e1c)
     * [Modular navigation with Jetpack Compose](https://compose.academy/blog/modular_navigation_with_jetpack_compose)
+    * [The ABC of Modularization for Android in 2021](https://proandroiddev.com/the-abc-of-modularization-for-android-in-2021-e7b3fbe29fca)
 
 ---
 
