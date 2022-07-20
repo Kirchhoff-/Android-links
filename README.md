@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2019%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2020%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -631,6 +631,7 @@ Jump to
     * [Do or do not; there is no tryEmit()](https://blog.danlew.net/2021/03/23/do-or-do-not-there-is-no-tryemit/)
     * [Kotlin SharedFlow or: How I learned to stop using RxJava and love the Flow](https://proandroiddev.com/kotlin-sharedflow-or-how-i-learned-to-stop-using-rxjava-and-love-the-flow-e1b59d211715)
     * [repeatOnLifecycle API design story](https://medium.com/androiddevelopers/repeatonlifecycle-api-design-story-8670d1a7d333)
+    * [Safely collecting hot flows from Android native UI](https://chao2zhang.medium.com/safely-collecting-hot-flows-from-android-native-ui-f22f645edb44)
 * Other
     * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [Using Kotlin in a Java project: 10 lessons learned](https://xebia.com/using-kotlin-in-a-java-project-10-lessons-learned/)
