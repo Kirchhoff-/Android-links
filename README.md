@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2021%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2022%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -603,7 +603,6 @@ Jump to
     * [You don't need a variable for this](https://forcelain.github.io/2017/08/04/you-don-t-need-a-variable-for-this.html)
     * [A practical explanation for initialization modifiers in Kotlin](https://medium.com/google-developer-experts/a-practical-explanation-for-initialization-modifiers-in-kotlin-9f52096ff1ca)
     * [Kotlin variable, to be Lazy, or to be Late?](https://medium.com/@elye.project/kotlin-variable-to-be-lazy-or-to-be-late-ab865c682d61) 
-    * [A practical explanation for initialization modifiers in Kotlin](https://medium.com/google-developer-experts/a-practical-explanation-for-initialization-modifiers-in-kotlin-9f52096ff1ca)
 * Sequences
     * [Kotlin : Slow List and Lazy Sequence](https://medium.com/@elye.project/kotlin-slow-list-and-lazy-sequence-61691fc974c5)
     * [Kotlin Sequences: An Illustrated Guide](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)
