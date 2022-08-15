@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2005%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2015%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -412,6 +412,7 @@ Jump to
     * [How OkCredit Android App improved Cold Startup by 70%](https://medium.com/okcredit/how-okcredit-android-app-improved-cold-startup-by-70-e02bda4836a8)
     * [Memory Leaks in Reactive Android Programming](https://proandroiddev.com/memory-leaks-in-reactive-android-programming-a4ad2b34466a)
     * [Ten #AndroidLifeHacks You Can Use Today](https://gpeal.medium.com/ten-androidlifehacks-you-can-use-today-9f74186fc207)
+    * [Making Sense of Intent Filters in Android 13](https://medium.com/androiddevelopers/making-sense-of-intent-filters-in-android-13-8f6656903dde)
 * Net
     * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
     * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
