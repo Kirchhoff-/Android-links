@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2016%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2022%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -127,6 +127,7 @@ Jump to
     * [Jetpack Compose Effect Handlers](https://jorgecastillo.dev/jetpack-compose-effect-handlers)
     * [Here's a productivity hack to save tens of engineering hours* when working with Jetpack Compose!](https://www.jetpackcompose.app/articles/productivity-hack-to-save-tens-of-engineering-hours-when-working-with-Jetpack-Compose)
     * [Lazy Grid layouts in Compose](https://www.valueof.io/blog/lazy-grids-gridcells-fixed-adaptive-custom-compose)
+    * [Quick Note on Jetpack Compose Recomposition](https://blog.canopas.com/quick-note-on-jetpack-compose-recomposition-d9af4e3f8e5b)
 
 ---
 
