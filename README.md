@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2022%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2023%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -465,7 +465,6 @@ Jump to
 * Sealed Classes
     * [Modeling ViewModel States Using Kotlin’s Sealed Classes](https://engineering.udacity.com/modeling-viewmodel-states-using-kotlins-sealed-classes-a5d415ed87a7)
     * [Simplify your Android code by delegating to sealed classes](https://medium.com/halcyon-mobile/simplify-your-android-code-by-delegating-to-sealed-classes-99304c509321)
-    * [Handaling optionals errors using kotlin sealed classes](https://articles.caster.io/android/handling-optional-errors-using-kotlin-sealed-classes/)
     * [Kotlin Sealed Classes — enums with swag](https://proandroiddev.com/kotlin-sealed-classes-enums-with-swag-d3c4b799bcd4)
     * [Kotlin pearls: Sealed Class Override](https://proandroiddev.com/kotlin-pearls-sealed-class-override-b951dcd752c6)
     * [Abstracting Kotlin Sealed Classes](https://arturdryomov.dev/posts/abstracting-kotlin-sealed-classes/)
@@ -496,7 +495,6 @@ Jump to
     * [The power of types for errors](https://proandroiddev.com/the-power-of-types-for-errors-42e2325ed9c5)
     * [JvmSuppressWildcards: The secret sauce to your sandwich-style generics](https://chao2zhang.medium.com/jvmsuppresswildcards-the-secret-sauce-to-your-sandwich-style-generics-b0093aa5979d)
 * Properties
-    * [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/amp/)
     * [Kotlin and Android — Treacherous properties](https://tips.seebrock3r.me/kotlin-and-android-2-treacherous-properties-562966242c2d)
     * [Kotlin: should I define Function or Property?](https://blog.kotlin-academy.com/kotlin-should-i-define-function-or-property-6786951da909)
 * Android
@@ -516,7 +514,6 @@ Jump to
 * Coroutines
     * [[Youtube] Asynchronous Programming with Kotlin](https://www.youtube.com/watch?v=krfGMLuhB8M)
     * [Coroutines: first things first](https://medium.com/androiddevelopers/coroutines-first-things-first-e6187bf3bb21)
-    * [Diving deep into Kotlin Coroutines](https://www.kotlindevelopment.com/deep-dive-coroutines/)
     * [Simple asynchronous loading with Kotlin Coroutines](https://hellsoft.se/simple-asynchronous-loading-with-kotlin-coroutines-f26408f97f46)
     * [Concurrent coroutines - concurrency is not parallelism](https://kotlinexpertise.com/kotlin-coroutines-concurrency)
     * [Android Kotlin Coroutine Best Practices](https://medium.com/@kenkyee/android-kotlin-coroutine-best-practices-bc033fed62e7)
@@ -581,7 +578,6 @@ Jump to
     * [Functional Exception Handling With Try](https://dzone.com/articles/kotlin-try-type-for-functional-exception-handling)
 * Extension Functions
     * [How to Abuse Kotlin Extension Functions](https://www.philosophicalhacker.com/post/how-to-abuse-kotlin-extension-functions/)
-    * [Getting rid of boilerplate with Kotlin Android Extensions](https://www.kotlindevelopment.com/kotlin_android_extensions_eliminate_findviewbyid/)
     * [Extensions: The Good, The Bad and The Ugly](https://proandroiddev.com/kotlin-pearls-6-extensions-the-good-the-bad-and-the-ugly-23c88fcab235)
     * [Writing clean models using extensions](https://okkotlin.com/clean-models/)
     * [Factory or Extension Function?](https://publicobject.com/2019/05/22/factory-or-extension-function/)
@@ -595,7 +591,6 @@ Jump to
     * [Abstract class vs interface in Kotlin](https://blog.kotlin-academy.com/abstract-class-vs-interface-in-kotlin-5ab8697c3a14)
     * [Patterns in Kotlin: Abstract Factory](https://medium.com/@dbottillo/patterns-in-kotlin-abstract-factory-a0ff99a0d177)
 * Variable
-    * [Where Should I Keep My Constants in Kotlin?](https://blog.egorand.me/where-do-i-put-my-constants-in-kotlin/)  
     * [A few facts about Companion objects](https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725)
     * [You don't need a variable for this](https://forcelain.github.io/2017/08/04/you-don-t-need-a-variable-for-this.html)
     * [A practical explanation for initialization modifiers in Kotlin](https://medium.com/google-developer-experts/a-practical-explanation-for-initialization-modifiers-in-kotlin-9f52096ff1ca)
@@ -630,17 +625,14 @@ Jump to
     * [Safely collecting hot flows from Android native UI](https://chao2zhang.medium.com/safely-collecting-hot-flows-from-android-native-ui-f22f645edb44)
     * [Explore LiveData & StateFlow Value Emitting Behavior](https://medium.com/mobile-app-development-publication/explore-livedata-stateflow-value-emitting-behavior-3f5c9e8ef2e3)
 * Other
-    * [10 Reasons Why You Should Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
     * [Using Kotlin in a Java project: 10 lessons learned](https://xebia.com/using-kotlin-in-a-java-project-10-lessons-learned/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
     * [Learning Kotlin by Mistake](https://engineering.udacity.com/learning-kotlin-by-mistake-b99304b7d724)
     * [Simplified code with kotlin](https://android.jlelse.eu/simplified-code-with-kotlin-cda9915c9fb9)
-    * [Preconditions.kt: Validate Your Kotlin](https://blog.egorand.me/preconditions-kt-validate-your-kotlin/)
     * [Safe, concise text parsing with regex destructuring in Kotlin](https://medium.com/@garnop/safe-concise-text-parsing-with-regex-destructuring-in-kotlin-b8f77ef1e30c)
     * [A life without ifs](https://medium.com/a-problem-like-maria/a-life-without-ifs-e44967e5c77b)
     * [Kotlin + Dagger 2 Gotchas](https://medium.com/@vlazzle/kotlin-dagger-2-gotchas-ebb6bb2ac506)
     * [Demystifying the inline keyword](https://handstandsam.com/2021/02/19/the-best-way-to-collect-a-flow-in-kotlin-launchin/)
-    * [Annotations for your Java-friendly Kotlin code](https://www.avantica.net/blog/annotations-for-your-java-friendly-kotlin-code)
     * [Looping in Kotlin](https://medium.com/@elye.project/looping-in-kotlin-65b54d05ad21)
     * [[Youtube] Kotlin in Production](https://www.youtube.com/watch?v=mDpnc45WwlI)
     * [What is “concurrent” access to mutable state?](https://proandroiddev.com/what-is-concurrent-access-to-mutable-state-f386e5cb8292)
