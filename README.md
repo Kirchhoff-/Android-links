@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2023%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2028%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -200,15 +200,6 @@ Jump to
 
 ## Architecture
 [back to top](#readme)
-* MVP
-    * [Android MVP: Keeping Presenters Alive](https://medium.com/@trionkidnapper/android-mvp-keeping-presenters-alive-a91b9e080761)
-    * [Presenters don't need lifecycle events](http://hannesdorfmann.com/android/presenters-dont-need-lifecycle)
-    * [Presenters are not for persisting](https://medium.com/@theMikhail/presenters-are-not-for-persisting-f537a2cc7962)
-    * [Where to Unbind the Presenter](https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce)
-    * [Restoring State in Android MVP Architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
-    * [Passive View MVP in Kotlin](https://medium.com/@daptronic/passive-view-mvp-in-kotlin-a8cbcb9a25e2)
-    * [Building An Application With MVP](https://androidessence.com/building-an-app-with-mvp)
-    * [Lifecycle aware Presenter instead of LiveData](https://proandroiddev.com/lifecycle-aware-presenter-instead-of-livedata-f77d640115ef)
 * Architecture Components
     * [Android Architecture Components](https://proandroiddev.com/android-architecture-components-cb1ea88d3835)
     * [Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749)
