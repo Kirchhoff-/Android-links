@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2028%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2006%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1087,7 +1087,6 @@ Jump to
     * [When you dont need map](https://blog.danlew.net/2018/02/20/when-you-dont-need-a-map)
     * [[Youtube] Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
     * [RxJava's repeatWhen and retryWhen, explained](https://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/)
-    * [Hardly Comprehensive Introduction to RxJava: Observable Types, Backpressure, and Error Handling](https://www.ericdecanini.com/2019/01/07/comprehensive-introduction-to-rxjava-observable-types-backpressure-and-error-handling/)
     * [RxJava2 puzzle: Scheduler as 3rd parameter](https://www.glureau.com/2020/04/29/RxJava-Puzzle-Scheduler-3rd-param/)
     * [RxJava2 puzzle: Subscription threading](https://www.glureau.com/2020/05/01/RxJava-Puzzle-Subscription-Threading/)
     * [RxJava2 subscribeOn: How to use it](https://www.glureau.com/2020/05/02/RxJava-SubscribeOn-HowTo/)
@@ -1098,7 +1097,6 @@ Jump to
     * [Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
     * [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
     * [Error handling in RxJava/RxKotlin](https://android.jlelse.eu/error-handling-in-rxjava-rxkotlin-e960300990e0)
-    * [Rxify: error handling with subjects, relays](https://articles.caster.io/android/rxify-error-handling-with-subjects-relays/)
     * [Clean architecture — error handling with Kotlin/RxJava](https://medium.com/@june.pravin/clean-architecture-error-handling-with-kotlin-rxjava-d01c82a0f31e)
     * [Default Error Handling With RxJava](https://medium.com/@s.vinouze/default-error-handling-with-rxjava-89b79de3f125)
 * Backpressure
