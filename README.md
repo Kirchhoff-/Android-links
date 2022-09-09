@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2006%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2009%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1055,6 +1055,7 @@ Jump to
     * [Put a Number on Your Boss's Emotions](https://www.yegor256.com/2020/12/29/metric-for-emotions.html)
     * [OPP (Other People’s Problems)](https://skamille.medium.com/opp-other-peoples-problems-d7eb174724ee)
     * [[Youtube] Keep a balance between work for money and investments into yourself](https://www.youtube.com/watch?v=SNAULZ4KRak)
+    * [The Overfinancialization of Everything](https://www.youngmoney.co/p/overfinancialization-everything)
 * Investment
     * [The Future of You](https://www.youngmoney.co/p/future-d9ba)
 
