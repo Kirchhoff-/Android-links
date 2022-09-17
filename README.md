@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2012%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2017%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -125,6 +125,7 @@ Jump to
     * [Here's a productivity hack to save tens of engineering hours* when working with Jetpack Compose!](https://www.jetpackcompose.app/articles/productivity-hack-to-save-tens-of-engineering-hours-when-working-with-Jetpack-Compose)
     * [Lazy Grid layouts in Compose](https://www.valueof.io/blog/lazy-grids-gridcells-fixed-adaptive-custom-compose)
     * [Quick Note on Jetpack Compose Recomposition](https://blog.canopas.com/quick-note-on-jetpack-compose-recomposition-d9af4e3f8e5b)
+    * [Debugging and fixing a *huge* Jetpack Compose performance problem in my Sudoku-solver app](https://christopherward.medium.com/debugging-and-fixing-a-huge-jetpack-compose-performance-problem-in-my-sudoku-solver-app-8f67fa229dc2)
 
 ---
 
