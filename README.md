@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2017%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2022%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1058,6 +1058,7 @@ Jump to
     * [OPP (Other People’s Problems)](https://skamille.medium.com/opp-other-peoples-problems-d7eb174724ee)
     * [[Youtube] Keep a balance between work for money and investments into yourself](https://www.youtube.com/watch?v=SNAULZ4KRak)
     * [The Overfinancialization of Everything](https://www.youngmoney.co/p/overfinancialization-everything)
+    * [23 Life Tasks For Sorting Out Your Life](https://www.ryandelaney.co/blog/life-tasks-for-sorting-out-your-life)
 * Investment
     * [The Future of You](https://www.youngmoney.co/p/future-d9ba)
 
