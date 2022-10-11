@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2022%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2011%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -308,7 +308,6 @@ Jump to
     * [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
     * [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
     * [How to Correctly Store App-Specific Files in Android](https://www.grokkingandroid.com/how-to-correctly-store-app-specific-files-in-android/)
-    * [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
     * [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
     * [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
     * [[Yotube] Timing is Everything: How to use Timer, Handler, and AlarmManager](https://www.youtube.com/watch?v=CzNFjCQhCV0)
@@ -414,11 +413,13 @@ Jump to
     * [Is Your Kotlin Code Really Obfuscated?](https://proandroiddev.com/is-your-kotlin-code-really-obfuscated-a36abf033dde)
     * [Android's Built-in ProGuard Rules: The Missing Guide](https://www.zacsweers.dev/android-proguard-rules/)
     * [Understand Proguard Generated Files and Manually De-obfuscate Stacktrace](https://medium.com/mobile-app-development-publication/understand-proguard-generated-files-and-manually-de-obfuscate-stacktrace-6ae7c8efa59d)
-* Multidex
+* APK/Multidex
     * [65K methods](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71)
+    * [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
     * [Use the Android apk analyzer to reduce your apk size](https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/)
     * [Comparing APK sizes](https://android.jlelse.eu/comparing-apk-sizes-a0eb37bb36f)
     * [[Yotube] Understanding and Experimenting with MultiDex](https://www.youtube.com/watch?v=skmOBriQ28E)
+    * [My Journey on Reducing APK size at GetMega](https://proandroiddev.com/my-journey-on-reducing-apk-size-at-getmega-977aabf18068)
 * Memory leak
     * [What you need to know about Android app memory leaks](https://techbeacon.com/what-you-need-know-about-android-app-memory-leaks)
     * [Android leak pattern: subscriptions in views](https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c)
