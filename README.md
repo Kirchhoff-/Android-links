@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2011%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2012%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -677,6 +677,7 @@ Jump to
     * [How to leverage functional programming in Kotlin to write better, cleaner code](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
     * [Raising code quality for Faire’s Kotlin codebase](https://craft.faire.com/raising-code-quality-for-faires-kotlin-codebase-f61420b3e5e6)
     * [Exploring Kotlin initialization with Android custom views](https://medium.com/google-developer-experts/exploring-kotlin-initialization-with-android-custom-views-cde06e915e8d)
+    * [Values, not Enums](https://medium.com/@ReneeVandervelde/values-not-enums-1223f85c7f7)
     
 ---
 
