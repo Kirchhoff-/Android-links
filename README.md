@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2013%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2015%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -751,6 +751,7 @@ Jump to
 * [Prestructors](https://www.yegor256.com/2021/08/04/prestructors.html)
 * [Distance of coupling](https://www.yegor256.com/2020/10/27/distance-of-coupling.html)
 * [Compile less with SOLID](https://proandroiddev.com/compile-less-with-solid-bd0633c1f84)
+* [SOLID Principles Sketches](https://itnext.io/solid-principles-sketches-a38865e771f0)
 
 ---
 
