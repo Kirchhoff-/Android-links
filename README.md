@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2015%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2019%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -916,7 +916,6 @@ Jump to
     * [Who is (not) a Tech Leader](https://medium.com/@froger_mcs/who-is-not-a-tech-leader-a98aab27ad93)
     * [Are You a Coder or a Developer?](https://www.yegor256.com/2018/01/23/sociotech-skills.html)
     * [The Formula for Software Quality](https://www.yegor256.com/2017/12/26/software-quality-formula.html)
-    * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Programmer’s discipline](https://medium.com/@ponnappa/programmers-discipline-57cc9ec89c91)
     * [Five tips to get your code base in shape](https://jeroenmols.com/blog/2019/02/20/tacklelegacy/)
     * [Achieving Your Goals Feels Good](https://www.donnfelker.com/achieving-your-goals-feels-good/)
@@ -935,7 +934,6 @@ Jump to
     * [TDD Misbeliefs](https://www.yegor256.com/2019/07/02/tdd-misbeliefs.html)
     * [Maybe Don't Write That Test](https://www.philosophicalhacker.com/post/maybe-dont-write-that-test/)
     * [Stakeholder anti-patterns](https://medium.com/snapp-mobile/stakeholder-anti-patterns-b8a839a39a78)
-    * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
     * [The Problem You Solve Is More Important Than The Code You Write](https://levelup.gitconnected.com/the-problem-you-solve-is-more-important-than-the-code-you-write-d0e5493132c6)
     * [How To Be a Bad Senior Developer](https://levelup.gitconnected.com/how-to-be-a-bad-senior-developer-f774567b5ef2)
     * [How To Use Technical Debt In Your Favor](https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68)
@@ -945,7 +943,6 @@ Jump to
     * [“open floor space” is not a job benefit](https://codewithoutrules.com/2017/03/20/open-floor-plan/)
     * [Only code at work? That doesn’t make you a worse programmer](https://codewithoutrules.com/2018/03/04/only-code-at-work/)
     * [Setting boundaries at your job as a programmer](https://codewithoutrules.com/2019/04/03/setting-boundaries-at-work/)
-    * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
     * [A message without a context is unprofessional and very annoying for the listener; don't do it!](https://www.youtube.com/watch?v=fVMml2vpP-Y)
     * [Talented Programmers, Who Are They?](https://www.yegor256.com/2019/12/31/talented-programmers.html)
     * [Deadlines](https://publicobject.com/2019/01/12/software-deadlines/)
@@ -959,7 +956,6 @@ Jump to
     * [Typical programmer’s mistakes](https://medium.com/@lsoares/common-programmers-errors-ea598b8f14c9)
     * [How to suck at managing software projects](https://medium.com/@lsoares/how-to-suck-at-managing-software-projects-4e6e47007473)
     * [How we scaled technical discussions in the Android team](https://medium.com/babylon-engineering/how-we-scaled-technical-discussions-in-the-android-team-f0e198f069b1)
-    * [Code Reviews Q&A](https://medium.com/babylon-engineering/code-reviews-q-a-f33c72d3b2c3)
     * [Creating a documentation culture in the Android team](https://medium.com/babylon-engineering/creating-a-documentation-culture-in-the-android-team-7cd8e61e1eaf)
     * [Bringing some order to Pull Request reviews](https://medium.com/babylon-engineering/bringing-some-order-to-pull-request-reviews-27ac55d181bb)
     * [7 Steps to Technical Leadership](https://magdamiu.com/2020/09/12/7-steps-to-technical-leadership/)
@@ -1004,6 +1000,12 @@ Jump to
     * [Calibrated Achievement Points](https://www.yegor256.com/2021/10/12/calibrated-achievement-points.html)
     * [Modern software engineering or just a gardener's job!?](https://funkymuse.dev/posts/software_engineering_2021/)
     * [5 daily habits of senior engineers](https://medium.com/developer-purpose/5-daily-habits-of-kick-ss-engineers-67a053759e04)
+* Code review
+    * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
+    * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
+    * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
+    * [Code Reviews Q&A](https://medium.com/babylon-engineering/code-reviews-q-a-f33c72d3b2c3)    
+    * [Code Reviews ?— Good luck with that](https://medium.com/analytics-vidhya/code-reviews-good-luck-with-that-a42982b54b3d)    
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
