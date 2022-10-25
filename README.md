@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2019%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2025%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1067,6 +1067,7 @@ Jump to
     * [23 Life Tasks For Sorting Out Your Life](https://www.ryandelaney.co/blog/life-tasks-for-sorting-out-your-life)
 * Investment
     * [The Future of You](https://www.youngmoney.co/p/future-d9ba)
+    * [Time Isn't Money](https://www.youngmoney.co/p/time-isnt-money-b288)
 
 ---
 
