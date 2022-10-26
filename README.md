@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2025%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2026%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -678,6 +678,7 @@ Jump to
     * [Raising code quality for Faire’s Kotlin codebase](https://craft.faire.com/raising-code-quality-for-faires-kotlin-codebase-f61420b3e5e6)
     * [Exploring Kotlin initialization with Android custom views](https://medium.com/google-developer-experts/exploring-kotlin-initialization-with-android-custom-views-cde06e915e8d)
     * [Values, not Enums](https://medium.com/@ReneeVandervelde/values-not-enums-1223f85c7f7)
+    * [Using the Kotlin standard library from Java](https://medium.com/google-developer-experts/using-the-kotlin-standard-library-in-java-ea0766deac10)
     
 ---
 
