@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2026%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2027%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -825,6 +825,7 @@ Jump to
     * [Revamping the Android testing pipeline at Dropbox](https://dropbox.tech/mobile/revamping-the-android-testing-pipeline-at-dropbox)
     * [Testing Files without Files](https://arturdryomov.dev/posts/testing-files-without-files/)
     * [Negative Scenarios in Software Testing: Best Practices](https://infinum.com/blog/negative-scenarios-in-software-testing-best-practices/)
+    * [Unit Testing Delays, Errors & Retries with Kotlin Flows](https://codingwithmohit.com/coroutines/unit-testing-delays-errors-retries-with-kotlin-flows/)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
