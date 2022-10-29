@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2028%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2029%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1003,6 +1003,7 @@ Jump to
     * [Calibrated Achievement Points](https://www.yegor256.com/2021/10/12/calibrated-achievement-points.html)
     * [Modern software engineering or just a gardener's job!?](https://funkymuse.dev/posts/software_engineering_2021/)
     * [5 daily habits of senior engineers](https://medium.com/developer-purpose/5-daily-habits-of-kick-ss-engineers-67a053759e04)
+    * [How I Use Slack](https://gpeal.medium.com/how-i-use-slack-b0dbf06d9a18)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
