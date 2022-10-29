@@ -1072,6 +1072,7 @@ Jump to
 * Investment
     * [The Future of You](https://www.youngmoney.co/p/future-d9ba)
     * [Time Isn't Money](https://www.youngmoney.co/p/time-isnt-money-b288)
+    * [What the Money is For](https://ofdollarsanddata.com/what-the-money-is-for/)
 
 ---
 
