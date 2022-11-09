@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2029%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2009%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -874,6 +874,7 @@ Jump to
     * [Android BDD with Robolectric and Espresso — how to refactor your Android project tests](https://medium.com/gumtree-dev-team/android-bdd-with-robolectric-and-espresso-how-to-refactor-your-android-project-tests-d79a07870da0)
     * [Unit testing with Mockk tweaks and tricks part1](https://dev.to/davidibrahim/unit-testing-with-mockk-tweaks-and-tricks-part1-2f6i)
     * [Stubbing with doAnswer vs doReturn – what's the difference?](https://kotlintesting.com/doanswer-vs-doreturn/)
+    * [An effective testing strategy for Android](https://proandroiddev.com/an-effective-testing-strategy-for-android-i-4a269d134acf)
 
 ---
 
