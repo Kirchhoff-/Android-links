@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2012%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2017%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -876,6 +876,7 @@ Jump to
     * [Unit testing with Mockk tweaks and tricks part1](https://dev.to/davidibrahim/unit-testing-with-mockk-tweaks-and-tricks-part1-2f6i)
     * [Stubbing with doAnswer vs doReturn – what's the difference?](https://kotlintesting.com/doanswer-vs-doreturn/)
     * [An effective testing strategy for Android](https://proandroiddev.com/an-effective-testing-strategy-for-android-i-4a269d134acf)
+    * [WorkManager, Dagger and Testing](https://medium.com/@rotxed/workmanager-dagger-and-testing-bee7d244d1ac)
 
 ---
 
