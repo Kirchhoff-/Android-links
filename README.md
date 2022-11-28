@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2021%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2028%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -399,13 +399,9 @@ Jump to
     * [Ten #AndroidLifeHacks You Can Use Today](https://gpeal.medium.com/ten-androidlifehacks-you-can-use-today-9f74186fc207)
     * [Making Sense of Intent Filters in Android 13](https://medium.com/androiddevelopers/making-sense-of-intent-filters-in-android-13-8f6656903dde)
 * Net
-    * [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
-    * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
     * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
-    * [OkHttp & OAuth: Token Refreshes](https://blog.coinbase.com/okhttp-oauth-token-refreshes-b598f55dd3b2)
     * [Four Ways to Bypass Android SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
     * [Securing Network and Inter-App Communications on Android](https://heartbeat.fritz.ai/securing-network-and-inter-app-communications-in-android-c733baa5057c)
-    * [Maximizing OkHttp connection reuse](https://medium.com/booking-com-development/maximizing-okhttp-connection-reuse-b1f0ad6ec66c)
 * ProGuard
     * [Practical ProGuard rules examples](https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9)
     * [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
@@ -1169,6 +1165,17 @@ Jump to
     * [Hilt — Adding components to the hierarchy](https://medium.com/androiddevelopers/hilt-adding-components-to-the-hierarchy-96f207d6d92d)
 
 ---
+
+## Net
+[back to top](#readme)
+* [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
+* [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
+* [OkHttp & OAuth: Token Refreshes](https://blog.coinbase.com/okhttp-oauth-token-refreshes-b598f55dd3b2)
+* [Maximizing OkHttp connection reuse](https://medium.com/booking-com-development/maximizing-okhttp-connection-reuse-b1f0ad6ec66c)
+* [Retrofit — Effective error handling with Kotlin Coroutine and Result API](https://blog.canopas.com/retrofit-effective-error-handling-with-kotlin-coroutine-and-result-api-405217e9a73d)
+
+---
+
 ## Other Libraries
 [back to top](#readme)
 * [Introducing Ruler: Our Tool for Measuring Android App Size](https://engineering.atspotify.com/2022/02/introducing-ruler-our-tool-for-measuring-android-app-size/)
