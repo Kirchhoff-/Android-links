@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2028%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2030%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -196,6 +196,7 @@ Jump to
 * [The Importance of Validating the Gradle Wrapper](https://jdvp.me/articles/Gradle-Wrapper-Validation)
 * [TOML + Gradle + project accessors](https://funkymuse.dev/posts/toml-gradle/)
 * [Integrate Version catalog in Android](https://blog.canopas.com/integrate-version-catalog-in-android-2f26d6fff3ea)
+* [Strategies for managing Gradle dependencies](https://proandroiddev.com/different-ways-to-manage-your-app-gradle-with-increasing-dependencies-count-e4105a16abb5)
 
 ---
 
