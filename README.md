@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2030%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2005%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -126,6 +126,7 @@ Jump to
     * [Lazy Grid layouts in Compose](https://www.valueof.io/blog/lazy-grids-gridcells-fixed-adaptive-custom-compose)
     * [Quick Note on Jetpack Compose Recomposition](https://blog.canopas.com/quick-note-on-jetpack-compose-recomposition-d9af4e3f8e5b)
     * [Debugging and fixing a *huge* Jetpack Compose performance problem in my Sudoku-solver app](https://christopherward.medium.com/debugging-and-fixing-a-huge-jetpack-compose-performance-problem-in-my-sudoku-solver-app-8f67fa229dc2)
+    * [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b)
 
 ---
 
