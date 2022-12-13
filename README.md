@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2012%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2013%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -199,6 +199,7 @@ Jump to
 * [TOML + Gradle + project accessors](https://funkymuse.dev/posts/toml-gradle/)
 * [Integrate Version catalog in Android](https://blog.canopas.com/integrate-version-catalog-in-android-2f26d6fff3ea)
 * [Strategies for managing Gradle dependencies](https://proandroiddev.com/different-ways-to-manage-your-app-gradle-with-increasing-dependencies-count-e4105a16abb5)
+* [Impact of Dependency Tree Depth on Gradle Builds](https://www.droidchef.dev/impact-of-dependency-tree-depth-on-gradle-builds/)
 
 ---
 
