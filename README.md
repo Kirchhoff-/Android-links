@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2013%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2014%202022-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -128,6 +128,7 @@ Jump to
     * [Debugging and fixing a *huge* Jetpack Compose performance problem in my Sudoku-solver app](https://christopherward.medium.com/debugging-and-fixing-a-huge-jetpack-compose-performance-problem-in-my-sudoku-solver-app-8f67fa229dc2)
     * [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b)
     * [Jetpack Compose bottom sheet over Android view using Kotlin extension](https://proandroiddev.com/jetpack-compose-bottom-sheet-over-android-view-using-kotlin-extension-7fecfa8fe369)
+    * [Animating visibility vs alpha in Compose](https://www.valueof.io/blog/animatedvisibility-animate-float-as-state-alpha-position)
 
 ---
 
