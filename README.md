@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2014%202022-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2009%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -295,6 +295,7 @@ Jump to
 * [Spot your UI jank using CPU profiler in Android Studio](https://medium.com/androiddevelopers/spot-your-ui-jank-using-cpu-profiler-in-android-studio-9a4c41a54dab)
 * [My Top 7 Most Underrated IntelliJ IDEA Features](https://betterprogramming.pub/my-top-7-most-underrated-intellij-idea-features-572b0b706bd6)
 * [Things you can do in Android Studio](https://adambennett.dev/2022/06/things-you-can-do-in-android-studio/)
+* [Quick tip: finetune your Android Studio and IntelliJ Welcome screen](https://dev.to/tkuenneth/quick-tip-finetune-your-android-studio-and-intellij-welcome-screen-42m6)
 
 ---
 
