@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2009%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2011%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -622,6 +622,7 @@ Jump to
     * [Safely collecting hot flows from Android native UI](https://chao2zhang.medium.com/safely-collecting-hot-flows-from-android-native-ui-f22f645edb44)
     * [Explore LiveData & StateFlow Value Emitting Behavior](https://medium.com/mobile-app-development-publication/explore-livedata-stateflow-value-emitting-behavior-3f5c9e8ef2e3)
     * [Kotlin Flow Retry Operator with Exponential Backoff Delay](https://blog.mindorks.com/kotlin-flow-retry-operator-with-exponential-backoff-delay)
+    * [Retry Operator in Kotlin Flow](https://amitshekhar.me/blog/retry-operator-in-kotlin-flow)
 * Other
     * [Using Kotlin in a Java project: 10 lessons learned](https://xebia.com/using-kotlin-in-a-java-project-10-lessons-learned/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
