@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2011%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2012%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -1081,6 +1081,7 @@ Jump to
     * [The Future of You](https://www.youngmoney.co/p/future-d9ba)
     * [Time Isn't Money](https://www.youngmoney.co/p/time-isnt-money-b288)
     * [What the Money is For](https://ofdollarsanddata.com/what-the-money-is-for/)
+    * [Who Wants to Be a Billionaire?](https://awealthofcommonsense.com/2022/11/who-wants-to-be-a-billionaire/)
 
 ---
 
