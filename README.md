@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2014%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2016%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -129,6 +129,7 @@ Jump to
     * [Jetpack Compose — When should I use derivedStateOf?](https://medium.com/androiddevelopers/jetpack-compose-when-should-i-use-derivedstateof-63ce7954c11b)
     * [Jetpack Compose bottom sheet over Android view using Kotlin extension](https://proandroiddev.com/jetpack-compose-bottom-sheet-over-android-view-using-kotlin-extension-7fecfa8fe369)
     * [Animating visibility vs alpha in Compose](https://www.valueof.io/blog/animatedvisibility-animate-float-as-state-alpha-position)
+    * [Brushing up on Compose Text coloring](https://medium.com/androiddevelopers/brushing-up-on-compose-text-coloring-84d7d70dd8fa)
 
 ---
 
