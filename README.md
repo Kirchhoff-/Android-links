@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2016%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2017%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -130,6 +130,7 @@ Jump to
     * [Jetpack Compose bottom sheet over Android view using Kotlin extension](https://proandroiddev.com/jetpack-compose-bottom-sheet-over-android-view-using-kotlin-extension-7fecfa8fe369)
     * [Animating visibility vs alpha in Compose](https://www.valueof.io/blog/animatedvisibility-animate-float-as-state-alpha-position)
     * [Brushing up on Compose Text coloring](https://medium.com/androiddevelopers/brushing-up-on-compose-text-coloring-84d7d70dd8fa)
+    * [Drawing custom text spans in Compose UI](https://saket.me/compose-custom-text-spans/)
 
 ---
 
