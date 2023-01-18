@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2017%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2018%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -273,6 +273,7 @@ Jump to
     * [The ABC of Modularization for Android in 2021](https://proandroiddev.com/the-abc-of-modularization-for-android-in-2021-e7b3fbe29fca)
     * [Practical Modularisation for Android Developers](https://jordanterry.co.uk/practical-modularisation-for-android-developers)
     * [MULTI-MODULE NAVIGATION IMPLEMENTATION WITH OUR ANDROID TEAM](https://choco.com/us/stories/life-at-choco/implementing-multi-module-navigation-android)
+    * [Domain-Specific Models](https://blog.danlew.net/2022/08/15/domain-specific-models/)
 
 ---
 
