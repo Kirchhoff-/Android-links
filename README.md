@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2018%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2019%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -274,6 +274,7 @@ Jump to
     * [Practical Modularisation for Android Developers](https://jordanterry.co.uk/practical-modularisation-for-android-developers)
     * [MULTI-MODULE NAVIGATION IMPLEMENTATION WITH OUR ANDROID TEAM](https://choco.com/us/stories/life-at-choco/implementing-multi-module-navigation-android)
     * [Domain-Specific Models](https://blog.danlew.net/2022/08/15/domain-specific-models/)
+    * [How To Avoid Use Cases Boilerplate in Android](https://betterprogramming.pub/how-to-avoid-use-cases-boilerplate-in-android-d0c9aa27ef27)
 
 ---
 
