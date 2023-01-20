@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2019%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2020%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -275,6 +275,7 @@ Jump to
     * [MULTI-MODULE NAVIGATION IMPLEMENTATION WITH OUR ANDROID TEAM](https://choco.com/us/stories/life-at-choco/implementing-multi-module-navigation-android)
     * [Domain-Specific Models](https://blog.danlew.net/2022/08/15/domain-specific-models/)
     * [How To Avoid Use Cases Boilerplate in Android](https://betterprogramming.pub/how-to-avoid-use-cases-boilerplate-in-android-d0c9aa27ef27)
+    * [The famous and unthought MVI misconception in Android, alongside MVVM](https://funkymuse.dev/posts/the-story-of-mvi/)
 
 ---
 
