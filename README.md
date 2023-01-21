@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2020%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2021%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -131,6 +131,7 @@ Jump to
     * [Animating visibility vs alpha in Compose](https://www.valueof.io/blog/animatedvisibility-animate-float-as-state-alpha-position)
     * [Brushing up on Compose Text coloring](https://medium.com/androiddevelopers/brushing-up-on-compose-text-coloring-84d7d70dd8fa)
     * [Drawing custom text spans in Compose UI](https://saket.me/compose-custom-text-spans/)
+    * [Organizing @Composables](https://handstandsam.com/2022/11/30/organizing-composables/)
 
 ---
 
