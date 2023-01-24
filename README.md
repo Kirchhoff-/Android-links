@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2023%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2024%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -565,6 +565,7 @@ Jump to
     * [Awaiting Multiple Coroutines the Clean Way](https://proandroiddev.com/awaiting-multiple-coroutines-the-clean-way-75469f8df160)
     * [Understand Android Lifecycle Aware Coroutine Scope Made Easy](https://medium.com/mobile-app-development-publication/understand-android-lifecycle-aware-coroutine-scope-made-easy-f86d13d16f0e)
     * [Things every Kotlin Developer should know about Coroutines. Part 2: CoroutineScope](https://maxkim.eu/things-every-kotlin-developer-should-know-about-coroutines-part-2-coroutinescope)
+    * [Slowing down your code with Coroutines](https://kt.academy/article/slowing-down-coroutines)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
