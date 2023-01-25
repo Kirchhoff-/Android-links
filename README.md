@@ -74,6 +74,7 @@ Jump to
     * [[Youtube] Transitions without Activities or Fragments](https://www.youtube.com/watch?v=9Y5cbC5YrOY)
     * [Building a Segmented Progress Bar in Android](https://medium.com/betclic-tech/building-a-segmented-progress-bar-in-android-e3f198db393d)
     * [Sonar-like animation](https://proandroiddev.com/sonar-like-animation-c1e7c5b291bd) 
+    * [Mastering Android Dialogs: Don’t follow official Google Guides](https://medium.com/codex/mastering-android-dialogs-dont-follow-official-google-guides-3821f8e9dd91)
 * RecyclerView
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
     * [RecyclerView animations done right](http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/)
@@ -90,7 +91,6 @@ Jump to
     * [Efficient lists with DiffUtil and ListAdapter](https://bignerdranch.com/blog/efficient-lists-with-diffutil-and-listadapter/)
     * [RecyclerView Item Change Animations With a Custom Item Animator](https://medium.com/swlh/recyclerview-item-change-animations-ebe2383bb481)
     * [Paging Image Carousel with RecyclerView](https://medium.com/holler-developers/paging-image-gallery-with-recyclerview-f059d035b7e7)
-    * [Mastering Android Dialogs: Don’t follow official Google Guides](https://medium.com/codex/mastering-android-dialogs-dont-follow-official-google-guides-3821f8e9dd91)
 * WebView
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
     * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
