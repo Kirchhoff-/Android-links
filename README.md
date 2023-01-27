@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2026%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2027%202023-brightgreen.svg)
 
 Jump to
 - [Android](#android)
@@ -74,7 +74,6 @@ Jump to
     * [[Youtube] Transitions without Activities or Fragments](https://www.youtube.com/watch?v=9Y5cbC5YrOY)
     * [Building a Segmented Progress Bar in Android](https://medium.com/betclic-tech/building-a-segmented-progress-bar-in-android-e3f198db393d)
     * [Sonar-like animation](https://proandroiddev.com/sonar-like-animation-c1e7c5b291bd) 
-    * [Mastering Android Dialogs: Don’t follow official Google Guides](https://medium.com/codex/mastering-android-dialogs-dont-follow-official-google-guides-3821f8e9dd91)
 * RecyclerView
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
     * [RecyclerView animations done right](http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/)
@@ -91,6 +90,11 @@ Jump to
     * [Efficient lists with DiffUtil and ListAdapter](https://bignerdranch.com/blog/efficient-lists-with-diffutil-and-listadapter/)
     * [RecyclerView Item Change Animations With a Custom Item Animator](https://medium.com/swlh/recyclerview-item-change-animations-ebe2383bb481)
     * [Paging Image Carousel with RecyclerView](https://medium.com/holler-developers/paging-image-gallery-with-recyclerview-f059d035b7e7)
+* Dialogs
+    * [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
+    * [Dialogs in Android: Practical Guide](https://www.techyourchance.com/dialogs-in-android-practical-guide/)
+    * [What you might not know about the AlertDialog](https://proandroiddev.com/what-you-might-not-know-about-the-alertdialog-2bdc55f3d907)
+    * [Mastering Android Dialogs: Don’t follow official Google Guides](https://medium.com/codex/mastering-android-dialogs-dont-follow-official-google-guides-3821f8e9dd91)
 * WebView
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
     * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
@@ -319,7 +323,6 @@ Jump to
     * [Exploring the Android EmojiCompat Library](https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa)
     * [Optimizing the Performance of Vector Drawables](https://upday.github.io/blog/vector_drawables_optimisation/)
     * [Task Stack](https://blog.stylingandroid.com/task-stack/)
-    * [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
     * [Understanding Activity.runOnUiThread()](https://medium.com/@yossisegev/understanding-activity-runonuithread-e102d388fe93)
     * [Safe-Integration of Realm in Android production code](https://medium.com/@Viraj.Tank/realm-integration-in-android-best-practices-449919d25f2f)
     * [How to Correctly Store App-Specific Files in Android](https://www.grokkingandroid.com/how-to-correctly-store-app-specific-files-in-android/)
@@ -349,7 +352,6 @@ Jump to
     * [Holiday clean up or cute versioning in android](https://treatwell.engineering/holiday-clean-up-or-cute-versioning-in-android-bf02356dd07f)
     * [Divide and conquer](https://treatwell.engineering/divide-and-conquer-6604084e3f41)
     * [TimingLogger: An idiomatic Android approach to measuring execution time](https://itnext.io/timinglogger-an-idiomatic-android-approach-to-measuring-execution-time-8ac10a8fa0ba)
-    * [Dialogs in Android: Practical Guide](https://www.techyourchance.com/dialogs-in-android-practical-guide/)
     * [Android ProcessLifecycleOwner by example](https://proandroiddev.com/android-processlifecycleowner-by-example-2f965061b9da)
     * [Coil vs Picasso vs Glide: Get Ready… Go!](https://proandroiddev.com/coil-vs-picasso-vs-glide-get-ready-go-774add8cfd40)
     * [How to Use Shared Element Transition with Glide in 4 steps](https://www.thedroidsonroids.com/blog/how-to-use-shared-element-transition-with-glide-in-4-step)
@@ -365,7 +367,6 @@ Jump to
     * [Evolution of Finding Views by ID in Android](https://wajahatkarim.com/2020/04/evolution-of-finding-views/)
     * [App Standby Buckets In Android](https://medium.com/mindorks/app-standby-buckets-in-android-ada2d2929350)
     * [Make Android View Binding great with Kotlin](https://proandroiddev.com/make-android-view-binding-great-with-kotlin-b71dd9c87719)
-    * [What you might not know about the AlertDialog](https://proandroiddev.com/what-you-might-not-know-about-the-alertdialog-2bdc55f3d907)
     * [The First 2 Commits Every Android Project Should Have](https://medium.com/livefront/the-first-2-commits-every-android-project-should-have-e8a245ac86)
     * [8 Valid Reasons for Modularization in Android](https://www.techyourchance.com/modularization-android)
     * [5 Most Popular Package Structures for Software Projects](https://www.techyourchance.com/popular-package-structures/)
