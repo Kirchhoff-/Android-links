@@ -1,7 +1,7 @@
 # Android-links
 ![](https://img.shields.io/badge/Updated-January%20%2028%202023-brightgreen.svg)
 
-Manually curated collection of links about android development that I found useful/interesting.
+Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
 Jump to
 - [Android](#android)
