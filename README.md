@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2028%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2030%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -896,6 +896,7 @@ Jump to
     * [Stubbing with doAnswer vs doReturn – what's the difference?](https://kotlintesting.com/doanswer-vs-doreturn/)
     * [An effective testing strategy for Android](https://proandroiddev.com/an-effective-testing-strategy-for-android-i-4a269d134acf)
     * [WorkManager, Dagger and Testing](https://medium.com/@rotxed/workmanager-dagger-and-testing-bee7d244d1ac)
+    * [Testing functions with lambdas using MockK](https://www.valueof.io/blog/testing-listener-lambda-mockk)
 
 ---
 
