@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2030%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2003%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -311,6 +311,7 @@ Jump to
 * [Things you can do in Android Studio](https://adambennett.dev/2022/06/things-you-can-do-in-android-studio/)
 * [Quick tip: finetune your Android Studio and IntelliJ Welcome screen](https://dev.to/tkuenneth/quick-tip-finetune-your-android-studio-and-intellij-welcome-screen-42m6)
 * [Android Studio's "I'm Feeling Lucky" Button](https://www.zacsweers.dev/android-studios-im-feeling-lucky-button/)
+* [See Crashlytics issue reports directly in Android Studio with App Quality Insights](https://medium.com/androiddevelopers/see-crashlytics-issue-reports-directly-in-android-studio-with-app-quality-insights-db0ff27454f0)
 
 ---
 
