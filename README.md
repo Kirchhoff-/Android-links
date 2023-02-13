@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2011%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2013%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1029,6 +1029,7 @@ Jump to
     * [Modern software engineering or just a gardener's job!?](https://funkymuse.dev/posts/software_engineering_2021/)
     * [5 daily habits of senior engineers](https://medium.com/developer-purpose/5-daily-habits-of-kick-ss-engineers-67a053759e04)
     * [How I Use Slack](https://gpeal.medium.com/how-i-use-slack-b0dbf06d9a18)
+    * [Top 3 Challenges After Becoming an Engineering Manager](https://magdamiu.com/2023/02/11/top-3-challenges-after-becoming-an-engineering-manager/)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
