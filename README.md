@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2014%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2015%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -286,6 +286,7 @@ Jump to
     * [The famous and unthought MVI misconception in Android, alongside MVVM](https://funkymuse.dev/posts/the-story-of-mvi/)
     * [Adding a domain layer](https://medium.com/androiddevelopers/adding-a-domain-layer-bc5a708a96da)
     * [Principles & Practice in Repository Layer](https://proandroiddev.com/principles-practice-in-repository-layer-444551b96cf8)
+    * [Interface Naming Conventions](https://androiddev.blog/interface-naming-conventions/)
 
 ---
 
