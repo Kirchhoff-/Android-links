@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2015%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2016%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -139,6 +139,7 @@ Jump to
     * [Brushing up on Compose Text coloring](https://medium.com/androiddevelopers/brushing-up-on-compose-text-coloring-84d7d70dd8fa)
     * [Drawing custom text spans in Compose UI](https://saket.me/compose-custom-text-spans/)
     * [Organizing @Composables](https://handstandsam.com/2022/11/30/organizing-composables/)
+    * [Everything you need to know about Side Effects in Jetpack Compose with examples](https://www.composables.co/blog/side-effects)
 
 ---
 
