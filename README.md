@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2022%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2023%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -779,6 +779,7 @@ Jump to
 * [Distance of coupling](https://www.yegor256.com/2020/10/27/distance-of-coupling.html)
 * [Compile less with SOLID](https://proandroiddev.com/compile-less-with-solid-bd0633c1f84)
 * [SOLID Principles Sketches](https://itnext.io/solid-principles-sketches-a38865e771f0)
+* [Smaller Try-Blocks Are Better](https://www.yegor256.com/2022/09/08/smaller-try-blocks.html)
 
 ---
 
