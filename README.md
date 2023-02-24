@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2023%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2024%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -141,6 +141,7 @@ Jump to
     * [Organizing @Composables](https://handstandsam.com/2022/11/30/organizing-composables/)
     * [Everything you need to know about Side Effects in Jetpack Compose with examples](https://www.composables.co/blog/side-effects)
     * [6 Jetpack Compose Guidelines to Optimize Your App Performance](https://getstream.io/blog/jetpack-compose-guidelines/)
+    * [Comparing Jetpack Compose performance with XML](https://medium.com/okcredit/comparing-jetpack-compose-performance-with-xml-9462a1282c6b)
 
 ---
 
