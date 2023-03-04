@@ -227,9 +227,7 @@ Jump to
     * [Architecture Components - I'm not a purist but](http://hannesdorfmann.com/android/arch-components-purist)
     * [Background and Foreground events with Android Architecture Components](https://medium.com/@arturogdg/background-and-foreground-events-with-android-architecture-components-233fdd9fa855)
     * [[Video] Clean App Design with Architecture Components](https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/)
-    * [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
     * [5 common mistakes when using Architecture Components](https://proandroiddev.com/5-common-mistakes-when-using-architecture-components-403e9899f4cb)
-    * [Using Realm with Kotlin and LiveData](https://proandroiddev.com/the-realm-of-kotlin-and-live-data-using-mvp-architecture-f04fc41c914e)
     * [Architecture Components & MVP \ MVVM](https://android.jlelse.eu/architecture-components-mvp-mvvm-237eaa831096)
     * [A WorkManager Pitfall: Modifying a Scheduled Worker](https://craigrussell.io/2019/04/a-workmanager-pitfall-modifying-a-scheduled-worker/)
     * [Workout your tasks with WorkManager](https://proandroiddev.com/workout-your-tasks-with-workmanager-intro-db5aefe14d66)
@@ -237,9 +235,6 @@ Jump to
     * [Architecture Components pitfalls](https://medium.com/@BladeCoder/architecture-components-pitfalls-part-1-9300dd969808)
     * [SavedStateHandle to the Rescue](https://medium.com/making-meetup/savedstatehandle-to-the-rescue-bec7ce8257f1)
     * [Paging3 — Doing Recyclerview Pagination the Right Way](https://medium.com/swlh/paging3-recyclerview-pagination-made-easy-333c7dfa8797)
-    * [When LiveData and Kotlin don’t play well together](https://medium.com/google-developer-experts/when-livedata-and-kotlin-dont-play-hand-in-hand-30149aa794ec)
-    * [Avoid backing properties for LiveData and StateFlow](https://medium.com/google-developer-experts/avoid-backing-properties-for-livedata-and-stateflow-706006c9867e)
-    * [When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6?gi=f5eaa6dafeb4)
     * [The curious case of crashing Workers](https://jeroenmols.com/blog/2022/04/27/workmanager-crash/)
 * ViewModel
     * [Android ViewModel should be called scopedComponent](https://medium.com/@mattcarroll/android-viewmodel-should-be-called-scopedcomponent-ffcafdbd7a98)    
@@ -250,6 +245,12 @@ Jump to
     * [Should I use Jetpack ViewModel?](https://www.glureau.com/2020/05/15/Jetpack-ViewModel-ProCons/)
     * [Dive deep into Android’s ViewModel — Android Architecture Components](https://android.jlelse.eu/dive-deep-into-androids-viewmodel-android-architecture-components-e0a7ded26f70)  
     * [Composite ViewModel](https://www.halfbit.de/posts/composite-viewmodel/)
+* LiveData
+    * [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
+    * [Using Realm with Kotlin and LiveData](https://proandroiddev.com/the-realm-of-kotlin-and-live-data-using-mvp-architecture-f04fc41c914e)
+    * [When LiveData and Kotlin don’t play well together](https://medium.com/google-developer-experts/when-livedata-and-kotlin-dont-play-hand-in-hand-30149aa794ec)       
+    * [Avoid backing properties for LiveData and StateFlow](https://medium.com/google-developer-experts/avoid-backing-properties-for-livedata-and-stateflow-706006c9867e)   
+    * [When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6?gi=f5eaa6dafeb4)
 * Navigation
     * [AndroidX Navigation: Building on the Wrong Abstraction](https://proandroiddev.com/androidx-navigation-building-on-the-wrong-abstraction-1d7c4a64318c)   
     * [How do we handle multi-modules navigation on our Android app](https://medium.com/back-market-engineering/how-we-handle-multi-modules-navigation-on-our-android-app-25319e62d219)    
