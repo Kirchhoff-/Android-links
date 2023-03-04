@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2002%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2004%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -244,11 +244,18 @@ Jump to
     * [Architecture Components pitfalls](https://medium.com/@BladeCoder/architecture-components-pitfalls-part-1-9300dd969808)
     * [SavedStateHandle to the Rescue](https://medium.com/making-meetup/savedstatehandle-to-the-rescue-bec7ce8257f1)
     * [Paging3 — Doing Recyclerview Pagination the Right Way](https://medium.com/swlh/paging3-recyclerview-pagination-made-easy-333c7dfa8797)
-    * [AndroidX Navigation: Building on the Wrong Abstraction](https://proandroiddev.com/androidx-navigation-building-on-the-wrong-abstraction-1d7c4a64318c)
     * [When LiveData and Kotlin don’t play well together](https://medium.com/google-developer-experts/when-livedata-and-kotlin-dont-play-hand-in-hand-30149aa794ec)
     * [Avoid backing properties for LiveData and StateFlow](https://medium.com/google-developer-experts/avoid-backing-properties-for-livedata-and-stateflow-706006c9867e)
     * [When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6?gi=f5eaa6dafeb4)
     * [The curious case of crashing Workers](https://jeroenmols.com/blog/2022/04/27/workmanager-crash/)
+* Navigation
+    * [AndroidX Navigation: Building on the Wrong Abstraction](https://proandroiddev.com/androidx-navigation-building-on-the-wrong-abstraction-1d7c4a64318c)   
+    * [How do we handle multi-modules navigation on our Android app](https://medium.com/back-market-engineering/how-we-handle-multi-modules-navigation-on-our-android-app-25319e62d219)    
+    * [Structural and navigation anti-patterns in multi-module and modularized applications](https://proandroiddev.com/structural-and-navigation-anti-patterns-in-modularized-android-applications-a7d667e35cd6)    
+    * [Jetpack Compose navigation architecture with ViewModels](https://proandroiddev.com/jetpack-compose-navigation-architecture-with-viewmodels-1de467f19e1c)
+    * [Modular navigation with Jetpack Compose](https://compose.academy/blog/modular_navigation_with_jetpack_compose)   
+    * [MULTI-MODULE NAVIGATION IMPLEMENTATION WITH OUR ANDROID TEAM](https://choco.com/us/stories/life-at-choco/implementing-multi-module-navigation-android)    
+    * [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
@@ -274,18 +281,12 @@ Jump to
     * [Thoughts about State Handling on Android](https://zsmb.co/thoughts-about-state-handling-on-android/)
     * [Composite ViewModel](https://www.halfbit.de/posts/composite-viewmodel/)
     * [Finding the right abstraction (when working with Strings)](https://hannesdorfmann.com/abstraction-text-resource/)
-    * [How do we handle multi-modules navigation on our Android app](https://medium.com/back-market-engineering/how-we-handle-multi-modules-navigation-on-our-android-app-25319e62d219)
-    * [Structural and navigation anti-patterns in multi-module and modularized applications](https://proandroiddev.com/structural-and-navigation-anti-patterns-in-modularized-android-applications-a7d667e35cd6)
     * [Repository initialization without StrictMode violations](https://proandroiddev.com/repository-initialization-without-strictmode-violations-fbbd6e554219)
     * [Our Way to MVVMI and Mistakes We Made When Implementing MVVM](https://proandroiddev.com/our-way-to-mvvmi-and-mistakes-we-made-when-implementing-mvvm-5f5448b5ad50)
-    * [Multi-module Navigation in Android](https://itnext.io/multi-module-navigation-in-android-63cb9924ffbd)
     * [Architecture in Jetpack Compose — MVP, MVVM, & MVI](https://medium.com/mobile-at-octopus-energy/architecture-in-jetpack-compose-mvp-mvvm-mvi-17d8170a13fd)
     * [Traditional MVVM with Jetpack Compose and StateFlow](https://proandroiddev.com/traditional-mvvm-with-jetpack-compose-and-stateflow-7ca934e12784)
-    * [Jetpack Compose navigation architecture with ViewModels](https://proandroiddev.com/jetpack-compose-navigation-architecture-with-viewmodels-1de467f19e1c)
-    * [Modular navigation with Jetpack Compose](https://compose.academy/blog/modular_navigation_with_jetpack_compose)
     * [The ABC of Modularization for Android in 2021](https://proandroiddev.com/the-abc-of-modularization-for-android-in-2021-e7b3fbe29fca)
     * [Practical Modularisation for Android Developers](https://jordanterry.co.uk/practical-modularisation-for-android-developers)
-    * [MULTI-MODULE NAVIGATION IMPLEMENTATION WITH OUR ANDROID TEAM](https://choco.com/us/stories/life-at-choco/implementing-multi-module-navigation-android)
     * [Domain-Specific Models](https://blog.danlew.net/2022/08/15/domain-specific-models/)
     * [How To Avoid Use Cases Boilerplate in Android](https://betterprogramming.pub/how-to-avoid-use-cases-boilerplate-in-android-d0c9aa27ef27)
     * [The famous and unthought MVI misconception in Android, alongside MVVM](https://funkymuse.dev/posts/the-story-of-mvi/)
@@ -800,7 +801,6 @@ Jump to
 * [Vertical and Horizontal Decorating](https://www.yegor256.com/2015/10/01/vertical-horizontal-decorating.html)
 * [Great Adpater Hell Escape](http://hannesdorfmann.com/android/adapter-delegates)
 * [Building vertical decorators right](https://www.vzurauskas.com/2018/10/28/building-vertical-decorators-right)
-* [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
 * [Inversion of control containers and the dependency injection pattern](https://martinfowler.com/articles/injection.html)
 * [Service locator vs dependency injection](http://guy-murphy.github.io/2014/11/24/service-locator-vs-dependency-injection/)
 * [Composable Decorators vs. Imperative Utility Methods](https://www.yegor256.com/2015/02/26/composable-decorators.html)
