@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2007%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2008%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -145,6 +145,7 @@ Jump to
     * [Nested Auto Scroll For Section Based Lists With Jetpack Compose](https://proandroiddev.com/nested-auto-scroll-for-multiple-section-based-lists-with-jetpack-compose-c193a9814b09)
     * [A comprehensive guide to Android runtime permissions using Jetpack Compose](https://www.composables.co/blog/permissions)
     * [Exploring Jetpack Compose for Android TV: Carousel](https://joebirch.co/android/exploring-jetpack-compose-for-android-tv-carousel/)
+    * [Collapsing Toolbar in Jetpack Compose LazyColumn — Three Approaches](https://proandroiddev.com/collapsing-toolbar-in-jetpack-compose-lazycolumn-3-approaches-702684d61843)
 
 ---
 
