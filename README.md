@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2008%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2009%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -218,6 +218,7 @@ Jump to
 * [Integrate Version catalog in Android](https://blog.canopas.com/integrate-version-catalog-in-android-2f26d6fff3ea)
 * [Strategies for managing Gradle dependencies](https://proandroiddev.com/different-ways-to-manage-your-app-gradle-with-increasing-dependencies-count-e4105a16abb5)
 * [Impact of Dependency Tree Depth on Gradle Builds](https://www.droidchef.dev/impact-of-dependency-tree-depth-on-gradle-builds/)
+* [Different ways to handle Android Gradle dependencies](https://proandroiddev.com/different-ways-to-handle-android-gradle-dependencies-68ae00ca286c)
 
 ---
 
