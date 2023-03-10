@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2009%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2010%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -146,6 +146,7 @@ Jump to
     * [A comprehensive guide to Android runtime permissions using Jetpack Compose](https://www.composables.co/blog/permissions)
     * [Exploring Jetpack Compose for Android TV: Carousel](https://joebirch.co/android/exploring-jetpack-compose-for-android-tv-carousel/)
     * [Collapsing Toolbar in Jetpack Compose LazyColumn — Three Approaches](https://proandroiddev.com/collapsing-toolbar-in-jetpack-compose-lazycolumn-3-approaches-702684d61843)
+    * [How to have multiple styles within Jetpack Compose Text](https://medium.com/@mark.frelih_9464/how-to-have-multiple-styles-within-jetpack-compose-text-2b6d2c3174d8)
 
 ---
 
