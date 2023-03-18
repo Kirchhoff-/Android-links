@@ -458,6 +458,7 @@ Jump to
     * [Our battle with the OutOfMemory army](https://medium.com/lalafo-engineering/our-battle-with-the-outofmemory-army-bd6b384f1f0c)
     * [Reliable Hot Reload on Android](https://medium.com/@gpeal/reliable-hot-reload-on-android-27f14a80df60)
     * [Detecting memory leaks in Android applications](https://dropbox.tech/mobile/detecting-memory-leaks-in-android-applications)
+    * [Everything you need to know about Memory Leaks in Android](https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a)
 * Lint/Static analysis
     * [[Yotube] Linty Fresh](https://www.youtube.com/watch?v=YseGWp7iouM)
     * [Multi-module Lint Rules](https://zarah.dev/2021/10/04/multi-module-lint.html)  
