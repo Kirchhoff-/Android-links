@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2013%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2022%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -149,6 +149,7 @@ Jump to
     * [How to have multiple styles within Jetpack Compose Text](https://medium.com/@mark.frelih_9464/how-to-have-multiple-styles-within-jetpack-compose-text-2b6d2c3174d8)
     * [How to Handle Automatic Content Resizing when keyboard is visible in Jetpack Compose](https://medium.com/@mark.frelih_9464/how-to-handle-automatic-content-resizing-when-keyboard-is-visible-in-jetpack-compose-1c76e0e17c57)
     * [Jetpack Compose Tutorial: Replicating Dribbble Audio App - Screen Transitions](https://exyte.com/blog/android-dribbble-replicating-part-4)
+    * [Jetpack Compose: Switch](https://alexzh.com/jetpack-compose-switch/)
 
 ---
 
