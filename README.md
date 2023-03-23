@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2022%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2023%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1115,6 +1115,7 @@ Jump to
     * [[Youtube] Keep a balance between work for money and investments into yourself](https://www.youtube.com/watch?v=SNAULZ4KRak)
     * [The Overfinancialization of Everything](https://www.youngmoney.co/p/overfinancialization-everything)
     * [23 Life Tasks For Sorting Out Your Life](https://www.ryandelaney.co/blog/life-tasks-for-sorting-out-your-life)
+    * [The Happiness Paradox](https://awealthofcommonsense.com/2023/03/the-happiness-paradox/)
 * Investment
     * [The Future of You](https://www.youngmoney.co/p/future-d9ba)
     * [Time Isn't Money](https://www.youngmoney.co/p/time-isnt-money-b288)
