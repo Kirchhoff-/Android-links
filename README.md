@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2025%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2028%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -151,6 +151,7 @@ Jump to
     * [Jetpack Compose Tutorial: Replicating Dribbble Audio App - Screen Transitions](https://exyte.com/blog/android-dribbble-replicating-part-4)
     * [Jetpack Compose: Switch](https://alexzh.com/jetpack-compose-switch/)
     * [Adding animations to Google Maps in Jetpack Compose](https://www.composables.co/tutorials/animate-maps-compose)
+    * [How to build a time picker with Jetpack Compose](https://victorbrandalise.com/how-to-build-a-time-picker-with-jetpack-compose/)
 
 ---
 
