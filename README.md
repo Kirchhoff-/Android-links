@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2004%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2010%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -439,6 +439,7 @@ Jump to
     * [Ten #AndroidLifeHacks You Can Use Today](https://gpeal.medium.com/ten-androidlifehacks-you-can-use-today-9f74186fc207)
     * [Making Sense of Intent Filters in Android 13](https://medium.com/androiddevelopers/making-sense-of-intent-filters-in-android-13-8f6656903dde)
     * [Migrate The Deprecated OnBackPressed Function — Android 13](https://proandroiddev.com/migrate-the-deprecated-onbackpressed-function-android-13-d0d556244272)
+    * [3 Ways to Secure Secret Keys in Android](https://medium.com/@maydin/3-ways-to-secure-secret-keys-in-android-ccd9adaadb82)
 * Net
     * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
     * [Four Ways to Bypass Android SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
