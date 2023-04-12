@@ -799,7 +799,7 @@ Jump to
 * [Compile less with SOLID](https://proandroiddev.com/compile-less-with-solid-bd0633c1f84)
 * [SOLID Principles Sketches](https://itnext.io/solid-principles-sketches-a38865e771f0)
 * [Smaller Try-Blocks Are Better](https://www.yegor256.com/2022/09/08/smaller-try-blocks.html)
-* [[Youtube] "Making Impossible States Impossible"](https://www.youtube.com/watch?v=IcgmSRJHu_8)
+* [[Youtube] Making Impossible States Impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8)
 
 ---
 
