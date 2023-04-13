@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2012%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2013%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -833,6 +833,7 @@ Jump to
 * [Composite Design Pattern](https://dzone.com/articles/composite-design-pattern-in-java-1)
 * [Common Design Patterns and App Architectures for Android](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
 * [Why service locator is so unpopular](https://proandroiddev.com/why-service-locator-is-so-unpopular-bbe8678be72c)
+* [Streamlining User Actions with the Command Pattern: A Practical Guide](https://proandroiddev.com/streamlining-user-actions-with-the-command-pattern-a-practical-guide-72e2064b4ce7)
 
 ---
 
