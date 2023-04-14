@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2013%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2014%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -154,6 +154,7 @@ Jump to
     * [How to build a time picker with Jetpack Compose](https://victorbrandalise.com/how-to-build-a-time-picker-with-jetpack-compose/)
     * [Create a custom Theme with Jetpack Compose](https://lunabee-studio-dev.medium.com/create-a-custom-theme-with-jetpack-compose-3720fc18e01)
     * [Consuming flows safely in Jetpack Compose](https://medium.com/androiddevelopers/consuming-flows-safely-in-jetpack-compose-cde014d0d5a3)
+    * [Customizing Compose Pager with fun indicators and transitions](https://medium.com/androiddevelopers/customizing-compose-pager-with-fun-indicators-and-transitions-12b3b69af2cc)
 
 ---
 
