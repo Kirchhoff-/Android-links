@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2017%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2018%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -726,6 +726,7 @@ Jump to
     * [Exploring Kotlin initialization with Android custom views](https://medium.com/google-developer-experts/exploring-kotlin-initialization-with-android-custom-views-cde06e915e8d)
     * [Values, not Enums](https://medium.com/@ReneeVandervelde/values-not-enums-1223f85c7f7)
     * [Using the Kotlin standard library from Java](https://medium.com/google-developer-experts/using-the-kotlin-standard-library-in-java-ea0766deac10)
+    * [Mastering Enums in Kotlin: A Guide to Simplify Your Code](https://towardsdev.com/mastering-enums-in-kotlin-a-guide-to-simplify-your-code-130b5934cb16)
     
 ---
 
