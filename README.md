@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2025%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2001%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1063,6 +1063,7 @@ Jump to
     * [Top 3 Challenges After Becoming an Engineering Manager](https://magdamiu.com/2023/02/11/top-3-challenges-after-becoming-an-engineering-manager/)
     * [Dear Manager, You’re Holding Too Many Meetings](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)
     * [Code Changes Should Be Small or Mechanical](https://publicobject.com/2023/01/08/small-or-mechanical/)
+    * [Are meetings making you less productive?](https://stackoverflow.blog/2023/04/12/are-meetings-making-you-less-productive/)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
