@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2001%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2006%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -157,6 +157,7 @@ Jump to
     * [Customizing Compose Pager with fun indicators and transitions](https://medium.com/androiddevelopers/customizing-compose-pager-with-fun-indicators-and-transitions-12b3b69af2cc)
     * [Setting up ViewPager in Jetpack Compose](https://www.sinasamaki.com/setting-up-viewpager-in-jetpack-compose/)
     * [Implementing a circular carousel in Jetpack Compose](https://www.francescvilarino.com/jetpack-compose-carousel)
+    * [Creating Pager Animations in Jetpack Compose](https://www.sinasamaki.com/pager-animations/)
 
 ---
 
