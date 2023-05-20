@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2018%2023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2020%2023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1066,6 +1066,7 @@ Jump to
     * [Dear Manager, You’re Holding Too Many Meetings](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)
     * [Code Changes Should Be Small or Mechanical](https://publicobject.com/2023/01/08/small-or-mechanical/)
     * [Are meetings making you less productive?](https://stackoverflow.blog/2023/04/12/are-meetings-making-you-less-productive/)
+    * [10 Things to do when starting a new job](https://www.danijelavrzan.com/posts/2023/04/start-new-job/)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
