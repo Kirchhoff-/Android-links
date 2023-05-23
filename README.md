@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2020%2023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2023%2023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -232,6 +232,7 @@ Jump to
 * [Impact of Dependency Tree Depth on Gradle Builds](https://www.droidchef.dev/impact-of-dependency-tree-depth-on-gradle-builds/)
 * [Different ways to handle Android Gradle dependencies](https://proandroiddev.com/different-ways-to-handle-android-gradle-dependencies-68ae00ca286c)
 * [sourceCompatibility, targetCompatibility, and JVM toolchains in Gradle explained](https://stefma.medium.com/sourcecompatibility-targetcompatibility-and-jvm-toolchains-in-gradle-explained-d2c17c8cff7c)
+* [Gradle Basics for Android Developers](https://medium.com/android-dev-corner/gradle-basics-for-android-developers-9d7a3bf062bb)
 
 ---
 
