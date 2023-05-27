@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2026%2023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2027%2023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -159,6 +159,7 @@ Jump to
     * [Implementing a circular carousel in Jetpack Compose](https://www.francescvilarino.com/jetpack-compose-carousel)
     * [Creating Pager Animations in Jetpack Compose](https://www.sinasamaki.com/pager-animations/)
     * [Every single type of Dialog in Jetpack Compose and how to use them](https://www.composables.com/tutorials/dialogs)
+    * [ViewCompositionStrategy Demystified](https://medium.com/androiddevelopers/viewcompositionstrategy-demystefied-276427152f34)
 
 ---
 
