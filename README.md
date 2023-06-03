@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2001%2023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2003%2023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -160,7 +160,7 @@ Jump to
     * [Creating Pager Animations in Jetpack Compose](https://www.sinasamaki.com/pager-animations/)
     * [Every single type of Dialog in Jetpack Compose and how to use them](https://www.composables.com/tutorials/dialogs)
     * [ViewCompositionStrategy Demystified](https://medium.com/androiddevelopers/viewcompositionstrategy-demystefied-276427152f34)
-
+    * [Spring & Fling Animations with Jetpack compose](https://blog.canopas.com/android-spring-fling-animation-in-jetpack-compose-64b2a2e54c88)
 ---
 
 ## Context
