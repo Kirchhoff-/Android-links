@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2003%2023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2009%2023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -845,6 +845,7 @@ Jump to
 * [Common Design Patterns and App Architectures for Android](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android)
 * [Why service locator is so unpopular](https://proandroiddev.com/why-service-locator-is-so-unpopular-bbe8678be72c)
 * [Streamlining User Actions with the Command Pattern: A Practical Guide](https://proandroiddev.com/streamlining-user-actions-with-the-command-pattern-a-practical-guide-72e2064b4ce7)
+* [Dependency Injection vs. Service Locator](https://www.baeldung.com/cs/dependency-injection-vs-service-locator)
 
 ---
 
