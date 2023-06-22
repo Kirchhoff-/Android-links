@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2021%2023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2022%2023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -463,6 +463,7 @@ Jump to
     * [Is Your Kotlin Code Really Obfuscated?](https://proandroiddev.com/is-your-kotlin-code-really-obfuscated-a36abf033dde)
     * [Android's Built-in ProGuard Rules: The Missing Guide](https://www.zacsweers.dev/android-proguard-rules/)
     * [Understand Proguard Generated Files and Manually De-obfuscate Stacktrace](https://medium.com/mobile-app-development-publication/understand-proguard-generated-files-and-manually-de-obfuscate-stacktrace-6ae7c8efa59d)
+    * [Keep Rules in the Age of Kotlin](https://www.guardsquare.com/blog/keep-rules-in-the-age-of-kotlin)
 * APK/Multidex
     * [65K methods](https://medium.com/@rotxed/dex-skys-the-limit-no-65k-methods-is-28e6cb40cf71)
     * [Android APK signature scheme v3](https://www.guardsquare.com/en/blog/android-apk-signature-scheme-v3-context-and-new-opportunities)
