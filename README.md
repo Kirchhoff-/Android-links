@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2022%2023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2023%2023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -163,6 +163,7 @@ Jump to
     * [Spring & Fling Animations with Jetpack compose](https://blog.canopas.com/android-spring-fling-animation-in-jetpack-compose-64b2a2e54c88)
     * [Using PreviewParameters and providing Composables to Jetpack Compose Previews](https://www.droidcon.com/2023/05/17/using-previewparameters-and-providing-composables-to-jetpack-compose-previews/)
     * [Deep-dive into derivedStateOf and comparison with remember(key)](https://proandroiddev.com/deep-dive-into-derivedstateof-and-comparison-with-remember-key-d8469602676)
+    * [Custom TabRow Indicator in Jetpack Compose](https://www.sinasamaki.com/custom-tabrow-indicator-in-jetpack-compose/)
 ---
 
 ## Context
