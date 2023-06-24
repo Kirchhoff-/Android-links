@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2023%2023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2024%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -282,6 +282,7 @@ Jump to
     * [Modular navigation with Jetpack Compose](https://compose.academy/blog/modular_navigation_with_jetpack_compose)   
     * [MULTI-MODULE NAVIGATION IMPLEMENTATION WITH OUR ANDROID TEAM](https://choco.com/us/stories/life-at-choco/implementing-multi-module-navigation-android)    
     * [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
+    * [Problems With Navigation in Jetpack Compose](https://medium.com/profusion-engineering/problems-with-navigation-in-jetpack-compose-f1ef5536d94)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
