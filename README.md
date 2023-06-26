@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2024%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2026%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1082,6 +1082,7 @@ Jump to
     * [[Youtube] 5 Tips for Working On A Team as a Mobile Developer](https://www.youtube.com/watch?v=9xQ9x0VBtFI)
     * [The Best Advice I Have Ever Been Given](https://medium.com/bilue/the-best-advice-i-have-ever-been-given-d36f3724e86c)
     * [Farm or Grind](https://publicobject.com/2023/06/10/farm-or-grind/)
+    * [Modern work requires attention. Constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
