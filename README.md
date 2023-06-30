@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2026%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2030%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -271,7 +271,7 @@ Jump to
 * LiveData
     * [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
     * [Using Realm with Kotlin and LiveData](https://proandroiddev.com/the-realm-of-kotlin-and-live-data-using-mvp-architecture-f04fc41c914e)
-    * [When LiveData and Kotlin don’t play well together](https://medium.com/google-developer-experts/when-livedata-and-kotlin-dont-play-hand-in-hand-30149aa794ec)       
+    * [When LiveData and Kotlin don’t play well together](https://medium.com/google-developer-experts/when-livedata-and-kotlin-dont-play-hand-in-hand-30149aa794ec)
     * [Avoid backing properties for LiveData and StateFlow](https://medium.com/google-developer-experts/avoid-backing-properties-for-livedata-and-stateflow-706006c9867e)   
     * [When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6?gi=f5eaa6dafeb4)
 * Navigation
@@ -319,6 +319,7 @@ Jump to
     * [Adding a domain layer](https://medium.com/androiddevelopers/adding-a-domain-layer-bc5a708a96da)
     * [Principles & Practice in Repository Layer](https://proandroiddev.com/principles-practice-in-repository-layer-444551b96cf8)
     * [Interface Naming Conventions](https://androiddev.blog/interface-naming-conventions/)
+    * [Injection Points](https://marcellogalhardo.dev/posts/injection-points/)
 
 ---
 
