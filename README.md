@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2030%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2001%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -275,12 +275,12 @@ Jump to
     * [Avoid backing properties for LiveData and StateFlow](https://medium.com/google-developer-experts/avoid-backing-properties-for-livedata-and-stateflow-706006c9867e)   
     * [When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6?gi=f5eaa6dafeb4)
 * Navigation
-    * [AndroidX Navigation: Building on the Wrong Abstraction](https://proandroiddev.com/androidx-navigation-building-on-the-wrong-abstraction-1d7c4a64318c)   
+    * [AndroidX Navigation: Building on the Wrong Abstraction](https://proandroiddev.com/androidx-navigation-building-on-the-wrong-abstraction-1d7c4a64318c)  
     * [How do we handle multi-modules navigation on our Android app](https://medium.com/back-market-engineering/how-we-handle-multi-modules-navigation-on-our-android-app-25319e62d219)    
     * [Structural and navigation anti-patterns in multi-module and modularized applications](https://proandroiddev.com/structural-and-navigation-anti-patterns-in-modularized-android-applications-a7d667e35cd6)    
     * [Jetpack Compose navigation architecture with ViewModels](https://proandroiddev.com/jetpack-compose-navigation-architecture-with-viewmodels-1de467f19e1c)
     * [Modular navigation with Jetpack Compose](https://compose.academy/blog/modular_navigation_with_jetpack_compose)   
-    * [MULTI-MODULE NAVIGATION IMPLEMENTATION WITH OUR ANDROID TEAM](https://choco.com/us/stories/life-at-choco/implementing-multi-module-navigation-android)    
+    * [MULTI-MODULE NAVIGATION IMPLEMENTATION WITH OUR ANDROID TEAM](https://choco.com/us/stories/life-at-choco/implementing-multi-module-navigation-android) 
     * [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
     * [Problems With Navigation in Jetpack Compose](https://medium.com/profusion-engineering/problems-with-navigation-in-jetpack-compose-f1ef5536d94)
 * Other    
@@ -455,6 +455,7 @@ Jump to
     * [Migrate The Deprecated OnBackPressed Function — Android 13](https://proandroiddev.com/migrate-the-deprecated-onbackpressed-function-android-13-d0d556244272)
     * [3 Ways to Secure Secret Keys in Android](https://medium.com/@maydin/3-ways-to-secure-secret-keys-in-android-ccd9adaadb82)
     * [Background restrictions in Android](https://medium.com/its-tinkoff/android-background-restrictions-b63e73fe508)
+    * [6 Types of Encryption That You Must Know About](https://www.goodcore.co.uk/blog/types-of-encryption/)
 * Net
     * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
     * [Four Ways to Bypass Android SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
