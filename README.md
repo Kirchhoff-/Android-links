@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2011%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2012%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -457,6 +457,7 @@ Jump to
     * [3 Ways to Secure Secret Keys in Android](https://medium.com/@maydin/3-ways-to-secure-secret-keys-in-android-ccd9adaadb82)
     * [Background restrictions in Android](https://medium.com/its-tinkoff/android-background-restrictions-b63e73fe508)
     * [6 Types of Encryption That You Must Know About](https://www.goodcore.co.uk/blog/types-of-encryption/)
+    * [Text Will Not Always Scale](https://commonsware.com/blog/2023/07/08/text-will-not-always-scale.html)
 * Net
     * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
     * [Four Ways to Bypass Android SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
