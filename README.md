@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2012%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2013%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -165,6 +165,7 @@ Jump to
     * [Deep-dive into derivedStateOf and comparison with remember(key)](https://proandroiddev.com/deep-dive-into-derivedstateof-and-comparison-with-remember-key-d8469602676)
     * [Custom TabRow Indicator in Jetpack Compose](https://www.sinasamaki.com/custom-tabrow-indicator-in-jetpack-compose/)
     * [Text Scrolling in Jetpack Compose](https://abhimanyu14.medium.com/text-scrolling-in-jetpack-compose-deabc7f67156)
+    * [Designing Jetpack Compose architecture for a gradual transition from fragments](https://medium.com/turo-engineering/designing-jetpack-compose-architecture-for-a-gradual-transition-from-fragments-on-android-b11ee5f19ba8)
 ---
 
 ## Context
