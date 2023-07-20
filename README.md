@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2013%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2020%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -166,6 +166,7 @@ Jump to
     * [Custom TabRow Indicator in Jetpack Compose](https://www.sinasamaki.com/custom-tabrow-indicator-in-jetpack-compose/)
     * [Text Scrolling in Jetpack Compose](https://abhimanyu14.medium.com/text-scrolling-in-jetpack-compose-deabc7f67156)
     * [Designing Jetpack Compose architecture for a gradual transition from fragments](https://medium.com/turo-engineering/designing-jetpack-compose-architecture-for-a-gradual-transition-from-fragments-on-android-b11ee5f19ba8)
+    * [Understanding re-composition in Jetpack Compose with a case study](https://proandroiddev.com/understanding-re-composition-in-jetpack-compose-with-a-case-study-9e7d96d98095)
 ---
 
 ## Context
