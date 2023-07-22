@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2020%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2022%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -464,6 +464,7 @@ Jump to
     * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
     * [Four Ways to Bypass Android SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
     * [Securing Network and Inter-App Communications on Android](https://heartbeat.fritz.ai/securing-network-and-inter-app-communications-in-android-c733baa5057c)
+    * [Listening to connectivity changes, using NetworkCallbacks. NetworkInfo APIs are days of yore.](https://medium.com/@kiitvishal89/android-listening-to-connectivity-changes-the-correct-way-a614f0d6d2af)
 * ProGuard
     * [Practical ProGuard rules examples](https://medium.com/google-developers/practical-proguard-rules-examples-5640a3907dc9)
     * [Troubleshooting ProGuard issues on Android](https://medium.com/androiddevelopers/troubleshooting-proguard-issues-on-android-bce9de4f8a74)
