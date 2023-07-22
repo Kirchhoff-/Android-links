@@ -1158,12 +1158,6 @@ Jump to
     * [The Overfinancialization of Everything](https://www.youngmoney.co/p/overfinancialization-everything)
     * [23 Life Tasks For Sorting Out Your Life](https://www.ryandelaney.co/blog/life-tasks-for-sorting-out-your-life)
     * [The Happiness Paradox](https://awealthofcommonsense.com/2023/03/the-happiness-paradox/)
-* Investment
-    * [The Future of You](https://www.youngmoney.co/p/future-d9ba)
-    * [Time Isn't Money](https://www.youngmoney.co/p/time-isnt-money-b288)
-    * [What the Money is For](https://ofdollarsanddata.com/what-the-money-is-for/)
-    * [Who Wants to Be a Billionaire?](https://awealthofcommonsense.com/2022/11/who-wants-to-be-a-billionaire/)
-
 ---
 
 # Libraries
