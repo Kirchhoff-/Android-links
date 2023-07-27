@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2026%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2027%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -684,6 +684,7 @@ Jump to
     * [Retry Operator in Kotlin Flow](https://amitshekhar.me/blog/retry-operator-in-kotlin-flow)
     * [StateFlow and SharedFlow in ViewModels](https://www.valueof.io/blog/stateflow-sharedflow-flow-viewmodel-lifecycle)
     * [callbackFlow - Callback to Flow API in Kotlin](https://amitshekhar.me/blog/callback-to-flow-api-in-kotlin)
+    * [State production with unidirectional data flow and Kotlin Flows](https://tunjid.github.io/Mutator/)
 * Other
     * [Using Kotlin in a Java project: 10 lessons learned](https://xebia.com/using-kotlin-in-a-java-project-10-lessons-learned/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
