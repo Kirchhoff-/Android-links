@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2027%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2028%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -460,6 +460,7 @@ Jump to
     * [Background restrictions in Android](https://medium.com/its-tinkoff/android-background-restrictions-b63e73fe508)
     * [6 Types of Encryption That You Must Know About](https://www.goodcore.co.uk/blog/types-of-encryption/)
     * [Text Will Not Always Scale](https://commonsware.com/blog/2023/07/08/text-will-not-always-scale.html)
+    * [Not All ViewBinding Need Null Setting](https://medium.com/mobile-app-development-publication/not-all-viewbinding-need-null-setting-e16fe6737489)
 * Net
     * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
     * [Four Ways to Bypass Android SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
