@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2028%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2029%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -618,6 +618,7 @@ Jump to
     * [Understand Android Lifecycle Aware Coroutine Scope Made Easy](https://medium.com/mobile-app-development-publication/understand-android-lifecycle-aware-coroutine-scope-made-easy-f86d13d16f0e)
     * [Things every Kotlin Developer should know about Coroutines. Part 2: CoroutineScope](https://maxkim.eu/things-every-kotlin-developer-should-know-about-coroutines-part-2-coroutinescope)
     * [Slowing down your code with Coroutines](https://kt.academy/article/slowing-down-coroutines)
+    * [A Perception of Exception in Kotlin Coroutines](https://betterprogramming.pub/a-perception-of-exception-in-kotlin-coroutines-d0b87131510f)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
