@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2010%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2012%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -169,6 +169,7 @@ Jump to
     * [Understanding re-composition in Jetpack Compose with a case study](https://proandroiddev.com/understanding-re-composition-in-jetpack-compose-with-a-case-study-9e7d96d98095)
     * [Touch Feedback Animation like Spotify in Jetpack Compose](https://blog.protein.tech/touch-feedback-animation-like-spotify-in-jetpack-compose-5ab0d31beb28)
     * [Encapsulate your @Composable functions](https://chrynan.codes/encapsulate-your-composables/)
+    * [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a)
 ---
 
 ## Context
