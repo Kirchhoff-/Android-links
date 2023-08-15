@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2012%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2015%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -326,6 +326,7 @@ Jump to
     * [Principles & Practice in Repository Layer](https://proandroiddev.com/principles-practice-in-repository-layer-444551b96cf8)
     * [Interface Naming Conventions](https://androiddev.blog/interface-naming-conventions/)
     * [Injection Points](https://marcellogalhardo.dev/posts/injection-points/)
+    * [Modelling the domain layer using composable use cases](https://rafagarcia.dev/modelling-the-domain-layer-using-composables-use-cases/)
 
 ---
 
