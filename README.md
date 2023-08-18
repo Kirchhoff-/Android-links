@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2015%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2018%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -245,6 +245,7 @@ Jump to
 * [sourceCompatibility, targetCompatibility, and JVM toolchains in Gradle explained](https://stefma.medium.com/sourcecompatibility-targetcompatibility-and-jvm-toolchains-in-gradle-explained-d2c17c8cff7c)
 * [Gradle Basics for Android Developers](https://medium.com/android-dev-corner/gradle-basics-for-android-developers-9d7a3bf062bb)
 * [Using Version Catalog on Android projects](https://proandroiddev.com/using-version-catalog-on-android-projects-82d88d2f79e5)
+* [Android Security: Securing your Gradle builds from baddies](https://proandroiddev.com/android-security-securing-your-gradle-builds-from-baddies-1dc30e1acf30)
 
 ---
 
