@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2018%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2019%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -355,6 +355,7 @@ Jump to
 * [Quick tip: finetune your Android Studio and IntelliJ Welcome screen](https://dev.to/tkuenneth/quick-tip-finetune-your-android-studio-and-intellij-welcome-screen-42m6)
 * [Android Studio's "I'm Feeling Lucky" Button](https://www.zacsweers.dev/android-studios-im-feeling-lucky-button/)
 * [See Crashlytics issue reports directly in Android Studio with App Quality Insights](https://medium.com/androiddevelopers/see-crashlytics-issue-reports-directly-in-android-studio-with-app-quality-insights-db0ff27454f0)
+* [Android Studio — Hide generated files from search results](https://blog.protein.tech/android-studio-hide-generated-files-from-search-results-380298e6be83)
 
 ---
 
