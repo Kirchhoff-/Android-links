@@ -170,6 +170,8 @@ Jump to
     * [Touch Feedback Animation like Spotify in Jetpack Compose](https://blog.protein.tech/touch-feedback-animation-like-spotify-in-jetpack-compose-5ab0d31beb28)
     * [Encapsulate your @Composable functions](https://chrynan.codes/encapsulate-your-composables/)
     * [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a)
+    * [Jetpack Compose Tricks: Conditionally Applying Modifiers for Dynamic UIs](https://proandroiddev.com/jetpack-compose-tricks-conditionally-applying-modifiers-for-dynamic-uis-e3fe5a119f45)
+
 ---
 
 ## Context
