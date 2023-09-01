@@ -506,6 +506,7 @@ Jump to
     * [Compiler Warnings Are Good, Actually](https://publicobject.com/2022/02/02/compiler-warnings-are-good-actually/)
     * [Increasing Android Lint Terminal Results](https://jdvp.me/articles/Android-Terminal-Linting)
     * [Automation of code analysis in Android projects](https://proandroiddev.com/automating-analyzing-of-code-in-android-projects-a60313569c53)
+    * [Introducing Konsist: A Cutting-Edge Kotlin Linter](https://blog.kotlin-academy.com/introducing-konsist-a-cutting-edge-kotlin-linter-d3ab916a5461)
 * Room
     * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929) 
     * [Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)  
