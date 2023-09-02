@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2019%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2002%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1110,7 +1110,8 @@ Jump to
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
     * [Code Reviews Q&A](https://medium.com/babylon-engineering/code-reviews-q-a-f33c72d3b2c3)    
-    * [Code Reviews ?— Good luck with that](https://medium.com/analytics-vidhya/code-reviews-good-luck-with-that-a42982b54b3d)    
+    * [Code Reviews ?— Good luck with that](https://medium.com/analytics-vidhya/code-reviews-good-luck-with-that-a42982b54b3d)  
+    * [Effective Code Reviews](https://addyosmani.com/blog/code-reviews/)    
 * Agile/Scrum/Kanban
     * [Scrum and Kanban – Are They That Different After All?](https://perfectial.com/blog/scrum-and-kanban-are-they-that-different-after-all/)
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
