@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2002%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2005%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -962,6 +962,7 @@ Jump to
     * [An effective testing strategy for Android](https://proandroiddev.com/an-effective-testing-strategy-for-android-i-4a269d134acf)
     * [WorkManager, Dagger and Testing](https://medium.com/@rotxed/workmanager-dagger-and-testing-bee7d244d1ac)
     * [Testing functions with lambdas using MockK](https://www.valueof.io/blog/testing-listener-lambda-mockk)
+    * [The conflation problem of testing StateFlows](https://zsmb.co/conflating-stateflows/)
 
 ---
 
