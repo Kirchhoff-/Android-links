@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2005%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2012%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -171,6 +171,7 @@ Jump to
     * [Encapsulate your @Composable functions](https://chrynan.codes/encapsulate-your-composables/)
     * [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a)
     * [Jetpack Compose Tricks: Conditionally Applying Modifiers for Dynamic UIs](https://proandroiddev.com/jetpack-compose-tricks-conditionally-applying-modifiers-for-dynamic-uis-e3fe5a119f45)
+    * [Compose a Compose Button by composing Composable functions](https://proandroiddev.com/compose-a-compose-button-by-composing-composable-functions-9f275772bd23)
 
 ---
 
