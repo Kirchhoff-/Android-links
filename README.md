@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2013%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2015%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -101,6 +101,7 @@ Jump to
     * [Android WebView — Downloading Images](https://medium.com/@trionkidnapper/android-webview-downloading-images-f0ec21ac75d2)
     * [Android WebViews: All about security](https://proandroiddev.com/android-webviews-1cbe1ffb7a2b)
     * [Managing Keyboard on Webview](https://medium.com/@elye.project/managing-keyboard-on-webview-d2e89109d106)    
+    * [Clean Android WebView caching](https://medium.com/microsoft-mobile-engineering/clean-android-webview-caching-9b871b3579f3)
 * Compose
     * [Thinking in Compose](https://developer.android.com/jetpack/compose/mental-model)
     * [[Youtube] Jetpack Compose: Beta overview](https://www.youtube.com/watch?v=Ef1xKWjA9E8)
