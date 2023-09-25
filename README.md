@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2022%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2025%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -966,6 +966,7 @@ Jump to
     * [WorkManager, Dagger and Testing](https://medium.com/@rotxed/workmanager-dagger-and-testing-bee7d244d1ac)
     * [Testing functions with lambdas using MockK](https://www.valueof.io/blog/testing-listener-lambda-mockk)
     * [The conflation problem of testing StateFlows](https://zsmb.co/conflating-stateflows/)
+    * [[Youtube] Solution to Share Code Between Tests in Android! ](https://www.youtube.com/watch?v=kV1_Y-jzDNs)
 
 ---
 
