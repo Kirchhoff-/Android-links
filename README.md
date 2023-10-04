@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2030%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2004%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -75,7 +75,8 @@ Jump to
     * [Controlling TextView MinWidth](https://krossovochkin.com/posts/2021_09_14_controlling_textview_minwidth/)
     * [[Youtube] Transitions without Activities or Fragments](https://www.youtube.com/watch?v=9Y5cbC5YrOY)
     * [Building a Segmented Progress Bar in Android](https://medium.com/betclic-tech/building-a-segmented-progress-bar-in-android-e3f198db393d)
-    * [Sonar-like animation](https://proandroiddev.com/sonar-like-animation-c1e7c5b291bd) 
+    * [Sonar-like animation](https://proandroiddev.com/sonar-like-animation-c1e7c5b291bd)
+    * [Translucent SystemBars the right way — across API levels and themes](https://medium.com/androiddevelopers/translucent-systembars-the-right-way-across-api-levels-and-themes-6d7ddda21396)
 * RecyclerView
     * [Implementing a modal selection helper for RecyclerView](https://medium.com/@BladeCoder/implementing-a-modal-selection-helper-for-recyclerview-1e888b4cd5b9)
     * [RecyclerView animations done right](http://frogermcs.github.io/instamaterial-recyclerview-animations-done-right/)
