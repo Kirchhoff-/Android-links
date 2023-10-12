@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2004%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2012%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1182,6 +1182,7 @@ Jump to
     * [23 Life Tasks For Sorting Out Your Life](https://www.ryandelaney.co/blog/life-tasks-for-sorting-out-your-life)
     * [The Happiness Paradox](https://awealthofcommonsense.com/2023/03/the-happiness-paradox/)
     * [Don't expect to be motivated everyday](https://addyosmani.com/blog/motivation/)
+    * [A 40+ Years Experienced Software Architect Advised Me How Not to Be Burned out as a Developer](https://javascript.plainenglish.io/a-40-years-experienced-software-architect-advised-me-how-not-to-be-burned-out-as-a-developer-eee8ceb620b1)
 ---
 
 # Libraries
