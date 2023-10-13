@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2012%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2013%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -843,6 +843,7 @@ Jump to
 * [SOLID Principles Sketches](https://itnext.io/solid-principles-sketches-a38865e771f0)
 * [Smaller Try-Blocks Are Better](https://www.yegor256.com/2022/09/08/smaller-try-blocks.html)
 * [[Youtube] Making Impossible States Impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8)
+* [👨‍💻Kotlin SOLID Principles](https://medium.com/huawei-developers/kotlin-solid-principles-tutorial-examples-192bf8c049dd)
 
 ---
 
