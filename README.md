@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2013%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2016%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -176,6 +176,7 @@ Jump to
     * [Compose a Compose Button by composing Composable functions](https://proandroiddev.com/compose-a-compose-button-by-composing-composable-functions-9f275772bd23)
     * [Solving the mystery of recompositions in Compose's LazyList](https://blog.shreyaspatil.dev/solving-the-mystery-of-recompositions-in-composes-lazylist)
     * [Reduce Recomposition for Images/Icons In Jetpack Compose](https://engineering.teknasyon.com/reduce-recomposition-for-images-icons-in-jetpack-compose-8d2dd3bfa933)
+    * [Jetpack Compose Side Effects in Details](https://medium.com/@mortitech/exploring-side-effects-in-compose-f2e8a8da946b)
 
 ---
 
