@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2017%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2018%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1117,6 +1117,7 @@ Jump to
     * [From Teammate to Team Lead – A Balancing Act](https://infinum.com/blog/from-teammate-to-team-lead/)
     * [Managing Complex Change](https://addyosmani.com/blog/managing-complex-change/)
     * [4 Engineering Slides CEOs Love (That You Can Have For Free)](https://devinterrupted.substack.com/p/4-engineering-slides-ceos-love-that)
+    * [7 Signals That You Aren’t a Competent Senior Developer (Yet)](https://medium.com/@tsecretdeveloper/7-signals-that-you-arent-a-competent-senior-yet-72c8a7be917f)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
