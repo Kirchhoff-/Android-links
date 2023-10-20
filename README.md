@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2019%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2020%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -298,6 +298,9 @@ Jump to
     * [MULTI-MODULE NAVIGATION IMPLEMENTATION WITH OUR ANDROID TEAM](https://choco.com/us/stories/life-at-choco/implementing-multi-module-navigation-android) 
     * [In-app navigation wih coordinators](http://hannesdorfmann.com/android/coordinators-android)
     * [Problems With Navigation in Jetpack Compose](https://medium.com/profusion-engineering/problems-with-navigation-in-jetpack-compose-f1ef5536d94)
+* String
+    * [Finding the right abstraction (when working with Strings)](https://hannesdorfmann.com/abstraction-text-resource/)
+    * [Using String Resources in a ViewModel](https://medium.com/@margin555/using-string-resources-in-a-viewmodel-e334611b73da)
 * Other    
     * [Weighing in on the Holy Architecture War](https://medium.com/@yonatanvlevin/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66)
     * [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
@@ -321,7 +324,6 @@ Jump to
     * [Android: Error handling in Clean Architecture](https://proandroiddev.com/android-error-handling-in-clean-architecture-844a7fc0dc03)
     * [Designing and Working with Single View States on Android](https://zsmb.co/designing-and-working-with-single-view-states-on-android/)
     * [Thoughts about State Handling on Android](https://zsmb.co/thoughts-about-state-handling-on-android/)
-    * [Finding the right abstraction (when working with Strings)](https://hannesdorfmann.com/abstraction-text-resource/)
     * [Repository initialization without StrictMode violations](https://proandroiddev.com/repository-initialization-without-strictmode-violations-fbbd6e554219)
     * [Our Way to MVVMI and Mistakes We Made When Implementing MVVM](https://proandroiddev.com/our-way-to-mvvmi-and-mistakes-we-made-when-implementing-mvvm-5f5448b5ad50)
     * [Architecture in Jetpack Compose — MVP, MVVM, & MVI](https://medium.com/mobile-at-octopus-energy/architecture-in-jetpack-compose-mvp-mvvm-mvi-17d8170a13fd)
