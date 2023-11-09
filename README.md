@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2008%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2009%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1125,6 +1125,7 @@ Jump to
     * [4 Engineering Slides CEOs Love (That You Can Have For Free)](https://devinterrupted.substack.com/p/4-engineering-slides-ceos-love-that)
     * [7 Signals That You Aren’t a Competent Senior Developer (Yet)](https://medium.com/@tsecretdeveloper/7-signals-that-you-arent-a-competent-senior-yet-72c8a7be917f)
     * [The Five Things Software Engineers Hate About Their Jobs](https://mikaelvesavuori.medium.com/the-five-things-software-engineers-hate-about-their-jobs-a7e3b037cca4)
+    * [How Programmers Can Spot a Bad Company](https://javascript.plainenglish.io/how-programmers-can-spot-a-bad-company-8073f79ed1a1)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
