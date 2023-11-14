@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2013%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2014%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1196,6 +1196,7 @@ Jump to
     * [The Happiness Paradox](https://awealthofcommonsense.com/2023/03/the-happiness-paradox/)
     * [Don't expect to be motivated everyday](https://addyosmani.com/blog/motivation/)
     * [A 40+ Years Experienced Software Architect Advised Me How Not to Be Burned out as a Developer](https://javascript.plainenglish.io/a-40-years-experienced-software-architect-advised-me-how-not-to-be-burned-out-as-a-developer-eee8ceb620b1)
+    * [Dear Devs… Listen to Bill Gate’s “There’s More to Life Than Work”](https://javascript.plainenglish.io/dear-devs-listen-to-bill-gates-there-s-more-to-life-than-work-f5bd5fd29f2f)
 ---
 
 # Libraries
