@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2014%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2018%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1127,6 +1127,7 @@ Jump to
     * [The Five Things Software Engineers Hate About Their Jobs](https://mikaelvesavuori.medium.com/the-five-things-software-engineers-hate-about-their-jobs-a7e3b037cca4)
     * [How Programmers Can Spot a Bad Company](https://javascript.plainenglish.io/how-programmers-can-spot-a-bad-company-8073f79ed1a1)
     * [The 7 Most Stressful Things About Working In An Office](https://medium.com/writers-blokke/the-7-most-stressful-things-about-working-in-an-office-fed63899896a)
+    * [5 Clues That You’re in a Toxic Software Dev Company](https://medium.com/@tsecretdeveloper/5-clues-that-youre-in-a-toxic-software-dev-company-fa678ba1750)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
