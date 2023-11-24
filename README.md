@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2013%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2024%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1144,6 +1144,7 @@ Jump to
     * [Another View of Agile Software Development](https://levelup.gitconnected.com/another-view-of-agile-software-development-263590cd16b8)
     * [What tech leader can learn from direct reports’ performance reviews](https://medium.com/@froger_mcs/what-tech-leader-can-learn-from-direct-reports-performance-reviews-3f5ed7dc4cec)
     * [The mythical 10x programmer](http://antirez.com/news/112)
+    * [“Sprints”: The biggest mistake of Software Engineering](https://medium.com/@noriller/sprints-the-biggest-mistake-of-software-engineering-34115e7de008)
 * Feature flags
     * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)    
     * [Remote feature flags do not always come for free](https://proandroiddev.com/remote-feature-flags-do-not-always-come-for-free-a372f1768a70)
