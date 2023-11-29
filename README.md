@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2025%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2029%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1130,6 +1130,7 @@ Jump to
     * [5 Clues That You’re in a Toxic Software Dev Company](https://medium.com/@tsecretdeveloper/5-clues-that-youre-in-a-toxic-software-dev-company-fa678ba1750)
     * [My Friend Quit a $160k Job Because It Was a “Developer’s Trap”](https://javascript.plainenglish.io/my-friend-quit-a-160k-job-because-it-was-a-developers-trap-e789a630c0ac)
     * [Why does Software Engineering take so long?](https://medium.com/source-and-buggy/why-does-software-engineering-take-so-long-77a3f1832739)
+    * [Good Manager / Bad Manager](https://medium.com/@mike.s.chambers/good-manager-bad-manager-3a312bb8e9af)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
