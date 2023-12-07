@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2006%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2007%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1132,6 +1132,7 @@ Jump to
     * [Why does Software Engineering take so long?](https://medium.com/source-and-buggy/why-does-software-engineering-take-so-long-77a3f1832739)
     * [Good Manager / Bad Manager](https://medium.com/@mike.s.chambers/good-manager-bad-manager-3a312bb8e9af)
     * [How to Spot Shitty Software Engineer Job Postings](https://seniorbrogrammer.medium.com/how-to-spot-shitty-software-engineer-job-postings-82d6092835f1)
+    * [Why Good Engineers Leave Good Companies](https://betterprogramming.pub/why-good-engineers-leave-good-companies-c6f8ae715df9)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
