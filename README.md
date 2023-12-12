@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2011%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2012%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1134,6 +1134,7 @@ Jump to
     * [How to Spot Shitty Software Engineer Job Postings](https://seniorbrogrammer.medium.com/how-to-spot-shitty-software-engineer-job-postings-82d6092835f1)
     * [Why Good Engineers Leave Good Companies](https://betterprogramming.pub/why-good-engineers-leave-good-companies-c6f8ae715df9)
     * [The 7 Signs of a Bad Programmer](https://medium.com/@tsecretdeveloper/the-7-signs-of-a-bad-programmer-a624204f7222)
+    * [10 Signs of Toxicity in Teams You Shouldn’t Ignore](https://levelup.gitconnected.com/10-signs-of-toxicity-in-teams-you-shouldnt-ignore-eeb95961979a)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
