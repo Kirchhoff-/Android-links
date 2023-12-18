@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2015%202023-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2018%202023-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -791,6 +791,7 @@ Jump to
 * [Common Bad Programming practices](https://medium.com/mindorks/common-bad-programming-practices-7fb470ed74d2)
 * [Handling Nullability in Your Code](https://pspdfkit.com/blog/2019/handling-nullability-in-your-code/)
 * [Java Memory Model](http://tutorials.jenkov.com/java-concurrency/java-memory-model.html)
+* [We don’t need Java anymore – it belongs to a different era](https://medium.com/@jankammerath/we-dont-need-java-anymore-it-belongs-to-a-different-era-ccbc028beed9)
 
 ---
 
