@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2013%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2017%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1141,6 +1141,7 @@ Jump to
     * [CTO vs. VP of Engineering: Defining Technical Titles](https://medium.com/beyond-the-code-by-typo/cto-vs-vp-of-engineering-defining-technical-titles-a83328819c81)
     * [Remote Work Isn’t Dead – An Inevitable Uprising is Brewing](https://medium.com/swlh/remote-work-isnt-dead-an-inevitable-uprising-is-brewing-c36961c5dc2c)
     * [Software engineering: problem-solving and critical-thinking](https://addyosmani.com/blog/softeng-problem-solving/)
+    * [Why Job Hops Don’t Harm Experienced Developers](https://medium.com/codex/why-job-hops-dont-harm-experienced-developers-3f2167a25b52)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
