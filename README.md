@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2017%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2018%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1214,6 +1214,7 @@ Jump to
     * [A 40+ Years Experienced Software Architect Advised Me How Not to Be Burned out as a Developer](https://javascript.plainenglish.io/a-40-years-experienced-software-architect-advised-me-how-not-to-be-burned-out-as-a-developer-eee8ceb620b1)
     * [Dear Devs… Listen to Bill Gate’s “There’s More to Life Than Work”](https://javascript.plainenglish.io/dear-devs-listen-to-bill-gates-there-s-more-to-life-than-work-f5bd5fd29f2f)
     * [Lay offs are a reminder to NOT prioritize your work (The Fatal Mistake Devs make)](https://medium.com/@jamesryebread/lay-offs-are-a-reminder-to-not-prioritize-your-work-the-fatal-mistake-devs-make-a07f4d5513d8)
+    * [Make Every Second Count: Strategies to Unleash Creativity and Success at Any Time](https://www.donnfelker.com/make-every-second-count/)
 ---
 
 # Libraries
