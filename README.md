@@ -1218,6 +1218,7 @@ Jump to
     * [Lay offs are a reminder to NOT prioritize your work (The Fatal Mistake Devs make)](https://medium.com/@jamesryebread/lay-offs-are-a-reminder-to-not-prioritize-your-work-the-fatal-mistake-devs-make-a07f4d5513d8)
     * [Make Every Second Count: Strategies to Unleash Creativity and Success at Any Time](https://www.donnfelker.com/make-every-second-count/)
     * [Open Source Is Struggling And It’s Not Big Tech That Is To Blame](https://medium.com/@jankammerath/open-source-is-struggling-and-its-not-big-tech-that-is-to-blame-cfba964219f8)
+    * [Feeling Overwhelmed? You Need an MVD—That’s Minimum Viable Day](https://index.medium.com/feeling-overwhelmed-you-need-a-mvd-minimum-viable-day-bf07b7b90eb)
 ---
 
 # Libraries
