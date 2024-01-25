@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2024%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2025%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1144,6 +1144,7 @@ Jump to
     * [Why Job Hops Don’t Harm Experienced Developers](https://medium.com/codex/why-job-hops-dont-harm-experienced-developers-3f2167a25b52)
     * [The True Cost of Technical Debt](https://mhweiner.medium.com/the-true-cost-of-technical-debt-5c668020b0e4)
     * [How Engineers Can Identify Good (and Avoid Bad) Companies](https://betterprogramming.pub/how-engineers-can-identify-good-and-avoid-bad-companies-d241b94ee2ff)
+    * [Why Do Developers Quit Their Jobs?](https://drpicox.medium.com/why-do-developers-quit-their-jobs-c20f884faccb)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
