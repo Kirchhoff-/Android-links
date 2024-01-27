@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2025%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2027%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1220,6 +1220,7 @@ Jump to
     * [Make Every Second Count: Strategies to Unleash Creativity and Success at Any Time](https://www.donnfelker.com/make-every-second-count/)
     * [Open Source Is Struggling And It’s Not Big Tech That Is To Blame](https://medium.com/@jankammerath/open-source-is-struggling-and-its-not-big-tech-that-is-to-blame-cfba964219f8)
     * [Feeling Overwhelmed? You Need an MVD—That’s Minimum Viable Day](https://index.medium.com/feeling-overwhelmed-you-need-a-mvd-minimum-viable-day-bf07b7b90eb)
+    * [The Daily Battle for Brain Space](https://forge.medium.com/the-daily-battle-for-brain-space-829eab4f64ed)
 ---
 
 # Libraries
