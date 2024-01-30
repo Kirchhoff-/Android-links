@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2029%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2030%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -286,6 +286,7 @@ Jump to
     * [Should I use Jetpack ViewModel?](https://www.glureau.com/2020/05/15/Jetpack-ViewModel-ProCons/)
     * [Dive deep into Android’s ViewModel — Android Architecture Components](https://android.jlelse.eu/dive-deep-into-androids-viewmodel-android-architecture-components-e0a7ded26f70)  
     * [Composite ViewModel](https://www.halfbit.de/posts/composite-viewmodel/)
+    * [Android ViewModel: Single state or not?](https://proandroiddev.com/android-viewmodel-single-state-or-not-d914f962d44c)
 * LiveData
     * [Concise Error Handling with LiveData and Retrofit](https://proandroiddev.com/concise-error-handling-with-livedata-and-retrofit-15937ceb555b)
     * [Using Realm with Kotlin and LiveData](https://proandroiddev.com/the-realm-of-kotlin-and-live-data-using-mvp-architecture-f04fc41c914e)
