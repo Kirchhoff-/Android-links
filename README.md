@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2030%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2031%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -180,6 +180,7 @@ Jump to
     * [Better Previews in Jetpack Compose, Tips and Tricks](https://medium.com/@mortitech/better-previews-in-compose-with-custom-annotations-dc49b94ff579)
     * [Jetpack Compose with ViewModel and Flow: A Comprehensive Guide](https://medium.com/@android-world/jetpack-compose-with-viewmodel-and-flow-a-comprehensive-guide-ce3b079a44d1)
     * [Exploring Lazy Staggered Grids in Jetpack Compose](https://medium.com/google-developer-experts/exploring-lazy-staggered-grids-in-jetpack-compose-5940d5a393be)
+    * [Jetpack Compose: Passing data implicitly in Composable screens](https://proandroiddev.com/jetpack-compose-passing-data-implicitly-in-ui-tree-73d88b7559c3)
 
 ---
 
