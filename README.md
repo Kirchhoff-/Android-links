@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2002%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2003%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1225,6 +1225,7 @@ Jump to
     * [Open Source Is Struggling And It’s Not Big Tech That Is To Blame](https://medium.com/@jankammerath/open-source-is-struggling-and-its-not-big-tech-that-is-to-blame-cfba964219f8)
     * [Feeling Overwhelmed? You Need an MVD—That’s Minimum Viable Day](https://index.medium.com/feeling-overwhelmed-you-need-a-mvd-minimum-viable-day-bf07b7b90eb)
     * [The Daily Battle for Brain Space](https://forge.medium.com/the-daily-battle-for-brain-space-829eab4f64ed)
+    * [Executives Are Now “Cranky” About An Employee “Dead Zone”](https://tedbauer.medium.com/executives-are-now-cranky-about-an-employee-dead-zone-b946c691917d)
 ---
 
 # Libraries
