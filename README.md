@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2003%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2005%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -346,6 +346,7 @@ Jump to
     * [Modelling the domain layer using composable use cases](https://rafagarcia.dev/modelling-the-domain-layer-using-composables-use-cases/)
     * [Guide to Android app modularization](https://developer.android.com/topic/modularization)
     * [Modern Android Development in 2023](https://devjorgecastro.medium.com/modern-android-app-development-in-2023-ff445d3652b4)
+    * [How to Implement MVI with Delegates on Android](https://engineering.teknasyon.com/how-to-implement-mvi-with-delegates-on-android-f2aa1a842b73)
 
 ---
 
