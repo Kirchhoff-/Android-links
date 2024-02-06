@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2005%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2006%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -933,6 +933,7 @@ Jump to
     * [Unit Testing Delays, Errors & Retries with Kotlin Flows](https://codingwithmohit.com/coroutines/unit-testing-delays-errors-retries-with-kotlin-flows/)
     * [Learning State & Shared Flows with Unit Tests](https://codingwithmohit.com/coroutines/learning-shared-and-state-flows-with-tests/)
     * [Confirmed: Code Coverage Is a Useless Management Metric](https://betterprogramming.pub/confirmed-code-coverage-is-a-useless-management-metric-35afa05e8549)
+    * [Prefer Integration Tests Over Unit Tests](https://betterprogramming.pub/prefer-integration-tests-over-unit-tests-2079856f9cfc)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
