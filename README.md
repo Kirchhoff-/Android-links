@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2008%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2009%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1151,6 +1151,7 @@ Jump to
     * [How Engineers Can Identify Good (and Avoid Bad) Companies](https://betterprogramming.pub/how-engineers-can-identify-good-and-avoid-bad-companies-d241b94ee2ff)
     * [Why Do Developers Quit Their Jobs?](https://drpicox.medium.com/why-do-developers-quit-their-jobs-c20f884faccb)
     * [Too Many Meetings Is Not Your Problem](https://medium.com/onebigthought/too-many-meetings-is-not-your-problem-7eafa7ae477c)
+    * [I Needed to Rewire My Brain at the First Year at Big Tech](https://medium.com/womenintechnology/i-needed-to-re-wire-my-brain-at-the-first-year-at-big-tech-a635f88edc0e)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
