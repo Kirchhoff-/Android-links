@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2022%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2024%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1156,6 +1156,7 @@ Jump to
     * [How to hedge against layoffs](https://medium.com/@mike.s.chambers/how-to-hedge-against-layoffs-4c46ffd54668)
     * [What is broken with hiring in tech?](https://medium.com/@victor.ronin/what-is-broken-with-hiring-in-tech-4d9d1b5d3268)
     * [15 Reasons Why People Should Change Jobs (but rarely do)](https://tldr0.medium.com/15-reasons-why-people-should-change-jobs-but-often-dont-53ec9cab7e17)
+    * [Experienced Developers, Don’t Believe These 5 Deadline Myths to Become More Effective](https://medium.com/codex/experienced-developers-dont-believe-these-5-deadline-myths-to-become-more-effective-5c292811a02a)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
