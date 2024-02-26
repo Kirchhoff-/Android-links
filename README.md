@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2024%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2026%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1236,6 +1236,7 @@ Jump to
     * [Feeling Overwhelmed? You Need an MVD—That’s Minimum Viable Day](https://index.medium.com/feeling-overwhelmed-you-need-a-mvd-minimum-viable-day-bf07b7b90eb)
     * [The Daily Battle for Brain Space](https://forge.medium.com/the-daily-battle-for-brain-space-829eab4f64ed)
     * [Executives Are Now “Cranky” About An Employee “Dead Zone”](https://tedbauer.medium.com/executives-are-now-cranky-about-an-employee-dead-zone-b946c691917d)
+    * [5 Strategies to Help You Survive the Last Years Before Leaving The Rat Race](https://medium.com/illumination/5-strategies-to-help-you-survive-the-last-years-before-leaving-the-rat-race-380fd78d0e6e)
 ---
 
 # Libraries
