@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2007%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2008%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1163,6 +1163,7 @@ Jump to
     * [Here’s what I do all day as a staff engineer](https://blog.developerpurpose.com/heres-what-i-do-all-day-as-a-staff-engineer-2e36d6ca1533)
     * [The “Left Hand, Right Hand” Problem Of Most Organizations](https://tedbauer.medium.com/the-left-hand-right-hand-problem-of-most-organizations-d58177b626ea)
     * [5 Causes of Underperforming Teams](https://code.likeagirl.io/95-causes-of-underperforming-teams-9f4e07adeea1)
+    * [Why Do Big Companies Ask Unrealistic Software Engineering Interview Questions?](https://tomaszs2.medium.com/why-do-big-companies-ask-unrealistic-software-engineering-interview-questions-cb23639ca5d0)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
