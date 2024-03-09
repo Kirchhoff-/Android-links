@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2008%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2009%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -780,6 +780,7 @@ Jump to
     * [Mastering Enums in Kotlin: A Guide to Simplify Your Code](https://towardsdev.com/mastering-enums-in-kotlin-a-guide-to-simplify-your-code-130b5934cb16)
     * [[Youtube] TOA: Migrating To `kotlin.Result`](https://www.youtube.com/watch?v=rjOABsFvOXY)
     * [Hide internal members of Kotlin Module from JVM](https://medium.com/scalereal/hide-internal-members-of-kotlin-module-from-jvm-c7730507fb17)
+    * [Error Handling the Kotlin Way](https://blog.kotlin-academy.com/error-handling-the-kotlin-way-7e2fb31b1aff)
     
 ---
 
