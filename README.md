@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2009%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2014%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -183,6 +183,7 @@ Jump to
     * [Jetpack Compose: Passing data implicitly in Composable screens](https://proandroiddev.com/jetpack-compose-passing-data-implicitly-in-ui-tree-73d88b7559c3)
     * [Jetpack Compose Popup — Master It!](https://medium.com/mobile-app-development-publication/jetpack-compose-popup-master-it-98accb23da36)
     * [Refining Compose API for design systems](https://medium.com/bumble-tech/refining-compose-api-for-design-systems-d652e2c2eac3)
+    * [Optimizing Jetpack Compose with @Stable: Smart Recomposition Strategies](https://medium.com/@android-world/optimizing-jetpack-compose-with-stable-smart-recomposition-strategies-81147b779a0a)
 
 ---
 
