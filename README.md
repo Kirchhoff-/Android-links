@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2021%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2023%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1171,6 +1171,7 @@ Jump to
     * [The #1 Skill Every Developer Needs (And It’s Not Coding)](https://medium.com/@PurpleGreenLemon/the-1-skill-every-developer-needs-and-its-not-coding-3f86800cea4c)
     * [5 Habits Overperforming Developers Should Drop if They Want to Be Better Teammates](https://medium.com/codex/5-habits-overperforming-developers-should-drop-if-they-want-to-be-better-teammates-e2d2afbc0025)
     * [What’s Right Is Not Always Right for You](https://cupsofcode.com/post/whats_right_isnot_always_right_for_you/)
+    * [Asking for Estimates: The Telltale Sign of Ineffective Software Development Practices](https://drpicox.medium.com/asking-for-estimates-the-telltale-sign-of-ineffective-software-development-practices-cd54a9d8c60d)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
