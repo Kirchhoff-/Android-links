@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2025%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2026%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1253,6 +1253,7 @@ Jump to
     * [The Daily Battle for Brain Space](https://forge.medium.com/the-daily-battle-for-brain-space-829eab4f64ed)
     * [Executives Are Now “Cranky” About An Employee “Dead Zone”](https://tedbauer.medium.com/executives-are-now-cranky-about-an-employee-dead-zone-b946c691917d)
     * [5 Strategies to Help You Survive the Last Years Before Leaving The Rat Race](https://medium.com/illumination/5-strategies-to-help-you-survive-the-last-years-before-leaving-the-rat-race-380fd78d0e6e)
+    * [Why and How to Be a High Performer Even if You Don’t Like Your Job](https://medium.com/management-matters/why-and-how-to-be-a-high-performer-even-if-you-dont-like-your-job-658cd83d543e)
 ---
 
 # Libraries
