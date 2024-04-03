@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2028%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2003%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -186,6 +186,7 @@ Jump to
     * [Optimizing Jetpack Compose with @Stable: Smart Recomposition Strategies](https://medium.com/@android-world/optimizing-jetpack-compose-with-stable-smart-recomposition-strategies-81147b779a0a)
     * [@Composable Modifier vs composed factory in Jetpack Compose](https://engineering.teknasyon.com/composable-modifier-vs-composed-factory-in-jetpack-compose-6cbb675b0e7b)
     * [Stop Passing Event/UI-Action Callbacks in Jetpack Compose](https://engineering.teknasyon.com/stop-passing-event-ui-action-callbacks-in-jetpack-compose-a4143621c365)
+    * [How to handle single-event in Jetpack Compose](https://marco-cattaneo.medium.com/how-to-handle-single-event-in-jetpack-compose-f90b6220e8c8)
 
 ---
 
