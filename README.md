@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2006%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2008%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -652,6 +652,7 @@ Jump to
     * [Slowing down your code with Coroutines](https://kt.academy/article/slowing-down-coroutines)
     * [A Perception of Exception in Kotlin Coroutines](https://betterprogramming.pub/a-perception-of-exception-in-kotlin-coroutines-d0b87131510f)
     * [Callback to Coroutines in Kotlin](https://amitshekhar.me/blog/callback-to-coroutines-in-kotlin)
+    * [The Truth About Kotlin’s Non-Cancellable Coroutine Context](https://betterprogramming.pub/when-naming-matters-more-than-functionality-bc3dc2a8d576)
 * Functional Programming
     * [Function references in Kotlin](https://antonioleiva.com/function-references-kotlin/)
     * [Listeners with several functions in Kotlin](https://antonioleiva.com/listeners-several-functions-kotlin/)
