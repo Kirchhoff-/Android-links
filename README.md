@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2008%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2009%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1176,6 +1176,7 @@ Jump to
     * [What’s Right Is Not Always Right for You](https://cupsofcode.com/post/whats_right_isnot_always_right_for_you/)
     * [Asking for Estimates: The Telltale Sign of Ineffective Software Development Practices](https://drpicox.medium.com/asking-for-estimates-the-telltale-sign-of-ineffective-software-development-practices-cd54a9d8c60d)
     * [Cannot Measure Productivity](https://www.martinfowler.com/bliki/CannotMeasureProductivity.html)
+    * [Analysis: The Quickest Path To Halving Software Delivery Time](https://devinterrupted.substack.com/p/analysis-the-quickest-path-to-halving)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
