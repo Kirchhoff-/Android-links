@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2009%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2010%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1366,3 +1366,4 @@ Jump to
 ## Other Libraries
 [back to top](#readme)
 * [Introducing Ruler: Our Tool for Measuring Android App Size](https://engineering.atspotify.com/2022/02/introducing-ruler-our-tool-for-measuring-android-app-size/)
+* [Checklist Before Adding A Library To Your App](https://elye-project.medium.com/checklist-before-adding-a-library-to-your-app-5fbe123aee30)
