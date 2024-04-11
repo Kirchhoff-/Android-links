@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2010%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2011%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1261,6 +1261,8 @@ Jump to
     * [Why and How to Be a High Performer Even if You Don’t Like Your Job](https://medium.com/management-matters/why-and-how-to-be-a-high-performer-even-if-you-dont-like-your-job-658cd83d543e)
     * [What You Need to Realize When You Turn 35 as a Programmer](https://blog.stackademic.com/what-you-need-to-realize-when-you-turn-35-as-a-programmer-b9a85e1be2a3)
     * [This Killer Feature of My 9 to 5 Is Why I’m Not Quitting It](https://medium.com/career-paths/this-killer-feature-of-my-9-to-5-is-why-im-not-quitting-it-d0fcb8fb4979)
+    * [How do you survive every day at your shit job?](https://theordinaryman1.medium.com/how-do-you-survive-every-day-at-your-shit-job-fb40260a859f)
+  
 ---
 
 # Libraries
