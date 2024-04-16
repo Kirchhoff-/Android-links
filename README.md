@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2015%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2016%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1178,6 +1178,7 @@ Jump to
     * [Cannot Measure Productivity](https://www.martinfowler.com/bliki/CannotMeasureProductivity.html)
     * [Analysis: The Quickest Path To Halving Software Delivery Time](https://devinterrupted.substack.com/p/analysis-the-quickest-path-to-halving)
     * [McKinsey Has Solved Developer Productivity Measurement](https://levelup.gitconnected.com/mckinsey-has-solved-developer-productivity-measurement-73ec7125f0cf)
+    * [This is What is Killing Hardcore Programmers](https://medium.com/@tsecretdeveloper/this-is-what-is-killing-hardcore-programmers-118a539e15d)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
