@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2017%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2018%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1180,6 +1180,7 @@ Jump to
     * [McKinsey Has Solved Developer Productivity Measurement](https://levelup.gitconnected.com/mckinsey-has-solved-developer-productivity-measurement-73ec7125f0cf)
     * [This is What is Killing Hardcore Programmers](https://medium.com/@tsecretdeveloper/this-is-what-is-killing-hardcore-programmers-118a539e15d)
     * [Never ask for a raise or a promotion](https://mateusclira.medium.com/never-ask-for-a-raise-or-a-promotion-3a2f19627b2d)
+    * [Don’t Sleep With Your Boss](https://www.drorpoleg.com/dont-sleep-with-your-boss/)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
