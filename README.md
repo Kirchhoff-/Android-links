@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2019%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2023%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -188,6 +188,7 @@ Jump to
     * [Stop Passing Event/UI-Action Callbacks in Jetpack Compose](https://engineering.teknasyon.com/stop-passing-event-ui-action-callbacks-in-jetpack-compose-a4143621c365)
     * [How to handle single-event in Jetpack Compose](https://marco-cattaneo.medium.com/how-to-handle-single-event-in-jetpack-compose-f90b6220e8c8)
     * [Nested LazyColumn in Jetpack Compose](https://blog.kotlin-academy.com/nested-lazycolumn-in-jetpack-compose-79cc5d56c603)
+    * [Using XML Views in Compose](https://dladukedev.com/articles/034_xml_views_in_compose/)
 
 ---
 
