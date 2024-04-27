@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2025%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2027%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -189,6 +189,7 @@ Jump to
     * [How to handle single-event in Jetpack Compose](https://marco-cattaneo.medium.com/how-to-handle-single-event-in-jetpack-compose-f90b6220e8c8)
     * [Nested LazyColumn in Jetpack Compose](https://blog.kotlin-academy.com/nested-lazycolumn-in-jetpack-compose-79cc5d56c603)
     * [Using XML Views in Compose](https://dladukedev.com/articles/034_xml_views_in_compose/)
+    * [Shared Element Transitions in Jetpack Compose](https://fvilarino.medium.com/shared-element-transitions-in-jetpack-compose-8f553078101e)
 
 ---
 
