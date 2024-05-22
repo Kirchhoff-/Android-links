@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2017%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2022%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -191,6 +191,7 @@ Jump to
     * [Using XML Views in Compose](https://dladukedev.com/articles/034_xml_views_in_compose/)
     * [Shared Element Transitions in Jetpack Compose](https://fvilarino.medium.com/shared-element-transitions-in-jetpack-compose-8f553078101e)
     * [Styling Internationalized Text in Jetpack Compose](https://proandroiddev.com/styling-internationalized-text-in-jetpack-compose-b73cce64ecaf)
+    * [The Many Approaches to Providing @Preview data in Jetpack Compose](https://dladukedev.com/articles/036_compose_preview_parameter_data/)
 
 ---
 
