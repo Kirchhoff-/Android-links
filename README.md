@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2025%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2029%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1209,6 +1209,7 @@ Jump to
     * [Agile Teams Require Socially Skilled Developers](https://medium.com/@tsecretdeveloper/agile-teams-require-socially-skilled-developers-a39bf7dc95f0)
     * [Dear Scrum, It’s Not Me, It’s You](https://medium.com/@alexponomarev/dear-scrum-its-not-me-it-s-you-222302a13a62)
     * [Agile Projects Have Become Waterfall Projects With Sprints](https://itnext.io/agile-projects-have-become-waterfall-projects-with-sprints-536141801856)
+    * [5 practices that give Scrum an undeserved bad reputation](https://medium.com/@WJAgeling/5-practices-that-give-scrum-an-undeserved-bad-reputation-78e2282bbed5)
 * Feature flags
     * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)    
     * [Remote feature flags do not always come for free](https://proandroiddev.com/remote-feature-flags-do-not-always-come-for-free-a372f1768a70)
