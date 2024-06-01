@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2029%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2001%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1190,6 +1190,7 @@ Jump to
     * [Would You Return to the Office for a 30% Pay Increase?](https://code.likeagirl.io/would-you-return-to-the-office-for-a-30-pay-increase-d64c4b0445ed)
     * [How to Deal With a Bad Day at Work](https://betterprogramming.pub/how-to-deal-with-a-bad-day-at-work-89d85ecc57bb)
     * [Do Professional Programmers Really Spend 8 Hours a Day Writing Code?](https://blog.stackademic.com/do-professional-programmers-really-spend-8-hours-a-day-writing-code-435e73b75d07)
+    * [If Developers Nail Estimates, They Are Lying To You](https://drpicox.medium.com/if-developers-nail-estimates-they-are-lying-to-you-1b69a3ad5ad0)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
