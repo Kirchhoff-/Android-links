@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2001%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2003%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -793,6 +793,7 @@ Jump to
     * [[Youtube] TOA: Migrating To `kotlin.Result`](https://www.youtube.com/watch?v=rjOABsFvOXY)
     * [Hide internal members of Kotlin Module from JVM](https://medium.com/scalereal/hide-internal-members-of-kotlin-module-from-jvm-c7730507fb17)
     * [Error Handling the Kotlin Way](https://blog.kotlin-academy.com/error-handling-the-kotlin-way-7e2fb31b1aff)
+    * [Everything you want to know about Functional interfaces in Kotlin](https://proandroiddev.com/everything-you-want-to-know-about-functional-interfaces-in-kotlin-55f4ae7b64ec)
     
 ---
 
