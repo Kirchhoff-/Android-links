@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2005%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2006%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1281,6 +1281,7 @@ Jump to
     * [How do you survive every day at your shit job?](https://theordinaryman1.medium.com/how-do-you-survive-every-day-at-your-shit-job-fb40260a859f)
     * [Are We Ever Really Here?](https://medium.com/the-springboard/are-we-ever-really-here-43eb67675921)
     * [The Dark Side of Being a Freelancer That Has Made Me Consider Having a Full-Time Job Again](https://medium.com/swlh/the-dark-side-of-being-a-freelancer-that-has-made-me-consider-having-a-full-time-job-again-d51b37ec0496)
+    * [Productivity Systems I’ve Tried and My Honest Opinion on Each of Them](https://medium.com/publishous/productivity-systems-ive-tried-and-my-honest-opinion-on-each-of-them-e61dfa607bee)
   
 ---
 
