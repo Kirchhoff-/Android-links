@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2012%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2015%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1285,6 +1285,7 @@ Jump to
     * [The Dark Side of Being a Freelancer That Has Made Me Consider Having a Full-Time Job Again](https://medium.com/swlh/the-dark-side-of-being-a-freelancer-that-has-made-me-consider-having-a-full-time-job-again-d51b37ec0496)
     * [Productivity Systems I’ve Tried and My Honest Opinion on Each of Them](https://medium.com/publishous/productivity-systems-ive-tried-and-my-honest-opinion-on-each-of-them-e61dfa607bee)
     * [My Model, My Baby](https://medium.com/@retire.early.in.mexico/my-model-my-baby-297895afa0a8)
+    * [Working on a Beach Sucks](https://medium.com/publishous/working-on-a-beach-sucks-745f51194e15)
   
 ---
 
