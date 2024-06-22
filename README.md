@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2020%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2022%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1287,6 +1287,7 @@ Jump to
     * [My Model, My Baby](https://medium.com/@retire.early.in.mexico/my-model-my-baby-297895afa0a8)
     * [Working on a Beach Sucks](https://medium.com/publishous/working-on-a-beach-sucks-745f51194e15)
     * [What It Feels Like to Go Back to Corporate After 4 Years of Self-Employment](https://medium.com/career-paths/what-it-feels-like-to-go-back-to-corporate-after-4-years-of-self-employment-d3e06873c537)
+    * [I Thought Quitting My Job Was The Path to Freedom. I Was (Dead) Wrong](https://medium.com/change-your-mind/i-thought-quitting-my-job-was-the-path-to-freedom-i-was-dead-wrong-2227267527ca)
   
 ---
 
