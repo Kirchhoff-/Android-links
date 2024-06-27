@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2022%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2027%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -193,6 +193,7 @@ Jump to
     * [Styling Internationalized Text in Jetpack Compose](https://proandroiddev.com/styling-internationalized-text-in-jetpack-compose-b73cce64ecaf)
     * [The Many Approaches to Providing @Preview data in Jetpack Compose](https://dladukedev.com/articles/036_compose_preview_parameter_data/)
     * [Need of ViewCompositionStrategy in Jetpack Compose](https://proandroiddev.com/need-of-viewcompositionstrategy-in-jetpack-compose-5251f71b2139)
+    * [An introduction about Preview](https://www.droidcon.com/2023/03/07/an-introduction-about-preview-in-jetpack-compose/)
 
 ---
 
