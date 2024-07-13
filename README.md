@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2012%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2013%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -913,6 +913,7 @@ Jump to
 * [Why service locator is so unpopular](https://proandroiddev.com/why-service-locator-is-so-unpopular-bbe8678be72c)
 * [Streamlining User Actions with the Command Pattern: A Practical Guide](https://proandroiddev.com/streamlining-user-actions-with-the-command-pattern-a-practical-guide-72e2064b4ce7)
 * [Dependency Injection vs. Service Locator](https://www.baeldung.com/cs/dependency-injection-vs-service-locator)
+* [Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
 
 ---
 
