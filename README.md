@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2024%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2025%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1297,6 +1297,7 @@ Jump to
     * [I Thought Quitting My Job Was The Path to Freedom. I Was (Dead) Wrong](https://medium.com/change-your-mind/i-thought-quitting-my-job-was-the-path-to-freedom-i-was-dead-wrong-2227267527ca)
     * [The Biggest Self-Help Myth That Is Making You Struggle With Productivity](https://medium.com/publishous/the-biggest-self-help-myth-that-is-making-you-struggle-with-productivity-f5d68f37ce22)
     * [Here’s Why You Want A Really Boring Job](https://long.sweet.pub/heres-why-you-want-a-really-boring-job-40bcf683c415)
+    * [Why Most Google Employees Quit After 1.3 Years](https://medium.com/swlh/why-most-google-employees-quit-after-1-3-years-fdc4b08989a3)
   
 ---
 
