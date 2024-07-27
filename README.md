@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2025%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2027%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -540,6 +540,7 @@ Jump to
     * [Increasing Android Lint Terminal Results](https://jdvp.me/articles/Android-Terminal-Linting)
     * [Automation of code analysis in Android projects](https://proandroiddev.com/automating-analyzing-of-code-in-android-projects-a60313569c53)
     * [Introducing Konsist: A Cutting-Edge Kotlin Linter](https://blog.kotlin-academy.com/introducing-konsist-a-cutting-edge-kotlin-linter-d3ab916a5461)
+    * [Stop Debating in Code Reviews. Start Enforcing with Lint Rules](https://proandroiddev.com/stop-debating-in-code-reviews-start-enforcing-with-lint-rules-6632c907ea94)
 * Room
     * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929) 
     * [Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)  
