@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2027%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2030%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1203,6 +1203,7 @@ Jump to
     * [We’re in a software crisis again, but AI won’t replace anyone anytime soon.](https://medium.com/@jankammerath/were-in-a-software-crisis-again-but-ai-won-t-replace-anyone-anytime-soon-5fe0cca2a5f0)
     * [Include This In Your Estimates](https://medium.com/@mokagio/include-this-in-your-estimates-adf5395c7185)
     * [Software Development is Nonlinear System](https://blog.danlew.net/2024/07/23/software-development-is-nonlinear-system/)
+    * [Things I value in a Software Engineer](https://medium.com/@mike.s.chambers/things-i-value-in-a-software-engineer-3416a2b01b8f)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
