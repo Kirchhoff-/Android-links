@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2010%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2022%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1034,6 +1034,7 @@ Jump to
 * [How to Prevent Git Commit Naming Mistakes](https://betterprogramming.pub/how-to-prevent-git-commit-naming-mistakes-a34c8a7c6ae6)
 * [Git Rebase For Nested Branches](https://betterprogramming.pub/git-rebase-for-nested-branches-7a6bbb4a6688)
 * [Anatomy of a .gitignore](https://blog.sebastiano.dev/anatomy-of-a-gitignore/)
+* [Crafting the Perfect Pull Request](https://tutorialedge.net/tips/crafting-the-perfect-pull-request/)
 
 ---
 
