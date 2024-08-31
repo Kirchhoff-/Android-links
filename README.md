@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2030%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2031%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -196,6 +196,7 @@ Jump to
     * [An introduction about Preview](https://www.droidcon.com/2023/03/07/an-introduction-about-preview-in-jetpack-compose/)
     * [Shared Element Transition In Jetpack Compose: Provide Enriched User Experiences](https://proandroiddev.com/shared-element-transition-in-jetpack-compose-provide-enriched-user-experiences-163d4e435869)
     * [Exploring Jetpack Compose: Aspect Ratio Modifier](https://joebirch.co/android/exploring-jetpack-compose-aspect-ratio-modifier/)
+    * [Designing Effective UIs For Enhancing Compose Previews](https://getstream.io/blog/effective-compose-preview/)
 
 ---
 
