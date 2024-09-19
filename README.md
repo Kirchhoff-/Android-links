@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2018%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2019%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1213,6 +1213,7 @@ Jump to
     * [We All Know AI Can’t Code, Right?](https://ehandbook.com/we-all-know-ai-cant-code-right-2a60160f61ad)
     * [The Dark Side of Remote Work No One Talks About](https://medium.com/thought-thinkers/the-dark-side-of-remote-work-no-one-talks-about-8079b64a475d)
     * [If you don’t have time to do it right, when will you have time to do it over?](https://medium.com/analysts-corner/if-you-dont-have-time-to-do-it-right-when-will-you-have-time-to-do-it-over-947c38cbbd35)
+    * [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
