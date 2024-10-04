@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2027%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2004%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1215,6 +1215,7 @@ Jump to
     * [If you don’t have time to do it right, when will you have time to do it over?](https://medium.com/analysts-corner/if-you-dont-have-time-to-do-it-right-when-will-you-have-time-to-do-it-over-947c38cbbd35)
     * [I’ve been employed in tech for years, but I’ve almost never worked](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/)
     * [Why the return to the office isn’t working](https://medium.com/enrique-dans/why-the-return-to-the-office-isnt-working-927aec8fe742)
+    * [The Real Reasons Your Best Employees Leave](https://medium.com/career-paths/the-real-reasons-your-best-employees-leave-fc37cf7643a4)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
