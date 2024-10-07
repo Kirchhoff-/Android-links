@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2004%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2007%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -198,6 +198,7 @@ Jump to
     * [Exploring Jetpack Compose: Aspect Ratio Modifier](https://joebirch.co/android/exploring-jetpack-compose-aspect-ratio-modifier/)
     * [Designing Effective UIs For Enhancing Compose Previews](https://getstream.io/blog/effective-compose-preview/)
     * [How to Use ContextualFlowRow with custom overflow logic](https://proandroiddev.com/how-to-use-contextualflowrow-with-custom-overflow-logic-7f8c6e6e0194)
+    * [10 reasons to NOT use Jetpack Compose](https://sonique6784.medium.com/10-reasons-to-not-use-jetpack-compose-719de5d37c9e)
 
 ---
 
