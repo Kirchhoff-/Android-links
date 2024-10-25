@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-October%20%2024%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2025%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1315,6 +1315,7 @@ Jump to
     * [Here’s Why You Want A Really Boring Job](https://long.sweet.pub/heres-why-you-want-a-really-boring-job-40bcf683c415)
     * [Why Most Google Employees Quit After 1.3 Years](https://medium.com/swlh/why-most-google-employees-quit-after-1-3-years-fdc4b08989a3)
     * [You Have More Control Over Your Time Than You Think](https://levelup.gitconnected.com/you-have-more-control-over-your-time-than-you-think-as-a-software-engineer-8f218d815860)
+    * [I don’t want to be a great coder](https://blog.developerpurpose.com/i-dont-want-to-be-a-great-coder-9f847374b4de)
   
 ---
 
