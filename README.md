@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2011%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2012%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -739,6 +739,7 @@ Jump to
     * [callbackFlow - Callback to Flow API in Kotlin](https://amitshekhar.me/blog/callback-to-flow-api-in-kotlin)
     * [State production with unidirectional data flow and Kotlin Flows](https://tunjid.github.io/Mutator/)
     * [Kotlin Flows Animated](https://medium.com/@robert.baricevicpetrus/kotlin-flows-animated-55640aa48ac9)
+    * [Understanding State Maintenance with MutableStateFlow](https://medium.com/@hunterfreas/understanding-state-maintenance-with-mutablestateflow-a40509693b00)
 * Other
     * [Using Kotlin in a Java project: 10 lessons learned](https://xebia.com/using-kotlin-in-a-java-project-10-lessons-learned/)
     * [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
