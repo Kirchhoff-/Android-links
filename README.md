@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2012%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2014%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1319,6 +1319,7 @@ Jump to
     * [Why Most Google Employees Quit After 1.3 Years](https://medium.com/swlh/why-most-google-employees-quit-after-1-3-years-fdc4b08989a3)
     * [You Have More Control Over Your Time Than You Think](https://levelup.gitconnected.com/you-have-more-control-over-your-time-than-you-think-as-a-software-engineer-8f218d815860)
     * [I don’t want to be a great coder](https://blog.developerpurpose.com/i-dont-want-to-be-a-great-coder-9f847374b4de)
+    * [Why I will never be a Senior Software Engineer at Amazon](https://medium.com/@jamesryebread/why-i-will-never-be-a-senior-software-engineer-at-amazon-6613c66c2a6e)
   
 ---
 
