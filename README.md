@@ -199,6 +199,7 @@ Jump to
     * [Designing Effective UIs For Enhancing Compose Previews](https://getstream.io/blog/effective-compose-preview/)
     * [How to Use ContextualFlowRow with custom overflow logic](https://proandroiddev.com/how-to-use-contextualflowrow-with-custom-overflow-logic-7f8c6e6e0194)
     * [10 reasons to NOT use Jetpack Compose](https://sonique6784.medium.com/10-reasons-to-not-use-jetpack-compose-719de5d37c9e)
+    * [Top 5 Extension Functions Every Jetpack Compose Developer Should Have](https://proandroiddev.com/top-5-extension-functions-every-jetpack-compose-developer-should-have-cbf2c50d557c)
 
 ---
 
