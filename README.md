@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2015%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-November%20%2019%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -809,6 +809,7 @@ Jump to
     * [Error Handling the Kotlin Way](https://blog.kotlin-academy.com/error-handling-the-kotlin-way-7e2fb31b1aff)
     * [Everything you want to know about Functional interfaces in Kotlin](https://proandroiddev.com/everything-you-want-to-know-about-functional-interfaces-in-kotlin-55f4ae7b64ec)
     * [Kotlin Error Handling: Try-Catch, RunCatching, and Custom Exceptions](https://medium.com/@itsuki.enjoy/kotlin-error-handling-try-catch-and-custom-exceptions-1fbd302273f0)
+    * [Kotlin Tips and Tricks You May Not Know: #3 — Built-in Assertions](https://medium.com/@elenavanengelen/kotlin-tips-and-tricks-you-may-not-know-3-built-in-assertions-d26540ccb2e0)
     
 ---
 
