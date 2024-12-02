@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-November%20%2021%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2002%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -811,6 +811,7 @@ Jump to
     * [Everything you want to know about Functional interfaces in Kotlin](https://proandroiddev.com/everything-you-want-to-know-about-functional-interfaces-in-kotlin-55f4ae7b64ec)
     * [Kotlin Error Handling: Try-Catch, RunCatching, and Custom Exceptions](https://medium.com/@itsuki.enjoy/kotlin-error-handling-try-catch-and-custom-exceptions-1fbd302273f0)
     * [Kotlin Tips and Tricks You May Not Know: #3 — Built-in Assertions](https://medium.com/@elenavanengelen/kotlin-tips-and-tricks-you-may-not-know-3-built-in-assertions-d26540ccb2e0)
+    * [Kotlin trick: writing shared Enum utility code](https://whtwnd.com/p-y.wtf/entries/Kotlin%20trick%3A%20writing%20shared%20Enum%20utility%20code)
     
 ---
 
