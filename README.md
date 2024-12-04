@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2003%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2004%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1228,6 +1228,7 @@ Jump to
     * [From Good to Great: The Power of Empathy in Programming](https://medium.com/design-bootcamp/from-good-to-great-the-power-of-empathy-in-programming-2f9bcab47f01)
     * [4 Weird Signs of a Mediocre Self-Taught Programmer](https://levelup.gitconnected.com/4-weird-signs-of-a-mediocre-self-taught-programmer-dcf3777cd80a)
     * [Why Most Programmers Are Actually Bad at Programming: The Uncomfortable Truth About Our Industry](https://medium.com/mr-plan-publication/why-most-programmers-are-actually-bad-at-programming-the-uncomfortable-truth-about-our-industry-6bc7bcb48c09)
+    * [Forcing Employees Back to the Office Has Nothing to Do With Productivity](https://medium.com/canadeh/forcing-employees-back-to-the-office-has-nothing-to-do-with-productivity-add5ace1d734)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
