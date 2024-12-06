@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2005%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2006%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -585,6 +585,7 @@ Jump to
     * [Under the hood of Kotlin Class Delegation](https://medium.com/snapp-mobile/under-the-hood-of-kotlin-class-delegation-24d53f9aa924)
     * [Advanced Kotlin - Delegates](https://americanexpress.io/advanced-kotlin-delegates/)
     * [Effective Class Delegation](https://zsmb.co/effective-class-delegation/)
+    * [Interface Delegation in Kotlin](https://poisonedyouth.github.io/Kotlin-Interface-Delegation)
 * Type System
     * [Kotlin Type Hierarchy](http://natpryce.com/articles/000818.html)
     * [Nothing (else) matters in Kotlin](https://proandroiddev.com/nothing-else-matters-in-kotlin-994a9ef106fc)
