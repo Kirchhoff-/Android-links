@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-December%20%2007%202024-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-December%20%2009%202024-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1331,6 +1331,7 @@ Jump to
     * [You Have More Control Over Your Time Than You Think](https://levelup.gitconnected.com/you-have-more-control-over-your-time-than-you-think-as-a-software-engineer-8f218d815860)
     * [I don’t want to be a great coder](https://blog.developerpurpose.com/i-dont-want-to-be-a-great-coder-9f847374b4de)
     * [Why I will never be a Senior Software Engineer at Amazon](https://medium.com/@jamesryebread/why-i-will-never-be-a-senior-software-engineer-at-amazon-6613c66c2a6e)
+    * [If You Want Results, Leave Me Alone](https://medium.com/career-paths/if-you-want-results-leave-me-alone-f04bb68fa9ef)
   
 ---
 
