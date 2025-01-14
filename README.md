@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2007%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2014%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -201,6 +201,7 @@ Jump to
     * [10 reasons to NOT use Jetpack Compose](https://sonique6784.medium.com/10-reasons-to-not-use-jetpack-compose-719de5d37c9e)
     * [Top 5 Extension Functions Every Jetpack Compose Developer Should Have](https://proandroiddev.com/top-5-extension-functions-every-jetpack-compose-developer-should-have-cbf2c50d557c)
     * [5 Tips for Better Compose Previews](https://medium.com/@domen.lanisnik/5-tips-for-better-compose-previews-0fd51c9aa048)
+    * [Composition Locals in Jetpack Compose: A Beginner-to-Advanced Guide](https://proandroiddev.com/composition-locals-in-jetpack-compose-a-beginner-to-advanced-guide-e6a812ca7620)
 
 ---
 
