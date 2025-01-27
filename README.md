@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2021%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-January%20%2027%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1234,6 +1234,7 @@ Jump to
     * [Why Most Programmers Are Actually Bad at Programming: The Uncomfortable Truth About Our Industry](https://medium.com/mr-plan-publication/why-most-programmers-are-actually-bad-at-programming-the-uncomfortable-truth-about-our-industry-6bc7bcb48c09)
     * [Forcing Employees Back to the Office Has Nothing to Do With Productivity](https://medium.com/canadeh/forcing-employees-back-to-the-office-has-nothing-to-do-with-productivity-add5ace1d734)
     * [Seven Signs Your Tech Job Is Awful](https://bakertab86.medium.com/six-signs-your-tech-job-is-awful-ac4552d99330)
+    * [Myths That Most Programmers Still Believe](https://levelup.gitconnected.com/myths-that-most-programmers-blindly-believe-bd2d1a55b7de)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [The 10 commandments of navigating code reviews](https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews)
