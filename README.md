@@ -1281,14 +1281,10 @@ Jump to
 * Main
     * [[Youtube] Introduction to Functional Reactive Programming](https://www.youtube.com/watch?v=_XKX6UQfNGY)
     * [Unit Testing with RxJava](http://alexismas.com/blog/2015/05/20/unit-testing-rxjava/)
-    * [RxJava2: Dispose an Observable chain](https://android.jlelse.eu/rxjava2-dispose-an-observable-chain-684e6ca2790)
     * [Concurrency in RxJava 2](https://code.tutsplus.com/tutorials/concurrency-in-rxjava-2--cms-29288)
-    * [RxJava — Schedulers — What, when and how to use it?](https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add)
     * [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
     * [Rx if the operators could speak](https://medium.freecodecamp.org/rx-if-the-operators-could-speak-58567c4618f1)
-    * [RxJava as event bus, the right way](https://lorentzos.com/rxjava-as-event-bus-the-right-way-10a36bdd49ba)
     * [RxJava & State: The Basics](https://tech.instacart.com/rxjava-state-the-basics-f842eaee7ee1)
-    * [Understanding RxJava Subject — Publish, Replay, Behavior and Async Subject](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f?gi=837dc5402ae4)
     * [Understanding RxJava subscribeOn and observeOn](https://proandroiddev.com/understanding-rxjava-subscribeon-and-observeon-744b0c6a41ea)
     * [How we migrated from RxJava1 to RxJava2](https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f)
     * [When you dont need map](https://blog.danlew.net/2018/02/20/when-you-dont-need-a-map)
@@ -1303,7 +1299,6 @@ Jump to
 * Error
     * [Error handling in RxJava](http://blog.danlew.net/2015/12/08/error-handling-in-rxjava/)
     * [The RxJava2 Default Error Handler](https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f)
-    * [Error handling in RxJava/RxKotlin](https://android.jlelse.eu/error-handling-in-rxjava-rxkotlin-e960300990e0)
     * [Clean architecture — error handling with Kotlin/RxJava](https://medium.com/@june.pravin/clean-architecture-error-handling-with-kotlin-rxjava-d01c82a0f31e)
     * [Default Error Handling With RxJava](https://medium.com/@s.vinouze/default-error-handling-with-rxjava-89b79de3f125)
 * Backpressure
@@ -1320,7 +1315,6 @@ Jump to
     * [Building an AutoCompleting EditText using RxJava](https://proandroiddev.com/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40)
     * [[Youtube] Advanced RxJava and Conductor](https://www.youtube.com/watch?v=0XSf7sX2rCQ)
     * [RxJava on the Sign In Screen](https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572)
-    * [How to make complex requests simple with RxJava in Kotlin](https://blog.mindorks.com/how-to-make-complex-requests-simple-with-rxjava-in-kotlin-ccec004c5d10)
     * [No Cause for Concern — RxJava and Retrofit Throwing a Tantrum](https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c)
     * [RxJava vs. Coroutines](https://blog.danlew.net/2021/01/28/rxjava-vs-coroutines/)
     * [When And How To Use RxJava Disposable](http://cupsofcode.com/post/when_how_use_rxjava_disposable_serialdisposable_compositedisposable/)
@@ -1366,7 +1360,6 @@ Jump to
 
 ## Net
 [back to top](#readme)
-* [Advanced Retrofit](https://academy.realm.io/posts/advanced-retrofit-mobilization-2017/)
 * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
 * [OkHttp & OAuth: Token Refreshes](https://blog.coinbase.com/okhttp-oauth-token-refreshes-b598f55dd3b2)
 * [Maximizing OkHttp connection reuse](https://medium.com/booking-com-development/maximizing-okhttp-connection-reuse-b1f0ad6ec66c)
