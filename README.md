@@ -201,7 +201,6 @@ Jump to
 * [Android Context Needs Isolation](https://www.techyourchance.com/android-context-needs-isolation)
 * [Mastering Android context](https://medium.freecodecamp.org/mastering-android-context-7055c8478a22)
 * [Using Context Theme Wrapper](https://ataulm.github.io/2019/11/20/using-context-theme-wrapper.html)
-* [Everything about Context in Android? Understand how new right](https://itzone.com.vn/en/article/everything-about-context-in-android-understand-how-new-right/)
 
 ---
 
@@ -209,7 +208,6 @@ Jump to
 [back to top](#readme) 
 * [Advocating Against Android Fragments](https://developer.squareup.com/blog/advocating-against-android-fragments/)
 * [Fragment Transactions & Activity State Loss](http://www.androiddesignpatterns.com/2013/08/fragment-transaction-commit-state-loss.html)
-* [The Dark side of Fragments](https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199)
 * [Android Fragment Lifecycle for Professional Developers](https://www.techyourchance.com/android-fragment-lifecycle-for-professional-developers/)
 * [Lifecycle & Fragments backstack](https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5)
 * [[Youtube] Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
@@ -225,21 +223,17 @@ Jump to
 
 ## Service
 [back to top](#readme)
- * [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
+* [How to handle background services in Android O](https://medium.com/@kevalpatel2106/how-to-handle-background-services-in-android-o-f96783e65268)
 * [Exploring Background Execution Limits on Android Oreo](https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c)
 * [Services. The life with/without. And WorkManager](https://medium.com/google-developer-experts/services-the-life-with-without-and-worker-6933111d62a6)
 * [Mastering Android Service of 2018](https://medium.com/mindorks/mastering-android-service-of-2018-a4a1df5ed5a6)
-* [How to Service on Android — part 2](https://www.hellsoft.se/how-to-service-on-android---part-2/)
 * [The “misbehaving” foreground service in Android](https://proandroiddev.com/when-your-app-makes-android-foreground-services-misbehave-8dbcc57dd99c)
 
 ---
 
 ## Themes
 [back to top](#readme)
-* [Android Themes & styles, a real architecture](http://blog.octo.com/en/android-themes-styles-a-real-architecture/)
-* [Android Resources Refactoring](https://academy.realm.io/posts/android-resources-refactoring/)
 * [Styling Colors & Drawables, Theme Attributes](https://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html)
-* [Polishing UI: Android StateListAnimator](https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5)
 * [[Yotube] Using Styles and Themes Without Going Crazy](https://www.youtube.com/watch?v=Jr8hJdVGHAk)
 * [Android Styling: Themes vs Styles](https://medium.com/androiddevelopers/android-styling-themes-vs-styles-ebe05f917578)
 
@@ -249,7 +243,6 @@ Jump to
 [back to top](#readme)
 * [Gradle Tutorial for Android: Getting Started](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started)
 * [[Yotube] Speeding Up Your Android Gradle Builds](https://www.youtube.com/watch?v=7ll-rkLCtyk)
-* [How to speed up your slow Gradle builds](https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a)
 * [Renaming Your Gradle Build Files](http://www.developerphil.com/renaming-your-gradle-build-files/)
 * [[Yotube] Gradle: From User to Addict](https://www.youtube.com/watch?v=-C7TtnPJ7ms)
 * [Experimenting with Gradle dependencies](http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html)
