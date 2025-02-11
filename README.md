@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-January%20%2029%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2011%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1271,6 +1271,7 @@ Jump to
     * [Why I will never be a Senior Software Engineer at Amazon](https://medium.com/@jamesryebread/why-i-will-never-be-a-senior-software-engineer-at-amazon-6613c66c2a6e)
     * [If You Want Results, Leave Me Alone](https://medium.com/career-paths/if-you-want-results-leave-me-alone-f04bb68fa9ef)
     * [5 Practical Ways To Fix Your Work-Life Balance](https://medium.com/engineering-managers-journal/5-practical-ways-to-fix-your-work-life-balance-86f78dd7aa5e)
+    * [I Spent 25 Years in Tech — Now I Wonder Why](https://medium.com/the-human-side-of-work/i-spent-25-years-in-tech-now-i-wonder-why-5c3e6213a17f)
   
 ---
 
