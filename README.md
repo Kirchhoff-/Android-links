@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2012%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2017%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1180,6 +1180,7 @@ Jump to
     * [Seven Signs Your Tech Job Is Awful](https://bakertab86.medium.com/six-signs-your-tech-job-is-awful-ac4552d99330)
     * [Myths That Most Programmers Still Believe](https://levelup.gitconnected.com/myths-that-most-programmers-blindly-believe-bd2d1a55b7de)
     * [LLM won’t learn for you](https://medium.com/@victor.ronin/llm-wont-learn-for-you-37e55c971d1e)
+    * [The Dirty Secret of “Clean Code” No One Talks About](https://medium.com/madhash/the-dirty-secret-of-clean-code-no-one-talks-about-125224f1f2c7)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
