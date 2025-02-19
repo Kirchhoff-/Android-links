@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2018%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2019%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -883,6 +883,7 @@ Jump to
 * [Streamlining User Actions with the Command Pattern: A Practical Guide](https://proandroiddev.com/streamlining-user-actions-with-the-command-pattern-a-practical-guide-72e2064b4ce7)
 * [Dependency Injection vs. Service Locator](https://www.baeldung.com/cs/dependency-injection-vs-service-locator)
 * [Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
+* [10 of the Best Anti-Patterns Ever](https://medium.com/software-design-concepts/10-of-the-best-anti-patterns-ever-dcbab89bc21d)
 
 ---
 
