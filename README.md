@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-February%20%2019%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-February%20%2022%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1182,6 +1182,7 @@ Jump to
     * [Myths That Most Programmers Still Believe](https://levelup.gitconnected.com/myths-that-most-programmers-blindly-believe-bd2d1a55b7de)
     * [LLM won’t learn for you](https://medium.com/@victor.ronin/llm-wont-learn-for-you-37e55c971d1e)
     * [The Dirty Secret of “Clean Code” No One Talks About](https://medium.com/madhash/the-dirty-secret-of-clean-code-no-one-talks-about-125224f1f2c7)
+    * [Why Tech’s Loudest ‘Experts’ Are Often the Worst Coders: Confronting the Dunning-Kruger Epidemic](https://medium.com/mr-plan-publication/why-techs-loudest-experts-are-often-the-worst-coders-confronting-the-dunning-kruger-epidemic-38761907f012)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
