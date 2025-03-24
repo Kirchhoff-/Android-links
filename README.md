@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2022%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2024%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1285,6 +1285,7 @@ Jump to
     * [5 Practical Ways To Fix Your Work-Life Balance](https://medium.com/engineering-managers-journal/5-practical-ways-to-fix-your-work-life-balance-86f78dd7aa5e)
     * [I Spent 25 Years in Tech — Now I Wonder Why](https://medium.com/the-human-side-of-work/i-spent-25-years-in-tech-now-i-wonder-why-5c3e6213a17f)
     * [Less Than 20% of Software Developers Are Happy with Their Jobs](https://levelup.gitconnected.com/less-than-20-of-software-developers-are-happy-with-their-jobs-c91e7bcb2bce)
+    * [You Don’t Need a Personal Brand to Be a Great Developer](https://medium.com/@PurpleGreenLemon/you-dont-need-a-personal-brand-to-be-a-great-developer-bdc0638f361c)
   
 ---
 
