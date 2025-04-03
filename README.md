@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2001%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2003%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -197,6 +197,7 @@ Jump to
 * [5 Tips for Better Compose Previews](https://medium.com/@domen.lanisnik/5-tips-for-better-compose-previews-0fd51c9aa048)
 * [Composition Locals in Jetpack Compose: A Beginner-to-Advanced Guide](https://proandroiddev.com/composition-locals-in-jetpack-compose-a-beginner-to-advanced-guide-e6a812ca7620)
 * [Fragments & Compose interoperability — Android](https://proandroiddev.com/fragments-compose-interoperability-android-a9a8efee0040)
+* [Add powerful analytics modifiers in Jetpack Compose with ModifierLocal!](https://proandroiddev.com/add-powerful-analytics-modifiers-in-jetpack-compose-with-modifierlocal-399e3f8b7914)
 
 ---
 
