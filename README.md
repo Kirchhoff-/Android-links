@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2004%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2005%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1189,6 +1189,7 @@ Jump to
     * [Why Tech’s Loudest ‘Experts’ Are Often the Worst Coders: Confronting the Dunning-Kruger Epidemic](https://medium.com/mr-plan-publication/why-techs-loudest-experts-are-often-the-worst-coders-confronting-the-dunning-kruger-epidemic-38761907f012)
     * [LinkedIn Is A F*cked Up Circus — Flee](https://medium.com/my-unpopular-opinion/linkedin-is-a-f-cked-up-circus-5c1bc1248f1f)
     * [Apple Speaks the Truth About AI. It’s Not Good](https://medium.com/@ignacio.de.gregorio.noblejas/apple-speaks-the-truth-about-ai-its-not-good-8f72621cb82d)
+    * [Software Architecture — Things That No One Has Told You](https://levelup.gitconnected.com/software-architecture-things-that-no-one-has-told-you-c098bbb70a61)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
