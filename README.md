@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2009%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2010%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1192,6 +1192,7 @@ Jump to
     * [Software Architecture — Things That No One Has Told You](https://levelup.gitconnected.com/software-architecture-things-that-no-one-has-told-you-c098bbb70a61)
     * [How To Create Compound Efficiencies In Engineering](https://devinterrupted.substack.com/p/how-to-create-compound-efficiencies)
     * [LLM as a software engineer](https://medium.com/@victor.ronin/llm-as-a-software-engineer-c4abda158414)
+    * [7 Productivity Hacks I Learned from a Principal Software Engineer!](https://medium.com/the-pythonworld/7-productivity-hacks-i-learned-from-a-principal-software-engineer-cec0e93f472d)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
