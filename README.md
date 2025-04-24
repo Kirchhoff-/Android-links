@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2012%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2024%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -782,6 +782,7 @@ Jump to
     * [Kotlin trick: writing shared Enum utility code](https://whtwnd.com/p-y.wtf/entries/Kotlin%20trick%3A%20writing%20shared%20Enum%20utility%20code)
     * [Kotlin 2.1.0: Smarter `when` with Guard Conditions](https://tomsabel.com/kotlin-2-1-0-smarter-when-with-guard-conditions-4541160d67a0)
     * [Kotlin Tips and Tricks You May Not Know: #7 — Goodbye try-catch, Hello runCatching!](https://proandroiddev.com/kotlin-tips-and-tricks-you-may-not-know-7-goodbye-try-catch-hello-trycatching-7135cb382609)
+    * [Kotlin Under the Hood: Exploring Objects, Companion Objects, and Annotations: @JvmStatic, @JvmField, @JvmOverloads](https://proandroiddev.com/kotlin-under-the-hood-exploring-objects-companion-objects-and-annotations-jvmstatic-71e1bf1128df)
     
 ---
 
