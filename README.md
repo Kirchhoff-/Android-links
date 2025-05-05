@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2026%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2005%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1197,6 +1197,7 @@ Jump to
     * [7 Productivity Hacks I Learned from a Principal Software Engineer!](https://medium.com/the-pythonworld/7-productivity-hacks-i-learned-from-a-principal-software-engineer-cec0e93f472d)
     * [Your Clean Code Might Be Someone Else’s Technical Debt](https://drpicox.medium.com/your-clean-code-might-be-someone-elses-technical-debt-3cefdd8fa17f)
     * [“It Works, Don’t Touch It” Is a Recipe for Disaster](https://medium.com/madhash/it-works-dont-touch-it-is-a-recipe-for-disaster-and-here-s-why-your-code-will-hate-you-later-08236e310b3f)
+    * [Entropy — Why Code Rots And Technical Debt Grows](https://itnext.io/entropy-in-software-development-77ed9110ef28)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
