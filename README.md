@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2009%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2010%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -271,6 +271,7 @@ Jump to
 * [Using Version Catalog on Android projects](https://proandroiddev.com/using-version-catalog-on-android-projects-82d88d2f79e5)
 * [Android Security: Securing your Gradle builds from baddies](https://proandroiddev.com/android-security-securing-your-gradle-builds-from-baddies-1dc30e1acf30)
 * [State of Dependency Management in Android Studio](https://proandroiddev.com/state-of-dependency-management-in-android-studio-a6ce647315f2)
+* [How I Cut My Gradle Build Time by 50%](https://levelup.gitconnected.com/how-i-cut-my-gradle-build-time-by-50-8f3c57534ce6)
 
 ---
 
