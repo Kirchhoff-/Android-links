@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2023%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2002%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -358,6 +358,7 @@ Jump to
     * [Modern Android Development in 2023](https://devjorgecastro.medium.com/modern-android-app-development-in-2023-ff445d3652b4)
     * [How to Implement MVI with Delegates on Android](https://engineering.teknasyon.com/how-to-implement-mvi-with-delegates-on-android-f2aa1a842b73)
     * [A new way of handling one-off events in your Android application (and even more)](https://medium.com/@rom.andrushchenko/a-new-way-of-handling-one-off-events-in-android-application-85c642a50334)
+    * [5 steps to implement MVI architecture with Jetpack Compose](https://blog.kotlin-academy.com/5-steps-to-implement-mvi-architecture-with-jetpack-compose-383c4f72406f)
 
 ---
 
