@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2003%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2004%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -360,6 +360,7 @@ Jump to
     * [How to Implement MVI with Delegates on Android](https://engineering.teknasyon.com/how-to-implement-mvi-with-delegates-on-android-f2aa1a842b73)
     * [A new way of handling one-off events in your Android application (and even more)](https://medium.com/@rom.andrushchenko/a-new-way-of-handling-one-off-events-in-android-application-85c642a50334)
     * [5 steps to implement MVI architecture with Jetpack Compose](https://blog.kotlin-academy.com/5-steps-to-implement-mvi-architecture-with-jetpack-compose-383c4f72406f)
+    * [How to Build Truly Awful Architecture (A Step-by-Step Guide for Sabotaging Your Codebase)](https://medium.com/@PurpleGreenLemon/how-to-build-truly-awful-architecture-a-step-by-step-guide-for-sabotaging-your-codebase-4690740da9f7)
 
 ---
 
