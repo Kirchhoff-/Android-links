@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2007%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2010%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -494,6 +494,7 @@ Jump to
     * [Text Will Not Always Scale](https://commonsware.com/blog/2023/07/08/text-will-not-always-scale.html)
     * [Not All ViewBinding Need Null Setting](https://medium.com/mobile-app-development-publication/not-all-viewbinding-need-null-setting-e16fe6737489)
     * [What Are Dynamic App Shortcuts?](https://proandroiddev.com/what-are-dynamic-app-shortcuts-d76ab680edf1)
+    * [The two best ways to secure your API keys in Android projects](https://proandroiddev.com/the-2-best-ways-to-secure-your-api-keys-in-android-projects-12f6a9939053)
 * Net
     * [Various methods to debug HTTP traffic in Android applications](https://proandroiddev.com/various-methods-to-debug-http-traffic-in-the-android-application-8685b9183418)
     * [Four Ways to Bypass Android SSL Verification and Certificate Pinning](https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/)
