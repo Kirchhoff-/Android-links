@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2010%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2011%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1210,6 +1210,7 @@ Jump to
     * [When The Role Looks Right But Feels Wrong](https://medium.com/engineering-managers-journal/when-the-role-looks-right-but-feels-wrong-5ef7b57ecf23)
     * [The Difference Between The Clever Developer & The Wise Developer](https://itnext.io/the-difference-between-the-clever-developer-the-wise-developer-a0edd9d8a692)
     * [How Much Does It Really Cost to Do a Major Code Refactor?](https://drpicox.medium.com/how-much-does-it-really-cost-to-do-a-major-code-refactor-372595b4e89a)
+    * [Real Programmers Are Becoming As Rare As Dodo Birds](https://ai.gopubby.com/real-programmers-are-becoming-as-rare-as-dodo-birds-6941946e84bd)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
