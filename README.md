@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2013%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-June%20%2014%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -201,6 +201,7 @@ Jump to
 * [5 Jetpack Compose Tricks That Saved Me Hours in Real Projects](https://levelup.gitconnected.com/5-jetpack-compose-tricks-that-saved-me-hours-in-real-projects-32d43606e5f0)
 * [Design Tooltips in Jetpack Compose](https://proandroiddev.com/design-tooltips-in-jetpack-compose-735ffdee1d45)
 * [Tooltips in Compose Material 3](https://proandroiddev.com/tooltips-in-compose-material-3-14b49cbaf4dd)
+* [Expandable Text in Jetpack Compose](https://manpreet.fyi/posts/expandable_text/)
 
 ---
 
