@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-June%20%2014%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2001%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -792,6 +792,7 @@ Jump to
     * [Kotlin Tips and Tricks You May Not Know: #7 — Goodbye try-catch, Hello runCatching!](https://proandroiddev.com/kotlin-tips-and-tricks-you-may-not-know-7-goodbye-try-catch-hello-trycatching-7135cb382609)
     * [Kotlin Under the Hood: Exploring Objects, Companion Objects, and Annotations: @JvmStatic, @JvmField, @JvmOverloads](https://proandroiddev.com/kotlin-under-the-hood-exploring-objects-companion-objects-and-annotations-jvmstatic-71e1bf1128df)
     * [runCatching vs. try-catch in Kotlin: A Comprehensive Error Handling Comparison](https://proandroiddev.com/runcatching-vs-try-catch-in-kotlin-a-comprehensive-error-handling-comparison-e2f7611f0dc1)
+    * [Kotlin Context Parameters](https://medium.com/@ralf.stuckert/kotlin-context-parameters-0156f2911462)
     
 ---
 
