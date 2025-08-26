@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2025%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2026%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1216,6 +1216,7 @@ Jump to
     * [The Real Reason We Still Need Software Developers in the World of AI](https://medium.com/@tsecretdeveloper/the-real-reason-we-still-need-software-developers-in-the-world-of-ai-a2dd42afcaeb)
     * [How to Do Thoughtful Code Reviews](https://www.coderabbit.ai/blog/how-to-do-thoughtful-code-reviews)
     * [Stack Overflow’s Traffic Dropped 50% — Here’s the Real Reason](https://medium.com/@ThreadSafeDiaries/stack-overflows-traffic-dropped-50-here-s-the-real-reason-6efc12c312c4)
+    * [What Makes a Senior Developer Senior?](https://levelup.gitconnected.com/what-makes-a-senior-developer-senior-d456b4960184)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
