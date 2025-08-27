@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2026%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2027%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1320,6 +1320,7 @@ Jump to
     * [Less Than 20% of Software Developers Are Happy with Their Jobs](https://levelup.gitconnected.com/less-than-20-of-software-developers-are-happy-with-their-jobs-c91e7bcb2bce)
     * [You Don’t Need a Personal Brand to Be a Great Developer](https://medium.com/@PurpleGreenLemon/you-dont-need-a-personal-brand-to-be-a-great-developer-bdc0638f361c)
     * [Traveling While Working Sucks](https://medium.com/publishous/traveling-while-working-sucks-ce9c72456860)
+    * [New trend: extreme hours at AI startups](https://blog.pragmaticengineer.com/new-trend-extreme-hours-at-ai-startups/)
   
 ---
 
