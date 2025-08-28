@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2027%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2028%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1321,6 +1321,7 @@ Jump to
     * [You Don’t Need a Personal Brand to Be a Great Developer](https://medium.com/@PurpleGreenLemon/you-dont-need-a-personal-brand-to-be-a-great-developer-bdc0638f361c)
     * [Traveling While Working Sucks](https://medium.com/publishous/traveling-while-working-sucks-ce9c72456860)
     * [New trend: extreme hours at AI startups](https://blog.pragmaticengineer.com/new-trend-extreme-hours-at-ai-startups/)
+    * [This Is Why Nobody Submits PRs to Open Source Anymore](https://medium.com/@ThreadSafeDiaries/this-is-why-nobody-submits-prs-to-open-source-anymore-e3d8d18d7b1d)
   
 ---
 
