@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2028%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-August%20%2029%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1224,6 +1224,7 @@ Jump to
     * [Code Reviews ?— Good luck with that](https://medium.com/analytics-vidhya/code-reviews-good-luck-with-that-a42982b54b3d)  
     * [Effective Code Reviews](https://addyosmani.com/blog/code-reviews/)    
     * [Your Code Was Fine Until a Senior Dev Needed to Feel Smart](https://medium.com/@kanishks772/your-code-was-fine-until-a-senior-dev-needed-to-feel-smart-b7c4f2c33b90)
+    * [7 Code Review Red Flags That Scream ‘Run Away From This Team’](https://medium.com/@kanishks772/7-code-review-red-flags-that-scream-run-away-from-this-team-9edd02fb55f6)
 * Agile/Scrum/Kanban
     * [What's the Difference? Agile vs Scrum vs Waterfall vs Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban)
     * [[Youtube] Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
