@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-August%20%2029%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2001%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -678,6 +678,7 @@ Jump to
     * [Default implementations for interfaces](https://medium.com/a-problem-like-maria/default-implementations-for-interfaces-afd0b9316a8a)
     * [Abstract class vs interface in Kotlin](https://blog.kotlin-academy.com/abstract-class-vs-interface-in-kotlin-5ab8697c3a14)
     * [Patterns in Kotlin: Abstract Factory](https://medium.com/@dbottillo/patterns-in-kotlin-abstract-factory-a0ff99a0d177)
+    * [Decorator Pattern in Kotlin — Embracing Open/Closed Principle](https://itnext.io/decorator-pattern-in-kotlin-embracing-open-closed-principle-b469adc2ab7b)
 * Variable
     * [A few facts about Companion objects](https://blog.kotlin-academy.com/a-few-facts-about-companion-objects-37e18429b725)
     * [You don't need a variable for this](https://forcelain.github.io/2017/08/04/you-don-t-need-a-variable-for-this.html)
