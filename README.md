@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2001%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2002%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -533,6 +533,7 @@ Jump to
     * [Introducing Konsist: A Cutting-Edge Kotlin Linter](https://blog.kotlin-academy.com/introducing-konsist-a-cutting-edge-kotlin-linter-d3ab916a5461)
     * [Stop Debating in Code Reviews. Start Enforcing with Lint Rules](https://proandroiddev.com/stop-debating-in-code-reviews-start-enforcing-with-lint-rules-6632c907ea94)
     * [First Look: Using Google Open-source Android Security Lint Library](https://medium.com/@mickcolai/first-look-using-google-open-source-android-security-lint-library-eeaf183ef642)
+    * [Free android lint perf](https://dev.to/charlietap/free-android-lint-perf-103p)
 * Room
     * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929) 
     * [Room auto-migrations](https://medium.com/androiddevelopers/room-auto-migrations-d5370b0ca6eb)  
