@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2003%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2022%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1326,6 +1326,7 @@ Jump to
     * [Traveling While Working Sucks](https://medium.com/publishous/traveling-while-working-sucks-ce9c72456860)
     * [New trend: extreme hours at AI startups](https://blog.pragmaticengineer.com/new-trend-extreme-hours-at-ai-startups/)
     * [This Is Why Nobody Submits PRs to Open Source Anymore](https://medium.com/@ThreadSafeDiaries/this-is-why-nobody-submits-prs-to-open-source-anymore-e3d8d18d7b1d)
+    * [“996”? Don’t Believe The Hype](https://medium.com/psychology-of-workplaces/996-dont-believe-the-hype-789ee66d8df4)
   
 ---
 
