@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2024%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2025%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1221,6 +1221,7 @@ Jump to
     * [Stack Overflow’s Traffic Dropped 50% — Here’s the Real Reason](https://medium.com/@ThreadSafeDiaries/stack-overflows-traffic-dropped-50-here-s-the-real-reason-6efc12c312c4)
     * [What Makes a Senior Developer Senior?](https://levelup.gitconnected.com/what-makes-a-senior-developer-senior-d456b4960184)
     * [They’re Lying to You About AI Productivity](https://brianjenney.medium.com/theyre-lying-to-you-about-ai-productivity-92a53ac4d8f4)
+    * [Software Engineering’s Hidden Truths: 10 Insights You Probably Don’t Know](https://medium.com/@poojaauma/software-engineerings-hidden-truths-10-insights-you-probably-don-t-know-88acd0babd0f)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
