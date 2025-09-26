@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2025%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-September%20%2026%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1245,6 +1245,7 @@ Jump to
     * [Scrum Is a Project Management System for a World That No Longer Exists](https://medium.com/@PurpleGreenLemon/scrum-is-a-project-management-system-for-a-world-that-no-longer-exists-ac742a7634e0)
     * [We Have a Daily Standup. Nobody Stands. Nothing’s Up.](https://medium.com/@all.technology.stories/we-have-a-daily-standup-nobody-stands-nothings-up-df62e147e1fa)
     * [Agile Means I Can Change My Mind Every Hour, Right?](https://medium.com/loop-of-thought/agile-means-i-can-change-my-mind-every-hour-right-3df7e5160e9f)
+    * [Making Work More Human](https://malcolmbastien.com/2025/09/06/making-work-more-human/)
 * Feature flags
     * [Feature Flags - Why you should care](https://jeroenmols.com/blog/2019/08/13/featureflags/)    
     * [Remote feature flags do not always come for free](https://proandroiddev.com/remote-feature-flags-do-not-always-come-for-free-a372f1768a70)
