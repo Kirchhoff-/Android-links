@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-September%20%2026%202025-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-October%20%2006%202025-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1331,6 +1331,7 @@ Jump to
     * [New trend: extreme hours at AI startups](https://blog.pragmaticengineer.com/new-trend-extreme-hours-at-ai-startups/)
     * [This Is Why Nobody Submits PRs to Open Source Anymore](https://medium.com/@ThreadSafeDiaries/this-is-why-nobody-submits-prs-to-open-source-anymore-e3d8d18d7b1d)
     * [“996”? Don’t Believe The Hype](https://medium.com/psychology-of-workplaces/996-dont-believe-the-hype-789ee66d8df4)
+    * [Why Senior Engineers Burn Out Faster in Big Corporations](https://medium.com/@neerupujari5/why-senior-engineers-burn-out-faster-in-big-corporations-01e11bfd8031)
   
 ---
 
