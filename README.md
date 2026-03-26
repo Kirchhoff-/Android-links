@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2025%202026-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2026%202026-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -905,6 +905,7 @@ Jump to
 * [Dependency Injection vs. Service Locator](https://www.baeldung.com/cs/dependency-injection-vs-service-locator)
 * [Keep listening or do your job and finish](https://dev.to/altavir/keep-listening-or-do-your-job-and-finish-2hej)
 * [10 of the Best Anti-Patterns Ever](https://medium.com/software-design-concepts/10-of-the-best-anti-patterns-ever-dcbab89bc21d)
+* [Dependency Injection in Android: The Complete Guide to Writing Maintainable Code](https://itnext.io/dependency-injection-in-android-the-complete-guide-to-writing-maintainable-code-2a9362c5e687)
 
 ---
 
