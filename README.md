@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-March%20%2026%202026-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-March%20%2027%202026-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -949,6 +949,7 @@ Jump to
     * [Prefer Integration Tests Over Unit Tests](https://betterprogramming.pub/prefer-integration-tests-over-unit-tests-2079856f9cfc)
     * [Test My Code, Not My Limits](https://betterprogramming.pub/test-my-code-not-my-limits-b9d78b3056a9)
     * [Why I Stopped Writing Unit Tests (And Started Writing Better Code Instead)](https://medium.com/@neerupujari5/why-i-stopped-writing-unit-tests-and-started-writing-better-code-instead-391826ac67df)
+    * [AI-generated tests as ceremony](https://blog.ploeh.dk/2026/01/26/ai-generated-tests-as-ceremony/)
 * Android
     * [Fast and reliable UI tests on Android](https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.1bilhu4hg)
     * [Espresso Test for Intent](http://pengj.me/android/test/2015/10/17/expresso-test-intent.html)
