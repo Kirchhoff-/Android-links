@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2006%202026-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2007%202026-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -798,6 +798,7 @@ Jump to
     * [runCatching vs. try-catch in Kotlin: A Comprehensive Error Handling Comparison](https://proandroiddev.com/runcatching-vs-try-catch-in-kotlin-a-comprehensive-error-handling-comparison-e2f7611f0dc1)
     * [Kotlin Context Parameters](https://medium.com/@ralf.stuckert/kotlin-context-parameters-0156f2911462)
     * [Kotlin 2.4 Rich Errors: What They Are and How to Prepare](https://carrion.dev/en/posts/kotlin-24-rich-errors/)
+    * [Elegant Error Handling in Kotlin: Using `runCatching` and `Result`](https://carrion.dev/en/posts/runcatching-result-pattern/)
     
 ---
 
