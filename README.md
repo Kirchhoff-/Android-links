@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2010%202026-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-April%20%2027%202026-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -874,6 +874,7 @@ Jump to
 * [👨‍💻Kotlin SOLID Principles](https://medium.com/huawei-developers/kotlin-solid-principles-tutorial-examples-192bf8c049dd)
 * [Liskov Substitution Principle (basics)](https://levelup.gitconnected.com/liskov-substitution-principle-basics-46937550479f)
 * [When SOLID breaks: Choose CLARITY](https://krossovochkin.com/posts/2025_05_05_when_solid_breaks_choose_clarity/)
+* [Stop Passing Booleans into Functions — It’s a Code Smell for a Reason](https://medium.com/@anurag.ydv36/stop-passing-booleans-into-functions-its-a-code-smell-for-a-reason-e8fa42a558d6)
 
 ---
 
