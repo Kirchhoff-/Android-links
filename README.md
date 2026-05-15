@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-April%20%2027%202026-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-May%20%2015%202026-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -1231,6 +1231,7 @@ Jump to
     * [They’re Lying to You About AI Productivity](https://brianjenney.medium.com/theyre-lying-to-you-about-ai-productivity-92a53ac4d8f4)
     * [Software Engineering’s Hidden Truths: 10 Insights You Probably Don’t Know](https://medium.com/@poojaauma/software-engineerings-hidden-truths-10-insights-you-probably-don-t-know-88acd0babd0f)
     * [Lies CTOs Tell (Themselves and Others)](https://avivby.medium.com/lies-ctos-tell-themselves-and-others-98264d574b0e)
+    * [The Death of Coding Is Cancelled: Why Your AI Assistant Is Quickly Becoming an Imbecile](https://medium.com/predict/the-death-of-coding-is-cancelled-why-your-ai-assistant-is-quickly-becoming-an-imbecile-e4d0236c6f07)
 * Code review
     * [Better Code Review](https://medium.com/retailmenot-engineering/better-code-review-part-3-4efb568885)
     * [Does Code Review Involve Testing?](https://www.yegor256.com/2019/12/03/testing-in-code-review.html)
