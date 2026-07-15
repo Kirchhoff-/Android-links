@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-May%20%2015%202026-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2015%202026-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -563,6 +563,7 @@ Jump to
     * [You may not need a sealed class](https://medium.com/@patxi/you-may-not-need-a-sealed-class-fe4551e800b4)
     * [Enum vs Sealed class — which one to choose?](https://blog.kotlin-academy.com/enum-vs-sealed-class-which-one-to-choose-dc92ce7a4df5)
     * [Dealing with Multiple APIs via Retrofit? Learn How to use Sealed Classes Effectively](https://medium.com/@bhavnathacker14/dealing-with-multiple-apis-via-retrofit-learn-how-to-use-sealed-classes-effectively-eee01b2bff45)
+    * [Kotlin : Sealed Classes and Interface](https://proandroiddev.com/kotlin-sealed-classes-and-interface-9a90f80d4983)
 * Delegates
     * [Kotlin is Dope And So Are Its Custom Property Delegates](https://robots.thoughtbot.com/kotlin-is-dope-and-so-are-its-custom-property-delegates)
     * [Kotlin — Faster Lazy for Android](https://proandroiddev.com/kotlin-faster-lazy-for-android-7328ec8d8d57)
