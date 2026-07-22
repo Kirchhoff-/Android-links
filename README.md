@@ -1,5 +1,5 @@
 # Android-links
-![](https://img.shields.io/badge/Updated-July%20%2017%202026-brightgreen.svg)
+![](https://img.shields.io/badge/Updated-July%20%2022%202026-brightgreen.svg)
 
 Manually curated collection of links about android development, developer work and life, that I found useful/interesting.
 
@@ -801,6 +801,7 @@ Jump to
     * [Kotlin 2.4 Rich Errors: What They Are and How to Prepare](https://carrion.dev/en/posts/kotlin-24-rich-errors/)
     * [Elegant Error Handling in Kotlin: Using `runCatching` and `Result`](https://carrion.dev/en/posts/runcatching-result-pattern/)
     * [How to simplify State and Entity mappings with Kotlin interfaces, delegation and covariant generics](https://medium.com/@rom.andrushchenko/simplify-mappings-with-kotlin-interfaces-2488125d2ba9)
+    * [Semantic Typing We Ignore](https://dev.to/y9vad9/semantic-typing-we-ignore-i0d)
     
 ---
 
